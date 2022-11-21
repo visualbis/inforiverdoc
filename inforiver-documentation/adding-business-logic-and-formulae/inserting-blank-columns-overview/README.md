@@ -8,7 +8,7 @@ Now you can easily create customised columns with the _Data Input_ tab, and dyna
 
 _**Insert --> Data Input -**_ start inserting your data.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Fig1.Data-Input</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Fig1.Data-Input</p></figcaption></figure>
 
 
 
@@ -29,7 +29,7 @@ After successful login, the **Data Input Column** appears on the right-side pane
 7. Click on **Create** to save the data input column.
 8. Click on **Close** to shut the panel
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Fig3.Right-panel </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Fig3.Right-panel </p></figcaption></figure>
 
 ### Input type:
 

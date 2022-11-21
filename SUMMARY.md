@@ -11,8 +11,6 @@
       * [Dropdown](inforiver-documentation/adding-business-logic-and-formulae/inserting-blank-columns-overview/dropdown.md)
       * [Checkbox](inforiver-documentation/adding-business-logic-and-formulae/inserting-blank-columns-overview/checkbox.md)
       * [Date](inforiver-documentation/adding-business-logic-and-formulae/inserting-blank-columns-overview/date.md)
-      * [Page 1](inforiver-documentation/adding-business-logic-and-formulae/inserting-blank-columns-overview/page-1.md)
-      * [Page 1](inforiver-documentation/adding-business-logic-and-formulae/inserting-blank-columns-overview/page-1-1.md)
     * [Formula syntax](inforiver-documentation/adding-business-logic-and-formulae/formula-syntax.md)
   * [Conditional formatting](inforiver-documentation/conditional-formatting.md)
   * [Working with charts](inforiver-documentation/working-with-charts.md)

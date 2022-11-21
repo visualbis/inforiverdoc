@@ -1,14 +1,8 @@
----
-cover: ../../../.gitbook/assets/Datainput1 (1).png
-coverY: 0
-layout: editorial
----
-
 # Number
 
 You can create dynamic data columns in Inforiver, by inserting the data type as a number. This data type allows you to add numbers and also you can distribute the parent node value into child nodes through the systematic distribution feature.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Fig1.Number-value</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Fig1.Number-value</p></figcaption></figure>
 
 When you select any type, you are taken to a configuration screen. Amongst several options, which are stated [as below options ](./)[ ](./)also you can define whether data entry should be restricted to edit mode, or if you would like the report consumers in reading view to be able to enter data as well.&#x20;
 
@@ -21,7 +15,7 @@ When you select any type, you are taken to a configuration screen. Amongst sever
 * Click on **Create** to save the data input column
 * Click on **Close** to shut the panel&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Fig2.DataInputPanel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Fig2.DataInputPanel</p></figcaption></figure>
 
 In the example below, create a column dedicated to capturing numeric values. Here, we see different elements in the distribution of the data
 
@@ -42,7 +36,7 @@ When the data input section is inserted, more options for distribution open whic
 
 Here, data can be copied into rows or columns easily with the below available options.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Fig4.Copy-Options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Fig4.Copy-Options</p></figcaption></figure>
 
 **Copy until last**
 

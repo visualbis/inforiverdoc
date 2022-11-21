@@ -29,7 +29,7 @@ The first consideration is to evaluate what you need – not just today, but for
 
 ![Graphical user interface, application
 
-Description automatically generated](<../../.gitbook/assets/0 (1)>)
+Description automatically generated](../../.gitbook/assets/0)
 
 **Annotations**: Annotations provide context to enhance your storytelling experience with textual call outs and drive attention to important areas. It can be used to highlight a part of a text and add comments/notes on top of it. Annotations are very similar to notes but they are visibly displayed by default.
 
