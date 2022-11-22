@@ -1,0 +1,13 @@
+﻿IDENTIFIER,Usage,DESCRIPTION,Example,Explanation
+<COLUMN_ID>,"Calculated Column
+  Formula","Represents the particular column, used in column formula",AC + PY,Returns the sum of the column AC and PY
+<ROW_ID>,Calculated Row Formula,"Represents the particular row, used in row formula",R_WEST.R_URBAN + R_EAST.R_URBAN,Returns the sum row Urban under West and East
+COLUMN,Calculated Row Formula,Represents the active column in row calculation,"IF(COLUMN == ""AC"", 5000, 6000)","On using in the row formula, returns 5000 for AC column and 6000 for other columns"
+ROW.PARENT,"Calculated Column Formula, Used along
+  with identifier PARENT and <COLUMN_ID>",Represents the active row in column calculation,ROW.PARENT.AC + ROW.PARENT.PY,For each row it adds the value of its parent row's AC column and PY column
+PARENT(Chaining),"Calculated Column Formula, Used along
+  with identifier PARENT and <COLUMN_ID>",Multiple chaining of PARENT is possible,ROW.PARENT.PARENT.AC + ROW.PARENT.PARENT.PY,For each row it adds the value of its grandparent row's AC column and PY column
+LEVEL,Calculated Measure/Column Formula,Active Row Level in the hierarchy,"IF(LEVEL = 3, 10, 5)","For each row where the heirarchy level is 3, returns 10; for other hierarchy levels, returns 5"
+RELATIVE,"Calculated Measure/Column Formula, used with Value Field -<Columnname>.RELATIVE(Relative Position) to calculate running totals in columns or variance between adjacent months","Provide reference to previous or next values in a column (This will work with all operators +, - , / , *) Limitation: This will not work correctly if reorder columns is used, It will still use the same column reference from the initial dataset. it is mainly designed to work for visual measure","IFNA(([Sales].RELATIVE(-1) - [Sales].RELATIVE), [Sales].RELATIVE)","When Months in the columns, formula returns Sales of Previous month - Current Month Sales except when there is an error, then it returns the Sales of Current Month"
+GROUP_INDEX,Calculated Measure/Column Formula,References to the position of the column in the last hierarchy level in the matrix,"IF(GROUP_INDEX = 1, [Sales],([Sales].RELATIVE(-1) - [Sales].RELATIVE),","With Months in column, Displays the Sales value when it is the 1st month/column(group_index =1), else returns for all other months, the variance between previous and current month"
+,,,,

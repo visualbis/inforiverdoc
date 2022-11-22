@@ -8,7 +8,7 @@ Now you can easily create customised columns with the _Data Input_ tab, and dyna
 
 _**Insert --> Data Input -**_ start inserting your data.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Fig1.Data-Input</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Fig1.Data-Input</p></figcaption></figure>
 
 
 

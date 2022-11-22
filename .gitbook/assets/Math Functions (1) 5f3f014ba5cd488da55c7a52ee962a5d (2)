@@ -1,0 +1,21 @@
+﻿NAME,SYNTAX,DESCRIPTION,Example,Explanation
+SUM,https://www.notion.so/0baa6c1b223244dbb8451b5e64dc68c2,"Add all numbers in the arguments, which can be numbers or node references","SUM(COLUMN1, COLUMN2)",Retuns the sum of COLUMN1 and COLUMN2
+AVERAGE,https://www.notion.so/e221c19074a947ceb9c6b057a470b50d,"Returns the average (arithmetic mean) of its arguments, which can be numbers or node references","AVERAGE(COLUMN1, COLUMN2)","Returns the average of COLUMN1, COLUMN1"
+AVERAGEEXZERO,https://www.notion.so/b18b104fd2e64bd78ecefc0c3f42521c,"Returns the average (arithmetic mean) of its arguments excluding zeros, which can be numbers or node references",,
+AVERAGEEXNEG,https://www.notion.so/188313e234b44f6da112c9afd2f33750,"Returns the average (arithmetic mean) of its arguments excluding negatives, which can be numbers or node references",,
+AVERAGEEXZERONEG,https://www.notion.so/e12f88b93d8148caa2cfaa301784cf66,"Returns the average (arithmetic mean) of its arguments excluding zeros and negatives, which can be numbers or node references",,
+COUNTIF,https://www.notion.so/011453405a7a4f1d98ff4fe2314550d9,"Returns the count of item matches the condition, can be used to with BLANK as condition to count the blank values in a column/row","COUNTIF([100,500,120],""<200"")
+COUNTIF([[Quantity],[Units Sold]],BLANK)","Returns 2, since only two value in the given list matches the condition
+Returns 1,2 or 0 depending on how many blank values are in Quantity, Units Sold in each row. This value can be used to set conditional formatting or used with IF condition to fill value in another column"
+ABS,https://www.notion.so/8daffb3ef2c4468ab6db6b87f9229776,"Returns the absolute value of a number, a number without its sign",ABS(COLUMN1),Returns the absolute value of COLUMN1
+MIN,https://www.notion.so/70ce777da89c440c854ce11a097cde42,Returns the smallest number in a set of values. Node references also accepted as arguments,"MIN(COLUMN1,COLUMN2,COLUMN3)","Returns the minimum of COLUMN1, COLUMN2, COLUMN3"
+MAX,https://www.notion.so/3e5c0ca348044d93bd3bedc047b316f1,Returns the largest number in a set of values. Node references also accepted as arguments,"MAX(COLUMN1,COLUMN2,COLUMN3)","Returns the maximum of COLUMN1, COLUMN2, COLUMN3"
+POWER,https://www.notion.so/771c70216eae412fbd58d25052dce3cb,Returns the result of a number raised to a power,"POW(COLUMN1, 2)",Returns the COLUMN1 to the power of 2
+SQRT,https://www.notion.so/d4af57c48e2d4d09874835a9d8e8b347,Returns the square root of a number,SQRT(COLUMN1),Returns the Square Root of COLUMN1
+EXP,https://www.notion.so/56d8b69a83e14fc68eb5e1778301f5e6,Returns e raised to the power of a given number,EXP(COLUMN1),Returns the exponential of COLUMN1
+LOG,https://www.notion.so/8de00618bd34436e9cdbc1096ffd12c9,Returns the logarithm of a number to the base you specify,"LOG(COLUMN1, 10)",Returns the Log to the base 10 of COLUMN1
+ROUND,https://www.notion.so/2917ed1d66f446d6a84377ef609b867d,Returns the round of a number,"ROUND(COLUMN1, 2)",Returns the round of COLUMN1 to the significance of two decimal
+CEILING,https://www.notion.so/3e8fbd9045b84c83963b35d3d62abbfc,Returns the ceil of a number,CEILING(COLUMN1),Returns the ceiling of COLUMN1 to the significance of two decimal
+FLOOR,https://www.notion.so/0b2915c7ed34433db4cdb1c9fdcd6650,Returns the floor of a number,FLOOR(COLUMN1),Returns the floor of COLUMN1 to the significance of two decimal
+DIVIDE,"DIVIDE(Numerator, Denominator, Alternate)",Returns the division of the two numbers,"DIVIDE(COLUMN1, COLUMN2, 0)","Returns COLUMN1/COLUMN2 and if any error, returns 0"
+AVERAGEIF,"AVERAGEIF([Range], condition)",Returns the average of the filtered values that are satisfy the given condition,"AVERAGEIF([Quantity],[Units Sold], “>10000”)",Returns the average of Quantity and Units Sold if they are above 10000
