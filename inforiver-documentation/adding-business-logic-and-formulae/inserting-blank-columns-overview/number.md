@@ -23,7 +23,7 @@ In the example below, create a column dedicated to capturing numeric values. Her
 * Click on the distribution tab near the number value
 * You can find ways to distribute the entered value
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Fig3.Distribution-pattern</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Fig3.Distribution-pattern</p></figcaption></figure>
 
 1. **Distribute Equally:** You can distribute the entered value equally between rows and column
 2. **Distribute to column with trend:** You can input the trend value through the slider and customise the distribution within columns
