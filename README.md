@@ -1,6 +1,6 @@
 # Introduction to Inforiver
 
-Inforiver offers the **fastest** way to build Power BI reports, using a comprehensive set of **features** enabled by cutting edge **user experience**.
+Inforiver offers test **fastest** way to build Power BI reports, using a comprehensive set of **features** enabled by cutting edge **user experience**.
 
 ## **Use cases supported**
 
