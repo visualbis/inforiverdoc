@@ -1,6 +1,6 @@
 # Introduction to Inforiver
 
-Inforiver offers test **fastest** way to build Power BI reports, using a comprehensive set of **features** enabled by cutting edge **user experience**.
+Inforiver offers **fastest** way to build Power BI reports, using a comprehensive set of **features** enabled by cutting edge **user experience**.
 
 ## **Use cases supported**
 
@@ -19,7 +19,7 @@ You can leverage Inforiver to support several use cases such as the following:&#
 11. Write back data to databases and shared drives
 12. Scheduling
 
-<figure><img src=".gitbook/assets/inforiver-use-cases.png" alt="" height="50px" width="50px"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/inforiver-use-cases.png" alt=""><figcaption></figcaption></figure>
 
 ## 5 reasons to get started with Inforiver
 
