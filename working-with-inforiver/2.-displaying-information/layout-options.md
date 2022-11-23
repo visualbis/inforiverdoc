@@ -16,6 +16,12 @@ By default, Inforiver delivers data in a hierarchical, expand/collapse-enabled f
 
 &#x20;When you select the Layout item from the menu, you will notice the selection defaulted to 'Hierarchy'.
 
+```html
+<img src="inforiver-navigation-layout-menu.png" width="640" height=360 />
+```
+
+
+
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-menu.png" alt=""><figcaption></figcaption></figure>
 
 Changing this selection helps you modify the report layouts to the other types listed below.
