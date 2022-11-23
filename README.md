@@ -19,7 +19,7 @@ You can leverage Inforiver to support several use cases such as the following:&#
 11. Write back data to databases and shared drives
 12. Scheduling
 
-<figure><img src=".gitbook/assets/inforiver-use-cases.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/inforiver-use-cases.png" alt="" height="50px" width="50px"><figcaption></figcaption></figure>
 
 ## 5 reasons to get started with Inforiver
 
