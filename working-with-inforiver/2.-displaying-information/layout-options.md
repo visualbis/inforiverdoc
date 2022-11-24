@@ -12,7 +12,7 @@ The Measure Layouts give you the flexibility specifically with respect to how me
 
 By default, Inforiver delivers data in a hierarchical, expand/collapse-enabled format.
 
-<figure><img src="../../.gitbook/assets/inforiver-navigation-layout-hierarchy (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/inforiver-navigation-layout-hierarchy.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;When you select the Layout item from the menu, you will notice the selection defaulted to 'Hierarchy'.
 
