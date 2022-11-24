@@ -41,7 +41,7 @@
     * [What-if analysis & simulations](working-with-inforiver/4.-adding-business-logic-and-formulae/what-if-analysis-and-simulations.md)
     * [Budgeting & allocations](working-with-inforiver/4.-adding-business-logic-and-formulae/budgeting-and-allocations.md)
     * [Formula syntax](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/README.md)
-      * [Logical functions](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/logical-functions/README.md)
+      * [Logical functions](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/logical-functions.md)
         * [IF](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/logical-functions/if.md)
         * [SWITCH](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/logical-functions/switch.md)
         * [AND](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/logical-functions/and.md)
