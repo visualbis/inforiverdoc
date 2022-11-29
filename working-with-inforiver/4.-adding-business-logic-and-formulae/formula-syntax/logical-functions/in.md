@@ -10,7 +10,9 @@ IN(value,[Item1,Item2])
 
 ## **Example**
 
-IF(IN(Region, \["West","East]),25, 30)
+```javascript
+IF(IN(Region, ["West","East]),25, 30)
+```
 
 Will return 25 if the region is West or East otherwise returns 30&#x20;
 

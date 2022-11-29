@@ -20,19 +20,9 @@ Either True or False
 
 ## **Example**
 
-## Arguments
-
-logical\_test1 – The first condition to be evaluated. This is a required argument.
-
-logical\_test2,.. – The additional conditions to be evaluated. These are optional arguments.
-
-## **Return Value**
-
-Either True or False
-
-## **Example**
-
+```javascript
 IF(OR(Region == "West", Region =="East"), 25, 30)
+```
 
 Will return 25 if the region is West or East otherwise returns 30
 

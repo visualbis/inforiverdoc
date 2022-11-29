@@ -10,6 +10,8 @@ ISEMPTY(value)
 
 ## **Example**
 
+```javascript
 ISEMPTY(AC)
+```
 
 Returns TRUE if AC has no value

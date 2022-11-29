@@ -24,7 +24,9 @@ result when the expression matches with value, default in case there was no matc
 
 ## **Example**
 
+```javascript
 SWITCH(Region, "West", 25, "East",30, 50)
+```
 
 Will return 25, if the region is West and 30 is region is East and 50 for all other regions.
 

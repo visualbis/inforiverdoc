@@ -10,19 +10,21 @@ IF( logical_test, value_if_true, value_if_false )
 
 ## Arguments
 
-`logical_test` – The condition to be evaluated.
+logical\_test – The condition to be evaluated.
 
-`value_if_true` – The value to be returned if the condition is met.
+value\_if\_true – The value to be returned if the condition is met.
 
-`value_if_false` – The value to be returned if the condition is not met.
+value\_if\_false – The value to be returned if the condition is not met.
 
 ## Return Value
 
-Either `value_if_true` or `value_if_false`
+Either value\_if\_true or value\_if\_false.
 
 ## Example
 
+```javascript
 IF(PY > 0 , (AC-PY)/PY, 0 )
+```
 
 Above formula will return AC-PY%, if PY is greater than 0 otherwise it returns 0.
 

@@ -18,7 +18,9 @@ Either True or False
 
 ## **Example**
 
+```javascript
 IF(NOT(Region == "West"), 50, 25)
+```
 
 Will return 50 if the region is not West otherwise returns 25
 

@@ -20,7 +20,9 @@ Either True or False
 
 ## **Example**
 
+```javascript
 IF(XOR(Region == "West", Category=="Urban"), 25, 30)
+```
 
 Will return 25 for all category in the West except for category Urban, and returns 25 for all Urban category under all region except for west, for all other items returns 30
 

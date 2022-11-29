@@ -18,7 +18,9 @@ Either value1 or value2
 
 ## **Example**
 
+```javascript
 IFNA((AC-PY)/PY, 0)
+```
 
 Returns AC-PY/PY if the value is a number else returns 0
 

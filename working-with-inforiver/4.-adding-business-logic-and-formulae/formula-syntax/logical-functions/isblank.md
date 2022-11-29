@@ -10,7 +10,8 @@ ISBLANK(value)
 
 ## **Example**
 
+```javascript
 ISBLANK(AC)
+```
 
 Returns TRUE if AC is empty
-

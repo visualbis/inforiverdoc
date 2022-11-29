@@ -11,10 +11,14 @@ HAS_SOME(value1,value2…”,searchValues”)
 
 ## **Example**
 
-* HAS\_SOME(Column1,\[“ABC”,”DEF”)]
+```javascript
+HAS_SOME(Column1,[“ABC”,”DEF”)]
+```
 
-&#x20;     If Column1 contains both “ABC” and “DEF” returns TRUE
+&#x20;  If Column1 contains both “ABC” and “DEF” returns TRUE
 
-* HAS\_SOME(Column1, Column2,Column3 \[“ABC”,”DEF”)]
+```javascript
+HAS_SOME(Column1, Column2,Column3 [“ABC”,”DEF”)]
+```
 
-&#x20;     If any of the columns has “ABC” and “DEF” as value, returns TRUE
+&#x20;  If any of the columns has “ABC” and “DEF” as value, returns TRUE

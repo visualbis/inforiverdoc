@@ -10,6 +10,8 @@ MATCH(value:string,regex:string)
 
 ## **Example**
 
-MATCH(“ABC-123-WEW”,”^ABC”)&#x20;
+```javascript
+MATCH(“ABC-123-WEW”,”^ABC”) 
+```
 
 Returns TRUE if the string value matches the regex value

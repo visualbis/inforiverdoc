@@ -20,7 +20,9 @@ Either True or False
 
 ## **Example**
 
+```javascript
 IF(AND(Region == "West", Category=="Urban"), 25, 30)
+```
 
 Will return 25 if the region is West and category is Urban otherwise returns 30
 
