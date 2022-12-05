@@ -16,4 +16,4 @@ value2,...– The additional nodes or numbers to be averaged. These are optional
 
 ## Excel Equivalent
 
-AVERAGE
+[https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6](https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6)

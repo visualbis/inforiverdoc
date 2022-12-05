@@ -8,6 +8,10 @@ The Divide function returns the division of the two numbers.
 DIVIDE(Numerator, Denominator, Alternate)
 ```
 
+## Arguments
+
+&#x20;Numerator, Denominator, Alternate- number
+
 ## Example
 
 ```javascript

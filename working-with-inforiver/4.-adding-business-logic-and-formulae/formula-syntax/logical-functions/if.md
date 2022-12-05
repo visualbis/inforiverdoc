@@ -30,4 +30,4 @@ Above formula will return AC-PY%, if PY is greater than 0 otherwise it returns 0
 
 ## Excel Equivalent
 
-IF
+[https://support.microsoft.com/en-us/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2](https://support.microsoft.com/en-us/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2)

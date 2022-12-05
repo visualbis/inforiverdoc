@@ -22,4 +22,4 @@ Returns the minimum of COLUMN1, COLUMN2, COLUMN3
 
 ## Excel Equivalent
 
-MIN
+[https://support.microsoft.com/en-us/office/min-function-61635d12-920f-4ce2-a70f-96f202dcc152](https://support.microsoft.com/en-us/office/min-function-61635d12-920f-4ce2-a70f-96f202dcc152)

@@ -6,4 +6,4 @@ This section covers the different functions, operators, and identifiers that can
 * [Text Formatting Functions](text-formatting-functions.md)
 * [Math Functions](math-functions.md)
 * [Other Operators](other-operators.md)
-* [Identifiers](identifiers.md)
+* [Identifiers](identifiers/)

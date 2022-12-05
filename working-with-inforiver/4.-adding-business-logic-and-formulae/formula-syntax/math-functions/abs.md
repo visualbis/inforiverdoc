@@ -22,4 +22,4 @@ Returns the absolute value of COLUMN1
 
 ## Excel Equivalent
 
-ABS
+[https://support.microsoft.com/en-us/office/abs-function-3420200f-5628-4e8c-99da-c99d7c87713c](https://support.microsoft.com/en-us/office/abs-function-3420200f-5628-4e8c-99da-c99d7c87713c)

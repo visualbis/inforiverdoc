@@ -24,4 +24,4 @@ Returns the average of COLUMN1, COLUMN1
 
 ## Excel Equivalent
 
-AVERAGE
+[https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6](https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6)

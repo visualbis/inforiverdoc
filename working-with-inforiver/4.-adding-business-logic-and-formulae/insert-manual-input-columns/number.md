@@ -2,7 +2,7 @@
 
 You can create dynamic data columns in Inforiver, by inserting the data type as a number. This data type allows you to add numbers and also you can distribute the parent node value into child nodes through the systematic distribution feature.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Fig1.Number-value</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Fig1.Number-value</p></figcaption></figure>
 
 When you select any type, you are taken to a configuration screen. Amongst several options, which are stated [as below options ](./)[ ](./)also you can define whether data entry should be restricted to edit mode, or if you would like the report consumers in reading view to be able to enter data as well.&#x20;
 

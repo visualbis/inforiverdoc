@@ -32,4 +32,4 @@ Will return 25, if the region is West and 30 is region is East and 50 for all ot
 
 ## **Excel Equivalent**
 
-SWITCH
+[https://support.microsoft.com/en-us/office/switch-function-47ab33c0-28ce-4530-8a45-d532ec4aa25e](https://support.microsoft.com/en-us/office/switch-function-47ab33c0-28ce-4530-8a45-d532ec4aa25e)

@@ -24,4 +24,4 @@ Returns the Log to the base 10 of COLUMN1
 
 ## Excel Equivalent
 
-LOG
+[https://support.microsoft.com/en-us/office/log-function-4e82f196-1ca9-4747-8fb0-6c4a3abb3280](https://support.microsoft.com/en-us/office/log-function-4e82f196-1ca9-4747-8fb0-6c4a3abb3280)

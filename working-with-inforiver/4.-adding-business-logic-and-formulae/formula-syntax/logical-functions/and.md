@@ -28,4 +28,4 @@ Will return 25 if the region is West and category is Urban otherwise returns 30
 
 ## **Excel Equivalent**
 
-AND
+[https://support.microsoft.com/en-us/office/and-function-5f19b2e8-e1df-4408-897a-ce285a19e9d9](https://support.microsoft.com/en-us/office/and-function-5f19b2e8-e1df-4408-897a-ce285a19e9d9)

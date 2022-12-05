@@ -9,6 +9,12 @@ HAS_SOME(value1,”searchValue”)
 HAS_SOME(value1,value2…”,searchValues”)
 ```
 
+## Arguments
+
+value1,value2...- list of values
+
+searchValues - list of values&#x20;
+
 ## **Example**
 
 ```javascript

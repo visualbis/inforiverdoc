@@ -26,4 +26,4 @@ Will return 50 if the region is not West otherwise returns 25
 
 ## **Excel Equivalent**
 
-NOT
+[https://support.microsoft.com/en-us/office/not-function-9cfc6011-a054-40c7-a140-cd4ba2d87d77](https://support.microsoft.com/en-us/office/not-function-9cfc6011-a054-40c7-a140-cd4ba2d87d77)

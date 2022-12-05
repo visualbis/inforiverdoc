@@ -8,6 +8,12 @@ Checks whether searchValue is part of the list
 HAS(value1,”searchValue”)
 ```
 
+## Arguments
+
+value1-list of values
+
+searchValue - string or number&#x20;
+
 ## **Example**
 
 ```javascript

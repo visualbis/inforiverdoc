@@ -3,8 +3,14 @@
 ## Syntax
 
 ```javascript
-FILTERIF([value1,value2..],”Condition Conditionvalue)
+FILTERIF([value1,value2..],”Conditionvalue)
 ```
+
+## Arguments
+
+value1,value2,.. – list of values&#x20;
+
+condition - string
 
 ## Example
 

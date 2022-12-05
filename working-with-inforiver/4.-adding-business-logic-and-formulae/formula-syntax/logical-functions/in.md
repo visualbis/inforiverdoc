@@ -5,8 +5,14 @@ Returns true if the given value is in list
 ## Syntax
 
 ```javascript
-IN(value,[Item1,Item2])
+IN(value,[tem1,item2...]
 ```
+
+## Arguments
+
+value- number or reference
+
+item1,item2-array,representing list
 
 ## **Example**
 

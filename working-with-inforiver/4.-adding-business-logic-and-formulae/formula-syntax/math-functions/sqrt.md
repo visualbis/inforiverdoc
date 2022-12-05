@@ -22,4 +22,4 @@ Returns the Square Root of COLUMN1
 
 ## Excel Equivalent
 
-SQRT
+[https://support.microsoft.com/en-us/office/sqrt-function-654975c2-05c4-4831-9a24-2c65e4040fdf](https://support.microsoft.com/en-us/office/sqrt-function-654975c2-05c4-4831-9a24-2c65e4040fdf)

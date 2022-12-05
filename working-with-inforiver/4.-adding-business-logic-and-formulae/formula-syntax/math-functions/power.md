@@ -24,4 +24,4 @@ Returns the COLUMN1 to the power of 2
 
 ## Excel Equivalent
 
-POWER
+[https://support.microsoft.com/en-us/office/power-function-d3f2908b-56f4-4c3f-895a-07fb519c362a](https://support.microsoft.com/en-us/office/power-function-d3f2908b-56f4-4c3f-895a-07fb519c362a)

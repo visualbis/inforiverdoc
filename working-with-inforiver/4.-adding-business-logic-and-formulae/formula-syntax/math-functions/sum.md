@@ -24,4 +24,4 @@ Returns the sum of COLUMN1 and COLUMN2
 
 ## Excel Equivalent
 
-SUM
+[https://support.microsoft.com/en-us/office/sum-function-043e1c7d-7726-4e80-8f32-07b23e057f89](https://support.microsoft.com/en-us/office/sum-function-043e1c7d-7726-4e80-8f32-07b23e057f89)

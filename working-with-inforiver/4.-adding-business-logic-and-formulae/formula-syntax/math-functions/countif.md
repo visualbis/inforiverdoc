@@ -8,6 +8,12 @@ Returns the count of item matches the condition, can be used to with BLANK as co
 Count(list, condition)
 ```
 
+## Arguments
+
+list - array of numbers or text
+
+condition - string representing a condition
+
 ## Example
 
 ```javascript
@@ -15,3 +21,7 @@ COUNTIF([100,500,120],"<200")
 ```
 
 Returns 2, since only two values in the given list matches the condition.
+
+## Excel Equivalent
+
+[https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34)

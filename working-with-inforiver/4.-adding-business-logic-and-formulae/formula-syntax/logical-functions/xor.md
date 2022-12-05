@@ -28,4 +28,4 @@ Will return 25 for all category in the West except for category Urban, and retur
 
 ## **Excel Equivalent**
 
-XOR
+[https://support.microsoft.com/en-us/office/xor-function-1548d4c2-5e47-4f77-9a92-0533bba14f37](https://support.microsoft.com/en-us/office/xor-function-1548d4c2-5e47-4f77-9a92-0533bba14f37)
