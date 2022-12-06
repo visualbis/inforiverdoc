@@ -28,4 +28,4 @@ Will return 25 if the region is West or East otherwise returns 30
 
 ## **Excel Equivalent**
 
-[https://support.microsoft.com/en-us/office/or-function-7d17ad14-8700-4281-b308-00b131e22af0](https://support.microsoft.com/en-us/office/or-function-7d17ad14-8700-4281-b308-00b131e22af0)
+[OR](https://support.microsoft.com/en-us/office/or-function-7d17ad14-8700-4281-b308-00b131e22af0)

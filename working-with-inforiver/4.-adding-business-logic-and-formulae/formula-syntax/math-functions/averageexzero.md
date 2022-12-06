@@ -22,4 +22,4 @@ AVERAGEEXZERO (East, South, Central, West)
 
 ## Excel Equivalent
 
-[https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6](https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6)
+[AVERAGEEXZERO](https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6)

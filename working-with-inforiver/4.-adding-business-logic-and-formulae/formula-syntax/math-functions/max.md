@@ -22,4 +22,4 @@ Returns the maximum of COLUMN1, COLUMN2, COLUMN3
 
 ## Excel Equivalent
 
-[https://support.microsoft.com/en-us/office/max-function-e0012414-9ac8-4b34-9a47-73e662c08098](https://support.microsoft.com/en-us/office/max-function-e0012414-9ac8-4b34-9a47-73e662c08098)
+[MAX](https://support.microsoft.com/en-us/office/max-function-e0012414-9ac8-4b34-9a47-73e662c08098)

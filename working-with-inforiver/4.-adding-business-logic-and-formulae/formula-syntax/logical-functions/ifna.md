@@ -28,4 +28,4 @@ Returns AC-PY/PY if the value is a number else returns 0
 
 ## **Excel Equivalent**
 
-[https://support.microsoft.com/en-us/office/ifna-function-6626c961-a569-42fc-a49d-79b4951fd461](https://support.microsoft.com/en-us/office/ifna-function-6626c961-a569-42fc-a49d-79b4951fd461)
+[IFNA](https://support.microsoft.com/en-us/office/ifna-function-6626c961-a569-42fc-a49d-79b4951fd461)

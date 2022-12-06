@@ -24,4 +24,4 @@ Returns the average of Quantity and Units Sold if they are above 10000.
 
 ## Excel Equivalent
 
-[https://support.microsoft.com/en-us/office/averageif-function-faec8e2e-0dec-4308-af69-f5576d8ac642](https://support.microsoft.com/en-us/office/averageif-function-faec8e2e-0dec-4308-af69-f5576d8ac642)
+[AVERAGEIF](https://support.microsoft.com/en-us/office/averageif-function-faec8e2e-0dec-4308-af69-f5576d8ac642)
