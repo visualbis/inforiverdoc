@@ -60,3 +60,4 @@ When you change this to 'In columns', the measures are displayed above the colum
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-measures-in-columns.png" alt=""><figcaption></figcaption></figure>
 
+To learn more about pivot analysis using Inforiver, visit this [page](https://inforiver.com/excel-like-pivot-analysis-powerbi/).

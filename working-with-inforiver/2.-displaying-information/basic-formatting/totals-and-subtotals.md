@@ -4,7 +4,7 @@ Be it a typical table or a hierarchical matrix style report in Power BI, Inforiv
 
 In this example, we have hierarchies across both rows & columns.
 
-<figure><img src="../../../.gitbook/assets/2.4.3.1 Data.png" alt=""><figcaption><p>Matrix with row and column hierarchies</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.4.3.1 Data (1).png" alt=""><figcaption><p>Matrix with row and column hierarchies</p></figcaption></figure>
 
 Note that
 
