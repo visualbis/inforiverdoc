@@ -5,24 +5,24 @@ In addition to the layout options, Inforiver provides three types of quick-start
 <figure><img src="../../.gitbook/assets/inforiver-templates.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can switch between these templates any time; However, any customizations you have done with the already existing template may be lost depending on the template you choose.&#x20;
+You can switch between these templates at any time. However, any customizations you have done with the already existing template may be lost depending on the template you choose.&#x20;
 {% endhint %}
 
 ## 1. Grid Templates
 
 Grid templates are used to build typical tabular reports. The Default grid option is featured in the above image.&#x20;
 
-The Spreadsheet grid options is very similar, but it evokes the feeling of working with a spreadsheet software like Excel. The spreadsheet option is featured below.
+The Spreadsheet grid option is very similar, but it evokes the feeling of working with spreadsheet software like Excel. The spreadsheet option is featured below.
 
 <figure><img src="../../.gitbook/assets/inforiver-templates-spreadsheet.png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Financial Templates
 
-The financial templates are ideal for building financial reports and statements. It comes in two variations, the Simple option and the Standard option. The Simple option is shown below. By default, the row categories are given more space to accommodate longer category names in financial statements such as 'Number of shares outstanding'.
+The financial templates are ideal for building financial reports and statements. It comes in two variations, the Simple option and the Standard option. The Simple option is shown below. By default, the row categories are given more space to accommodate longer category names in financial statements such as 'Number of shares outstanding.
 
 <figure><img src="../../.gitbook/assets/inforiver-templates-financial-simple.png" alt=""><figcaption></figcaption></figure>
 
-The standard option uses currency symbol for all the measures (which can be customized or removed for specific measures).&#x20;
+The standard option uses a currency symbol for all the measures (which can be customized or removed for specific measures).&#x20;
 
 <figure><img src="../../.gitbook/assets/inforiver-templates-financial-standard.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,10 +31,10 @@ The standard option uses currency symbol for all the measures (which can be cust
 Inforiver offers five (5) types of performance templates. All of these templates are based on designs recommended by International Business Communication Standards (IBCS).&#x20;
 
 {% hint style="info" %}
-The performance templates are useful when you need to showcase observed performance against a benchmark (say, sales vs. plan, budget, forecast or prior year sales).&#x20;
+The performance templates are useful when you need to showcase observed performance against a benchmark (say, sales vs. plan, budget, forecast, or prior year sales).&#x20;
 {% endhint %}
 
-In our case, we have chosen to map the measures measures as shown below.
+In our case, we have chosen to map the measures as shown below.
 
 <figure><img src="../../.gitbook/assets/inforiver-templates-performance-data.png" alt=""><figcaption></figcaption></figure>
 
