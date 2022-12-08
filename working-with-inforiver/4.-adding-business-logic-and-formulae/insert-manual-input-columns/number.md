@@ -36,7 +36,7 @@ When the data input section is inserted, more options for distribution open whic
 
 Here, data can be copied into rows or columns easily with the below available options.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Fig4.Copy-Options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Fig4.Copy-Options</p></figcaption></figure>
 
 **Copy until last**
 

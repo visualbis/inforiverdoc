@@ -2,13 +2,13 @@
 description: Data Input
 ---
 
-# Inserting blank columns - Overview
+# Insert manual input columns
 
 Now you can easily create customised columns with the _Data Input_ tab, and dynamically add data into these columns. You can add data of your choice by simply inserting a column and selecting the data type.  Along with the access restrictions, you can also check out more features like data distribution, lock column, text inputs, checkboxes etc.
 
 _**Insert --> Data Input -**_ start inserting your data.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Fig1.Data-Input</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Fig1.Data-Input</p></figcaption></figure>
 
 
 
