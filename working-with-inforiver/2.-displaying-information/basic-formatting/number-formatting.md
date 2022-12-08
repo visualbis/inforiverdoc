@@ -41,3 +41,61 @@ When using the 'auto' option, each cell is formatted individually. In the below 
 If you do not want any fancy formatting and need the numbers just as they are in the source data, select the ‘Native’ option.&#x20;
 
 <figure><img src="../../../.gitbook/assets/2.4.1.6 Native scaling.png" alt=""><figcaption><p>Native scaling</p></figcaption></figure>
+
+Inforiver also shows the unscaled values in the tooltip (available upon publishing to service). This helps you scale values without losing the ability to look up the unscaled value whenever required.
+
+<figure><img src="../../../.gitbook/assets/2.4.1.7 Service.png" alt=""><figcaption><p>Tooltip shows unscaled values in 'Reading view'</p></figcaption></figure>
+
+## 2. Percentage, prefix/suffix, and decimals
+
+Inforiver provides options to fine-tune the format at a row, column/measure, or cell level using the icons just below the 'Quick format' dropdown. These options include conversion to % format, attaching prefix/suffix, and increasing/decreasing decimal spaces.&#x20;
+
+<figure><img src="../../../.gitbook/assets/2.4.1.8 Formatting options.png" alt=""><figcaption><p>Number formatting options</p></figcaption></figure>
+
+In this example, we have current year and prior year sales, YoY sales, and Margin.&#x20;
+
+### a) Percentage
+
+As you can see in the footnotes, the measure Margin is actually Margin% and needs to be converted as a percentage.
+
+To do this, let's select the column. % icon gets enabled. Once you click on the icon, the values get converted to percentages.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/2.4.1.9 Pct.png" alt=""><figcaption><p>Percentage option gets enabled on selecting a column/row/cell</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/2.4.2.0 Pct.png" alt=""><figcaption><p>Margins are converted to percentage</p></figcaption></figure>
+
+</div>
+
+
+
+### b) Prefix/suffix
+
+Using Inforiver, you can insert prefixes such as currency or suffixes like units.&#x20;
+
+&#x20;In the below example Price is in $ per unit. Select the column and click on the highlighted icon. Enter the prefix and suffix as shown.&#x20;
+
+<figure><img src="../../../.gitbook/assets/2.4.1.11 Prefix suffix.png" alt=""><figcaption><p>Enter prefix and suffix</p></figcaption></figure>
+
+Click 'Apply'. The changes get reflected as highlighted.
+
+<figure><img src="../../../.gitbook/assets/2.4.1.12 Prefix suffix applied.png" alt=""><figcaption><p>Price column shows the added prefix/suffix</p></figcaption></figure>
+
+### c) Decimals
+
+You can increase or decrease decimal places at a cell/row/column level.&#x20;
+
+Let's remove the decimals for the Sales and Price columns. Use Shift+Select to select the two columns and click on the 'decrease decimal' icon twice. The decimals are removed. The 'Increase decimal' option can be used similarly to increase decimal places. &#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/2.4.1.13 Decrease decimal.png" alt=""><figcaption><p>Select the columns and decrease decimals</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/2.4.1.14 Decrease decimal.png" alt=""><figcaption><p>Changes in decimal places are reflected</p></figcaption></figure>
+
+</div>
