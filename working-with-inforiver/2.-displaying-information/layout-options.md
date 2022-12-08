@@ -26,7 +26,7 @@ Changing this selection helps you modify the report layouts to the other types l
 
 The outline layout shows the row categories in individual columns.&#x20;
 
-By default, the **ruler** is also enabled for this layout. The ruler is used to easily resize rows and columns as you do in spreadsheets, and to select a specific column. You can hide the ruler by de-selecting the ruler icon on the toolbar.
+By default, the 'ruler' **** is also enabled for this layout. The ruler is used to easily resize rows and columns as you do in spreadsheets, and to select a specific column. You can hide the ruler by de-selecting the ruler icon on the toolbar.
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-outline.png" alt=""><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ In this section, we'll cover the following:
 
 ### 3. [Templates](templates.md)
 
-### 4. Basic formatting
+### 4. [Basic formatting](basic-formatting.md)
 
 a) [Number formatting](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/u1RJzRbzq7JYpcCwHUpt/working-with-inforiver/2.-displaying-information/basic-formatting/number-formatting)
 

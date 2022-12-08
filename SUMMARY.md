@@ -9,7 +9,7 @@
     * [The report interface](working-with-inforiver/2.-displaying-information/the-report-interface.md)
     * [Layout options](working-with-inforiver/2.-displaying-information/layout-options.md)
     * [Templates](working-with-inforiver/2.-displaying-information/templates.md)
-    * [Basic formatting](working-with-inforiver/2.-displaying-information/basic-formatting/README.md)
+    * [Basic formatting](working-with-inforiver/2.-displaying-information/basic-formatting.md)
       * [Number formatting](working-with-inforiver/2.-displaying-information/basic-formatting/number-formatting.md)
       * [Cell & value formatting](working-with-inforiver/2.-displaying-information/basic-formatting/cell-and-value-formatting.md)
       * [Totals & subtotals](working-with-inforiver/2.-displaying-information/basic-formatting/totals-and-subtotals.md)
