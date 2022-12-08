@@ -99,3 +99,27 @@ Let's remove the decimals for the Sales and Price columns. Use Shift+Select to s
 <figure><img src="../../../.gitbook/assets/2.4.1.14 Decrease decimal.png" alt=""><figcaption><p>Changes in decimal places are reflected</p></figcaption></figure>
 
 </div>
+
+
+
+## 3. Semantic formatting
+
+Inforiver provides a number of options to customize numbers.
+
+In the 'Home' tab, click on the 'Display' settings. In the 'Numbers' tab, you'll find options such as Semantic formatting, Value display, Sign, and more. In this section, let's talk about semantic formatting.&#x20;
+
+On enabling the toggle, you can see the positive and negative options as shown below. By default, they are shown in green and red, but they can be customized using the color picker.&#x20;
+
+<figure><img src="../../../.gitbook/assets/2.4.1.15 Semantic formatting.png" alt=""><figcaption><p>Apply colors to positive and negative numbers</p></figcaption></figure>
+
+You can also display positive and negative numbers in the formats shown below.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/2.4.1.17 Semantic formatting.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/2.4.1.16 Semantic formatting.png" alt=""><figcaption></figcaption></figure>
+
+</div>
