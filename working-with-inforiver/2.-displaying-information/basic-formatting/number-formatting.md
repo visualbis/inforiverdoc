@@ -116,10 +116,10 @@ You can also display positive and negative numbers in the formats shown below.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/2.4.1.17 Semantic formatting.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.4.1.17 Semantic formatting.png" alt=""><figcaption><p>Positive numbers formatting</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/2.4.1.16 Semantic formatting.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.4.1.16 Semantic formatting.png" alt=""><figcaption><p>Negative numbers formatting</p></figcaption></figure>
 
 </div>
