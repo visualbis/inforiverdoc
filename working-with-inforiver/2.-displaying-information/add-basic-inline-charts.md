@@ -23,7 +23,7 @@ In this section, only the basics of charts will be covered. For advanced customi
 
 You can insert sparklines and their variants in a single click for visualizing data across time periods. There are 9 variants available in Inforiver.
 
-In the below example, we have 12 months of data across regions and categories. Click on the sparkline icon highlighted and choose the column sparkline.&#x20;
+In the below example, we have 12 months of data across regions and categories. Click on the 'Sparkline' icon highlighted and choose the 'Column sparkline'.&#x20;
 
 <figure><img src="../../.gitbook/assets/2.5.2 sparkline.png" alt=""><figcaption><p>Sparkline and its variants</p></figcaption></figure>
 
@@ -37,17 +37,17 @@ In the toolbar, you can see the 'Customize' tab which gets enabled. We'll cover 
 
 Inforiver provides 2 and 3-value bullet charts and a clustered bar for visualizing performance.
 
-### a) 2-value bullet
+### a) 2-value bullet charts
 
-In this example, I have 2022 Actuals and Plan across regions and categories. Select the 2 measures and click on the 'bullet' icon and select the 'Integrated variance bar' as highlighted.
+In this example, I have 2022 Actuals and Plan across regions and categories. Select the 2 measures and click on the 'Bullet' icon and select the 'Integrated variance bar' as highlighted.
 
 <figure><img src="../../.gitbook/assets/2.5.4 2 value bullet.png" alt=""><figcaption><p>Bullet chart variants</p></figcaption></figure>
 
-&#x20;The bullet chart gets inserted as shown. The variance between actuals and plan is shown in red/green.
+The bullet chart gets inserted as shown. The variance between actuals and plan is shown in red/green.
 
 <figure><img src="../../.gitbook/assets/2.5.5 2 value bullet.png" alt=""><figcaption><p>Bullet chart customization options</p></figcaption></figure>
 
-### b) 3-value bullet
+### b) 3-value bullet charts
 
 To enable the 3-value bullets, add one more measure as shown below. We'll choose the 'Bullet with marker' as highlighted.
 
@@ -57,7 +57,7 @@ This type of bullet chart also displays the comparison band. The legend is highl
 
 <figure><img src="../../.gitbook/assets/2.5.7 3 value bullet.png" alt=""><figcaption><p>Bullet with marker</p></figcaption></figure>
 
-### c) Clustered bar
+### c) Clustered bars
 
 The clustered bar is applicable only when using one of these 4 bullet variants - Stephen Few's Qualitative bullet, Qualitative bullet with marker, Comparative bullet, and Bullet with marker.
 
@@ -105,7 +105,7 @@ You can see that the highest positive and negative contributions are from Lamps 
 
 <figure><img src="../../.gitbook/assets/2.5.18 waterfall chart.png" alt=""><figcaption><p>Waterfall chart to visualize margin contribution</p></figcaption></figure>
 
-### c) Progress bar
+### c) Progress bars
 
 To visualize the contribution of each category and subcategory to the total sales using the progress bar, click on the 'Quick formula' dropdown in the 'Insert' tab.
 
@@ -121,7 +121,43 @@ The progress bar gets added. You also have options to customize the display. You
 
 ## 4. Magnitude
 
+### a) Bar charts
 
+Let's insert a solid bar chart for sales. &#x20;
+
+Select the column and click on the highlighted icon.
+
+<figure><img src="../../.gitbook/assets/2.5.25 bar.png" alt=""><figcaption><p>Simple bar chart</p></figcaption></figure>
+
+The bar chart gets added. There are a number of customization options such as fill pattern, comparison bands, and axis config.&#x20;
+
+<figure><img src="../../.gitbook/assets/2.5.26 bar.png" alt=""><figcaption></figcaption></figure>
+
+Let's apply comparison bands. Click on the 'Comparison bands' icon. A popup screen opens. You can customize the number of bands, colors, and define bands based on percentage or value. We'll go with the default. Click 'Save'. The bands get applied.
+
+<figure><img src="../../.gitbook/assets/2.5.27 bar.png" alt=""><figcaption></figcaption></figure>
+
+### b) Lollipop/pin charts
+
+To visualize Margin%, let's use the lollipop chart. Click on the column and then the icon highlighted.
+
+<figure><img src="../../.gitbook/assets/2.5.28 bar.png" alt=""><figcaption><p>Lollipop chart</p></figcaption></figure>
+
+The 'Simple lollipop' chart gets inserted.
+
+<figure><img src="../../.gitbook/assets/2.5.29 bar.png" alt=""><figcaption><p>Simple lollipop chart added</p></figcaption></figure>
+
+### c) Data bars
+
+Let us add data bars for the total customers column.&#x20;
+
+In the 'Conditional formatting' dropdown, select 'Data bars' and choose a color. If you would like to use a different color, you can still choose one of them. This selection can be customized in the next step.&#x20;
+
+<figure><img src="../../.gitbook/assets/2.5.31data bar (1).png" alt=""><figcaption><p>Data bar</p></figcaption></figure>
+
+On selecting a color, the data bars appear and you can also see a side panel. Here you can apply customizations such as applying data bars based on a different measure, applying to totals, and so on.
+
+<figure><img src="../../.gitbook/assets/2.5.32 data bar.png" alt=""><figcaption><p>Data bar customizations</p></figcaption></figure>
 
 ## 5. Changes/deviation
 
@@ -143,11 +179,87 @@ You can insert an axis for easy comprehension. In the 'Customize' tab, click on 
 
 ## 6. Comparison
 
+In this example, let's compare current sales and prior year sales.&#x20;
 
+Assign 2022 Actuals to 'Values (AC)' and 2021 Actuals to 'Compare to prior period (PY)'.
+
+<figure><img src="../../.gitbook/assets/2.5.33 comparison.png" alt=""><figcaption><p>Assigning AC and PY</p></figcaption></figure>
+
+In the 'Home' tab, click on the 'Manage columns' dropdown. You can see 2 new columns created automatically - (2022 Actuals - 2021 Actuals) and (2022 Actuals - 2021 Actuals)%. Click on the checkboxes to enable these columns.
+
+<figure><img src="../../.gitbook/assets/2.5.34 comparison.png" alt=""><figcaption><p>Variance and variance % columns</p></figcaption></figure>
+
+Let us now add the bar and pin charts for the absolute and relative variances respectively.
+
+### a) Bar charts
+
+Select the variance column and click on the 'Bar' chart icon. Select the 'Colored bar'.&#x20;
+
+<figure><img src="../../.gitbook/assets/2.5.35 comparison.png" alt=""><figcaption><p>Inserting colored bar for variance</p></figcaption></figure>
+
+The bar chart gets inserted. Note that the positive variances are highlighted in green and the negative variances in red. For the cases where the reverse is true, 'Invert colored bar' can be used.
+
+<figure><img src="../../.gitbook/assets/2.5.36 comparison.png" alt=""><figcaption><p>Variance using bar chart</p></figcaption></figure>
+
+### b) Lollipop/pin charts
+
+To visualize (2022 Actuals - 2021 Actuals)%, let's use the lollipop chart. Click on the column and then the icon highlighted.
+
+<figure><img src="../../.gitbook/assets/2.5.37 comparison.png" alt=""><figcaption><p>Inserting bar colored lollipop for variance%</p></figcaption></figure>
+
+The 'Bar colored lollipop' chart gets inserted.
+
+<figure><img src="../../.gitbook/assets/2.5.38 comparison.png" alt=""><figcaption><p>Variance% using lollipop chart</p></figcaption></figure>
 
 ## 7. KPI cards
 
+Inforiver provides a number of KPI card presets which can be customized as required. You can also create KPI cards from scratch.
 
+Let's insert a KPI card in this report. Hover over the header and click on the '6 dots' icon. Click on 'Preset'.
+
+<figure><img src="../../.gitbook/assets/2.5.39 kpi card.png" alt=""><figcaption><p>Editing header</p></figcaption></figure>
+
+The 'Header & footer' tab opens up as shown below. There are a number of 'Header presets' to choose from. The 5th header preset features 2 KPI cards. But let us create a KPI card using a KPI preset. &#x20;
+
+Click on the dropdown as highlighted and select 'KPI'.
+
+<figure><img src="../../.gitbook/assets/2.5.40 kpi card.png" alt=""><figcaption><p>Header footer customization screen</p></figcaption></figure>
+
+Click 'Proceed'.
+
+<figure><img src="../../.gitbook/assets/2.5.41 kpi card.png" alt=""><figcaption><p>Warning message</p></figcaption></figure>
+
+A simple KPI card gets inserted. Let us see how to insert a preset.
+
+<figure><img src="../../.gitbook/assets/2.5.42 kpi card.png" alt=""><figcaption><p>Simple KPI card</p></figcaption></figure>
+
+Click on 'KPI presets'. The KPI preset panel opens up. Go to the 'Combo' tab and select the preset highlighted below.
+
+<figure><img src="../../.gitbook/assets/2.5.43 kpi card.png" alt=""><figcaption><p>KPI presets</p></figcaption></figure>
+
+Click 'Proceed'.
+
+<figure><img src="../../.gitbook/assets/2.5.44 kpi card.png" alt=""><figcaption><p>Warning message</p></figcaption></figure>
+
+The selected KPI preset gets applied. Let's now edit the KPI card to display the variances as desired. Close the side panel.&#x20;
+
+<figure><img src="../../.gitbook/assets/2.5.45 kpi card.png" alt=""><figcaption><p>KPI preset gets inserted</p></figcaption></figure>
+
+Ideally, 2022 Actuals should be displayed on the top followed by 2022 Plan and 2021 Actuals and their variances.&#x20;
+
+In the floating toolbar, click on the 'Data selection' icon highlighted. The matrix is no longer greyed out.&#x20;
+
+Select the grand total cells in the order shown in the below image by using Shift+Click. The KPI card gets updated.
+
+<figure><img src="../../.gitbook/assets/2.5.46 kpi card.png" alt=""><figcaption><p>Selecting data to display in KPI cards</p></figcaption></figure>
+
+KPI cards can be resized by hovering on the container border and dragging it to the desired size. Click on 'Close editor' as highlighted.
+
+<figure><img src="../../.gitbook/assets/2.5.47 kpi card.png" alt=""><figcaption><p>Resize KPI cards</p></figcaption></figure>
+
+The KPI card is shown below.
+
+<figure><img src="../../.gitbook/assets/2.5.48 kpi card.png" alt=""><figcaption><p>KPI card inserted</p></figcaption></figure>
 
 ## 8. Blend columns/KPIs
 

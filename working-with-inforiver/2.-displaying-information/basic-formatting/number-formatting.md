@@ -32,7 +32,7 @@ Inforiver automatically chooses the scaling based on the values. But you change 
 
 ### c) Auto scaling
 
-When using the 'auto' option, each cell is formatted individually. In the below image, you can see the suffixes - m and k to denote millions and thousands.
+When using the 'Auto' option, each cell is formatted individually. In the below image, you can see the suffixes - m and k to denote millions and thousands.
 
 <figure><img src="../../../.gitbook/assets/2.4.1.5 Auto scaling.png" alt=""><figcaption><p>Cell level scaling</p></figcaption></figure>
 
@@ -76,7 +76,7 @@ To do this, let's select the column. % icon gets enabled. Once you click on the 
 
 Using Inforiver, you can insert prefixes such as currency or suffixes like units.&#x20;
 
-&#x20;In the below example Price is in $ per unit. Select the column and click on the highlighted icon. Enter the prefix and suffix as shown.&#x20;
+&#x20;In the below example, the price is $ per unit. Select the column and click on the highlighted icon. Enter the prefix and suffix as shown.&#x20;
 
 <figure><img src="../../../.gitbook/assets/2.4.1.11 Prefix suffix.png" alt=""><figcaption><p>Enter prefix and suffix</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ Click 'Apply'. The changes get reflected as highlighted.
 
 You can increase or decrease decimal places at a cell/row/column level.&#x20;
 
-Let's remove the decimals for the Sales and Price columns. Use Shift+Select to select the two columns and click on the 'decrease decimal' icon twice. The decimals are removed. The 'Increase decimal' option can be used similarly to increase decimal places. &#x20;
+Let's remove the decimals for the Sales and Price columns. Use Shift+Select to select the two columns and click on the 'Decrease decimal' icon twice. The decimals are removed. The 'Increase decimal' option can be used similarly to increase decimal places. &#x20;
 
 <div>
 
@@ -108,7 +108,7 @@ Inforiver provides a number of options to customize numbers.
 
 In the 'Home' tab, click on the 'Display' settings. In the 'Numbers' tab, you'll find options such as Semantic formatting, Value display, Sign, and more. In this section, let's talk about semantic formatting.&#x20;
 
-On enabling the toggle, you can see the positive and negative options as shown below. By default, they are shown in green and red, but they can be customized using the color picker.&#x20;
+You can see the positive and negative options on enabling the toggle, as shown below. By default, they are shown in green and red, but they can be customized using the color picker.&#x20;
 
 <figure><img src="../../../.gitbook/assets/2.4.1.15 Semantic formatting.png" alt=""><figcaption><p>Apply colors to positive and negative numbers</p></figcaption></figure>
 

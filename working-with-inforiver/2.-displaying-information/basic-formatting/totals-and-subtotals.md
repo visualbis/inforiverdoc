@@ -20,7 +20,7 @@ Note that
 
 Let us take a look at the customization options available in Inforiver.&#x20;
 
-Click on the 'Totals' option in the _Home_ tab _Analyze_ section. There are options to enable/disable subtotals and totals and to change the positions.
+Click on the 'Totals' option in the Home tab Analyze section. There are options to enable/disable subtotals and totals and to change the positions.
 
 <figure><img src="../../../.gitbook/assets/2.4.3.2 Totals menu.png" alt=""><figcaption><p>Customization options for totals and subtotals</p></figcaption></figure>
 
