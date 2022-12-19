@@ -8,8 +8,6 @@ In this guide, we'll be covering Inforiver Matrix and Enterprise. A quick introd
 
 [Inforiver Enterprise](https://inforiver.com/enterprise/) - For advanced data input (forecasts, text, drop-down lists, etc.), [writeback](https://inforiver.com/writeback-powerbi/), [commenting & collaboration](https://inforiver.com/collaborate-powerbi/),[ report scheduling & bursting](https://inforiver.com/schedule-reports-powerbi/). Highly useful for use cases such as what-if analysis, simulations, sales forecasting, planning, forecasting, budgeting, and more. Comes in two editions – SaaS and[ On-Premise](https://inforiver.com/enterprise/on-premise-vs-saas/).
 
-
-
 You can try Inforiver for free or purchase licenses through the two ways listed below:
 
 1. **Microsoft appsource** - for seamless license procurement and administration using Microsoft's framework and for use in Power BI Desktop and Service
@@ -51,8 +49,6 @@ If that doesn’t work, reach out to your IT team and ask them to whitelist the 
 
 If you still have difficulties, reach out to us [here](https://inforiver.com/contact-us/).
 
-
-
 ### 2) Install Inforiver
 
 There are 2 different methods to deploy Inforiver in Power BI:
@@ -63,7 +59,7 @@ There are 2 different methods to deploy Inforiver in Power BI:
 * If you need additional report authors/creators to use Inforiver, you need to share the Inforiver build file (.pbiviz file) with them.
 * In the future, when there is a newer version of Inforiver, you need to follow the same process to update each of your reports.
 
-For instructions, visit&#x20;
+For instructions, visit this [page](https://inforiver.com/get-started/#section-651-2415).
 
 #### 2.2 Install for your Organization (Organization Visual)
 
@@ -71,4 +67,4 @@ For instructions, visit&#x20;
 * Once uploaded, the custom visual becomes available to all users within your organization who log on to Power BI. You need not share the build file (.pbiviz file) with every creator, and they do not have to individually install or update visuals.
 * Any future updates done to the visual – when uploaded to the repository by the administrator – will automatically update all the reports in your organization.
 
-For instructions, visit&#x20;
+For instructions, visit this [page](https://inforiver.com/get-started/#section-659-2415).

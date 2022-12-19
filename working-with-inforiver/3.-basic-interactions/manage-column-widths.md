@@ -16,19 +16,19 @@ In the 'Home' tab, click on the 'Auto fit' icon as highlighted. You can see the 
 Columns with charts are not affected when using the Auto fit options.
 {% endhint %}
 
-### a) Fit to header
+### 1. Fit to header
 
 Click on the 'Fit to header' option. Choosing ‘Fit to header’ resizes each column to fit its column header.&#x20;
 
 <figure><img src="../../.gitbook/assets/3.5.2 fit to header.png" alt=""><figcaption><p>Fit to header option</p></figcaption></figure>
 
-### b) Fit to content
+### 2. Fit to content
 
 Click on the 'Fit to content' option. Choosing ‘Fit to content’ resizes each column to fit its content.
 
 <figure><img src="../../.gitbook/assets/3.5.3 fit to content.png" alt=""><figcaption><p>Fit to content option</p></figcaption></figure>
 
-### c) Best fit
+### 3. Best fit
 
 Click on the ‘Best fit’ option. Choosing 'Best fit' auto-adjusts both rows and columns and optimizes the real estate.&#x20;
 
@@ -36,13 +36,13 @@ Note that the row size has been updated to 14 automatically.&#x20;
 
 <figure><img src="../../.gitbook/assets/3.5.4 best fit.png" alt=""><figcaption><p>Best fit option</p></figcaption></figure>
 
-### d) Manual column width
+### 4. Manual column width
 
 Click on 'Manual column width'. Manual column width allows you to enter the width for specific columns in pixels.
 
 <figure><img src="../../.gitbook/assets/3.5.6 column width.png" alt=""><figcaption><p>Set column width manually</p></figcaption></figure>
 
-### e) Lock column width
+### 5. Lock column width
 
 Once you have adjusted the column widths as desired, you can lock the column sizes to prevent any unintentional changes.
 

@@ -123,7 +123,7 @@
   * [Template rows](advanced-topics/template-rows.md)
 * [Troubleshooting & FAQs](troubleshooting-and-faqs/README.md)
   * [Troubleshooting](troubleshooting-and-faqs/troubleshooting.md)
-  * [FAQs](troubleshooting-and-faqs/faqs/README.md)
+  * [FAQs](troubleshooting-and-faqs/faqs.md)
     * [Inforiver Matrix](troubleshooting-and-faqs/faqs/inforiver-matrix.md)
     * [Inforiver Enterprise](troubleshooting-and-faqs/faqs/inforiver-enterprise.md)
 * [Resources](resources.md)
