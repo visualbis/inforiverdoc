@@ -24,27 +24,30 @@ Inforiver searches across pages if you are using the multiple pages option in th
 
 ## FILTER
 
-**Filter** enables you to find, show or hide values based on single or multiple filtering conditions.
+**Filter** is used to filter a range of data based on the criteria that you specify.
 
-* From the toolbar, navigate to the **Home** tab, click **Filter icon** ![](<../../../.gitbook/assets/image (3).png>)from the **Analyze** section.
+* In the 'Home' tab of the toolbar, click on the 'Filter' icon![](<../../../.gitbook/assets/image (3).png>) **** in the **Analyze** section.
 
 <figure><img src="../../../.gitbook/assets/Dashboard.png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
-* Click **Add Filter**, select the criterion based on which you want to filter the data.
-* Inforiver gives you many filtering conditions like “is”, “is not”, “is not one of”, "contains" and so on. Choose any of the options as per the requirement.
-* Input the value based on which filtering is to be performed.
+* For example, let us filter for the category which contains water. Click Add Filter, select the criterion as "category", filtering condition as "is" and the value as "water".
+* Based on the selected criterion, Inforiver gives you many filtering conditions. For example, as shown in the sample image, category shows filtering conditions like “is”, “is not”, “is one of”, and so on. For any value selection, filtering conditions available are "=","<",">" and so on.
 
 <figure><img src="../../../.gitbook/assets/Condition (1).png" alt=""><figcaption><p>Add Filter</p></figcaption></figure>
 
+* The data has been filtered with the water category as shown in the sample image.
+
 <figure><img src="../../../.gitbook/assets/FiterCondition Applied.png" alt=""><figcaption><p>Filter Result</p></figcaption></figure>
 
-* You can add multiple filters by clicking **Add Filter** and can apply **AND/OR** conditions.
+* You can add nested AND/OR filters. for example as shown in the image, you can filter for the category "Water" nested with "AND" for the region "International". &#x20;
 
-<figure><img src="../../../.gitbook/assets/Filterwith And OR.png" alt=""><figcaption><p>Multiple Filters</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Filterwith And OR.png" alt=""><figcaption><p>Nested Filters</p></figcaption></figure>
 
-* Click on **Advanced** to have more filtering options, where you can group a certain set of filtering conditions by clicking **Add group** and thus can apply **AND/OR** in between the filter groups.
+* Click on **Advanced** to have more filtering options.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Advanced.png" alt=""><figcaption><p>Advanced Filter</p></figcaption></figure>
+
+* You can create a group of filtering conditions. Click Add group, For example, you can filter for the category "Water" nested with "AND" for the region "International" and for the Quarter "Q1". &#x20;
 
 <figure><img src="../../../.gitbook/assets/GroupFilter.png" alt=""><figcaption><p>Group Filter</p></figcaption></figure>
 
