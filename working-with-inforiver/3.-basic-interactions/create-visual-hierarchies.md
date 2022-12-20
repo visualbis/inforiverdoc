@@ -46,7 +46,7 @@ b) Enter the row group label and set the total position. Click 'Apply'.
 
 c) The rows are indented to indicate that they are a part of a child hierarchy. You can see that the measures are automatically aggregated. A bar chart is displayed for the Margin column.
 
-<figure><img src="../../.gitbook/assets/3.7.9 Row groups.png" alt=""><figcaption><p>Row grouping created</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.7.9 Row groups (1).png" alt=""><figcaption><p>Row grouping created</p></figcaption></figure>
 
 d) Click on the expand/collapse button next to kitchen appliances.&#x20;
 
