@@ -10,7 +10,7 @@ Both notes & comments in Inforiver are dynamic – in that, they are tied to a s
 
 But the similarities stop there. Notes & Comments in Inforiver are different in the following ways:
 
-1. You can respond to a Comment, but not to a note.
+1. You can respond to a comment, but not to a note.
 2. Comments are collaborative, while notes are only used to annotate/provide additional context to data
-3. Comments can be saved to a database, while Notes reside within the Power BI _pbix_ file and cannot be saved to a database (note that however both can be exported to, say, an Excel file)
+3. Comments can be saved to a database, while notes reside within the Power BI _pbix_ file and cannot be saved to a database (note that however both can be exported to, say, an Excel file)
 4. Commentary needs users to be authenticated with Office365 and hence is available only with Inforiver Enterprise. Notes are supported in both Inforiver Matrix and Enterprise.
