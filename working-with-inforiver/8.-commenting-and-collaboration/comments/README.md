@@ -34,5 +34,5 @@ Let's now look at Inforiver's commenting capability.
 
 1. [Data-level comments](comments.md)
 2. [Assign & track tasks](comments-1.md)
-3. Filter comments
-4. Comment settings
+3. [Track changes](track-changes.md)
+4. [Comment settings](comment-settings.md)

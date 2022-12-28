@@ -113,7 +113,7 @@
     * [Comments](working-with-inforiver/8.-commenting-and-collaboration/comments/README.md)
       * [Data-level conversations](working-with-inforiver/8.-commenting-and-collaboration/comments/comments.md)
       * [Assign & track tasks](working-with-inforiver/8.-commenting-and-collaboration/comments/comments-1.md)
-      * [Filter comments](working-with-inforiver/8.-commenting-and-collaboration/comments/filter-comments.md)
+      * [Track changes](working-with-inforiver/8.-commenting-and-collaboration/comments/track-changes.md)
       * [Comment settings](working-with-inforiver/8.-commenting-and-collaboration/comments/comment-settings.md)
   * [9. Data writeback](working-with-inforiver/9.-data-writeback.md)
 * [Advanced topics](advanced-topics/README.md)

@@ -32,9 +32,29 @@ g) The comment gets added. You can see a blue indicator on the top right corner 
 
 <figure><img src="../../../.gitbook/assets/8.2.13 data level comment.png" alt=""><figcaption><p>Comment gets posted</p></figcaption></figure>
 
-h) You can edit/delete a comment as shown.
+h) You can edit/delete a comment added by you as shown. Report authors/editors can edit/delete comments added by other users as well.
 
 <figure><img src="../../../.gitbook/assets/8.2.14 edit delete.png" alt=""><figcaption><p>Edit/delete a comment</p></figcaption></figure>
+
+i) To hide comments temporarily, turn on the 'Hide all comments' toggle.&#x20;
+
+<figure><img src="../../../.gitbook/assets/8.2.46 hide comments.png" alt=""><figcaption><p>Hide all comments</p></figcaption></figure>
+
+j) All the comments are hidden.&#x20;
+
+<figure><img src="../../../.gitbook/assets/8.2.47 hide comments.png" alt=""><figcaption><p>All comments get hidden</p></figcaption></figure>
+
+k) Certain comments can be locked to prevent editing and replies. Click on the 'Lock' icon highlighted below.
+
+<figure><img src="../../../.gitbook/assets/8.2.49 lock comments.png" alt=""><figcaption><p>Comments can be locked</p></figcaption></figure>
+
+l) The comment thread gets greyed out. To unlock the thread, click on the 'Lock' icon.
+
+<figure><img src="../../../.gitbook/assets/8.2.51 lock comments.png" alt=""><figcaption><p>Locked comments can be unlocked</p></figcaption></figure>
+
+m) To delete all comments, in the 'Comments' dropdown, select 'Settings'. In the side panel, in the 'General' tab, click 'Delete all comments'.
+
+<figure><img src="../../../.gitbook/assets/8.2.52 delete all comments.png" alt=""><figcaption><p>Delete all comments</p></figcaption></figure>
 
 ## 2. Mention other users
 
@@ -94,9 +114,13 @@ e) To reply to a comment in the comments column, simply click on the comment and
 
 <figure><img src="../../../.gitbook/assets/8.2.40 comments column.png" alt=""><figcaption><p>Comments column supports replies</p></figcaption></figure>
 
-f) The number of replies are also shown along with the comment.
+f) The number of replies is also shown along with the comment.
 
 <figure><img src="../../../.gitbook/assets/8.2.41 comments column.png" alt=""><figcaption><p>Comment along with number of replies</p></figcaption></figure>
+
+g) To hide the comments column, turn off the toggle.
+
+<figure><img src="../../../.gitbook/assets/8.2.41(2) comments column.png" alt=""><figcaption><p>Hide comments column</p></figcaption></figure>
 
 ## 5. Email notifications
 
@@ -104,7 +128,10 @@ The ‘@user’ mention in the comment automatically sends an email notification
 
 <figure><img src="../../../.gitbook/assets/8.2.42 notification.png" alt=""><figcaption><p>Email notification on mentioning user</p></figcaption></figure>
 
-Email notifications on comment replies can be turned off. In the dropdown highlighted, click on 'Profile settings'. In the side panel, turn off the toggle.
+a) Email notifications on comment replies can be turned off. In the dropdown highlighted, click on 'Profile settings'. In the side panel, turn off the toggle.
 
-<figure><img src="../../../.gitbook/assets/8.2.43 notification.png" alt=""><figcaption><p>Turn off notifications on comment replies</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.2.43 notification.png" alt=""><figcaption><p>Turn off email notifications on comment replies</p></figcaption></figure>
 
+b) Email notifications for new replies or mentions can be turned off. In the 'Settings' panel, uncheck the highlighted checkbox.
+
+<figure><img src="../../../.gitbook/assets/8.2.43(2) notification.png" alt=""><figcaption><p>Turn off email notifications for new reply and mention</p></figcaption></figure>
