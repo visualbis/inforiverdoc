@@ -1,6 +1,6 @@
-# Show/hide cells, rows & columns
+# Show/hide values
 
-Inforiver allows you to hide/unhide cells, rows or columns from the toolbar in a single click.&#x20;
+Inforiver allows you to hide/unhide cells, rows, columns or measures from the toolbar in a single click.&#x20;
 
 ## 1. Cells
 
