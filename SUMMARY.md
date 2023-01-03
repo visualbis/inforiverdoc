@@ -20,7 +20,7 @@
       * [Explorer](working-with-inforiver/3.-basic-interactions/explore-and-filter-data/explorer.md)
       * [Top N](working-with-inforiver/3.-basic-interactions/explore-and-filter-data/top-n.md)
     * [Sort & reorder data](working-with-inforiver/3.-basic-interactions/sort-and-reorder-data.md)
-    * [Show or hide values, rows & columns](working-with-inforiver/3.-basic-interactions/show-or-hide-values-rows-and-columns.md)
+    * [Show/hide cells, rows & columns](working-with-inforiver/3.-basic-interactions/show-or-hide-values-rows-and-columns.md)
     * [Rails](working-with-inforiver/3.-basic-interactions/rails.md)
     * [Manage column widths](working-with-inforiver/3.-basic-interactions/manage-column-widths.md)
     * [Manage hierarchies](working-with-inforiver/3.-basic-interactions/manage-hierarchies.md)
