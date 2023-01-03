@@ -1,5 +1,7 @@
 # Number
 
+Let's look at the steps to insert a numeric data input column.
+
 a) Select the 'Number' option in the dropdown.
 
 <figure><img src="../../../.gitbook/assets/4.4.3 Number.png" alt=""><figcaption><p>Inserting a numeric input column/measure</p></figcaption></figure>
@@ -10,11 +12,11 @@ b) By default, a visual measure gets inserted as shown below. There is a side pa
 
 c) The available properties are:
 
-* **Insert as**: A [column or measure](./#2.-measure-vs-column) can be inserted. If there is a column hierarchy, the input column is inserted for each category. In case of no column hierarchy, a single column is inserted.
+* **Insert as**: A [column or measure](../insert-manual-input-columns.md#2.-measure-vs-column) can be inserted. If there is a column hierarchy, the input column is inserted for each category. In case of no column hierarchy, a single column is inserted.
 * **Input type**: The type of data input column; can be changed from the initial selection before creating the column by clicking on 'Create'.&#x20;
 * **Row aggregation type**: By default, totals and subtotals are defined as the sum of child rows. There are a number of other options such as average, minimum, maximum etc.&#x20;
 * **Distribute parent value to children**: The values entered at a parent level are distributed to the child rows when enabled. This is very useful when creating budgets or forecasts.&#x20;
-* **Allow input**: By default, inputs are enabled in both read and edit modes. But, based on your requirement, you can [allow inputs](./#3.-input-restrictions) only in edit mode or based on a formula.&#x20;
+* **Allow input**: By default, inputs are enabled in both read and edit modes. But, based on your requirement, you can [allow inputs](../insert-manual-input-columns.md#3.-input-restrictions) only in edit mode or based on a formula.&#x20;
 * **Description**: Option to add a note for reference
 
 d) Let's just change the title and go with the default for the other properties. Click 'Create'.

@@ -54,6 +54,10 @@ c) Multiple columns can be hidden as well. Suppose you want to hide all the 2021
 
 <figure><img src="../../.gitbook/assets/3.3.15 Hide columns.png" alt=""><figcaption><p>Hiding multiple columns</p></figcaption></figure>
 
+d) Individual columns can also be hidden from the column gripper as shown below.
+
+<figure><img src="../../.gitbook/assets/3.3.13(2) hide columns.png" alt=""><figcaption><p>Hiding a column from the column gripper</p></figcaption></figure>
+
 ## 4. Measures
 
 In this example, we have sub-categories in the column field. Let's say you want to hide 2021 Actuals for all the sub-categories. This can be achieved using 'Manage columns'.
