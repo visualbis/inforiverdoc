@@ -81,11 +81,11 @@ b) The clustered bar gets applied.
 
 In this example, we have 2022 actuals across regions. Let us use a stacked chart to see the composition based on subcategories for the regions.
 
-a) Select all the subcategory columns and click on the 'Bullet' icon. We have 2 options - A stacked bar and a percentage stacked bar.&#x20;
+a) Select all the subcategory columns and click on the 'Bullet' icon. There are 2 options - A stacked bar and a percentage stacked bar.&#x20;
 
 <figure><img src="../../.gitbook/assets/2.5.13 stacked chart.png" alt=""><figcaption><p>Stacked chart options</p></figcaption></figure>
 
-b) Let's select the percentage stacked bar. The chart gets added.&#x20;
+b) Select the percentage stacked bar. The chart gets added.&#x20;
 
 <figure><img src="../../.gitbook/assets/2.5.14 stacked chart.png" alt=""><figcaption><p>Percentage stacked bar</p></figcaption></figure>
 
