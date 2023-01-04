@@ -12,7 +12,7 @@ b) The cell gets hidden. You can also see that the hide icon is highlighted to i
 
 <figure><img src="../../.gitbook/assets/3.3.2 Hide cell.png" alt=""><figcaption><p>Cell hidden</p></figcaption></figure>
 
-c) You can also hide multiple cells or cell ranges in a single click. Use Ctrl/Shift and click to select non-adjacent or adjacent cells.
+c) Multiple cells or cell ranges can be hidden in a single click. Use Ctrl/Shift and click to select non-adjacent or adjacent cells.
 
 <figure><img src="../../.gitbook/assets/3.3.3 Hide cells.png" alt=""><figcaption><p>Hiding multiple cells</p></figcaption></figure>
 
@@ -50,19 +50,19 @@ b) The column gets hidden.
 
 <figure><img src="../../.gitbook/assets/3.3.14 Unhide column.png" alt=""><figcaption><p>Unhiding a column</p></figcaption></figure>
 
-c) Multiple columns can be hidden as well. Suppose you want to hide all the 2021 Actuals columns, you can multi-select and hide. But there is a better way to achieve this and it is explained below.
-
-<figure><img src="../../.gitbook/assets/3.3.15 Hide columns.png" alt=""><figcaption><p>Hiding multiple columns</p></figcaption></figure>
-
-d) Individual columns can also be hidden from the column gripper as shown below.
+c) Individual columns can also be hidden from the column gripper as shown below.
 
 <figure><img src="../../.gitbook/assets/3.3.13(2) hide columns.png" alt=""><figcaption><p>Hiding a column from the column gripper</p></figcaption></figure>
+
+d) Multiple columns can be hidden as well by using Shift/Ctrl + click.
+
+<figure><img src="../../.gitbook/assets/3.3.15 Hide columns.png" alt=""><figcaption><p>Hiding multiple columns</p></figcaption></figure>
 
 ## 4. Measures
 
 In this example, we have sub-categories in the column field. Let's say you want to hide 2021 Actuals for all the sub-categories. This can be achieved using 'Manage columns'.
 
-a)  Click on the 'Manage columns' dropdown. You can see a list of the row hierarchies and the measures. Let us hide 2021 Actuals. Uncheck the highlighted checkbox.
+a)  Click on the 'Manage columns' dropdown. A list of the row hierarchies and the measures is displayed. To hide 2021 Actuals, uncheck the highlighted checkbox.
 
 <figure><img src="../../.gitbook/assets/3.3.9 Hide measure.png" alt=""><figcaption><p>Hiding column</p></figcaption></figure>
 

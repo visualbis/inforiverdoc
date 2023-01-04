@@ -108,7 +108,7 @@ g) You can add ranges, reverse the icons and colors and delete ranges using the 
 
 <figure><img src="../../../.gitbook/assets/3.1.2.22 Explorer.png" alt=""><figcaption><p>Customizing the ranges</p></figcaption></figure>
 
-h) To reset the ranges to default, click on the highlighted icon.
+h) To 'reset' the ranges to default, click on the highlighted icon.
 
 <figure><img src="../../../.gitbook/assets/3.1.2.23 Explorer.png" alt=""><figcaption><p>Reset changes</p></figcaption></figure>
 

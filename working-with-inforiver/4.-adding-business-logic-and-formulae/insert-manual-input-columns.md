@@ -1,6 +1,6 @@
 # Insert manual input columns
 
-Inforiver provides six (6) different options to manually enter data in your Power BI report which are listed below.
+Inforiver provides six (6) different options to manually enter data in your Power BI report which are listed below. Data can be entered in a single cell or in several cells at the same time and they can be formatted in a variety of ways. And, there are several settings that you can adjust to make data entry easier for you.
 
 | Input type                                                           | Description                                                                                               |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |

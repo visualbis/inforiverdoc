@@ -1,6 +1,6 @@
 # Number
 
-Let's look at the steps to insert a numeric data input column.
+Numeric data can be entered and formatted in a variety of ways. Let's look at the steps to insert a numeric data input column.&#x20;
 
 a) Select the 'Number' option in the dropdown.
 

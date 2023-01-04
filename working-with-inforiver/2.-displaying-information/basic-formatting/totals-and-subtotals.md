@@ -14,8 +14,6 @@ Note that
 
 (c) there are no subtotals and grand totals for columns.
 
-
-
 ### Customization options
 
 Let us take a look at the customization options available in Inforiver.&#x20;
@@ -34,7 +32,7 @@ Let us make some changes as shown below. The corresponding changes in the matrix
 
 In the row subtotal section, you can see an option called 'Split'. Enable this and disable both the grand totals and the column subtotal.
 
-Let us now look at the United States. There is a header row with no values, followed by a set of records. At the end of this section, the records are totaled.
+Let us now look at the United States. There is a header row with no values, followed by a set of records. At the end of this section, the records are totalled.
 
 <figure><img src="../../../.gitbook/assets/2.4.3.4 Split row subtotals.png" alt=""><figcaption><p>Split row subtotals option</p></figcaption></figure>
 
