@@ -8,14 +8,14 @@ Inforiver provides six (6) different options to manually enter data in your Powe
 | [Text](formula-syntax/text-formatting-functions/text.md)             | Enter text with multi-line support and word wrap                                                          |
 | [Dropdown](insert-manual-input-columns/dropdown.md)                  | Use the available presets or create your own list of values; supports both single-select and multi-select |
 | [Date](insert-manual-input-columns/text-checkbox-and-date.md)        | Add a date from the calendar / date picker                                                                |
-| [Checkbox](insert-manual-input-columns/text-checkbox-and-date.md)    |                                                                                                           |
+| [Checkbox](insert-manual-input-columns/text-checkbox-and-date.md)    | Used in case of binary selections                                                                         |
 | [Person](insert-manual-input-columns/enterprise-features.md)         | Input users from your organization (only available in Inforiver Enterprise)                               |
 
 {% hint style="warning" %}
 Inforiver Matrix offers only the first five types. Input types and features specific to Inforiver Enterprise are covered in a later [section](insert-manual-input-columns/enterprise-features.md).&#x20;
 {% endhint %}
 
-### 1. Sign-in
+## Sign-in
 
 a) If you are using the Enterprise version, you need to sign in as shown below.
 
@@ -35,7 +35,9 @@ c) You can now start inserting a column to capture your data inputs by clicking 
 
 Before we look at inserting data input columns, let's look at some common properties available for all the input types.
 
-### 2. Measure vs column
+## Common properties
+
+### 1. Insert as
 
 Data input columns can be inserted as a measure or a column.&#x20;
 
@@ -51,7 +53,7 @@ In the below image, a text column has been inserted as a column by selecting 'In
 
 <figure><img src="../../.gitbook/assets/4.4.11 Insert as.png" alt=""><figcaption><p>Visual column</p></figcaption></figure>
 
-### 3. Input restrictions
+### 2. Allow input
 
 By default, inputs are enabled in both read and edit modes in Power BI. But, based on your requirement, you can allow inputs only in edit mode or based on a formula.
 

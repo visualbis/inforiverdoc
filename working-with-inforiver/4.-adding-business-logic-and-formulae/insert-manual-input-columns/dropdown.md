@@ -4,8 +4,8 @@ Inforiver provides options to create single-select or multi-select lists on your
 
 The single-select and multi-select columns have two main differences:
 
-1. The obvious one being that a single-select column accepts only one option as input whereas, the multi-select column doesn't have that restriction.
-2. &#x20;There are presets available for creating a list of values in the case of the single-select column whereas the same is not available for multi-select columns.
+1. The obvious one is that a single-select column accepts only one option as input whereas, the multi-select column doesn't have that restriction.
+2. There are presets available for creating a list of values in the case of the single-select column whereas the same is not available for multi-select columns.
 
 In this section, we'll cover single-select columns. The same steps can be followed for multi-select except for the two points mentioned above.
 
@@ -15,7 +15,7 @@ Click on the 'Select' option in the dropdown.
 
 ## i) Creating a list of values
 
-There are two ways to create a list of values in Inforiver Matrix. The third option - Datasets - which is greyed out is available only in Inforiver Enterprise and is covered in a [later section](enterprise-features.md).
+There are two ways to create a list of values (LOVs) in Inforiver Matrix. The third option - Datasets - which is greyed out is available only in Inforiver Enterprise and is covered in a [later section](enterprise-features.md).
 
 <figure><img src="../../../.gitbook/assets/4.4.2.2 Select.png" alt=""><figcaption><p>Creating list of values</p></figcaption></figure>
 
@@ -35,7 +35,7 @@ The list of values that gets created is shown below.
 
 <figure><img src="../../../.gitbook/assets/4.4.2.4 Select.png" alt=""><figcaption><p>List of values from presets</p></figcaption></figure>
 
-## ii) Editing the options
+## ii) Editing the LOVs
 
 The names, order and colour of the options can be modified and they can be added or deleted as well. To edit the names, type over the existing names in the text boxes.
 
@@ -57,7 +57,7 @@ To create a new option, click on the 'Add option'. Type the name in the text box
 
 </div>
 
-To change the color, click on the color dropdown. A color picker opens. The following options are available: List of default colors, recent colors, custom colors, frequent colors and reset to default. Choose a color as desired.
+To change the color, click on the color dropdown. A color picker opens. Choose a color as desired.
 
 <figure><img src="../../../.gitbook/assets/4.4.2.6 Edit options.png" alt=""><figcaption><p>Changing the color</p></figcaption></figure>
 
@@ -81,15 +81,11 @@ Once the necessary changes are made to the list of values, and other properties 
 
 <figure><img src="../../../.gitbook/assets/4.4.2.5 Select.png" alt=""><figcaption><p>Selecting from the dropdown</p></figcaption></figure>
 
-## v) Editing the column
+## v) Editing the properties
 
-Changes to data input columns can be achieved in two ways - using the 'Manage' option in the toolbar and the 'Edit column' option in the column gripper.
+Changes to data input columns can be achieved using the 'Manage' option in the toolbar.
 
-Click on the column gripper that appears on hovering over the column and click on 'Edit column'.
-
-<figure><img src="../../../.gitbook/assets/4.4.2.9 Edit options.png" alt=""><figcaption><p>Editing a column</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/4.4.2.10 Edit options.png" alt=""><figcaption><p>Manage inserted data input column</p></figcaption></figure>
 
 
 
