@@ -138,4 +138,4 @@ d) Markings can be erased using the ‘Clear Markings’ option. Switching to an
 
 <figure><img src="../../.gitbook/assets/8.1.26 Marker mode.png" alt=""><figcaption><p>Clear markings</p></figcaption></figure>
 
-In the next section, we'll look at Inforiver's [data-level commentary](comments/) capability.
+In the next section, we'll look at Inforiver's [data-level commentary](comments.md) capability.

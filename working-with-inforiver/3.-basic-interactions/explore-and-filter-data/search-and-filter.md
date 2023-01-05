@@ -8,15 +8,15 @@ The 'Search' option helps you find characters, words, and phrases in your Infori
 
 a) In the 'Home' tab of the toolbar, click on the 'Search' icon **** in the Analyze section.
 
-<figure><img src="../../../.gitbook/assets/Search (1).png" alt=""><figcaption><p>Search</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Search (2).png" alt=""><figcaption><p>Search</p></figcaption></figure>
 
 b) Type the text/value in the search box. Inforiver starts narrowing down the matches as soon as you start typing. Navigate through the results using the up and down arrows.
 
-<figure><img src="../../../.gitbook/assets/Searchbox (1).png" alt=""><figcaption><p>Search Box</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SearchBox.png" alt=""><figcaption><p>Search box</p></figcaption></figure>
 
 c) You can also search numeric values as shown in the below image.
 
-<figure><img src="../../../.gitbook/assets/ValueSearch.png" alt=""><figcaption><p>Value Search</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ValueSearch.png" alt=""><figcaption><p>Value search</p></figcaption></figure>
 
 {% hint style="info" %}
 Inforiver searches across pages if you are using the multiple pages option in the 'Design' tab or you have added page breaks.&#x20;
@@ -26,29 +26,31 @@ Inforiver searches across pages if you are using the multiple pages option in th
 
 Inforiver provides nested AND/OR filtering options to filter a range of data based on the criteria you define.
 
+### i) Nested and grouped filters
+
 a) In the 'Home' tab of the toolbar, click on the 'Filter' icon **** in the Analyze section.
 
-<figure><img src="../../../.gitbook/assets/Dashboard.png" alt=""><figcaption><p>Filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Filter.png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
 b) Click 'Add Filter'. You can filter by row or column hierarchies, or by measures. Inforiver provides conditions depending on the filter selected. Enter a condition as shown below.
 
-<figure><img src="../../../.gitbook/assets/Condition (1).png" alt=""><figcaption><p>Add Filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Addfilter2.png" alt=""><figcaption><p>Add filter</p></figcaption></figure>
 
 c) The data has been filtered to show only the rows corresponding to the category 'Water' as shown in the image.
 
-<figure><img src="../../../.gitbook/assets/FiterCondition Applied.png" alt=""><figcaption><p>Filter Result</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FilterResult (2).png" alt=""><figcaption><p>Filter result</p></figcaption></figure>
 
 d) You can add multiple filters using the 'Add Filter' **** option and can apply nested AND/OR conditions. In the below example, we have added one more condition to filter only the International region for the category Water.
 
-<figure><img src="../../../.gitbook/assets/Filterwith And OR.png" alt=""><figcaption><p>Nested Filters</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NestedFilters.png" alt=""><figcaption><p>Nested filters</p></figcaption></figure>
 
 e) Inforiver also provides an option to add filter groups. Click 'Advanced'.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Advanced.png" alt=""><figcaption><p>Advanced Filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Advanced filter1.png" alt=""><figcaption><p>Advanced filter</p></figcaption></figure>
 
 f) Click 'Add group'. In the below image, we have added four conditions nested using AND/OR and using two filter groups. The filtered table is also shown.
 
-<figure><img src="../../../.gitbook/assets/GroupFilter1.png" alt=""><figcaption><p>Group Filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GroupFilter (1).png" alt=""><figcaption><p>Group filter</p></figcaption></figure>
 
 g) You can delete the individual filters by clicking on the 'Delete' icon available next to the condition.
 
@@ -58,4 +60,26 @@ i) The 'Persist filters' option ensures the filters are retained when switching 
 
 j) Click on **** 'Reset all' to reset all the filters.
 
-<figure><img src="../../../.gitbook/assets/Delete (1).png" alt=""><figcaption><p>Delete, Reset, Disable All, Persist Filters</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Delete1.png" alt=""><figcaption><p>Delete, Reset, Disable All, Persist filters</p></figcaption></figure>
+
+### ii) Column-level filter
+
+Inforiver provides nested AND/OR column-based filtering options to filter a range of data based on the criteria you define.&#x20;
+
+a) A hamburger menu appears when you mouse over any column as highlighted, click on the 'hamburger menu' and then click on the 'Filter' icon.
+
+<figure><img src="../../../.gitbook/assets/Filter4.png" alt=""><figcaption><p>Column filter</p></figcaption></figure>
+
+b) Choose the filter condition from the drop-down and enter the filter value. Let us consider an example to apply the column filter 'Greater than 4 million' to the '2021 Actuals' measure.
+
+c) The data gets filtered to show only the values corresponding to the filter condition as shown in the image.
+
+<figure><img src="../../../.gitbook/assets/Filterresult2.png" alt=""><figcaption><p>Filter result</p></figcaption></figure>
+
+d) You can add nested AND/OR filters by clicking the 'Add rule' option. In the below example, we have added one more condition to filter the values greater than 4 million AND less than 10 million for '2021 Actuals' measure.
+
+<figure><img src="../../../.gitbook/assets/NEstedColumnFilter1.png" alt=""><figcaption><p>Nested column filter</p></figcaption></figure>
+
+{% hint style="info" %}
+You can click 'Clear filter' to clear all the column filters applied.
+{% endhint %}

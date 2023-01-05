@@ -48,7 +48,7 @@ The row groups can be expanded/collapsed using the **expand/collapse** button.
 
 ### ii) Auto grouping
 
-Conditional formatting has been covered in detail in [section 5](../5.-conditional-formatting.md). For the purposes of exploring auto grouping of rows based on classification, we'll just look at the settings in brief.
+Conditional formatting has been covered in detail in [section 5](../5.-conditional-formatting/). For the purposes of exploring auto grouping of rows based on classification, we'll just look at the settings in brief.
 
 In this example, classification rules are applied to Margin %. High/Medium/Low is displayed next to the Margin % values based on the applied ranges.
 
