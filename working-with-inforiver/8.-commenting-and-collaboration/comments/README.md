@@ -1,6 +1,6 @@
 # Comments
 
-Comments allow multiple users to converse over a common thread through replies and mentions. User details and timestamps are accessible, and instant notifications are sent on mentions and replies.
+Unlike [notes](../notes.md), comments allow multiple users to converse over a common thread through replies and mentions. User details and timestamps are accessible, and instant notifications are sent on mentions and replies.
 
 The below image shows a sales report - monthly sales trend for product subcategories, margins, and total customers. Let's see how to add data-level comments and facilitate conversations with your peers directly from within your Power BI report.
 

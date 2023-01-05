@@ -29,7 +29,7 @@ a) Click on the 'Sparkline' icon highlighted and choose the 'Column sparkline'.&
 
 <figure><img src="../../.gitbook/assets/2.5.2 sparkline.png" alt=""><figcaption><p>Sparkline and its variants</p></figcaption></figure>
 
-b) The sparkline chart gets applied. You can see the minimum and maximum values for each row in red and green.&#x20;
+b) The spark column appears incorporating data for all the months. You can see the minimum and maximum values for each row in red and green.&#x20;
 
 In the toolbar, you can see the 'Customize' tab which gets enabled. We'll cover these toolbar options in a later section.
 
@@ -41,13 +41,13 @@ Inforiver provides 2 and 3-value bullet charts and a clustered bar for visualizi
 
 ### i) 2-value bullet charts
 
-In this example, I have 2022 Actuals and Plan across regions and categories.&#x20;
+In this example, we have 2022 Actuals and Plan across regions and categories.&#x20;
 
 a) Select the 2 measures and click on the 'Bullet' icon and select the 'Integrated variance bar' as highlighted.
 
 <figure><img src="../../.gitbook/assets/2.5.4 2 value bullet.png" alt=""><figcaption><p>Bullet chart variants</p></figcaption></figure>
 
-b) The bullet chart gets inserted as shown. The variance between actuals and plan is shown in red/green.
+b) The bullet chart gets inserted showing a comparison of the two measures. The variance between actuals and plan is shown in red/green.
 
 <figure><img src="../../.gitbook/assets/2.5.5 2 value bullet.png" alt=""><figcaption><p>Bullet chart customization options</p></figcaption></figure>
 
@@ -79,7 +79,7 @@ b) The clustered bar gets applied.
 
 ### i) Stacked charts
 
-In this example, we have 2022 actuals across regions. Let us use a stacked chart to see the composition based on subcategories for the regions.
+In this example, we have 2022 actuals across regions. Let's use a stacked chart to see the composition based on subcategories for the regions.
 
 a) Select all the subcategory columns and click on the 'Bullet' icon. There are 2 options - A stacked bar and a percentage stacked bar.&#x20;
 
@@ -99,7 +99,7 @@ d) Select the column with the chart and drag using the arrow next to the column 
 
 ### ii) Waterfall charts
 
-Let us visualize the contribution of the subcategories to the total margin.
+Let's visualize the contribution of the subcategories to the total margin.
 
 a) Select the 'Margin' column and click on the 'Waterfall' icon. There are 3 options - we'll choose the colored waterfall.
 
@@ -135,11 +135,11 @@ a) Select the column and click on the highlighted icon.
 
 b) The bar chart gets added. There are a number of customization options such as fill pattern, comparison bands, and axis config.&#x20;
 
-<figure><img src="../../.gitbook/assets/2.5.26 bar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.5.26 bar.png" alt=""><figcaption><p>Simple bar chart</p></figcaption></figure>
 
 c) Let's apply comparison bands. Click on the 'Comparison bands' icon. A popup screen opens. You can customize the number of bands, and colors, and define bands based on percentage or value. We'll go with the default. Click 'Save'. The bands get applied.
 
-<figure><img src="../../.gitbook/assets/2.5.27 bar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.5.27 bar.png" alt=""><figcaption><p>Adding a comparison band</p></figcaption></figure>
 
 ### ii) Lollipop/pin charts
 
@@ -288,3 +288,5 @@ b) The columns are blended to create a single column. Note that Margin % is disp
 c) If you want to display in a horizontal orientation, change the 'Blend direction' to 'Horizontal'.
 
 <figure><img src="../../.gitbook/assets/2.5.12 blend kpi.png" alt=""><figcaption><p>Blend measures horizontally</p></figcaption></figure>
+
+There are several customization options available for the charts and visualizations which will be covered in [working with charts](../6.-working-with-charts.md).

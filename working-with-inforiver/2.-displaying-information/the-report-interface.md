@@ -1,6 +1,6 @@
 # Report interface
 
-The Inforiver matrix report interface contains the following sections
+The Inforiver matrix report interface contains the following sections:
 
 <figure><img src="../../.gitbook/assets/Inforiver-interface.png" alt=""><figcaption><p>Inforiver report interface</p></figcaption></figure>
 
@@ -13,10 +13,9 @@ The Inforiver matrix report interface contains the following sections
 
 
 
-    <figure><img src="../../.gitbook/assets/inforiver-interface-footer-aggregation.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/inforiver-interface-footer-aggregation.png" alt=""><figcaption><p>Status bar</p></figcaption></figure>
 
     * Zoom/Un zoom controls: You can use the controls provided in the footer or use the keyboard shortcuts (Ctrl + / Ctrl -)&#x20;
     * Pagination controls: You can use first-previous-next-last navigation controls, and also set the number of rows per page.
 
-
-
+In the next section, we'll look at the available [layout options](layout-options.md).

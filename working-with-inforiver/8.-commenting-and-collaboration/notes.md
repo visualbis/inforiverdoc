@@ -137,3 +137,5 @@ c) In the below image, you can see some sample markings.
 d) Markings can be erased using the ‘Clear Markings’ option. Switching to another tab also results in the markings getting erased.
 
 <figure><img src="../../.gitbook/assets/8.1.26 Marker mode.png" alt=""><figcaption><p>Clear markings</p></figcaption></figure>
+
+In the next section, we'll look at Inforiver's [data-level commentary](comments/) capability.

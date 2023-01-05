@@ -22,8 +22,6 @@ To remove custom borders, click on 'Reset' or select the 'No borders' option (th
 
 To remove the predefined borders, click on the 'No borders' option (the 1st icon).
 
-
-
 ## 2. Alignment options
 
 a) Horizontal/vertical alignment - Horizontal alignment can be formatted using Align left, right, and center options. For vertical alignment, the options are Align top, bottom, and middle.
@@ -35,8 +33,6 @@ b) Header orientation - Column and measure header orientations can be changed us
 c) Increase/decrease indent - Use the indentation icon from the toolbar to indent specific values. This feature makes creating financial statements a breeze.
 
 d) Row size - You can increase or decrease row size manually. This is especially useful when inserting inline charts.&#x20;
-
-
 
 ## 3. Format painter
 
@@ -51,3 +47,5 @@ You can copy cell formatting using the 'Format painter' option just as in Excel.
 <figure><img src="../../../.gitbook/assets/2.4.2.4 format level 2.png" alt=""><figcaption><p>Format applied to level</p></figcaption></figure>
 
 </div>
+
+In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).

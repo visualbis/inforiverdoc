@@ -63,7 +63,9 @@ In the below image, 'Maximum' has been chosen. The highlighted cells, which are 
 
 When a value is entered in a subtotal or total row, the value can be distributed to the child rows. This distribution can be disabled if not required for certain scenarios.
 
+In the below image, 220m entered in the subtotal has been distributed equally to the subregions.
 
+<figure><img src="../../../.gitbook/assets/4.4.1. Distribute value.png" alt=""><figcaption><p>Value in subtotal distributed to child rows</p></figcaption></figure>
 
 
 

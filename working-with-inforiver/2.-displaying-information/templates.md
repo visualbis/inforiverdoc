@@ -1,6 +1,6 @@
 # Templates
 
-In addition to the layout options, Inforiver provides three types of quick-start business templates, each of which can be customized further. These templates can be accessed from the 'Templates' icon under the 'Home' tab.
+In addition to the [layout options](layout-options.md), Inforiver provides three types of quick-start business templates, each of which can be customized further. These templates can be accessed from the 'Templates' icon under the 'Home' tab.
 
 <figure><img src="../../.gitbook/assets/inforiver-templates.png" alt=""><figcaption><p>Templates available in Inforiver</p></figcaption></figure>
 
@@ -36,9 +36,9 @@ The performance templates are useful when you need to showcase observed performa
 
 In our case, we have chosen to map the measures as shown below.
 
-<figure><img src="../../.gitbook/assets/inforiver-templates-performance-data.png" alt=""><figcaption><p>Mapping measures based on IBCS notation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.3.3 Templates (1).png" alt=""><figcaption><p>Mapping measures based on IBCS notation</p></figcaption></figure>
 
-&#x20;The five performance template options available are listed below.
+The five performance template options available are listed below.
 
 ### a. Template T01&#x20;
 
@@ -70,3 +70,4 @@ This template is similar to T04, with the exception of actuals data (AC) which i
 
 <figure><img src="../../.gitbook/assets/inforiver-templates-performance-T05.png" alt=""><figcaption><p>IBCS table template T05</p></figcaption></figure>
 
+In the next section, we'll be covering the [basic formatting](basic-formatting.md) options available in Inforiver.

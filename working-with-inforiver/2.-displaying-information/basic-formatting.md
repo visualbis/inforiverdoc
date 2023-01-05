@@ -1,16 +1,15 @@
 # Basic formatting
 
-In this section, we cover the following:
+Once you have chosen the layouts and/or templates, it is time to apply some basic formatting to the report. In this section, we cover the following:
 
-### 1. [Number formatting](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/u1RJzRbzq7JYpcCwHUpt/working-with-inforiver/2.-displaying-information/basic-formatting/number-formatting)
+### 1. Number formatting
 
-* Number scaling
-* Pct, currency & decimal formatting
-* Semantic formatting
+Inforiver comes prepackaged with _intelligent number formatting & scaling recognition_ capabilities which will be covered in [Number formatting](basic-formatting/number-formatting.md).
 
-### 2. [Cell & value formatting](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/u1RJzRbzq7JYpcCwHUpt/working-with-inforiver/2.-displaying-information/basic-formatting/cell-and-value-formatting)
+### 2. Cell & value formatting
 
-* Style&#x20;
-* Alignment&#x20;
+In Inforiver, you can change the font color, style, size, and text alignment in a cell, or apply formatting effects. To learn more, refer to [Cell & value formatting](basic-formatting/cell-and-value-formatting.md).&#x20;
 
-### 3. [Totals & subtotals](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/u1RJzRbzq7JYpcCwHUpt/working-with-inforiver/2.-displaying-information/basic-formatting/totals-and-subtotals)
+### 3. Totals & subtotals
+
+Be it a typical table or a hierarchical matrix style report in Power BI, Inforiver allows you to seamlessly manage subtotals and grand totals in a couple of clicks. To learn more, refer to [Totals & subtotals](basic-formatting/totals-and-subtotals.md).

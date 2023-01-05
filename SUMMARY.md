@@ -110,7 +110,7 @@
   * [8. Commenting and collaboration](working-with-inforiver/8.-commenting-and-collaboration/README.md)
     * [Notes](working-with-inforiver/8.-commenting-and-collaboration/notes.md)
     * [Comments](working-with-inforiver/8.-commenting-and-collaboration/comments/README.md)
-      * [Data-level conversations](working-with-inforiver/8.-commenting-and-collaboration/comments/comments.md)
+      * [Data-level comments](working-with-inforiver/8.-commenting-and-collaboration/comments/comments.md)
       * [Assign & track tasks](working-with-inforiver/8.-commenting-and-collaboration/comments/comments-1.md)
       * [Track changes](working-with-inforiver/8.-commenting-and-collaboration/comments/track-changes.md)
       * [Comment settings](working-with-inforiver/8.-commenting-and-collaboration/comments/comment-settings.md)

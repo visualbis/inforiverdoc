@@ -1,6 +1,6 @@
 # Why Inforiver
 
-Inforiver offers the **fastest** way to build Power BI reports, using a comprehensive set of **features** enabled by cutting edge **user experience**.
+Inforiver offers the **fastest** way to build Power BI reports, using a comprehensive set of **features** enabled by cutting-edge **user experience**.
 
 ## 5 reasons to get started with Inforiver
 
@@ -24,7 +24,7 @@ With Inforiver, report creators and consumers can perform a wide variety of user
 
 ### **4. Accelerate your digital transformation**
 
-Automate your Excel based processes by consolidating legacy BI reports and dashboards into Power BI, and eliminating data-silos with governed datasets. With capabilities such as formula engine & calculations, [runtime manual data entry](https://inforiver.com/blog/writeback/5-types-manual-data-entry-powerbi-table-matrix/), [forecasting](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/), [writeback](https://inforiver.com/writeback-powerbi/), audit trail, [commenting and collaboration](https://inforiver.com/collaborate-powerbi/), Inforiver ensures success of your change management & digital transformation efforts.
+Automate your Excel-based processes by consolidating legacy BI reports and dashboards into Power BI, and eliminating data silos with governed datasets. With capabilities such as formula engine & calculations, [runtime manual data entry](https://inforiver.com/blog/writeback/5-types-manual-data-entry-powerbi-table-matrix/), [forecasting](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/), [writeback](https://inforiver.com/writeback-powerbi/), audit trail, [commenting and collaboration](https://inforiver.com/collaborate-powerbi/), Inforiver ensures the success of your change management & digital transformation efforts.
 
 <figure><img src="../.gitbook/assets/why-inforiver-digital-transformation.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,3 +35,5 @@ Inforiver adopts a business-responsive design, that can help users deliver [IBCS
 Inforiver is certified by International Business Communication Standards (IBCS)
 
 <figure><img src="../.gitbook/assets/why-inforiver-ibcs-standards-best-practices.png" alt=""><figcaption></figcaption></figure>
+
+In the next section, we'll be looking at how to [get started with Inforiver](get-started.md).

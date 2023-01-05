@@ -26,7 +26,7 @@ The 'Uniform' option applies one fixed scale to the entire table and moves the s
 
 <figure><img src="../../../.gitbook/assets/2.4.1.3 Uniform scaling.png" alt=""><figcaption><p>Uniform scaling</p></figcaption></figure>
 
-Inforiver automatically chooses the scaling based on the values. But you change it if needed. When you expand the dropdown again, you can see more options. You can select millions, billions, etc. as needed.
+Inforiver automatically chooses the scaling based on the values. But you can change it if needed. When you expand the dropdown again, you can see more options. You can select millions, billions, etc. as needed.
 
 <figure><img src="../../../.gitbook/assets/2.4.1.4 Auto Uniform scaling.png" alt=""><figcaption><p>Uniform formatting options</p></figcaption></figure>
 
@@ -76,7 +76,7 @@ To do this, let's select the column. % icon gets enabled. Once you click on the 
 
 Using Inforiver, you can insert prefixes such as currency or suffixes like units.&#x20;
 
-&#x20;In the below example, the price is $ per unit. Select the column and click on the highlighted icon. Enter the prefix and suffix as shown.&#x20;
+In the below example, the price is $ per unit. Select the column and click on the highlighted icon. Enter the prefix and suffix as shown.&#x20;
 
 <figure><img src="../../../.gitbook/assets/2.4.1.11 Prefix suffix.png" alt=""><figcaption><p>Enter prefix and suffix</p></figcaption></figure>
 
@@ -123,3 +123,5 @@ You can also display positive and negative numbers in the formats shown below.
 <figure><img src="../../../.gitbook/assets/2.4.1.16 Semantic formatting.png" alt=""><figcaption><p>Negative numbers formatting</p></figcaption></figure>
 
 </div>
+
+In the next section, we'll be covering [Cell & value formatting](cell-and-value-formatting.md).

@@ -1,10 +1,10 @@
 # Layout options
 
-Inforiver offers two major types of layout options - **Table layouts** and **Measure layouts**. Each of these comes with its own set of variations, and can be used together in a single layout.&#x20;
+Inforiver offers two major types of layout options - **Table layouts** and **Measure layouts**. Each of these comes with its own set of variations and can be used together in a single layout.&#x20;
 
-The Table Layouts lets you determine how categories in rows need to be displayed.&#x20;
+The Table Layout lets you determine how categories in rows need to be displayed.&#x20;
 
-The Measure Layouts give you the flexibility specifically with respect to how measures are displayed.&#x20;
+The Measure Layouts give you flexibility specifically with respect to how measures are displayed.&#x20;
 
 ## 1. Table layouts
 
@@ -14,11 +14,9 @@ By default, Inforiver delivers data in a hierarchical, expand/collapse-enabled f
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-hierarchy.png" alt=""><figcaption><p>Hierarchy layout</p></figcaption></figure>
 
-&#x20;When you select the Layout item from the menu, you will notice the selection defaulted to 'Hierarchy'.
+When you select the Layout item from the menu, you will notice the selection defaulted to 'Hierarchy'.
 
-
-
-<figure><img src="../../.gitbook/assets/inforiver-navigation-layout-menu.png" alt=""><figcaption><p>Other layout options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.2.1 Layout options.png" alt=""><figcaption><p>Other layout options</p></figcaption></figure>
 
 Changing this selection helps you modify the report layouts to the other types listed below.
 
@@ -32,9 +30,9 @@ By default, the 'ruler' **** is also enabled for this layout. The ruler is used 
 
 ### c. Table
 
-The table option shows categories in a tabular format, without any expand-collapse hierarchies for rows. Note that hierarchy expand/collapse option is available for columns (Quarter-Month).&#x20;
+The table option shows categories in a tabular format, without any expand-collapse hierarchies for rows. Note that the hierarchy expand/collapse option is available for columns (Quarter-Month).&#x20;
 
-<figure><img src="../../.gitbook/assets/inforiver-navigation-layout-table.png" alt=""><figcaption><p>Table layout</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.2.2 Layout options.png" alt=""><figcaption><p>Table layout</p></figcaption></figure>
 
 ### d. Stepped
 
@@ -44,7 +42,7 @@ The stepped layout is similar to the outline layout in that each category is lis
 
 ### e. Drilldown
 
-The drilldown layout lets you explore one branch at a time in the hierarchy. This is also an ideal option when you have a huge volume of rows.
+The drill down layout lets you explore one branch at a time in the hierarchy. This is also an ideal option when you have a huge volume of rows.
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-drilldown.gif" alt=""><figcaption><p>Drilldown layout</p></figcaption></figure>
 
@@ -52,7 +50,7 @@ The drilldown layout lets you explore one branch at a time in the hierarchy. Thi
 
 The default Measure layout is used in all the Table layouts listed above.&#x20;
 
-When you change this to 'In rows', the measures are displayed as below.&#x20;
+When you change this to 'In rows', the measures are displayed as shown below.&#x20;
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-measures-in-rows.png" alt=""><figcaption><p>Measure in rows</p></figcaption></figure>
 
@@ -61,3 +59,5 @@ When you change this to 'In columns', the measures are displayed above the colum
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-measures-in-columns.png" alt=""><figcaption><p>Measure in columns</p></figcaption></figure>
 
 To learn more about pivot analysis using Inforiver, visit this [page](https://inforiver.com/excel-like-pivot-analysis-powerbi/).
+
+In the next section, we'll look at the [one-click templates](templates.md) offered by Inforiver.
