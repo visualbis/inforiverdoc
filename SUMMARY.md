@@ -101,7 +101,7 @@
         * [\<ROW\_ID>](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/identifiers/less-than-row\_id-greater-than.md)
         * [ROW.PARENT](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/identifiers/row.parent.md)
       * [Other operators](working-with-inforiver/4.-adding-business-logic-and-formulae/formula-syntax/other-operators.md)
-  * [5. Conditional formatting](working-with-inforiver/5.-conditional-formatting/README.md)
+  * [5. Conditional formatting](working-with-inforiver/5.-conditional-formatting.md)
     * [Quick rule](working-with-inforiver/5.-conditional-formatting/quick-rule.md)
     * [Color scales](working-with-inforiver/5.-conditional-formatting/color-scales.md)
     * [Classification](working-with-inforiver/5.-conditional-formatting/classification.md)

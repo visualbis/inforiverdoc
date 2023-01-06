@@ -2,18 +2,25 @@
 
 There are a number of ways by which you can quickly adjust column width, especially when you have a lot of columns in the report.&#x20;
 
-Simply hover over the column header that needs to be resized and drag the handle to resize.
+the simplest way is to hover over the column header that needs to be resized and drag the handle as desired.
 
 <figure><img src="../../.gitbook/assets/3.5.5 resize columns.png" alt=""><figcaption><p>Drag column headers to resize</p></figcaption></figure>
 
-There are four other options to adjust the column widths directly from the toolbar. Let's explore each of them with an example.
+There are four other options to adjust the column widths directly from the toolbar.&#x20;
+
+1. ‘Fit to header’ resize the columns to fit the column header  &#x20;
+2. ‘Fit to content’ resizes the columns to fit the contents
+3. ‘Best fit’ auto-adjusts both rows and columns that optimizes real estate&#x20;
+4. 'Manual column width' allows you to enter the width for specific columns in pixels
+
+Let's explore each of them with an example.
 
 In the 'Home' tab, click on the 'Auto fit' icon as highlighted. You can see the options in the dropdown.
 
 <figure><img src="../../.gitbook/assets/3.5.1 column width.png" alt=""><figcaption><p>Auto fit options</p></figcaption></figure>
 
 {% hint style="info" %}
-Columns with charts are not affected when using the Auto fit options.
+Columns with charts are not affected when using the Autofit options.
 {% endhint %}
 
 ### 1. Fit to header
@@ -50,18 +57,20 @@ Turn on the 'Lock size' toggle as shown below.
 
 <figure><img src="../../.gitbook/assets/3.5.7 column lock.png" alt=""><figcaption><p>Locking column width</p></figcaption></figure>
 
-Once the columns are locked, the four auto fit options are greyed out. To make further changes, the toggle needs to be turned off.
+Once the columns are locked, the four auto-fit options are greyed out. To make further changes, the toggle needs to be turned off.
 
 <figure><img src="../../.gitbook/assets/3.5.8 column unlock.png" alt=""><figcaption><p>Unlocking column width</p></figcaption></figure>
 
 \*\*\*
 
-Inforiver provides an option to automatically wrap text in columns.
+Inforiver provides an option to **automatically wrap text** in columns.
 
-Turn on the 'Auto wrap column' toggle. You can observe that the row headers for the selected columns have been auto wrapped.
+Turn on the 'Auto wrap column' toggle. You can observe that the row headers for the selected columns have been auto-wrapped.
 
 <figure><img src="../../.gitbook/assets/3.5.9 autowrap columns (1).png" alt=""><figcaption><p>Auto wrap columns</p></figcaption></figure>
 
 {% hint style="info" %}
-Auto wrap is applicable for row/column/measure headers and rows/columns/cells.
+Auto-wrap is applicable for row/column/measure headers and rows/columns/cells.
 {% endhint %}
+
+In the next section, we'll cover how to [manage hierarchies ](manage-hierarchies.md)using expand-collapse.

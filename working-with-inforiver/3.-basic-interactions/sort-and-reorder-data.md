@@ -12,7 +12,7 @@ b) Select 'Sort' -> 'Sort desc' as shown.
 
 <figure><img src="../../.gitbook/assets/3.2.2 Sort.png" alt=""><figcaption><p>Sorting by values descending</p></figcaption></figure>
 
-c) The column gets sorted and you can see an icon to denote the descending sort.
+c) You can see that the column gets sorted and there is an icon to denote the descending sort.
 
 <figure><img src="../../.gitbook/assets/3.2.3 Sorting.png" alt=""><figcaption><p>Column sorted in descending order</p></figcaption></figure>
 
@@ -24,15 +24,15 @@ e) Similarly, sorting can also be applied to non-numeric columns. In a later sec
 
 <figure><img src="../../.gitbook/assets/3.2.9 sorting.png" alt=""><figcaption><p>Sorting non-numeric columns</p></figcaption></figure>
 
-f) On clicking the gripper near the column header, sorting options can be found.
+f) On clicking the gripper near the column header, you can find the sorting options.
 
 <figure><img src="../../.gitbook/assets/3.2.10 sorting.png" alt=""><figcaption><p>Sorting a dropdown column</p></figcaption></figure>
 
-g) Sorting gets applied.
+g) You can see that the dropdown column is sorted in ascending order both at the region and sub-region levels.
 
 <figure><img src="../../.gitbook/assets/3.2.11 sorting.png" alt=""><figcaption><p>Single-select column gets sorted</p></figcaption></figure>
 
-h) Sorting based on text and date columns are shown below.
+h) Sorting based on text and date columns is shown below.
 
 <div>
 
@@ -56,14 +56,16 @@ a) As you hover over a row header, you can see a gripper icon highlighted below.
 Reordering is possible only within the same hierarchy level.
 {% endhint %}
 
-b) The rows get reordered.
+b) The rows are reordered.
 
 <figure><img src="../../.gitbook/assets/3.2.6 reorder.png" alt=""><figcaption><p>Rows reordered</p></figcaption></figure>
 
-c) Similarly columns and measures can also be reordered. Let's reorder the % variance.&#x20;
+c) Similarly, you can reorder columns and measures. Let's reorder the % variance.&#x20;
 
 <figure><img src="../../.gitbook/assets/3.2.7 reorder.png" alt=""><figcaption><p>Reorder measures</p></figcaption></figure>
 
-d) The measure is reordered as shown below.
+d) You can see that the measure is reordered as shown below.
 
 <figure><img src="../../.gitbook/assets/3.2.8 reorder.png" alt=""><figcaption><p>Measure reordered</p></figcaption></figure>
+
+In the next section, we'll cover how to [show/hide values, rows and columns](show-or-hide-values-rows-and-columns.md).

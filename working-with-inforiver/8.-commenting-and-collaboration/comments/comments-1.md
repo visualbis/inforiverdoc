@@ -1,8 +1,8 @@
 # Assign & track tasks
 
-## 1. Assign tasks
+In this section, we'll see how you can assign tasks to stakeholders and track closure status. Tracking status for comment assignments, using terms such as ‘resolved’, ‘open’, etc. is helpful when you are interacting with multiple stakeholders. &#x20;
 
-Let's see how you can assign tasks to stakeholders and track closure status. Tracking status for comment assignments, using terms such as ‘resolved’, ‘open’, etc. is helpful when you are interacting with multiple stakeholders. &#x20;
+## 1. Assign tasks
 
 a) Let's add a column-level comment and assign it as a task. Select a column and click on 'Add a comment'.
 
@@ -72,3 +72,6 @@ f) Users who only consume the report in reading view and do not have edit rights
 
 <figure><img src="../../../.gitbook/assets/8.2.27 assign tasks.png" alt=""><figcaption><p>View your tasks in reading view</p></figcaption></figure>
 
+
+
+In the next section, we'll cover how you can [track changes](track-changes.md) in comments and tasks.

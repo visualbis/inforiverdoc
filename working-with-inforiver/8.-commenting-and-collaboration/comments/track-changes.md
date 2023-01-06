@@ -21,3 +21,5 @@ d) In the below image, I have filtered my threads and tasks assigned to an user.
 e) Comments and tasks can be filtered using a date range by clicking on the 'Calendar' icon highlighted.
 
 <figure><img src="../../../.gitbook/assets/8.2.3.5 track changes.png" alt=""><figcaption><p>Filter by date</p></figcaption></figure>
+
+In the next section, we'll cover the [general settings and comment digest](comment-settings.md).

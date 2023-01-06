@@ -1,5 +1,7 @@
 # Keyboard shortcuts
 
+Below are the keyboards shortcuts that you can use to work efficiently with Inforiver.
+
 ## 1. Toolbar
 
 a) To switch to the 'Home' tab - `Alt` + `H`&#x20;
@@ -142,10 +144,6 @@ a) To open the 'Insert rows' dropdown - `Alt` + `I`
 
 b) To open the 'Quick formulas' dropdown - `Alt` + `Z`
 
-
-
-
-
 ## 9. Actions
 
 a) To undo an action - `Ctrl` + `Z`
@@ -161,6 +159,4 @@ e) To copy a selection to a clipboard - `Alt` + `Z`
 f) To paste a selection - `Ctrl` + `V`
 
 g) To open the audit log - `Alt` + `U`
-
-
 

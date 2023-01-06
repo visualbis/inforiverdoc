@@ -12,7 +12,7 @@ b) The cell gets hidden. You can also see that the hide icon is highlighted to i
 
 <figure><img src="../../.gitbook/assets/3.3.2 Hide cell.png" alt=""><figcaption><p>Cell hidden</p></figcaption></figure>
 
-c) Multiple cells or cell ranges can be hidden in a single click. Use Ctrl/Shift and click to select non-adjacent or adjacent cells.
+c) You can hide multiple cells or cell ranges in a single click. Use Ctrl/Shift and click to select non-adjacent or adjacent cells.
 
 <figure><img src="../../.gitbook/assets/3.3.3 Hide cells.png" alt=""><figcaption><p>Hiding multiple cells</p></figcaption></figure>
 
@@ -50,11 +50,11 @@ b) The column gets hidden.
 
 <figure><img src="../../.gitbook/assets/3.3.14 Unhide column.png" alt=""><figcaption><p>Unhiding a column</p></figcaption></figure>
 
-c) Individual columns can also be hidden from the column gripper as shown below.
+c) You can also hide individual columns from the column gripper as shown below.
 
 <figure><img src="../../.gitbook/assets/3.3.13(2) hide columns.png" alt=""><figcaption><p>Hiding a column from the column gripper</p></figcaption></figure>
 
-d) Multiple columns can be hidden as well by using Shift/Ctrl + click.
+d) Multiple columns can be hidden by using Shift/Ctrl + click.
 
 <figure><img src="../../.gitbook/assets/3.3.15 Hide columns.png" alt=""><figcaption><p>Hiding multiple columns</p></figcaption></figure>
 
@@ -73,3 +73,5 @@ b) 2021 Actuals are hidden.
 c) To show a measure, check the corresponding checkbox.
 
 <figure><img src="../../.gitbook/assets/3.3.12 Unhide measure.png" alt=""><figcaption><p>Unhiding a measure</p></figcaption></figure>
+
+In the next section, we'll cover selections and formatting using [rails](rails.md).

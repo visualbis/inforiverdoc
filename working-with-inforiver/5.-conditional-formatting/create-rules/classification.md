@@ -8,7 +8,7 @@ b) Conditional formatting can be applied to a particular measure, 'Based on' the
 
 c) You can apply conditional formatting based on text, icon set or rating.
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (25).png>)
 
 d) You can also have classifications appear along with the charts or in a separate column if required.
 
@@ -34,17 +34,17 @@ Conditional formatting 'Icon set' classification has been applied to 2021 Plan, 
 
 The classification ranges can be chosen as either Value or Percentage. In the below example, Value is chosen as the Classification range.
 
-<figure><img src="../../../.gitbook/assets/Value as Classification.png" alt=""><figcaption><p>Value Classification</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Value as Classification (1).png" alt=""><figcaption><p>Value Classification</p></figcaption></figure>
 
 Sample image illustrating Percentage Classification
 
-<figure><img src="../../../.gitbook/assets/Percentage Classification Range.png" alt=""><figcaption><p>Percentage Classification</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Percentage Classification Range (1).png" alt=""><figcaption><p>Percentage Classification</p></figcaption></figure>
 
 ### 3. Rating
 
 Conditional formatting 'Rating' scale has been applied to 2021 Plan, based on '2021 Actual' measure. You can customize the number of icons that appear in your scale, this has been set to 5 as default. You can also use star-based ratings.
 
-<figure><img src="../../../.gitbook/assets/Rating (1).png" alt=""><figcaption><p>Rating</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Rating.png" alt=""><figcaption><p>Rating</p></figcaption></figure>
 
 Rating text option highlights the visual along with the rating number.&#x20;
 

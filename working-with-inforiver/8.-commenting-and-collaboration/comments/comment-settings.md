@@ -1,14 +1,12 @@
 # Comment settings
 
-It should be possible to easily export and write back notes and comments to Excel and databases. It is not helpful if the notes and comments cannot be persisted outside your report.&#x20;
-
-Inforiver provides a number of settings with regard to comments.
+Inforiver provides a number of settings such as private and public commentary access, access to lock/unlock threads, an option to enable/disable notifications and more. Periodic commentary digest can also be configured using Comment settings.
 
 a) Click on 'Settings' in the 'Comments' dropdown.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.1 Settings.png" alt=""><figcaption><p>Commentary settings</p></figcaption></figure>
 
-A side panel opens up. There are two tabs - General and Comment digest. Let's take a detailed look at these tabs.
+You can see a side panel with two tabs - General and Comment digest. Let's take a detailed look at these tabs.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.2 Settings.png" alt=""><figcaption><p>General settings &#x26; comment digest</p></figcaption></figure>
 
@@ -78,7 +76,7 @@ a) Comments digest can be accessed through the 'Comments' dropdown -> 'Settings'
 
 <figure><img src="../../../.gitbook/assets/8.2.4.15 comment digest.png" alt=""><figcaption><p>Comment digest configuration</p></figcaption></figure>
 
-b) The default settings are shown below.
+b) You can see the default settings in the below image.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.16 comment digest.png" alt=""><figcaption><p>Comment digest default settings</p></figcaption></figure>
 
@@ -87,7 +85,7 @@ c) The available options are -&#x20;
 1. Start and end date - Can be selected using the date picker
 2. Schedule time - Time and time zone can be set
 3. Frequency - Daily, weekly and monthly digests can be scheduled
-4. Recipients - Email addresses of recipients
+4. Recipients - Email addresses of recipients&#x20;
 
 d) Once you customize as per requirement, click 'Save'.
 
@@ -100,3 +98,5 @@ Distribution Lists can also be added as recipients.&#x20;
 e) A sample comment digest is shown below.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.18 comment digest.png" alt=""><figcaption><p>Sample comment digest</p></figcaption></figure>
+
+In the next section, we'll look at [data writeback](../../9.-data-writeback.md).

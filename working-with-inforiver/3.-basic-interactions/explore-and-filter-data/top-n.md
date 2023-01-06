@@ -1,18 +1,16 @@
 # Top N
 
-In this document, let us get to know how the Top n feature works in Inforiver. Top n deals with classifying the Top and Bottom categories based on the measures.&#x20;
+In this section, let us see how the Top N feature works in Inforiver. Top N answers questions such as _Customers_ contributing to the most revenue, _Spend Categories_ that consume most of the budget etc.
 
-Top n can be applied to only one column/measure at a time. Though, you can add multiple Top or Bottom n conditions on the same measure. Let us see about the Top n functionality in detail below.
+Consider the example of displaying the Top 5 Cities by Sales for each Subcategory.
 
-Consider the example of displaying the Top 5 City Sales Value (2016 Sales) in each Subcategory.
+a) Select the Sales (2016 Sales) column.
 
-a) Select the Sales (2016 Sales) column/measure.
-
-b) Click Home from the toolbar and select Top n from the Analyze section.
+b) In the 'Home' tab of the toolbar, select 'Top N' from the 'Analyze' section.
 
 <figure><img src="../../../.gitbook/assets/Top N.png" alt=""><figcaption><p>Top n</p></figcaption></figure>
 
-c) In the Top n dialog box that appears, input the following fields:
+c) In the Top N dialog box that appears, input the following fields:
 
 * Top/Bottom/Both: Both displays Top and Bottom values (Both)
 * Number of items (5)
@@ -25,11 +23,11 @@ d) To display the remaining categories as Others, check the respective checkbox.
 
 e) Check “Suffix Others with category name”, to display the category label along with Others.
 
-<figure><img src="../../../.gitbook/assets/Aggregate the Rest as Others (2).png" alt=""><figcaption><p>Aggregate &#x26; Suffix Others</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Aggregate the Rest as Others.png" alt=""><figcaption><p>Aggregate &#x26; Suffix Others</p></figcaption></figure>
 
 f) Click Apply, the result is shown below.
 
-<figure><img src="../../../.gitbook/assets/Top 5 Subcategory based on the Value (1).png" alt=""><figcaption><p>Top 5 Subcategory based on the Value</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Top 5 Subcategory based on the Value.png" alt=""><figcaption><p>Top 5 Subcategory based on the Value</p></figcaption></figure>
 
 g) To apply another Top n condition, follow the same procedure as illustrated above.
 
@@ -38,7 +36,7 @@ g) To apply another Top n condition, follow the same procedure as illustrated ab
 
 <figure><img src="../../../.gitbook/assets/Add Rule.png" alt=""><figcaption><p>Add rule</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Showing result with added rule.png" alt=""><figcaption><p>Showing result with added rule</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Showing result with added rule (1).png" alt=""><figcaption><p>Showing result with added rule</p></figcaption></figure>
 
 h) To delete a Top n condition, click on the respective Delete icon.
 
@@ -51,3 +49,5 @@ A warning message gets displayed when you try to apply Top n on more than one co
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/warning.png" alt=""><figcaption><p>Warning message</p></figcaption></figure>
+
+In the next section, we'll look at&#x20;

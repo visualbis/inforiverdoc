@@ -6,4 +6,4 @@ Classification is a single-click conditional formatting option that allows you t
 
 Sample image showing the ABC classification in the visual. However, you can customize the classification based on different parameters which are explained in detail in [Create Rules](create-rules/) section.
 
-<figure><img src="../../.gitbook/assets/Text Classification (1).png" alt=""><figcaption><p>ABC classification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Text Classification.png" alt=""><figcaption><p>ABC classification</p></figcaption></figure>

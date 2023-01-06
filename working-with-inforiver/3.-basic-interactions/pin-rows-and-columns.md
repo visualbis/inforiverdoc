@@ -51,3 +51,5 @@ b) To unpin an individual column, you can click on the pinned icon in the pinned
 c) When there are multiple pinned rows and columns, you can quickly un-pin the rows and columns by using the corresponding ‘un-pin all’ option from the row/column gripper.
 
 <figure><img src="../../.gitbook/assets/3.8.4 Unpin all.png" alt=""><figcaption><p>Unpin all</p></figcaption></figure>
+
+In the next section, you can find a list of the available [keyboard shortcuts](keyboard-shortcuts.md).

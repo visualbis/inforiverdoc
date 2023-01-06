@@ -1,4 +1,10 @@
-# Data-level conversations
+# Data-level comments
+
+Data-level commentary is very common in real-life scenarios. In this section, we'll see how you can add data-level comments, mention other users, reply to comments and receive instant notifications on replies/mentions.
+
+{% hint style="info" %}
+While all comments can be [written back](../../9.-data-writeback.md) to databases or shared drives, only the [comment column](comments.md#4.-comments-column) can be exported to an Excel/PDF file.
+{% endhint %}
 
 ## 1. Add comments
 
@@ -135,3 +141,5 @@ a) Email notifications on comment replies can be turned off. In the dropdown hig
 b) Email notifications for new replies or mentions can be turned off. In the 'Settings' panel, uncheck the highlighted checkbox.
 
 <figure><img src="../../../.gitbook/assets/8.2.43(2) notification.png" alt=""><figcaption><p>Turn off email notifications for new reply and mention</p></figcaption></figure>
+
+In the next section, we'll see how you can [assign & track tasks](comments-1.md).

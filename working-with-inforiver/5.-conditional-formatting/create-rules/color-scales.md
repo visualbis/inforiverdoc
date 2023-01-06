@@ -10,11 +10,11 @@ c) Select the 'Color scale for' value whether to be applied to the background, f
 
 d) Select the 'Heat map type' as Row/Column/Table wise.
 
-<figure><img src="../../../.gitbook/assets/ColorScale (2).png" alt=""><figcaption><p>Color scale</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ColorScale.png" alt=""><figcaption><p>Color scale</p></figcaption></figure>
 
 e) Select the 'Color scale type' from the drop-down as shown in the below image.
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (17).png>)
 
 f) 'Reverse color' option allows you to change the order from light to dark or dark to light based on values.
 
@@ -26,21 +26,21 @@ i) 'Auto font color' automatically adjusts the font color based on the backgroun
 
 h) If there is any null value in the data set, enabling the 'Include null' option, will consider the null values and conditional formatting gets applied. &#x20;
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](../../../.gitbook/assets/image.png)
 
 #### Examples
 
 1. Conditional formatting 'sequential color scale' has been applied to 2021 Actuals and 'column-wise' heat map option has been chosen.
 
-<figure><img src="../../../.gitbook/assets/Sequential (1).png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Sequential.png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
 
 2\. Conditional formatting 'diverging color scale' has been applied to '2021 Plan' based on '2021 Actuals' measure and 'row-wise' heat map option has been chosen.
 
-<figure><img src="../../../.gitbook/assets/Diverging.png" alt=""><figcaption><p>Diverging color scale</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Diverging (1).png" alt=""><figcaption><p>Diverging color scale</p></figcaption></figure>
 
 3\. Custom color scale type allows you to specify the custom range. Custom color ranges can be added based on value or percentage. Conditional formatting 'custom color scale' has been applied to '2021 Actuals' based on '2021 Plan' measure and 'table-wise' heat map option has been chosen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Custom (1).png" alt=""><figcaption><p>Custom color scale </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Custom.png" alt=""><figcaption><p>Custom color scale </p></figcaption></figure>
 
 {% hint style="info" %}
 Reset option allows you to reset the range values to default.

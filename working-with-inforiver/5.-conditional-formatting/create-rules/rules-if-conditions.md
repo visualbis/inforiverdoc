@@ -42,11 +42,11 @@ Let us highlight 2021 Actuals when the value is less than or equal to the user-s
 
 Icons can also be used to emphasize the values in the visual. Select the Icon checkbox and the fields highlighted in the image get enabled where you can set the icon preferences as required.&#x20;
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 You can select the position and color of the icon. Various icons are available, you can select from the drop-down or there is also an option to upload icons.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Icon (1).png" alt=""><figcaption><p>Format by icon</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Icon.png" alt=""><figcaption><p>Format by icon</p></figcaption></figure>
 
 Customized text can also be displayed as an icon by selecting the Display text checkbox. Once the checkbox is selected, the text box appears where you can type the text as required.
 
