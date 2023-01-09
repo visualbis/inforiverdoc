@@ -20,7 +20,7 @@ d) You can apply conditional formatting to values and totals, totals only or val
 
  
 
-<figure><img src="../../.gitbook/assets/5.2.3 Levels.png" alt=""><figcaption><p>Row hierarchy levels - Options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.2.3 Levels (1).png" alt=""><figcaption><p>Row hierarchy levels - Options</p></figcaption></figure>
 
 </div>
 
@@ -86,11 +86,71 @@ Note that conditional formatting is applied only to the totals - Categories, Reg
 
 <figure><img src="../../.gitbook/assets/5.2.13 Value.png" alt=""><figcaption><p>Conditional formatting when 2021 Actuals > 2021 Plan</p></figcaption></figure>
 
+### iv) Formula
 
+You can create simple formulas using either numeric values or measures. Let's highlight the records where 2021 Actuals are greater than the 2021 Plan by at least 5m. Configure as shown in the below image and click 'Apply'.  &#x20;
 
+<figure><img src="../../.gitbook/assets/5.2.14 Formula.png" alt=""><figcaption><p>Conditional formatting based on formula</p></figcaption></figure>
 
+Tea & coffee in the East subregion is the only record that matches the given condition.
 
+<figure><img src="../../.gitbook/assets/5.2.15 Formula.png" alt=""><figcaption><p>Conditional formatting based on formula</p></figcaption></figure>
 
+As you can see in the side panel, there is a '**Add condition**' option, which lets you create nested AND/OR conditions.&#x20;
+
+Let's consider another example where the conditions are Q4 2021 Actuals greater than 10m, the Category is Beverages and the Sub-regions are Pacific and East.
+
+Configure the settings as shown below for the first condition. Click on 'Add condition'.
+
+<figure><img src="../../.gitbook/assets/5.2.16 Formula.png" alt=""><figcaption><p>Nested conditions</p></figcaption></figure>
+
+You can see another condition with default selections and an option to select AND/OR. Let's select 'AND' and 'Category' from the highlighted dropdown.
+
+<figure><img src="../../.gitbook/assets/5.2.23 Formula.png" alt=""><figcaption><p>Adding an AND condition</p></figcaption></figure>
+
+You can see several options as shown in the below image. Let's go with the default option.
+
+<figure><img src="../../.gitbook/assets/5.2.24 Formula.png" alt=""><figcaption><p>Options for category</p></figcaption></figure>
+
+In the 'Choose members' dropdown, select 'Beverages'.
+
+<figure><img src="../../.gitbook/assets/5.2.25 Formula.png" alt=""><figcaption><p>Selecting a category</p></figcaption></figure>
+
+Let's now add the third condition. Click on 'Add condition'. In the highlighted dropdown (2021 Plan), select 'Sub Region'.
+
+<figure><img src="../../.gitbook/assets/5.2.26 Formula.png" alt=""><figcaption><p>Adding a third condition</p></figcaption></figure>
+
+Select Pacific and East in the dropdown as shown below. Click 'Apply'.
+
+<figure><img src="../../.gitbook/assets/5.2.27 Formula.png" alt=""><figcaption><p>Selecting multiple regions</p></figcaption></figure>
+
+You can see that the rows for Juices and Soda for East and Pacific are highlighted based on the three conditions.
+
+<figure><img src="../../.gitbook/assets/5.2.28 Formula.png" alt=""><figcaption><p>Conditional formatting based on nested conditions</p></figcaption></figure>
+
+### v) User selection
+
+You can apply conditional formatting based on a selection during runtime ie. in the reading view. Let's consider a case where we want conditional formatting to be applied to 2021 Actuals based on a Variance value selected during runtime.
+
+Configure as shown in the below image. Note that 2021 Actuals is set in the 'Apply to' field and 'Variance' in the IF condition. Click on the dropdown and select 'Variance'.&#x20;
+
+<figure><img src="../../.gitbook/assets/5.2.30 User selection.png" alt=""><figcaption><p>Conditional formatting based on user selection</p></figcaption></figure>
+
+Let's also add an icon. Click on the 'Icon' checkbox. There are several customization options.
+
+<figure><img src="../../.gitbook/assets/5.2.31 User selection.png" alt=""><figcaption><p>Adding an icon</p></figcaption></figure>
+
+Click on the icon dropdown and choose the flag icon.
+
+<figure><img src="../../.gitbook/assets/5.2.32 User selection.png" alt=""><figcaption><p>Customizing the icon</p></figcaption></figure>
+
+Change the flag color to green and the font color to black. Click 'Apply'.
+
+<figure><img src="../../.gitbook/assets/5.2.33 User selection.png" alt=""><figcaption><p>Customizing the icon color</p></figcaption></figure>
+
+Click on a value in any of the variance columns. You can see flag icons in the 2021 Actuals column where variance is greater than the selected variance.
+
+<figure><img src="../../.gitbook/assets/5.2.34 User selection.png" alt=""><figcaption><p>Conditional formatting based on user selection</p></figcaption></figure>
 
 ## 3. Color scale
 
