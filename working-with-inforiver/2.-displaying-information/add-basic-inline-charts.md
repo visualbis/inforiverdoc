@@ -6,13 +6,13 @@ With Inforiver, you can deliver a range of charts and visualizations in your mat
 
 ## Overview
 
-1. **Trend** - Incorporate **sparklines, spark columns**, and its variants such as win-loss trend to capture performance over time
+1. **Trend** - Incorporate **sparklines, spark columns**, and their variants such as the win-loss trend to capture performance over time
 2. **Performance** - Utilize different types of **bullet charts**, including the normalized bullet visualization (proposed by International Business Communication Standards)
 3. **Distribution** - Highlight distribution across categories using **stacked charts and waterfall** visualizations
 4. **Magnitude** - Deliver **bar, lollipop & pin** **charts, and data bars** for highlighting the magnitude and significance
 5. **Changes/deviation** - Track changes over time or with respect to benchmark by using **dot plot, arrow plot, dumbbell plot & range plot** charts
-6. Comparison - Compare multiple measures and visualize absolute and relative variances using **colored bar & lollipop/pin** charts&#x20;
-7. KPI cards - Insert **KPI cards** in a single click using the available presets; cards can be customized further
+6. **Comparison** - Compare multiple measures and visualize absolute and relative variances using **colored bar & lollipop/pin** charts&#x20;
+7. **KPI cards** - Insert **KPI cards** in a single click using the available presets; cards can be customized further
 8. **Blend columns/KPIs -** Blend **two measures in a single column** along with formatting, including conditional formatting&#x20;
 
 {% hint style="info" %}

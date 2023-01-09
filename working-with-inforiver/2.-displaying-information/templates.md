@@ -10,11 +10,13 @@ You can switch between these templates at any time. However, any customizations 
 
 ## 1. Grid templates
 
-Grid templates are used to build typical tabular reports. The Default grid option is featured in the above image.&#x20;
+Grid templates are used to build typical tabular reports. The Default grid option is featured below.&#x20;
+
+<figure><img src="../../.gitbook/assets/2.3.4 Templates.png" alt=""><figcaption><p>Default template</p></figcaption></figure>
 
 The Spreadsheet grid option is very similar, but it evokes the feeling of working with spreadsheet software like Excel. The spreadsheet option is featured below.
 
-<figure><img src="../../.gitbook/assets/inforiver-templates-spreadsheet.png" alt=""><figcaption><p>Grid templates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/inforiver-templates-spreadsheet.png" alt=""><figcaption><p>Spreadsheet template</p></figcaption></figure>
 
 ## 2. Financial templates
 
