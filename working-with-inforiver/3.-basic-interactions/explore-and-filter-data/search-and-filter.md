@@ -16,7 +16,7 @@ b) Type the text/value in the search box. Inforiver starts narrowing down the ma
 
 c) You can also search numeric values as shown in the below image.
 
-<figure><img src="../../../.gitbook/assets/ValueSearch.png" alt=""><figcaption><p>Value search</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ValueSearch (1).png" alt=""><figcaption><p>Value search</p></figcaption></figure>
 
 {% hint style="info" %}
 Inforiver searches across pages if you are using the multiple pages option in the 'Design' tab or you have added page breaks.&#x20;

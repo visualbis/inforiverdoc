@@ -8,7 +8,7 @@ a) Select the Sales (2016 Sales) column.
 
 b) In the 'Home' tab of the toolbar, select 'Top n' from the 'Analyze' section. The Top N dialog box appears.
 
-<figure><img src="../../../.gitbook/assets/Top n (1).png" alt=""><figcaption><p>Top N</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Top n.png" alt=""><figcaption><p>Top N</p></figcaption></figure>
 
 c) Fill in the following to filter the Top 2 categories. Click 'Apply'.
 
@@ -26,7 +26,7 @@ d) You can see the following Top 2 items along with 'Others'_._ It also indicate
 
 a) To do a nested Top N, like the bottom 3 sub-categories in each of the top 2 categories, you can create multiple rules by clicking ‘Add rule’ and filling in the fields as shown. Click 'Apply'.
 
-<figure><img src="../../../.gitbook/assets/Add rule (2).png" alt=""><figcaption><p>Nested rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Add rule (1).png" alt=""><figcaption><p>Nested rules</p></figcaption></figure>
 
 b) The above setup displays the following output. Note that the 'Others' row is available for categories and subcategories.
 
@@ -46,7 +46,7 @@ This configuration gives the following output.&#x20;
 
 When using the multi-level and nested Top N implementation, it may not be clear as to what a specific 'Others' row refers to.
 
-<figure><img src="../../../.gitbook/assets/Others (1).png" alt=""><figcaption><p>Suffix others</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Others.png" alt=""><figcaption><p>Suffix others</p></figcaption></figure>
 
 To address this, Inforiver provides an option that appends the category name to 'Others' for each instance of others, except the one at the outer-most level.
 
@@ -54,7 +54,7 @@ To address this, Inforiver provides an option that appends the category name to 
 
 To delete a Top N condition, click on the 'Delete' icon. To clear all the Top N conditions, click on 'Reset all'.
 
-<figure><img src="../../../.gitbook/assets/Reset,delete (1).png" alt=""><figcaption><p>Delete &#x26; reset</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Reset,delete.png" alt=""><figcaption><p>Delete &#x26; reset</p></figcaption></figure>
 
 A warning message gets displayed when you try to apply Top N on more than one column/measure. You need to remove the existing filter and apply a new one to the selected column by clicking on 'Remove and proceed'.
 
