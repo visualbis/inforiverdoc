@@ -10,7 +10,7 @@ In this example, the hierarchy in rows is Region -> Sub Region -> Category -> Su
 
 You can expand/collapse **individual rows** using the expand/collapse icons![](<../../.gitbook/assets/image (2) (3).png>). In the image below, you can see that International is fully expanded to the last level, while EMEA and United States remain collapsed.&#x20;
 
-<figure><img src="../../.gitbook/assets/RowHierarchy (1).png" alt=""><figcaption><p>Row hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/RowHierarchy.png" alt=""><figcaption><p>Row hierarchy</p></figcaption></figure>
 
 Inforiver also provides a number of options for expanding/collapsing all branches, expanding/collapsing to a specific level etc. To access these options, mouse over any row, and click on the hamburger menu.&#x20;
 
@@ -56,7 +56,7 @@ For example, if you select the row Beverages and 'Collapse Region', the categori
 
 In this example, the hierarchy in columns is Region -> Sub Region -> Quarter.
 
-You can expand/collapse **individual columns** using the expand/collapse icons <img src="../../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> . In the image below, you can see that International -> APAC is fully expanded to show the Quarters, while EMEA and United States remain collapsed.&#x20;
+You can expand/collapse **individual columns** using the expand/collapse icons <img src="../../.gitbook/assets/image (17).png" alt="" data-size="line"> . In the image below, you can see that International -> APAC is fully expanded to show the Quarters, while EMEA and United States remain collapsed.&#x20;
 
 <figure><img src="../../.gitbook/assets/ColumnHierarchy.png" alt=""><figcaption><p>Column hierarchy</p></figcaption></figure>
 

@@ -32,7 +32,7 @@ a) Choose any column or cell and click on Conditional Formatting -> Color scales
 
 b) A sample heatmap using the sequential color scale is shown below. Notice that the font colors are automatically adjusted to be in contrast with their backgrounds for enhanced readability.
 
-<figure><img src="../../.gitbook/assets/5.1.8 Color scales.png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.1.8 Color scales (1).png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
 
 ### 3. Classification
 
@@ -44,7 +44,7 @@ Let's look at an example for the three categories - Text, Icon set and Rating.
 
 a) **Text**: Text-based classification is commonly used to categorize performance. A sample report with ABC classification is shown in the below image.
 
-<figure><img src="../../.gitbook/assets/Text Classification.png" alt=""><figcaption><p>ABC classification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Text Classification (1).png" alt=""><figcaption><p>ABC classification</p></figcaption></figure>
 
 b) **Icons**: You can deliver conditional formatting using icons in a few clicks. Here is an example where items that contribute the most to sales are highlighted.
 

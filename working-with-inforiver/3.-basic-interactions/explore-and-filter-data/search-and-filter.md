@@ -8,7 +8,7 @@ The 'Search' option helps you find characters, words, and phrases in your Infori
 
 a) In the 'Home' tab of the toolbar, click on the 'Search' icon **** in the Analyze section.
 
-<figure><img src="../../../.gitbook/assets/Search (1).png" alt=""><figcaption><p>Search option in toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Search (2).png" alt=""><figcaption><p>Search option in toolbar</p></figcaption></figure>
 
 b) Type the text/value in the search box. Inforiver starts narrowing down the matches as soon as you start typing. Navigate through the results using the up and down arrows.
 
@@ -16,7 +16,7 @@ b) Type the text/value in the search box. Inforiver starts narrowing down the ma
 
 c) You can also search numeric values as shown in the below image.
 
-<figure><img src="../../../.gitbook/assets/ValueSearch (1).png" alt=""><figcaption><p>Value search</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ValueSearch.png" alt=""><figcaption><p>Value search</p></figcaption></figure>
 
 {% hint style="info" %}
 Inforiver searches across pages if you are using the multiple pages option in the 'Design' tab or you have added page breaks.&#x20;
@@ -38,7 +38,7 @@ b) Click 'Add Filter'. You can filter by row or column hierarchies, or by measur
 
 c) The data has been filtered to show only the rows corresponding to the category 'Water' as shown in the image.
 
-<figure><img src="../../../.gitbook/assets/FilterResult.png" alt=""><figcaption><p>Filter result</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FilterResult (2).png" alt=""><figcaption><p>Filter result</p></figcaption></figure>
 
 d) You can add multiple filters using the 'Add Filter' **** option and can apply nested AND/OR conditions. In the below example, we have added one more condition to filter only the International region for the category Water.
 
@@ -50,7 +50,7 @@ e) Inforiver also provides an option to add filter groups. Click 'Advanced'.&#x2
 
 f) Click 'Add group'. In the below image, we have added four conditions nested using AND/OR and using two filter groups. The filtered table is also shown.
 
-<figure><img src="../../../.gitbook/assets/GroupFilter.png" alt=""><figcaption><p>Group filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GroupFilter (1).png" alt=""><figcaption><p>Group filter</p></figcaption></figure>
 
 g) You can delete the individual filters by clicking on the 'Delete' icon available next to the condition.
 
