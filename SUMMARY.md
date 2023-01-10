@@ -107,6 +107,7 @@
       * [Rules (If conditions)](working-with-inforiver/5.-conditional-formatting/create-rule-basic-settings/rules-if-conditions.md)
       * [Color scale](working-with-inforiver/5.-conditional-formatting/create-rule-basic-settings/color-scale.md)
       * [Classification](working-with-inforiver/5.-conditional-formatting/create-rule-basic-settings/classification.md)
+      * [Ranking](working-with-inforiver/5.-conditional-formatting/create-rule-basic-settings/ranking.md)
     * [Create rules](working-with-inforiver/5.-conditional-formatting/create-rules/README.md)
       * [Rules (If conditions)](working-with-inforiver/5.-conditional-formatting/create-rules/rules-if-conditions.md)
       * [Color scales](working-with-inforiver/5.-conditional-formatting/create-rules/color-scales.md)
