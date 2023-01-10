@@ -30,7 +30,7 @@ A wide variety of color scales such as sequential, qualitative, diverging, conti
 
 Choose any of the color scales shown. A sample heatmap using the sequential color scale is shown below. Notice that the font colors are automatically adjusted to be in contrast with their backgrounds for enhanced readability.
 
-<figure><img src="../../.gitbook/assets/5.1.8 Color scales (1).png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.1.8 Color scales.png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
 
 ### 3. Classification
 
