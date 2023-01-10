@@ -24,21 +24,22 @@ In this example, we are highlighting the subcategories where 2021 Actuals are gr
 
 ### 2. Data selection
 
-You can also use a cell value in the condition. Select 'Data selection', click on the 'Set value' field and select a cell in the report.
+You can also use a cell value in the condition.&#x20;
 
-Note:&#x20;
-
-a) In this example, we have used 'Values and Totals' as the 'Row hierarchy levels'. You can see a new field where you can choose whether conditional formatting needs to be applied to the row grand total or not.&#x20;
-
-b) We are also using a background color for the formatting.
+a) Select 'Data selection', click on the 'Set value' field and select a cell in the report.
 
 <figure><img src="../../../.gitbook/assets/5.2.8 Data selection.png" alt=""><figcaption><p>Applying background color to values and totals</p></figcaption></figure>
 
-Click on the 'select value from' field and click on a cell in the report. The value gets populated automatically. Click 'Apply'.
+Note:&#x20;
+
+* In this example, we have used 'Values and Totals' as the 'Row hierarchy levels'. You can see a new field where you can choose whether conditional formatting needs to be applied to the row grand total or not.&#x20;
+* We are also using a background color for the formatting.
+
+b) Click on the 'select value from' field and click on a cell in the report. The value gets populated automatically. Click 'Apply'.
 
 <figure><img src="../../../.gitbook/assets/5.2.10 Data selection.png" alt=""><figcaption><p>Selecting data from the report </p></figcaption></figure>
 
-The formatting gets applied to all the hierarchy levels where 2021 Actuals are greater than the selected value.
+c) The formatting gets applied to all the hierarchy levels where 2021 Actuals are greater than the selected value.
 
 <figure><img src="../../../.gitbook/assets/5.2.11 Data selection.png" alt=""><figcaption><p>Conditional formatting based on data selection</p></figcaption></figure>
 
@@ -50,11 +51,11 @@ You can apply conditional formatting based on another measure in the visual. Let
 Measures that were added from the data source, auto-calculated variances, columns/measures created using calculations, data input and simulations can all be used in the IF condition.
 {% endhint %}
 
-Click on the highlighted dropdown and select 2021 Plan. Click 'Apply'.
+a) Click on the highlighted dropdown and select 2021 Plan. Click 'Apply'.
 
 <figure><img src="../../../.gitbook/assets/5.2.12 Value.png" alt=""><figcaption><p>Conditional formatting based on another measure </p></figcaption></figure>
 
-Note that conditional formatting is applied only to the totals - Categories, Regions and Subregions since we have chosen 'Row hierarchy levels' as 'Totals' and included 'Row grand total'.
+b) Note that conditional formatting is applied only to the totals - Categories, Regions and Subregions since we have chosen 'Row hierarchy levels' as 'Totals' and included 'Row grand total'.
 
 <figure><img src="../../../.gitbook/assets/5.2.13 Value.png" alt=""><figcaption><p>Conditional formatting when 2021 Actuals > 2021 Plan</p></figcaption></figure>
 
@@ -104,23 +105,23 @@ g) You can see that the rows for Juices and Soda for East and Pacific are highli
 
 You can apply conditional formatting based on a selection during runtime ie. in the reading view. Let's consider a case where we want conditional formatting to be applied to 2021 Actuals based on a Variance value selected during runtime.
 
-Configure as shown in the below image. Note that 2021 Actuals is set in the 'Apply to' field and 'Variance' in the IF condition. Click on the dropdown and select 'Variance'.&#x20;
+a) Configure as shown in the below image. Note that 2021 Actuals is set in the 'Apply to' field and 'Variance' in the IF condition. Click on the dropdown and select 'Variance'.&#x20;
 
 <figure><img src="../../../.gitbook/assets/5.2.30 User selection.png" alt=""><figcaption><p>Conditional formatting based on user selection</p></figcaption></figure>
 
-Let's also add an icon. Click on the 'Icon' checkbox. There are several customization options.
+b) Let's also add an icon. Click on the 'Icon' checkbox. There are several customization options.
 
 <figure><img src="../../../.gitbook/assets/5.2.31 User selection.png" alt=""><figcaption><p>Adding an icon</p></figcaption></figure>
 
-Click on the icon dropdown and choose the flag icon.
+c) Click on the icon dropdown and choose the flag icon.
 
 <figure><img src="../../../.gitbook/assets/5.2.32 User selection.png" alt=""><figcaption><p>Customizing the icon</p></figcaption></figure>
 
-Change the flag color to green and the font color to black. Click 'Apply'.
+d) Change the flag color to green and the font color to black. Click 'Apply'.
 
 <figure><img src="../../../.gitbook/assets/5.2.33 User selection.png" alt=""><figcaption><p>Customizing the icon color</p></figcaption></figure>
 
-Click on a value in any of the variance columns. You can see flag icons in the 2021 Actuals column where variance is greater than the selected variance.
+e) Click on a value in any of the variance columns. You can see flag icons in the 2021 Actuals column where the variance is greater than the selected variance.
 
 <figure><img src="../../../.gitbook/assets/5.2.34 User selection.png" alt=""><figcaption><p>Conditional formatting based on user selection</p></figcaption></figure>
 

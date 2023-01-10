@@ -24,11 +24,13 @@ b) Similarly, you can highlight values lesser than or equal to zero in red by cl
 
 ### 2. Color scales
 
-A wide variety of color scales such as sequential, qualitative, diverging, continuous and continuous-diverging can be applied in a single click. Choose any column or cell and click on Conditional Formatting -> Color scales.&#x20;
+A wide variety of color scales such as sequential, qualitative, diverging, continuous and continuous-diverging can be applied in a single click.&#x20;
+
+a) Choose any column or cell and click on Conditional Formatting -> Color scales. Choose any of the color scales shown.
 
 <figure><img src="../../.gitbook/assets/5.1.6 Color scales.png" alt=""><figcaption><p>Color scales</p></figcaption></figure>
 
-Choose any of the color scales shown. A sample heatmap using the sequential color scale is shown below. Notice that the font colors are automatically adjusted to be in contrast with their backgrounds for enhanced readability.
+b) A sample heatmap using the sequential color scale is shown below. Notice that the font colors are automatically adjusted to be in contrast with their backgrounds for enhanced readability.
 
 <figure><img src="../../.gitbook/assets/5.1.8 Color scales.png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
 
@@ -54,11 +56,13 @@ c) **Ratings**: You can use ratings such as the star-based ratings commonly seen
 
 ### 4. Data bars
 
-Data bars can be used to insert colored bars inside a cell to show how a given cell value compares to others. On clicking 'Data bars', you can see the following options. Select any of the options.
+Data bars can be used to insert colored bars inside a cell to show how a given cell value compares to others.&#x20;
+
+a) On clicking 'Data bars', you can see the following options. Select any of the options.
 
 <figure><img src="../../.gitbook/assets/Databars.png" alt=""><figcaption><p>Data bars</p></figcaption></figure>
 
-Data bar gets added as shown in the image making it easy to spot the highest and lowest values at a glance.
+b) Data bars get added as shown in the image making it easy to spot the highest and lowest values at a glance.
 
 <figure><img src="../../.gitbook/assets/BlueDataBars.png" alt=""><figcaption><p>Data bars</p></figcaption></figure>
 

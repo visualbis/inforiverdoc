@@ -2,17 +2,17 @@
 
 When you have several conditional formatting rules in your report, you can easily view and modify them using the 'Manage rules' option.&#x20;
 
-To access, click on the Conditional formatting dropdown and select 'Manage rules' as shown in the below image. A side panel opens showing a list of all the rules.
+To access, click on the 'Conditional formatting' dropdown and select 'Manage rules' as shown in the below image. A side panel opens showing a list of all the rules.
 
 <figure><img src="../../.gitbook/assets/Manage Rules.png" alt=""><figcaption><p>Manage rules side panel</p></figcaption></figure>
 
-a) To edit the existing rules, click on the **Pencil** icon.
+a) To edit the existing rules, click on the '**Pencil'** icon.
 
-b) You can use the **Duplicate** icon to create a copy of existing rules and edit further as required.
+b) You can use the '**Duplicate'** icon to create a copy of existing rules and edit further as required.
 
-c) You can delete the rules using the **Delete** icon corresponding to that rule.
+c) You can delete the rules using the '**Delete'** icon corresponding to that rule.
 
-d) Using the **On/off toggle**, you can enable/disable the rules.
+d) Using the '**On/off toggle'**, you can enable/disable the rules.
 
 e) You can reorder and prioritize the rules using the gripper to drag and drop rules.
 
