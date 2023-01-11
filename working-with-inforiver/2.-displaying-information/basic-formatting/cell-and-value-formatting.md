@@ -6,15 +6,25 @@ In Inforiver, you can change the font color, style, size, and text alignment in 
 
 ## 1. Style options
 
-a) Font and size - The default font is [Inforiver Sans](https://inforiver.com/blog/general/best-fonts-financial-reporting/) which has been specifically designed for use in financial and tabular reports. But you can change to a different font from the dropdown menu and change the default size.
+#### a) Font and size
 
-b) Increase/decrease font size - Font size can also be changed by using the Increase/Decrease font size options.
+The default font is [Inforiver Sans](https://inforiver.com/blog/general/best-fonts-financial-reporting/) which has been specifically designed for use in financial and tabular reports. But you can change to a different font from the dropdown menu and change the default size.
 
-c) Font style - Bold, Italics, and Underline styles can be applied.
+#### b) Increase/decrease font size&#x20;
 
-d) Font/background color - Pick a color using the color picker to apply Font/Background colors.
+Font size can also be changed by using the Increase/Decrease font size options.
 
-e) Borders - Inforiver provides several predefined border styles and they can be applied at a cell/row/column level. If the predefined cell borders do not meet your needs, you can create a custom border by clicking on the 'Custom' option.
+#### c) Font style&#x20;
+
+Bold, Italics, and Underline styles can be applied.
+
+#### d) Font/background color
+
+Pick a color using the color picker to apply Font/Background colors.
+
+#### e) Borders
+
+Inforiver provides several predefined border styles and they can be applied at a cell/row/column level. If the predefined cell borders do not meet your needs, you can create a custom border by clicking on the 'Custom' option.
 
 <figure><img src="../../../.gitbook/assets/2.4.2.2 borders.png" alt=""><figcaption><p>Applying borders</p></figcaption></figure>
 
@@ -24,15 +34,23 @@ To remove the predefined borders, click on the 'No borders' option (the 1st icon
 
 ## 2. Alignment options
 
-a) Horizontal/vertical alignment - Horizontal alignment can be formatted using Align left, right, and center options. For vertical alignment, the options are Align top, bottom, and middle.
+#### a) Horizontal/vertical alignment&#x20;
 
-b) Header orientation - Column and measure header orientations can be changed using the highlighted options. This is very helpful when you have a lot of columns in your report.
+Horizontal alignment can be formatted using Align left, right, and center options. For vertical alignment, the options are Align top, bottom, and middle.
+
+#### b) Header orientation&#x20;
+
+Column and measure header orientations can be changed using the highlighted options. This is very helpful when you have a lot of columns in your report.
 
 <figure><img src="../../../.gitbook/assets/2.4.2.3 header orientation.png" alt=""><figcaption><p>Header orientation options</p></figcaption></figure>
 
-c) Increase/decrease indent - Use the indentation icon from the toolbar to indent specific values. This feature makes creating financial statements a breeze.
+#### c) Increase/decrease indent&#x20;
 
-d) Row size - You can increase or decrease row size manually. This is especially useful when inserting inline charts.&#x20;
+Use the indentation icon from the toolbar to indent specific values. This feature makes creating financial statements a breeze.
+
+#### d) Row size&#x20;
+
+You can increase or decrease row size manually. This is especially useful when inserting inline charts.&#x20;
 
 ## 3. Format painter
 

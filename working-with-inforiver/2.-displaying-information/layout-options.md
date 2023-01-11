@@ -50,9 +50,13 @@ The drill down layout lets you explore one branch at a time in the hierarchy. Th
 
 The default Measure layout is used in all the Table layouts listed above.&#x20;
 
+### a. In rows
+
 When you change this to 'In rows', the measures are displayed as shown below.&#x20;
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-measures-in-rows.png" alt=""><figcaption><p>Measure in rows</p></figcaption></figure>
+
+### b. In columns
 
 When you change this to 'In columns', the measures are displayed above the column hierarchy categories.&#x20;
 

@@ -10,9 +10,15 @@ You can switch between these templates at any time. However, any customizations 
 
 ## 1. Grid templates
 
-Grid templates are used to build typical tabular reports. The Default grid option is featured below.&#x20;
+Grid templates are used to build typical tabular reports.&#x20;
+
+### a. Default grid
+
+The Default grid option is featured below.&#x20;
 
 <figure><img src="../../.gitbook/assets/2.3.4 Templates.png" alt=""><figcaption><p>Default template</p></figcaption></figure>
+
+### b. Spreadsheet grid
 
 The Spreadsheet grid option is very similar, but it evokes the feeling of working with spreadsheet software like Excel. The spreadsheet option is featured below.
 
@@ -20,9 +26,15 @@ The Spreadsheet grid option is very similar, but it evokes the feeling of workin
 
 ## 2. Financial templates
 
-The financial templates are ideal for building financial reports and statements. It comes in two variations, the Simple option, and the Standard option. The Simple option is shown below. By default, the row categories are given more space to accommodate longer category names in financial statements such as 'Number of shares outstanding.
+The financial templates are ideal for building financial reports and statements. It comes in two variations, the Simple option, and the Standard option.&#x20;
+
+### a. Simple template
+
+The Simple option is shown below. By default, the row categories are given more space to accommodate longer category names in financial statements such as 'Number of shares outstanding.
 
 <figure><img src="../../.gitbook/assets/inforiver-templates-financial-simple.png" alt=""><figcaption><p>Simple financial template</p></figcaption></figure>
+
+### b. Standard template
 
 The standard option uses a currency symbol for all the measures (which can be customized or removed for specific measures).&#x20;
 
