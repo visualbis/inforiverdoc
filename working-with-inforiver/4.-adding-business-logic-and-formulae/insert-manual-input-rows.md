@@ -12,11 +12,17 @@ Select a row as shown below. The 'Insert row' option gets enabled. Click on the 
 
 <figure><img src="../../.gitbook/assets/4.3.2 Static rows.png" alt=""><figcaption><p>Insert static row</p></figcaption></figure>
 
+#### Static row properties
+
 A side panel opens as shown. Type in the name of the category and click 'Apply'. You will see an empty record created right beneath 'Tea and Coffee', the row that was originally selected prior to the 'Insert Row' operation.&#x20;
 
-Note that we have left the '**Include in total**' enabled. This ensures that any values that we type in for 'Specialty beverages' also update the parent row 'Beverages'.&#x20;
+#### **Include in total**
 
-The '**Distribute parent value to children**' option ensures that if a value is entered at a total level, it gets distributed to the levels below it.
+When the 'Include in total' option is enabled, any values that we type in for 'Specialty beverages' also update the parent row 'Beverages'.&#x20;
+
+#### **Distribute parent value to children**
+
+The 'Distribute parent value to children' option ensures that if a value is entered at a total level, it gets distributed to the levels below it.
 
 <figure><img src="../../.gitbook/assets/4.3.3 Static rows.png" alt=""><figcaption><p>Static row side panel</p></figcaption></figure>
 

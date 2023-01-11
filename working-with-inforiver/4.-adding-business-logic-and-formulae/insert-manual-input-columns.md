@@ -59,22 +59,24 @@ By default, inputs are enabled in both read and edit modes in Power BI. But, bas
 
 <figure><img src="../../.gitbook/assets/4.4.12 allow input.png" alt=""><figcaption><p>Restrictions on input</p></figcaption></figure>
 
-a) Only in edit mode:
+#### a) Only in edit mode:
 
 When the 'Only in edit mode' option is chosen, the text editor is disabled.
 
 <figure><img src="../../.gitbook/assets/4.4.15 only edit mode.png" alt=""><figcaption><p>Data input disabled in reading mode</p></figcaption></figure>
 
-b) In both Power BI read and edit modes:
+#### b) In both Power BI read and edit modes:
 
 When the option 'In both Power BI read and edit modes' is selected, you can enter data in the reading view as shown below.
 
 <figure><img src="../../.gitbook/assets/4.4.16 read and edit modes.png" alt=""><figcaption><p>Data input in reading mode</p></figcaption></figure>
 
-c) Based on a formula:
+#### c) Based on a formula:
 
 You can allow data input only if a certain condition is met. The formula entered should return a boolean.
 
 In the below image, data input is allowed only if (2022 Actuals - 2022 Plan)% < 0. You can see that the text fields for Central and Midwest are greyed out.
 
 <figure><img src="../../.gitbook/assets/4.4.14(2) formula.png" alt=""><figcaption><p>Allow input based on formula</p></figcaption></figure>
+
+In the next section, we'll be looking at inserting [number ](insert-manual-input-columns/insert-manual-input-columns.md)columns.

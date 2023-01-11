@@ -13,6 +13,10 @@ Click on the 'Select' option in the dropdown.
 
 <figure><img src="../../../.gitbook/assets/4.4.2.1 Select.png" alt=""><figcaption><p>Input type - Select</p></figcaption></figure>
 
+{% hint style="info" %}
+Some of the properties such as [Insert as Visual measure/column](../insert-manual-input-columns.md#1.-insert-as) and [Allow input](../insert-manual-input-columns.md#2.-allow-input) are covered in earlier sections.
+{% endhint %}
+
 ## i) Creating a list of values
 
 There are two ways to create a list of values (LOVs) in Inforiver Matrix. The third option - Datasets - which is greyed out is available only in Inforiver Enterprise and is covered in a [later section](enterprise-features.md).
@@ -87,9 +91,8 @@ Changes to data input columns can be achieved using the 'Manage' option in the t
 
 <figure><img src="../../../.gitbook/assets/4.4.2.10 Edit options.png" alt=""><figcaption><p>Manage inserted data input column</p></figcaption></figure>
 
+The data input side panel opens up. You can make the changes as desired.
 
+<figure><img src="../../../.gitbook/assets/4.4.2.11 Edit options.png" alt=""><figcaption><p>Editing properties</p></figcaption></figure>
 
-
-
-
-
+In the next section, we'll be covering other data input types such as [text, checkbox and date](text-checkbox-and-date.md).

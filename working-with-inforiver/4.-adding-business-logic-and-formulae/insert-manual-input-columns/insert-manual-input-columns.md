@@ -59,13 +59,48 @@ In the below image, 'Maximum' has been chosen. The highlighted cells, which are 
 
 <figure><img src="../../../.gitbook/assets/4.4.20 number.png" alt=""><figcaption><p>Aggregation type - Maximum</p></figcaption></figure>
 
-### ii) Distribute parent value
+### ii) Distribute parent value to children
 
-When a value is entered in a subtotal or total row, the value can be distributed to the child rows. This distribution can be disabled if not required for certain scenarios.
+When a value is entered in a subtotal or total row, the value can be distributed to the child rows.&#x20;
 
 In the below image, 220m entered in the subtotal has been distributed equally to the subregions.
 
 <figure><img src="../../../.gitbook/assets/4.4.1. Distribute value.png" alt=""><figcaption><p>Value in subtotal distributed to child rows</p></figcaption></figure>
 
+There are several other ways to distribute values which will be covered in [Budgeting & allocations](../budgeting-and-allocations.md).&#x20;
 
+This distribution can be disabled if not required for certain scenarios. Uncheck the 'Distribute parent value to children' checkbox.
 
+<figure><img src="../../../.gitbook/assets/4.4.21 number.png" alt=""><figcaption><p>Disabling distribution</p></figcaption></figure>
+
+### iii) Min and max range
+
+When you need to define a range for the data input values, you can use the fields highlighted in the below image. Note that these are enabled only when the 'Distribute parent value to children' checkbox is unchecked.
+
+<figure><img src="../../../.gitbook/assets/4.4.22 number.png" alt=""><figcaption><p>Defining minimum and maximum value range</p></figcaption></figure>
+
+In the dropdown, you can see that there are two ways of defining ranges. Click on 'Static'.&#x20;
+
+<figure><img src="../../../.gitbook/assets/4.4.23 number.png" alt=""><figcaption><p>Static values or measures</p></figcaption></figure>
+
+The input field gets enabled. Enter a value as shown.
+
+<figure><img src="../../../.gitbook/assets/4.4.24 number.png" alt=""><figcaption><p>Entering a value</p></figcaption></figure>
+
+Let's define a maximum value using a measure. Select 'Measure' and '2022 Actuals' from the dropdown list. Click 'Update'.&#x20;
+
+<figure><img src="../../../.gitbook/assets/4.4.25 number.png" alt=""><figcaption><p>Using a measure as the maximum value range</p></figcaption></figure>
+
+Enter a value that is not within the defined range. Double-click on a cell and type in the formula bar. Click 'Enter'.&#x20;
+
+<figure><img src="../../../.gitbook/assets/4.4.26 number.png" alt=""><figcaption><p>Entering a value out of the defined range</p></figcaption></figure>
+
+You can see an error message that shows the allowed range for this particular cell. The maximum is 82m as that is the value of 2022 Actuals. &#x20;
+
+<figure><img src="../../../.gitbook/assets/4.4.27 number.png" alt=""><figcaption><p>Error message</p></figcaption></figure>
+
+Values within the defined range are captured as shown in the below image.
+
+<figure><img src="../../../.gitbook/assets/4.4.28 number.png" alt=""><figcaption><p>Value within range captured</p></figcaption></figure>
+
+In the next section, we'll be looking at [dropdown input columns](dropdown.md).
