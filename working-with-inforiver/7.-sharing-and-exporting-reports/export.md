@@ -85,7 +85,7 @@ e) A pop-up appears showing a warning, click 'Download'.
 
 f) The entire matrix gets exported as shown.
 
-<figure><img src="../../.gitbook/assets/Entire matrix PDF (5).png" alt=""><figcaption><p>Entire matrix PDF</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entire matrix PDF (1).png" alt=""><figcaption><p>Entire matrix PDF</p></figcaption></figure>
 
 #### Selected columns
 

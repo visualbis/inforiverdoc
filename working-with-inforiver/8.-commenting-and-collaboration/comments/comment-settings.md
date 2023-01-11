@@ -89,7 +89,7 @@ c) The available options are -&#x20;
 
 d) Once you customize as per requirement, click 'Save'.
 
-<figure><img src="../../../.gitbook/assets/8.2.4.17 comment digest (1).png" alt=""><figcaption><p>Customizing comment digest settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.2.4.17 comment digest.png" alt=""><figcaption><p>Customizing comment digest settings</p></figcaption></figure>
 
 {% hint style="info" %}
 Distribution Lists can also be added as recipients.&#x20;
