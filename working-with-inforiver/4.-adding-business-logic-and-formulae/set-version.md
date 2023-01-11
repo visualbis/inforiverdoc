@@ -24,7 +24,7 @@ a) Unchecking the measures to be removed from the measures field or from the 'Se
 
 b) Dragging and dropping the series in the corresponding measure field
 
-<figure><img src="../../.gitbook/assets/4.9.5 Set version (1).png" alt=""><figcaption><p>Mapping measures</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.9.5 Set version.png" alt=""><figcaption><p>Mapping measures</p></figcaption></figure>
 
 The measure mapping is modified as shown below.
 
