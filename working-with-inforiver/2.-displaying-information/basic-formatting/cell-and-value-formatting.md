@@ -34,7 +34,9 @@ To remove the predefined borders, click on the 'No borders' option (the 1st icon
 
 ## 2. Alignment options
 
-a) Horizontal/vertical alignment - Horizontal alignment can be formatted using Align left, right, and center options. For vertical alignment, the options are Align top, bottom, and middle.
+#### a) Horizontal/vertical alignment&#x20;
+
+Horizontal alignment can be formatted using Align left, right, and center options. For vertical alignment, the options are Align top, bottom, and middle.
 
 #### b) Header orientation&#x20;
 

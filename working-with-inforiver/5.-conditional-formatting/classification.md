@@ -24,25 +24,35 @@ b) The rows are classified and the text is displayed on the left of the data.
 
 <figure><img src="../../.gitbook/assets/5.4.4 Classification.png" alt=""><figcaption><p>ABC analysis</p></figcaption></figure>
 
-c) You can also have the classifications appear in a separate column if required. Check the '**Show as new column**' checkbox.
+**Show as new column**
+
+c) You can also have the classifications appear in a separate column if required. Check the 'Show as new column' checkbox.
 
 <figure><img src="../../.gitbook/assets/5.4.5 Classification.png" alt=""><figcaption><p>Display text in new column</p></figcaption></figure>
 
-d) When there are charts in the column where classification is to be applied, check the '**Apply to charts**' checkbox. In the below image, 2021 Actuals are visualized using bar charts and the colors defined for the ABC ranges are used for formatting.
+#### **Apply to charts**
+
+d) When there are charts in the column where classification is to be applied, check the 'Apply to charts' checkbox. In the below image, 2021 Actuals are visualized using bar charts and the colors defined for the ABC ranges are used for formatting.
 
 <figure><img src="../../.gitbook/assets/5.4.6 Classification.png" alt=""><figcaption><p>Classification applied to charts</p></figcaption></figure>
 
-e) You can also choose to display only the classification text by clicking on 'Only text' in the '**Text position**' dropdown.
+#### **Text position**
+
+e) You can also choose to display only the classification text by clicking on 'Only text' in the 'Text position' dropdown.
 
 <figure><img src="../../.gitbook/assets/5.4.7 Classification.png" alt=""><figcaption><p>Displaying only text</p></figcaption></figure>
 
-f) You can see two new fields getting enabled as shown below. Let's apply the '**Color for**' font and add 'Percentage text' on the left. You can see the contribution percentage displayed on the left along with the text.&#x20;
+#### **Color for**
+
+f) You can see two new fields getting enabled as shown below. Let's apply the 'Color for' font and add 'Percentage text' on the left. You can see the contribution percentage displayed on the left along with the text.&#x20;
 
 <figure><img src="../../.gitbook/assets/5.4.8 Classification.png" alt=""><figcaption><p>Only text along with percentages</p></figcaption></figure>
 
 g) Instead of color for the font, background color can also be applied. Select 'Background' in the 'Color for' dropdown.
 
 <figure><img src="../../.gitbook/assets/5.4.9 Classification.png" alt=""><figcaption><p>Background color for ABC classification</p></figcaption></figure>
+
+#### Classification ranges
 
 h) You can define custom ranges using the 'Add range', 'Text editor', 'Color picker' and 'Reverse text/color order' options as shown below.
 
@@ -76,11 +86,13 @@ b) You can see the 1-5 rating icons on the left of the data. By default, the num
 
 <figure><img src="../../.gitbook/assets/5.4.16 Classification.png" alt=""><figcaption><p>5-star rating</p></figcaption></figure>
 
-c) You can move the ratings to a separate column by clicking on the '**Show as new column**' checkbox.
+c) You can move the ratings to a separate column by clicking on the 'Show as new column' checkbox.
 
 <figure><img src="../../.gitbook/assets/5.4.17 Classification.png" alt=""><figcaption><p>Ratings in a new column</p></figcaption></figure>
 
-d) Check the '**Invert rating**' checkbox in cases where higher values need to show lower ratings.
+#### **Invert rating**
+
+d) Check the 'Invert rating' checkbox in cases where higher values need to show lower ratings.
 
 <figure><img src="../../.gitbook/assets/5.4.18 Classification.png" alt=""><figcaption><p>Inverted ratings</p></figcaption></figure>
 
@@ -88,7 +100,9 @@ e) As seen in text and icon-based formatting, you can choose only to display the
 
 <figure><img src="../../.gitbook/assets/5.4.19 Classification.png" alt=""><figcaption><p>Displaying only rating</p></figcaption></figure>
 
-f) You can customize the number of icons that appear in your scale – '**Number of range**s' has been set to 3 in this case.&#x20;
+#### **Number of range**s
+
+f) You can customize the number of icons that appear in your scale – 'Number of ranges' has been set to 3 in this case.&#x20;
 
 <figure><img src="../../.gitbook/assets/5.4.20 Classification.png" alt=""><figcaption><p>Changing the number of ranges</p></figcaption></figure>
 
@@ -96,7 +110,9 @@ g) The rating text can be shown on the left or right. Select the position and co
 
 <figure><img src="../../.gitbook/assets/5.4.21 Classification.png" alt=""><figcaption><p>Rating text</p></figcaption></figure>
 
-h) In Inforiver, you have the option to configure value ranges for each of the ratings. Click on the '**Enable custom**' checkbox. For every half rating, you'll be able to define percentage/value ranges in the 'From' and 'To' fields as shown in the below image.
+#### **Enable custom**
+
+h) In Inforiver, you have the option to configure value ranges for each of the ratings. Click on the 'Enable custom' checkbox. For every half rating, you'll be able to define percentage/value ranges in the 'From' and 'To' fields as shown in the below image.
 
 <figure><img src="../../.gitbook/assets/5.4.22 Classification.png" alt=""><figcaption><p>Custom ranges</p></figcaption></figure>
 

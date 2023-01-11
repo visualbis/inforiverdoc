@@ -44,6 +44,8 @@ d) You can add multiple filters using the 'Add Filter' **** option and can apply
 
 <figure><img src="../../../.gitbook/assets/NestedFilters.png" alt=""><figcaption><p>Nested filters</p></figcaption></figure>
 
+#### Add group
+
 e) Inforiver also provides an option to add filter groups. Click 'Advanced'.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Advanced filter1.png" alt=""><figcaption><p>Advanced filter</p></figcaption></figure>

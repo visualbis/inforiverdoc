@@ -82,37 +82,53 @@ c) Below is an example where the Continuous-Range scale is used.
 
 <figure><img src="../../.gitbook/assets/5.3.22 Color scale.png" alt=""><figcaption><p>Continuous-Range scale</p></figcaption></figure>
 
-### &#x20;5. Color scheme
+### &#x20;5. Colors
 
-a) For color scale of types Sequential, Diverging, Diverging-color safe, Qualitative and Qualitative-color safe, there are several default color schemes to choose from. You can click on the 'Color scheme' dropdown and choose the desired color scheme.
+#### a) Color scheme
+
+For color scale of types Sequential, Diverging, Diverging-color safe, Qualitative and Qualitative-color safe, there are several default color schemes to choose from. You can click on the 'Color scheme' dropdown and choose the desired color scheme.
 
 <figure><img src="../../.gitbook/assets/5.3.23 Color scale.png" alt=""><figcaption><p>Color schemes</p></figcaption></figure>
 
-b) For color scale of types Continuous-Range, Continuous-Diverging Range, Continuous and Continuous-Diverging, you can define the min/max colors and center color if applicable.
+#### b) Min/max/center
+
+For color scale of types Continuous-Range, Continuous-Diverging Range, Continuous and Continuous-Diverging, you can define the min/max colors and center color if applicable.
 
 <figure><img src="../../.gitbook/assets/5.3.24 Color scale.png" alt=""><figcaption><p>Color selection</p></figcaption></figure>
 
-c) The 'Custom' color scale type can be used to define custom color ranges based on value or percentage. On selecting the custom option, you can see the fields highlighted in the below image. You can define the values/percentages for the ranges, add or delete ranges, define colors and reverse the order. Changes can also be reset to default.
+#### c) Custom color scale
+
+The 'Custom' color scale type can be used to define custom color ranges based on value or percentage. On selecting the custom option, you can see the fields highlighted in the below image. You can define the values/percentages for the ranges, add or delete ranges, define colors and reverse the order. Changes can also be reset to default.
 
 <figure><img src="../../.gitbook/assets/5.3.31 Color scale.png" alt=""><figcaption><p>Custom color scheme</p></figcaption></figure>
 
-d) Color scale can be reversed for cases where the minimum and maximum values need to be denoted with the highest and lowest gradients. To achieve this, check the '**Reverse color**' checkbox.
+#### d) Reverse color
+
+Color scale can be reversed for cases where the minimum and maximum values need to be denoted with the highest and lowest gradients. To achieve this, check the 'Reverse color' checkbox.
 
 <figure><img src="../../.gitbook/assets/5.3.26 Color scale.png" alt=""><figcaption><p>Reversing color scale</p></figcaption></figure>
 
-e) By default, the number of bands is defined as 5. But it can be increased or decreased using the '**Number of bands**' field. The color scheme field also gets updated to show the gradients.
+#### e) Number of bands
+
+By default, the number of bands is defined as 5. But it can be increased or decreased using the 'Number of bands' field. The color scheme field also gets updated to show the gradients.
 
 <figure><img src="../../.gitbook/assets/5.3.27 Color scale.png" alt=""><figcaption><p>Number of bands</p></figcaption></figure>
 
-f) You can choose to show only the color scale and hide the values. To do this, check the '**Hide value**' checkbox.
+#### f) **Hide value**
+
+You can choose to show only the color scale and hide the values. To do this, check the 'Hide value' checkbox.
 
 <figure><img src="../../.gitbook/assets/5.3.28 Color scale.png" alt=""><figcaption><p>Hiding values</p></figcaption></figure>
 
-g) When you apply background conditional formatting in Inforiver, the font colors are automatically adjusted to be in contrast with their backgrounds to enhance readability. But it can be turned off if not required by unchecking the '**Auto font color**' checkbox.&#x20;
+#### g) **Auto font color**
+
+When you apply background conditional formatting in Inforiver, the font colors are automatically adjusted to be in contrast with their backgrounds to enhance readability. But it can be turned off if not required by unchecking the 'Auto font color' checkbox.&#x20;
 
 <figure><img src="../../.gitbook/assets/5.3.29 Color scale.png" alt=""><figcaption><p>Auto font color disabled</p></figcaption></figure>
 
-h) In cases where there are null values in your table, you can choose whether to include or exclude them from conditional formatting. In the below image, the 2022 Forecast for Pacific is empty. To show conditional formatting for Pacific as well, check the '**Include null**' checkbox.
+#### h) **Include null**
+
+In cases where there are null values in your table, you can choose whether to include or exclude them from conditional formatting. In the below image, the 2022 Forecast for Pacific is empty. To show conditional formatting for Pacific as well, check the 'Include null' checkbox.
 
 <figure><img src="../../.gitbook/assets/5.3.30 Color scale.png" alt=""><figcaption><p>Conditional formatting for null values</p></figcaption></figure>
 

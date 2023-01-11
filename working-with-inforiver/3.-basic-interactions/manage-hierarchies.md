@@ -20,19 +20,27 @@ Inforiver also provides a number of options for expanding/collapsing all branche
 
 You can perform the following **Expand** actions.
 
-i. **Expand all** - Expand all items in the rows to reveal the lowest level across all branches.
+#### i. **Expand all**&#x20;
+
+Expand all items in the rows to reveal the lowest level across all branches.
 
 For example, click on any row and 'Expand all', all the rows till the subcategories will be revealed.
 
-ii. **Expand level** - The immediate descendants for the selected level are shown for all the branches.&#x20;
+#### ii. **Expand level**&#x20;
+
+The immediate descendants for the selected level are shown for all the branches.&#x20;
 
 For example, if you select the row United States and 'Expand Level', the categories will be revealed for _all the regions._
 
-iii. **Expand descendants** - All the descendants for the selected row are shown.&#x20;
+#### iii. **Expand descendants**&#x20;
+
+All the descendants for the selected row are shown.&#x20;
 
 For example, if you select the row United States and 'Expand descendants', the categories and subcategories are expanded _only for the United States row._
 
-iv. **Expand specific level** - The descendants are expanded to a specific level for all the branches.&#x20;
+#### iv. **Expand specific level**&#x20;
+
+The descendants are expanded to a specific level for all the branches.&#x20;
 
 For example, if you select the row United States and 'Expand Sub category', the categories and subcategories are expanded for all the regions.
 
@@ -40,15 +48,21 @@ For example, if you select the row United States and 'Expand Sub category', the 
 
 You can also perform the following **Collapse** actions.
 
-i. **Collapse all** - Collapse all items in the rows to reveal only the highest level across all branches.
+#### i. **Collapse all**&#x20;
+
+Collapse all items in the rows to reveal only the highest level across all branches.
 
 For example, click on any row and 'Collapse all', only the regions will be shown.
 
-ii. **Collapse descendants** - All the descendants for the selected row are hidden.&#x20;
+#### ii. **Collapse descendants**&#x20;
+
+All the descendants for the selected row are hidden.&#x20;
 
 For example, if you select the row East and 'Collapse descendants', the categories and subcategories are hidden _only for the East row._
 
-iii. **Collapse specific level** - The descendants are collapsed to a specific level for all the branches.&#x20;
+#### iii. **Collapse specific level**&#x20;
+
+The descendants are collapsed to a specific level for all the branches.&#x20;
 
 For example, if you select the row Beverages and 'Collapse Region', the categories and subcategories are hidden for all the regions.
 
@@ -70,6 +84,16 @@ On clicking the hamburger menu, you can see a list of options.
 
 From this menu, you can perform the following actions:
 
-1. **Expand all** - Expand all the categories in the columns to the lowest level (Quarter) across all branches
-2. **Collapse all** - Collapse all the categories in the columns to show only the Regions
-3. **Go to level** - This option is useful when there are more than 2 hierarchy levels. Here you can expand all branches to Sub Region, for example
+#### **1. Expand all**&#x20;
+
+Expand all the categories in the columns to the lowest level (Quarter) across all branches
+
+#### **2. Collapse all**&#x20;
+
+Collapse all the categories in the columns to show only the Regions
+
+#### **3. Go to level**&#x20;
+
+This option is useful when there are more than 2 hierarchy levels. Here you can expand all branches to Sub Region, for example
+
+In the next section, we'll be [creating visual hierarchies](create-visual-hierarchies.md) using the Group feature.
