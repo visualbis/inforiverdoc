@@ -50,7 +50,7 @@ The performance templates are useful when you need to showcase observed performa
 
 In our case, we have chosen to map the measures as shown below.
 
-<figure><img src="../../.gitbook/assets/2.3.3 Templates.png" alt=""><figcaption><p>Mapping measures based on IBCS notation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.3.3 Templates (1).png" alt=""><figcaption><p>Mapping measures based on IBCS notation</p></figcaption></figure>
 
 The five performance template options available are listed below.
 
