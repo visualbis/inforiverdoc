@@ -13,6 +13,7 @@
       * [Number formatting](working-with-inforiver/2.-displaying-information/basic-formatting/number-formatting.md)
       * [Cell & value formatting](working-with-inforiver/2.-displaying-information/basic-formatting/cell-and-value-formatting.md)
       * [Totals & subtotals](working-with-inforiver/2.-displaying-information/basic-formatting/totals-and-subtotals.md)
+      * [Insert blank rows](working-with-inforiver/2.-displaying-information/basic-formatting/insert-blank-rows.md)
     * [Basic inline charts](working-with-inforiver/2.-displaying-information/add-basic-inline-charts.md)
   * [3. Basic interactions](working-with-inforiver/3.-basic-interactions/README.md)
     * [Explore & filter data](working-with-inforiver/3.-basic-interactions/explore-and-filter-data/README.md)

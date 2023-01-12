@@ -290,3 +290,5 @@ c) If you want to display in a horizontal orientation, change the 'Blend directi
 <figure><img src="../../.gitbook/assets/2.5.12 blend kpi.png" alt=""><figcaption><p>Blend measures horizontally</p></figcaption></figure>
 
 There are several customization options available for the charts and visualizations which will be covered in [working with charts](../6.-working-with-charts.md).
+
+In the next section, we'll be covering the [basic interactions](../3.-basic-interactions/).

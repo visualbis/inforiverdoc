@@ -15,7 +15,7 @@ Inforiver provides six (6) different options to manually enter data in your Powe
 Inforiver Matrix offers only the first five types. Input types and features specific to Inforiver Enterprise are covered in a later [section](insert-manual-input-columns/enterprise-features.md).&#x20;
 {% endhint %}
 
-## Sign-in
+## 1. Sign-in
 
 a) If you are using the Enterprise version, you need to sign in as shown below.
 
@@ -35,9 +35,9 @@ c) You can now start inserting a column to capture your data inputs by clicking 
 
 Before we look at inserting data input columns, let's look at some common properties available for all the input types.
 
-## Common properties
+## 2. Common properties
 
-### 1. Insert as
+### a) Insert as
 
 Data input columns can be inserted as a measure or a column.&#x20;
 
@@ -53,7 +53,7 @@ In the below image, a text column has been inserted as a column by selecting 'In
 
 <figure><img src="../../.gitbook/assets/4.4.11 Insert as.png" alt=""><figcaption><p>Visual column</p></figcaption></figure>
 
-### 2. Allow input
+### b) Allow input
 
 By default, inputs are enabled in both read and edit modes in Power BI. But, based on your requirement, you can allow inputs only in edit mode or based on a formula.
 

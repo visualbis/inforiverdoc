@@ -37,3 +37,5 @@ Let us now look at the United States. There is a header row with no values, foll
 <figure><img src="../../../.gitbook/assets/2.4.3.4 Split row subtotals.png" alt=""><figcaption><p>Split row subtotals option</p></figcaption></figure>
 
 In summary, Inforiver allows you to manage row & column subtotals & grand totals the way you want in an intuitive & flexible manner.
+
+In the next section, we'll be covering [inserting empty rows](insert-blank-rows.md).
