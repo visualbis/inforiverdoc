@@ -69,7 +69,7 @@ In the below image, 220m entered in the subtotal has been distributed equally to
 
 <figure><img src="../../../.gitbook/assets/4.4.1. Distribute value.png" alt=""><figcaption><p>Value in subtotal distributed to child rows</p></figcaption></figure>
 
-There are several other ways to distribute values which will be covered in [Budgeting & allocations](../../7.-planning-budgeting-and-forecasting/budgeting-and-allocations.md).&#x20;
+There are several other ways to distribute values which will be covered in [Budgeting & allocations](../budgeting-and-allocations.md).&#x20;
 
 This distribution can be disabled if not required for certain scenarios. Uncheck the 'Distribute parent value to children' checkbox.
 

@@ -34,7 +34,7 @@ b) A sample heatmap using the sequential color scale is shown below. Notice that
 
 <figure><img src="../../.gitbook/assets/5.1.8 Color scales (1).png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
 
-To learn more about customizing color scales, visit [this section](create-rule/color-scale-and-data-bars.md).
+To learn more about customizing color scales, visit [this section](color-scale.md).
 
 ### 3. Classification
 
@@ -56,7 +56,7 @@ c) **Ratings**: You can use ratings such as the star-based ratings commonly seen
 
 <figure><img src="../../.gitbook/assets/5.1.10 Classification.png" alt=""><figcaption><p>Star-based ratings</p></figcaption></figure>
 
-To learn more about customizing classifications, visit [this section](create-rule/classification.md).
+To learn more about customizing classifications, visit [this section](classification.md).
 
 ### 4. Data bars
 
@@ -70,6 +70,6 @@ b) Data bars get added as shown in the image making it easy to spot the highest 
 
 <figure><img src="../../.gitbook/assets/5.6.3 Data bars.png" alt=""><figcaption><p>Data bars</p></figcaption></figure>
 
-To learn more about customizing data bars, visit [this section](create-rule/color-scale-and-data-bars.md#2.-data-bars).
+To learn more about customizing data bars, visit [this section](color-scale.md#2.-data-bars).
 
 You can use the side panel to further customize your rules. In the next section, we'll look at the [advanced options](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/1HoYGlKZdGmcMoD9YKsh/working-with-inforiver/5.-conditional-formatting/advanced-options).

@@ -54,4 +54,4 @@ Select the 'Versions' tab as shown in the image. You can see the same dialog box
 
 <figure><img src="../../.gitbook/assets/4.9.13 Set version.png" alt=""><figcaption><p>Manage columns - Versions</p></figcaption></figure>
 
-In the next section, you can find a comprehensive list of all the [formulas and functions](../4.-adding-business-logic-and-formulae/formula-syntax/) available in Inforiver Matrix and Enterprise.
+In the next section, you can find a comprehensive list of all the [formulas and functions](formula-syntax/) available in Inforiver Matrix and Enterprise.
