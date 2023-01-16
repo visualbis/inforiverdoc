@@ -2,6 +2,8 @@
 
 With Inforiver, it is possible to insert a new calculated row, column or measure at the visual level in your Power BI table/matrix style reports, without writing DAX. The rows, measures and columns so created can also be formatted, rearranged, and utilized for downstream calculations.
 
+The Excel-like formula engine supports 50+ functions (logical, boolean, math functions and more). The formula editor provides syntax, examples and features such as autocomplete, multi-line support and more to help users create, and troubleshoot formulas
+
 ### 1. Visual measure
 
 Let us take this example, where we have sales data for two years, 2021 and 2020, by quarter. We will now try to insert a measure that calculates the percentage variance using the formula (2021 Actuals - 2020 Actuals) / 2020 Actuals.
@@ -113,3 +115,5 @@ We have now learnt how to insert calculated columns/measures in a Power BI matri
 #### Resources
 
 [Insert Formulas, Columns and Aggregation](https://www.youtube.com/watch?v=hjPAbuYJUSc)
+
+[Visual calculations using Inforiver](https://inforiver.com/visual-calculations-powerbi/)

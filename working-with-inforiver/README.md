@@ -10,16 +10,20 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **3. Basic interactions** - Basic interactions such as explorer, Top N ranking, search & filter, sorting, managing column widths, managing hierarchies, and grouping rows and columns, are covered in [basic interactions](3.-basic-interactions/).&#x20;
 
-**4. Adding business logic and formulae** - Inserting calculated and manual input rows/columns, quick formulas, what-if analysis & simulations, budgeting and allocations and a list of formulae available in Inforiver are covered in the [adding business logic and formulae](4.-adding-business-logic-and-formulae/) section.
+**4. Adding business logic and formulae** - Inserting calculated and manual input rows/columns, quick formulas, and a list of formulae available in Inforiver are covered in the [adding business logic and formulae](4.-adding-business-logic-and-formulae/) section.
 
 **5. Conditional formatting** - The [conditional formatting](5.-conditional-formatting.md) section covers various options such as quick rules, color scales, conditional formatting based on nested if conditions, segmentation, Top N ranking and more.
 
 **6. Working with charts** - The charts and visualizations have a number of customization options such as reference bands and lines, scaling, comparison bands etc. which are covered in [working with charts](6.-working-with-charts.md).
 
-**7. Sharing and exporting reports** - The [sharing and exporting reports](7.-sharing-and-exporting-reports/) section covers export to Excel and PDF, ad-hoc emails, and report bursting and scheduling to emails and shared drives.
+**7. Planning, budgeting & forecasting** - What-if analysis & simulations, budgeting, allocations and forecasting are covered in [planning, budgeting & forecasting](7.-planning-budgeting-and-forecasting/).
 
-**8. Commenting & collaboration** - The [commenting & collaboration](8.-commenting-and-collaboration/) section covers adding notes, annotations & comments, using @mentions, replies, email notifications, comment digest and more.
+**8. Paginated reporting** - The [paginated reporting](8.-paginated-reporting/) section covers options such as pagination, header & footer, and report layouts which allow you to build highly formatted & interactive paginated reports.
 
-**9. Data writeback** - The [data writeback](9.-data-writeback.md) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more.
+**9. Commenting & collaboration** - The [commenting & collaboration](8.-commenting-and-collaboration/) section covers adding notes, annotations & comments, using @mentions, replies, email notifications, comment digest and more.
+
+**10. Sharing and exporting reports** - The [sharing and exporting reports](7.-sharing-and-exporting-reports/) section covers export to Excel and PDF, ad-hoc emails, and report bursting and scheduling to emails and shared drives.
+
+**11. Data writeback** - The [data writeback](9.-data-writeback.md) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more.
 
 To start building your first Inforiver report, refer to the [first section](1.-build-your-first-inforiver-report.md).&#x20;
