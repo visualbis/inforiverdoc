@@ -40,8 +40,18 @@ The best-suited IBCS template gets applied. In this case, the T03 Measure rows t
 
 <figure><img src="../../.gitbook/assets/4.9.10 Set version.png" alt=""><figcaption><p>IBCS template applied</p></figcaption></figure>
 
-If you want to visualize using a different template, you can select from the side panel. In this case, T04 Variance waterfalls template has been used.
+If you want to visualize using a different template, you can select from the side panel. In this case, the T04 Variance waterfalls template has been used.
 
 <figure><img src="../../.gitbook/assets/4.9.11 Set version.png" alt=""><figcaption><p>Choose a different IBCS template</p></figcaption></figure>
 
-In the next section, you can find a comprehensive list of all the [formulas and functions](formula-syntax/) available in Inforiver Matrix and Enterprise.
+### 5. Manage columns
+
+Another way to access the 'Set version' dialog box is using 'Manage columns'. Click on 'Manage columns' and then the settings icon.
+
+<figure><img src="../../.gitbook/assets/4.9.12 Set version.png" alt=""><figcaption><p>Manage column</p></figcaption></figure>
+
+Select the 'Versions' tab as shown in the image. You can see the same dialog box that was explained earlier.
+
+<figure><img src="../../.gitbook/assets/4.9.13 Set version.png" alt=""><figcaption><p>Manage columns - Versions</p></figcaption></figure>
+
+In the next section, you can find a comprehensive list of all the [formulas and functions](../4.-adding-business-logic-and-formulae/formula-syntax/) available in Inforiver Matrix and Enterprise.

@@ -79,4 +79,22 @@ In the below image, data input is allowed only if (2022 Actuals - 2022 Plan)% < 
 
 <figure><img src="../../.gitbook/assets/4.4.14(2) formula.png" alt=""><figcaption><p>Allow input based on formula</p></figcaption></figure>
 
+## 3. FAQs
+
+#### 1) Can multiple users enter data in a single published report?
+
+Yes. When you use Inforiver Enterprise, **multiple users** can **enter data** in the same form in the **reading** view. Using the audit module, you can also keep track of changes made to your table made by different users.
+
+#### 2. Will a user be able to see data entered by other users?
+
+By default, yes. But if you enable row-level security, users will be able to see only the records they are authorized to see.
+
+#### 3. This is too good to be true. Is there something specific I should set up or configure so that my users can enter data?
+
+Nothing. Just add Inforiver Enterprise visual to your report, and use the '[Data Input](https://inforiver.com/blog/writeback/5-types-manual-data-entry-powerbi-table-matrix/)' feature to add fields of various types.
+
+#### 4. All of this is great. Can I write back this data to a database?
+
+Yes. You can [write back data to a destination database or shared drive](https://inforiver.com/blog/writeback/writeback-power-bi-10-key-considerations/) storage. Inforiver supports destinations such as SQL, Snowflake, Azure, BigQuery, MySQL, Sharepoint, OneDrive and more. You may also simply export the data to a PDF or Excel file.
+
 In the next section, we'll be looking at inserting [number ](insert-manual-input-columns/insert-manual-input-columns.md)columns.

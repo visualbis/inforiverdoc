@@ -65,3 +65,7 @@ When you change this to 'In columns', the measures are displayed above the colum
 To learn more about pivot analysis using Inforiver, visit this [page](https://inforiver.com/excel-like-pivot-analysis-powerbi/).
 
 In the next section, we'll look at the [one-click templates](templates.md) offered by Inforiver.
+
+#### Resources
+
+[Nesting Measures in Inforiver](https://inforiver.com/blog/general/nesting-measures-inforiver/)

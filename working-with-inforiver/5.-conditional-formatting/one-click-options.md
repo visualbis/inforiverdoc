@@ -34,6 +34,8 @@ b) A sample heatmap using the sequential color scale is shown below. Notice that
 
 <figure><img src="../../.gitbook/assets/5.1.8 Color scales (1).png" alt=""><figcaption><p>Sequential color scale</p></figcaption></figure>
 
+To learn more about customizing color scales, visit [this section](create-rule/color-scale-and-data-bars.md).
+
 ### 3. Classification
 
 You can apply conditional formatting based on icons/ratings and even deliver ABC segmentations in a single click. As you click on 'Classification', you can see the following options.&#x20;
@@ -54,16 +56,20 @@ c) **Ratings**: You can use ratings such as the star-based ratings commonly seen
 
 <figure><img src="../../.gitbook/assets/5.1.10 Classification.png" alt=""><figcaption><p>Star-based ratings</p></figcaption></figure>
 
+To learn more about customizing classifications, visit [this section](create-rule/classification.md).
+
 ### 4. Data bars
 
 Data bars can be used to insert colored bars inside a cell to show how a given cell value compares to others.&#x20;
 
 a) On clicking 'Data bars', you can see the following options. Select any of the options.
 
-<figure><img src="../../.gitbook/assets/Databars.png" alt=""><figcaption><p>Data bars</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.6.2 Data bars.png" alt=""><figcaption><p>Data bars</p></figcaption></figure>
 
 b) Data bars get added as shown in the image making it easy to spot the highest and lowest values at a glance.
 
-<figure><img src="../../.gitbook/assets/BlueDataBars.png" alt=""><figcaption><p>Data bars</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.6.3 Data bars.png" alt=""><figcaption><p>Data bars</p></figcaption></figure>
+
+To learn more about customizing data bars, visit [this section](create-rule/color-scale-and-data-bars.md#2.-data-bars).
 
 You can use the side panel to further customize your rules. In the next section, we'll look at the [advanced options](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/1HoYGlKZdGmcMoD9YKsh/working-with-inforiver/5.-conditional-formatting/advanced-options).

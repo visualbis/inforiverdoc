@@ -1,6 +1,8 @@
 # Number
 
-Numeric data can be entered and formatted in a variety of ways. Let's look at the steps to insert a numeric data input column.&#x20;
+Numeric data can be entered and formatted in a variety of ways. You can either insert a blank column and start entering data or use an existing column as a base to make further updates.
+
+Let's first look at the steps to insert a blank numeric data input column. The steps to copy another column as a data input column are covered in '[Copy as data input](insert-manual-input-columns.md#4.-copy-as-data-input)'.
 
 ## 1. Create a column
 
@@ -67,7 +69,7 @@ In the below image, 220m entered in the subtotal has been distributed equally to
 
 <figure><img src="../../../.gitbook/assets/4.4.1. Distribute value.png" alt=""><figcaption><p>Value in subtotal distributed to child rows</p></figcaption></figure>
 
-There are several other ways to distribute values which will be covered in [Budgeting & allocations](../budgeting-and-allocations.md).&#x20;
+There are several other ways to distribute values which will be covered in [Budgeting & allocations](../../7.-planning-budgeting-and-forecasting/budgeting-and-allocations.md).&#x20;
 
 This distribution can be disabled if not required for certain scenarios. Uncheck the 'Distribute parent value to children' checkbox.
 
@@ -102,5 +104,25 @@ You can see an error message that shows the allowed range for this particular ce
 Values within the defined range are captured as shown in the below image.
 
 <figure><img src="../../../.gitbook/assets/4.4.28 number.png" alt=""><figcaption><p>Value within range captured</p></figcaption></figure>
+
+## 4. Copy as data input
+
+There might be cases where you want to create a budget for the current year based on the prior year's budget and then make finer adjustments. In such cases, Inforiver provides the 'Copy as data input' option.
+
+Click on the column gripper corresponding to the measure you want to use as the base. Select 'Copy as data input' from the 'Insert' option. &#x20;
+
+<figure><img src="../../../.gitbook/assets/4.4.29 Number.png" alt=""><figcaption><p>Copy as data input</p></figcaption></figure>
+
+A measure gets created with the same values. You can rename it and customize other properties such as row aggregation type or allow input using the side panel.
+
+<figure><img src="../../../.gitbook/assets/4.4.30 Number.png" alt=""><figcaption><p>Data input column created</p></figcaption></figure>
+
+To edit values, double-click on a cell and enter as shown in the formula bar.
+
+<figure><img src="../../../.gitbook/assets/4.4.31 Number.png" alt=""><figcaption><p>Updating values</p></figcaption></figure>
+
+The values get updated and are also distributed or rolled up to the child and parent cells respectively.
+
+<figure><img src="../../../.gitbook/assets/4.4.32 Number.png" alt=""><figcaption><p>Value gets updated</p></figcaption></figure>
 
 In the next section, we'll be looking at [dropdown input columns](dropdown.md).
