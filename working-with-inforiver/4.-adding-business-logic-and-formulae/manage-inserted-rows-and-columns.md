@@ -1,6 +1,6 @@
 # Manage inserted rows & columns
 
-Rows or columns inserted in the visual such as calculations, static rows, simulations or data input columns can be managed using the 'Manage' options.
+Rows or columns inserted in the visual such as calculations, static rows, or data input columns can be managed using the 'Manage' options.
 
 ### 1. Manage rows
 

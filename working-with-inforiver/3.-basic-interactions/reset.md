@@ -25,7 +25,7 @@ The formatting has been reset.
 
 Note that 'Reset formats' does not remove conditional formatting applied in the visual. For example, consider the measure (AC vs PL %).
 
-<figure><img src="../../.gitbook/assets/CF.png" alt=""><figcaption><p>Conditional formatting not reset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CF (1).png" alt=""><figcaption><p>Conditional formatting not reset</p></figcaption></figure>
 
 Select a cell with conditional formatting, you can see that the 'Reset formats' option is not enabled.
 

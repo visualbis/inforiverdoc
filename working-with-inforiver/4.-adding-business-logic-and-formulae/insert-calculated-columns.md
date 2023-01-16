@@ -48,7 +48,9 @@ We have successfully inserted a calculated measure at the visual level in our Po
 
 ### 2. Visual column
 
-A calculated column works differently from a calculated measure.&#x20;
+A calculated column works differently from a calculated measure. Let's consider two examples.
+
+#### Example 1:
 
 a) Let us calculate quarter-on-quarter change from Q3 to Q4. Select the 'Visual column' option. Note that a visual column always appears at the last, outside any category or category hierarchies seen in columns.
 
@@ -66,13 +68,47 @@ d) You will see the values updated in the report.
 
 <figure><img src="../../.gitbook/assets/4.2.17 Column.png" alt=""><figcaption><p>Quarter on quarter column</p></figcaption></figure>
 
-Let's consider an example where we use some functions.
+#### Example 2:
 
+Let's consider an example where we use some functions. In the below example, we want to insert a column which displays the multiplier - 2022 Actuals/2022 Plan.&#x20;
 
+a) Click on 'Insert formula'. Notice that there is no option to insert as a visual measure or column. This is because there is no column hierarchy.
 
+<figure><img src="../../.gitbook/assets/4.2.22 Column.png" alt=""><figcaption><p>Inserting a new column</p></figcaption></figure>
 
+b) Enter the title and the formula. Click 'Create'.&#x20;
 
-We have now learnt how to insert a calculated column in a Power BI matrix or a table report using Inforiver.
+<figure><img src="../../.gitbook/assets/4.2.23 Column.png" alt=""><figcaption><p>Defining the calculation</p></figcaption></figure>
+
+c) Notice that there are Div/0! errors for two of the rows. There are two ways to deal with calculation errors.&#x20;
+
+**i) Display settings -> Suppress calculation errors**
+
+In the 'Home' tab, click on 'Display' settings. In the side panel, go to the 'Numbers' tab.&#x20;
+
+<figure><img src="../../.gitbook/assets/4.2.24 Column.png" alt=""><figcaption><p>Suppress calculation errors</p></figcaption></figure>
+
+Turn on the 'Suppress calculation errors' toggle. You can see a new field called 'Custom error text'.
+
+<figure><img src="../../.gitbook/assets/4.2.25 Column.png" alt=""><figcaption><p>Suppress calculation errors</p></figcaption></figure>
+
+You can define a custom text such as N.A., 0 or leave it blank. In the below image, we have entered 0. You can see the changes in the rows.&#x20;
+
+<figure><img src="../../.gitbook/assets/4.2.26 Column.png" alt=""><figcaption><p>Define custom error text</p></figcaption></figure>
+
+**ii) Using IFNA function**
+
+Another way to handle calculation errors is by using the IFNA function. When an expression results in an error, you can replace it with a value as shown below.&#x20;
+
+<figure><img src="../../.gitbook/assets/4.2.27 Column.png" alt=""><figcaption><p>Using IFNA function</p></figcaption></figure>
+
+**iii) Using the IF function**
+
+Another indirect approach would be to use IF/nested IF statements to define the value when the expression results in an error.&#x20;
+
+<figure><img src="../../.gitbook/assets/4.2.28 Column.png" alt=""><figcaption></figcaption></figure>
+
+We have now learnt how to insert calculated columns/measures in a Power BI matrix or a table report using Inforiver.
 
 #### Resources
 
