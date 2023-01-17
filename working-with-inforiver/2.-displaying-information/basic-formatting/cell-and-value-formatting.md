@@ -6,6 +6,12 @@ In Inforiver, you can change the font color, style, size, and text alignment in 
 
 ## 1. Style options
 
+Let's take a quick look at the style section in this video.&#x20;
+
+{% embed url="https://lumel.wistia.com/medias/yo7dpzjnz6" %}
+Style options in Inforiver
+{% endembed %}
+
 #### a) Font and size
 
 The default font is [Inforiver Sans](https://inforiver.com/blog/general/best-fonts-financial-reporting/) which has been specifically designed for use in financial and tabular reports. But you can change to a different font from the dropdown menu and change the default size.
@@ -46,11 +52,13 @@ To remove custom borders, click on 'Reset' or select the 'No borders' option (th
 
 To remove the predefined borders, click on the 'No borders' option (the 1st icon).
 
-{% embed url="https://lumel.wistia.com/medias/yo7dpzjnz6" %}
-Style options in Inforiver
-{% endembed %}
-
 ## 2. Alignment options
+
+Let's take a quick look at the alignment section in this video.&#x20;
+
+{% embed url="https://lumel.wistia.com/medias/skefv1txmj" %}
+Alignment options - Overview
+{% endembed %}
 
 #### a) Horizontal/vertical alignment&#x20;
 
@@ -69,7 +77,5 @@ Use the indentation icon from the toolbar to indent specific values. This featur
 #### d) Row size&#x20;
 
 You can increase or decrease row size manually. This is especially useful when inserting inline charts.&#x20;
-
-
 
 In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).

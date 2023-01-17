@@ -4,7 +4,7 @@ Everyday business decision-making involves stakeholders asking a lot of ‘what-
 
 Inforiver provides two ways to model & simulate outcomes for your ‘what-if’ questions. Let us look at them one by one.
 
-### 1. Edit a cell directly&#x20;
+## 1. Edit a cell directly&#x20;
 
 This method involves overwriting existing data in your report directly. However, Business Intelligence & Analytics tools typically do not provide this capability as there is no standard option to persist or write back the modified data.
 
@@ -26,9 +26,11 @@ Inforiver also allows you to use expressions with scaled values (e.g., 11250 + 0
 
 You can update even cells/columns that display charts/graphs using the above method. After the update, the charts or graphs render again based on the updated value.
 
-### 2. Use a simulation slider
+## 2. Use a simulation slider
 
 Another method to create projections in Power BI is to use the intuitive _simulation_ capability offered by Inforiver. Compared to the previous method, this approach has the benefit of automatically tracking variances for each record.
+
+### i) Inserting a column
 
 To use this feature, select the 2022 Actuals field and click on the ‘Simulate’ icon in the menu. This creates a simulation output field based on the input field (_2022 Actuals_, in this case).
 
@@ -46,11 +48,13 @@ d) **Show slider** - To enable/disable the slider. If the slider is disabled, si
 
 e) **Value range** - By default, each cell can be simulated from -100% to +100% of its value
 
+### ii) Simulation slider
+
 Once the field has been created, you can click on any cell in this new simulation-enabled field. This will display a small slider icon next to it. Hovering over this icon reveals a slider. Clicking and dragging the slider changes the value in the cell. It also shows a percentage change as you keep moving the slider to the right or to the left. The value & totals get updated once you release the slider.
 
 <figure><img src="../../.gitbook/assets/4.7.2(2) Simulation.png" alt=""><figcaption><p>Simulation slider</p></figcaption></figure>
 
-&#x20;In the example above, we have increased the value for the category Water in the region Pacific by 22%, which results in an overall sales increase of 1%.&#x20;
+In the example above, we have increased the value for the category Water in the region Pacific by 22%, which results in an overall sales increase of 1%.&#x20;
 
 When a parent cell is simulated, the change is distributed to the child levels. Simulating Grand Total -> East by 15% increases Beverages and Water for East region by the same percentage.
 
@@ -60,12 +64,46 @@ Multiple cells can be simulated at once. Use Shift/Ctrl + click to select cells 
 
 <figure><img src="../../.gitbook/assets/4.7.4 Simulation.png" alt=""><figcaption><p>Simulating multiple cells</p></figcaption></figure>
 
+On the simulation slider, you can see three options - lock, edit and delete. Let's look at them one by one.
+
+a) **Edit** - A simulation percentage can be defined by clicking on the pencil icon.&#x20;
+
+<figure><img src="../../.gitbook/assets/4.7.8 Simulation.png" alt=""><figcaption><p>Editing the simulation percentage</p></figcaption></figure>
+
+In the dialog box that opens, type the desired percentage and click 'Apply'.
+
+<figure><img src="../../.gitbook/assets/4.7.9 Simulation.png" alt=""><figcaption><p>Editing the simulation percentage</p></figcaption></figure>
+
+The value gets updated based on the entered percentage.
+
+<figure><img src="../../.gitbook/assets/4.7.10 Simulation.png" alt=""><figcaption><p>Percentage updated</p></figcaption></figure>
+
+b) **Lock** - Specific cells can be locked from simulations. Locked cells are not affected if their parent values are updated. Click on the 'Lock' icon.
+
+<figure><img src="../../.gitbook/assets/4.7.11 Simulation.png" alt=""><figcaption><p>Locking a cell from simulation</p></figcaption></figure>
+
+The cell is greyed out to indicate that it is locked from simulations.
+
+<figure><img src="../../.gitbook/assets/4.7.12 Simulation.png" alt=""><figcaption><p>Cell locked</p></figcaption></figure>
+
+On selecting a locked cell, you can see a lock icon. Click on it to unlock the cell.
+
+<figure><img src="../../.gitbook/assets/4.7.13 Simulation.png" alt=""><figcaption><p>Unlock a cell</p></figcaption></figure>
+
+c) **Delete** - Simulations can be cleared by clicking on the 'Delete' icon.
+
+<figure><img src="../../.gitbook/assets/4.7.14 Simulation.png" alt=""><figcaption><p>Deleting simulations</p></figcaption></figure>
+
+{% hint style="info" %}
+Multiple cells can be edited, locked or deleted at the same time by using Shift/Ctrl + Click.
+{% endhint %}
+
 When the simulation slider is disabled, double-click on the cell and edit directly as shown below.&#x20;
+
+<figure><img src="../../.gitbook/assets/4.7.7 Simulation.png" alt=""><figcaption><p>Simulation using cell editor and negative variance formatting style</p></figcaption></figure>
 
 {% hint style="info" %}
 All the variances are in red because the negative variance formatting style has been applied.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/4.7.7 Simulation.png" alt=""><figcaption><p>Simulation using cell editor and negative variance formatting style</p></figcaption></figure>
 
 To learn more about simulations in Power BI, read this [blog](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/). &#x20;

@@ -2,7 +2,7 @@
 
 There are a number of ways by which you can quickly adjust column width, especially when you have a lot of columns in the report.&#x20;
 
-the simplest way is to hover over the column header that needs to be resized and drag the handle as desired.
+The simplest way is to hover over the column header that needs to be resized and drag the handle as desired.
 
 <figure><img src="../../.gitbook/assets/3.5.5 resize columns.png" alt=""><figcaption><p>Drag column headers to resize</p></figcaption></figure>
 
@@ -12,6 +12,10 @@ There are four other options to adjust the column widths directly from the toolb
 2. ‘Fit to content’ resizes the columns to fit the contents
 3. ‘Best fit’ auto-adjusts both rows and columns that optimizes real estate&#x20;
 4. 'Manual column width' allows you to enter the width for specific columns in pixels
+
+{% embed url="https://lumel.wistia.com/medias/41bajwfmwu" %}
+Manage column width - Overview
+{% endembed %}
 
 Let's explore each of them with an example.
 

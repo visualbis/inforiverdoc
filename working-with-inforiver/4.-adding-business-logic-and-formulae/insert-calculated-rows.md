@@ -92,9 +92,15 @@ d) On unchecking the 'Include in charts' checkbox and clicking 'Update', you can
 
 ### 4. Evaluate column before rows
 
+When inserting calculated rows, in some cases you might want the total to be the sum of the child columns whereas in other cases, it needs to follow the defined formula. This behaviour can be configured using the 'Evaluate column before rows' option.&#x20;
 
+Let's consider an example where we are inserting the relative variance between two of the rows. In the below image, with 'Evaluate columns before rows' enabled, you can see that the variance for the grand total is calculated based on the grand total values of Pacific and Central.
 
+<figure><img src="../../.gitbook/assets/4.1.20 Calculated row.png" alt=""><figcaption><p>Total value calculated based on formula</p></figcaption></figure>
 
+When 'Evaluate columns before rows' is disabled, the grand total variance is calculated as the sum of Beverages and Water which is not the expected behaviour in this case.
+
+<figure><img src="../../.gitbook/assets/4.1.21 Calculated row.png" alt=""><figcaption><p>Total value calculated as sum of category values</p></figcaption></figure>
 
 #### Resources
 
