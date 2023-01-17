@@ -1,6 +1,10 @@
 # Explorer
 
-KPI explorer can be used to filter rows, columns and measures, sort by name or value and highlight row/column hierarchies using rules or ranges.&#x20;
+KPI explorer can be used to filter rows, columns and measures, sort by name or value and highlight row/column hierarchies using rules or ranges.
+
+{% embed url="https://lumel.wistia.com/medias/spp06nf8xb" %}
+KPI explorer - Overview
+{% endembed %}
 
 ### 1. Overview
 

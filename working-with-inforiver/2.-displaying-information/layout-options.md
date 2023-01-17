@@ -6,6 +6,10 @@ The Table Layout lets you determine how categories in rows need to be displayed.
 
 The Measure Layouts give you flexibility specifically with respect to how measures are displayed.&#x20;
 
+{% embed url="https://lumel.wistia.com/medias/gqcymydbxw" %}
+Table and measure layouts - Overview
+{% endembed %}
+
 ## 1. Table layouts
 
 ### a. Hierarchy

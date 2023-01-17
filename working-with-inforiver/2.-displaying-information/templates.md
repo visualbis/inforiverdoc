@@ -1,6 +1,12 @@
 # Templates
 
-In addition to the [layout options](layout-options.md), Inforiver provides three types of quick-start business templates, each of which can be customized further. These templates can be accessed from the 'Templates' icon under the 'Home' tab.
+In addition to the [layout options](layout-options.md), Inforiver provides three types of quick-start business templates, each of which can be customized further.&#x20;
+
+{% embed url="https://lumel.wistia.com/medias/45d7zr28ej" %}
+Templates - Overview
+{% endembed %}
+
+These templates can be accessed from the 'Templates' icon under the 'Home' tab.
 
 <figure><img src="../../.gitbook/assets/inforiver-templates.png" alt=""><figcaption><p>Templates available in Inforiver</p></figcaption></figure>
 

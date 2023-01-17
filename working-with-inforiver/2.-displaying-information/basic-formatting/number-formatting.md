@@ -2,6 +2,10 @@
 
 Inforiver for Power BI comes prepackaged with _intelligent number formatting & scaling recognition_ capabilities that help display data in a perceptive manner in your table/matrix style reports right out of the box.
 
+{% embed url="https://lumel.wistia.com/medias/nb3ed2mgq0" %}
+Number formatting - Overview
+{% endembed %}
+
 ## 1. Number scaling
 
 Let us take a sample dataset as shown below. You can immediately spot data of mixed granularity – with values in millions, thousands, and even one that is just a few dollars worth.

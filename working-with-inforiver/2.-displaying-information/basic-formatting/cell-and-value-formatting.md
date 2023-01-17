@@ -22,7 +22,21 @@ Bold, Italics, and Underline styles can be applied.
 
 Pick a color using the color picker to apply Font/Background colors.
 
-#### e) Borders
+#### e) Format painter
+
+You can copy cell formatting using the 'Format painter' option just as in Excel. But Inforiver goes one step further. If you have applied formatting to a specific level like the Subcategory in the below example, you can apply it to all the other subcategories using the 'Apply format to level' option.&#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/2.4.2.4 format level 1.png" alt=""><figcaption><p>Apply format to level option</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/2.4.2.4 format level 2.png" alt=""><figcaption><p>Format applied to level</p></figcaption></figure>
+
+</div>
+
+#### f) Borders
 
 Inforiver provides several predefined border styles and they can be applied at a cell/row/column level. If the predefined cell borders do not meet your needs, you can create a custom border by clicking on the 'Custom' option.
 
@@ -31,6 +45,10 @@ Inforiver provides several predefined border styles and they can be applied at a
 To remove custom borders, click on 'Reset' or select the 'No borders' option (the 1st icon).
 
 To remove the predefined borders, click on the 'No borders' option (the 1st icon).
+
+{% embed url="https://lumel.wistia.com/medias/yo7dpzjnz6" %}
+Style options in Inforiver
+{% endembed %}
 
 ## 2. Alignment options
 
@@ -52,18 +70,6 @@ Use the indentation icon from the toolbar to indent specific values. This featur
 
 You can increase or decrease row size manually. This is especially useful when inserting inline charts.&#x20;
 
-## 3. Format painter
 
-You can copy cell formatting using the 'Format painter' option just as in Excel. But Inforiver goes one step further. If you have applied formatting to a specific level like the Subcategory in the below example, you can apply it to all the other subcategories using the 'Apply format to level' option.&#x20;
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/2.4.2.4 format level 1.png" alt=""><figcaption><p>Apply format to level option</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2.4.2.4 format level 2.png" alt=""><figcaption><p>Format applied to level</p></figcaption></figure>
-
-</div>
 
 In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).

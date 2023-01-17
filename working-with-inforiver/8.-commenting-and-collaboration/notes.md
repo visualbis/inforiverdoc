@@ -1,6 +1,12 @@
 # Notes
 
-Notes are static text added to a data point or visual to give some descriptive details. Observe that notes do not have options for a reply and do not capture time stamps.&#x20;
+Notes are static text added to a data point or visual to give some descriptive details.&#x20;
+
+{% embed url="https://lumel.wistia.com/medias/2a56qcku4i" %}
+Notes - Overview
+{% endembed %}
+
+Observe that notes do not have options for a reply and do not capture time stamps.&#x20;
 
 <figure><img src="../../.gitbook/assets/8.1.1 Notes.png" alt=""><figcaption><p>Notes in Inforiver</p></figcaption></figure>
 

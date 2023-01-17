@@ -2,6 +2,10 @@
 
 Be it a typical table or a hierarchical matrix style report in Power BI, Inforiver allows you to seamlessly manage subtotals and grand totals in a couple of clicks.
 
+{% embed url="https://lumel.wistia.com/medias/zhxhi6ndv3" %}
+Totals & subtotals - Overview
+{% endembed %}
+
 In this example, we have hierarchies across both rows & columns.
 
 <figure><img src="../../../.gitbook/assets/2.4.3.1 Data (1).png" alt=""><figcaption><p>Matrix with row and column hierarchies</p></figcaption></figure>

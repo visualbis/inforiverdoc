@@ -1,6 +1,12 @@
 # Top N + others
 
-Top N answers questions such as _Customers_ contributing to the most revenue, _Spend Categories_ that consume most of the budget etc. In this section, let us see how the Top N feature works in Inforiver.&#x20;
+Top N answers questions such as _Customers_ contributing to the most revenue, _Spend Categories_ that consume most of the budget etc.&#x20;
+
+{% embed url="https://lumel.wistia.com/medias/z9pzrtc9oy" %}
+Top N + Others - Overview
+{% endembed %}
+
+In this section, let us see how the Top N feature works in Inforiver.&#x20;
 
 Consider the example of displaying the Top 2 categories based on 2016 Sales.
 

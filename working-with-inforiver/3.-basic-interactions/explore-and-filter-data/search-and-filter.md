@@ -2,6 +2,10 @@
 
 The search & filter features help you to focus on relevant data when there are a large number of records.
 
+{% embed url="https://lumel.wistia.com/medias/xf8oguse6v" %}
+Search & filter - Overview
+{% endembed %}
+
 ## 1. Search
 
 The 'Search' option helps you find characters, words, and phrases in your Inforiver report.
