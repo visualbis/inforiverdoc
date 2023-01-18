@@ -32,31 +32,37 @@ Enter a value of 290m as the Q1 2023 Budget in the formula bar by double-clickin
 
 <figure><img src="../../.gitbook/assets/7.2.2 ZBB.png" alt=""><figcaption><p>Entering a value at the total level</p></figcaption></figure>
 
-There are two ways to allocate a value entered in a total or subtotal - [equally](budgeting-and-allocations.md#i-equal) or [based on weights](budgeting-and-allocations.md#ii-weight).
+There are two ways to allocate a value entered in a **total or subtotal** - [equally](budgeting-and-allocations.md#i-equal) or [based on weights](budgeting-and-allocations.md#ii-weight).
+
+{% hint style="info" %}
+The equal and weight options are not shown when you click on a cell at the child level. &#x20;
+{% endhint %}
 
 ### i) Equal
 
-After entering the value in the formula bar, press 'Enter'. By default, the values get distributed equally across all the categories and subcategories. Inforiver automatically highlights the updated values.
+a) After entering the value in the formula bar, press 'Enter'. By default, the values get distributed equally across all the categories and subcategories. Inforiver automatically highlights the updated values.
 
 Note that the values have been rolled up to the grand total (Grand total -> 2023 Budget).
 
 <figure><img src="../../.gitbook/assets/7.2.3 ZBB (1).png" alt=""><figcaption><p>Equal distribution</p></figcaption></figure>
 
-Let's consider another example where we enter a budget at the grand total level. Double-click on the highlighted cell and enter 1.2b.
+b) Let's consider another example where we enter a budget at the grand total level. Double-click on the highlighted cell and enter 1.2b.
 
 <figure><img src="../../.gitbook/assets/7.2.4 Equal.png" alt=""><figcaption><p>Update grand total value </p></figcaption></figure>
 
-Once you click 'Enter', you can see the value distributed equally across categories, subcategories and quarters.
+c) Once you click 'Enter', you can see the value distributed equally across categories, subcategories and quarters.
 
 <figure><img src="../../.gitbook/assets/7.2.5 Equal.png" alt=""><figcaption><p>Equal distribution at grand total level</p></figcaption></figure>
 
 ### ii) Weight
 
-In this case, we don't need an equal distribution. We need to allocate the budget proportionally based on 2022 actuals. Click on the context menu appearing on the cell with the value 1,200.0 and choose ‘Distribute by weights of 2022 Actuals’.
+In this case, we don't need an equal distribution. We need to allocate the budget proportionally based on 2022 actuals.&#x20;
+
+a) Click on the context menu appearing on the cell with the value 1,200.0 and choose ‘Distribute by weights of 2022 Actuals’.
 
 <figure><img src="../../.gitbook/assets/7.2.6 Weights.png" alt=""><figcaption><p>Distribution based on prior year values</p></figcaption></figure>
 
-Once this option is selected, the 2023 Budget values are updated automatically across product categories & quarters by their relative contribution to 2022 Actuals.
+b) Once this option is selected, the 2023 Budget values are updated automatically across product categories & quarters by their relative contribution to 2022 Actuals.
 
 <figure><img src="../../.gitbook/assets/7.2.7 Weights.png" alt=""><figcaption><p>Value gets redistributed based on weights</p></figcaption></figure>
 
@@ -95,6 +101,10 @@ e) Let’s enter 1.2b again as the overall budget. The budgets get redistributed
 ### ii) Lock all children
 
 In some cases, you might want to lock all the children for a particular cell. For example, all the children across rows such as sub-regions and/or across columns such as quarters might need to be locked.
+
+{% hint style="info" %}
+Lock all children option is not shown when you click on a cell at the child level.
+{% endhint %}
 
 a) Click on Beverages -> 2023 Budget, and select 'Lock all children' from the context menu.
 
@@ -140,17 +150,68 @@ d) All the cells including the quarters are unlocked.
 
 ## 4. Edit period values
 
+On clicking a child cell, you can see that there is different context menu. There are two preset options to update cell values. You can copy the same cell value across rows or columns or apply a trend.
 
+If these options do not satisfy your requirements, you can customize your cells manually.
+
+<figure><img src="../../.gitbook/assets/7.2.23 Trend.png" alt=""><figcaption><p>Options to edit period values</p></figcaption></figure>
 
 ### i) Trend
 
+You can apply a trend based on the current cell value and apply it until the last row or column.&#x20;
 
+a) As you click on the '>', you can see a graphical slider where you can set a trend.
 
+<figure><img src="../../.gitbook/assets/7.2.24 Trend.png" alt=""><figcaption><p>Graphical slider</p></figcaption></figure>
 
+b) If you want to enter a percentage precisely, you can click on the 'Input custom value' option.
+
+<figure><img src="../../.gitbook/assets/7.2.26 Trend.png" alt=""><figcaption><p>Input custom value</p></figcaption></figure>
+
+c) Enter a percentage and click 'Apply'.&#x20;
+
+<figure><img src="../../.gitbook/assets/7.2.28 Trend.png" alt=""><figcaption><p>Custom value</p></figcaption></figure>
+
+d) The values for Soda and Tea & Coffee are updated as shown in the below image.
+
+<figure><img src="../../.gitbook/assets/7.2.29 Trend.png" alt=""><figcaption><p>Copy until last row with trend</p></figcaption></figure>
+
+e) You can use 'Copy with trend' in combination with 'Lock this cell' to achieve different scenarios. Let's consider a scenario where the value for Q3 is fixed and the trend needs to be applied to the other quarters. Click on the 'Lock this cell' for the cell highlighted.
+
+<figure><img src="../../.gitbook/assets/7.2.30 Trend.png" alt=""><figcaption><p>Lock cells and copy to other columns</p></figcaption></figure>
+
+f) On applying a trend of 20% as shown in the image, Q2 and Q4 values are updated. Q3 is greyed out as it is locked.
+
+<figure><img src="../../.gitbook/assets/7.2.31 Trend.png" alt=""><figcaption><p>Trend applied to unlocked cells</p></figcaption></figure>
 
 ### ii) Copy
 
+You can copy the current cell value and apply it to other cells using the following options:
 
+* Copy until the last row in the row category
+* Copy to all rows in the row category
+* Copy to all rows
+* Copy until the last column in the column category
+* Copy to all columns in the column category
 
+{% hint style="info" %}
+Note that the options shown in the below image are enabled only when there are two or more categories in the rows and columns.
+{% endhint %}
 
+<figure><img src="../../.gitbook/assets/7.2.35 Copy all category.png" alt=""><figcaption><p>Copy options</p></figcaption></figure>
 
+Let's take a simpler example - with two categories (Product category and subcategory) in the rows and Quarters in the column.
+
+a) On selecting 'Copy to all rows', the value for Soda is copied to all other subcategories.
+
+<figure><img src="../../.gitbook/assets/7.2.32 Copy all.png" alt=""><figcaption><p>Copy to all rows</p></figcaption></figure>
+
+b) If you only want to copy a particular value within the category, you can select the option highlighted below.
+
+<figure><img src="../../.gitbook/assets/7.2.34 Copy all category.png" alt=""><figcaption><p>Copy to all rows in the category</p></figcaption></figure>
+
+c) Value can be copied until the last column using the highlighted option.
+
+<figure><img src="../../.gitbook/assets/7.2.33 Copy last column.png" alt=""><figcaption><p>Copy until the last column</p></figcaption></figure>
+
+In the next section, we'll be covering [set version](set-version.md).
