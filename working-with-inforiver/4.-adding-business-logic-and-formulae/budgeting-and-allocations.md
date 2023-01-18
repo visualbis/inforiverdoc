@@ -40,7 +40,7 @@ After entering the value in the formula bar, press 'Enter'. By default, the valu
 
 Note that the values have been rolled up to the grand total (Grand total -> 2023 Budget).
 
-<figure><img src="../../.gitbook/assets/7.2.3 ZBB.png" alt=""><figcaption><p>Equal distribution</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7.2.3 ZBB (1).png" alt=""><figcaption><p>Equal distribution</p></figcaption></figure>
 
 Let's consider another example where we enter a budget at the grand total level. Double-click on the highlighted cell and enter 1.2b.
 
