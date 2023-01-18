@@ -48,7 +48,7 @@ The standard option uses a currency symbol for all the measures (which can be cu
 
 ## 3. Performance templates
 
-Inforiver offers five (5) types of performance templates. All of these templates are based on designs recommended by International Business Communication Standards (IBCS).&#x20;
+Inforiver offers five (5) types of performance templates. All of these templates are based on designs recommended by International Business Communication Standards ([IBCS](https://www.ibcs.com/)).&#x20;
 
 {% hint style="info" %}
 The performance templates are useful when you need to showcase observed performance against a benchmark (say, sales vs. plan, budget, forecast, or prior year sales).&#x20;
@@ -56,7 +56,7 @@ The performance templates are useful when you need to showcase observed performa
 
 In our case, we have chosen to map the measures as shown below.
 
-<figure><img src="../../.gitbook/assets/2.3.3 Templates.png" alt=""><figcaption><p>Mapping measures based on IBCS notation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.3.3 Templates (1).png" alt=""><figcaption><p>Mapping measures based on IBCS notation</p></figcaption></figure>
 
 The five performance template options available are listed below.
 
@@ -91,3 +91,9 @@ This template is similar to T04, with the exception of actuals data (AC) which i
 <figure><img src="../../.gitbook/assets/inforiver-templates-performance-T05.png" alt=""><figcaption><p>IBCS table template T05</p></figcaption></figure>
 
 In the next section, we'll be covering the [basic formatting](basic-formatting.md) options available in Inforiver.
+
+#### Resources
+
+[IBCS table templates in Inforiver](https://inforiver.com/ibcs-reports-powerbi/)
+
+[IBCS tables in Inforiver - Highlights](https://inforiver.com/ibcs-reports-powerbi/ibcs-tables-powerbi/)

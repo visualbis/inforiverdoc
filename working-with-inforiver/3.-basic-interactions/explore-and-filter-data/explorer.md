@@ -149,3 +149,7 @@ j) To apply highlights based on rules, select the 'Rules' option. Apply a rule a
 <figure><img src="../../../.gitbook/assets/3.1.2.25 Explorer.png" alt=""><figcaption><p>Highlights based on rules</p></figcaption></figure>
 
 In the next section, we'll cover [Top N](top-n.md) analysis.
+
+#### Resources
+
+[Explore data using Inforiver](https://inforiver.com/explore-data-powerbi/)

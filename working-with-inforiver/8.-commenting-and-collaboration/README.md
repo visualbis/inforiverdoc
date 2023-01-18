@@ -1,4 +1,4 @@
-# 8. Commenting and collaboration
+# 9. Commenting and collaboration
 
 Power BI provides a native, true, out-of-the-box commenting capability. It supports report-level and visual-level commenting including @mentions and collaborative conversations. However, data-level commenting is not possible. &#x20;
 
@@ -13,3 +13,11 @@ But the similarities stop there. Notes & Comments in Inforiver are different in 
 1. You can respond to a comment, but not to a note.
 2. Comments are collaborative, while notes are only used to annotate/provide additional context to data
 3. Commentary needs users to be authenticated with Office365 and hence is available only with Inforiver Enterprise. Notes are supported in both Inforiver Matrix and Enterprise.
+
+#### Resources
+
+[Commenting and collaboration using Inforiver](https://inforiver.com/collaborate-powerbi/)
+
+[10 key considerations for a commentary solution in Power BI ](https://inforiver.com/blog/general/10-key-considerations-for-a-commentary-solution-in-power-bi/)
+
+[Data-driven comments & conversations](https://inforiver.com/blog/general/data-driven-comments-conversations-power-bi/)

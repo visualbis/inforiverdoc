@@ -1,10 +1,14 @@
 # Set version
 
-'Set version' can be used to compare two or more measures in the report and calculate absolute and percentage variances automatically. One-click variance analysis of measures such as current year, plan, forecasts or budgets using IBCS templates can also be achieved.
+'Set version' can be used to compare two or more measures in the report and calculate absolute and percentage variances automatically. One-click variance analysis of measures such as current year, plan, forecasts or budgets using [IBCS](https://www.ibcs.com/) templates can also be achieved.
 
 Click on 'Set version' in the 'Insert' tab of the toolbar. The current AC, PY, PL and FC mapping is shown along with other measures created in the visuals - such as simulations and budgets.
 
 <figure><img src="../../.gitbook/assets/4.9.1(3) Set version.png" alt=""><figcaption><p>Set version</p></figcaption></figure>
+
+{% hint style="info" %}
+AC, PY, PL and FC are IBCS terminologies for the business scenarios Actuals, Prior year, Plan and Forecast respectively. According to IBCS, scenarios with different meanings should be presented differently and they recommend the solid, outlined, hatched notation​ where AC is in black, PY in grey, PL is outlined and FC is hatched.
+{% endhint %}
 
 ### 1. Prerequisite
 

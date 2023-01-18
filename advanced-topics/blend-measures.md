@@ -68,7 +68,7 @@ c) You can see that the values in the merged columns reflect the change.
 
 a) To view the conditional formatting rule, in the 'Home' tab, click on the 'Conditional formatting' drop-down and select 'Manage rules'.&#x20;
 
-<figure><img src="../.gitbook/assets/CF.png" alt=""><figcaption><p>Manage rules</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CF (1).png" alt=""><figcaption><p>Manage rules</p></figcaption></figure>
 
 b) A side panel opens showing a list of all the rules. Click on the 'Edit' icon next to the rule Icons - Margin %.
 

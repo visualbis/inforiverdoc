@@ -42,4 +42,4 @@ In the image on the left, Rule 1 is executed first. So, the highlighted values a
 
 </div>
 
-In the next section, we'll be covering [customization options in charts](../6.-working-with-charts.md).
+In the next section, we'll be covering [customization options in charts](../6.-working-with-charts/).

@@ -13,3 +13,7 @@ In Inforiver, you can change the font color, style, size, and text alignment in 
 #### 3. Totals & subtotals
 
 Be it a typical table or a hierarchical matrix style report in Power BI, Inforiver allows you to seamlessly manage subtotals and grand totals in a couple of clicks. To learn more, refer to [Totals & subtotals](basic-formatting/totals-and-subtotals.md).
+
+#### 4. Insert blank rows
+
+Financial statements and reports often require options to add white spaces for formatting. Inforiver provides the insert 'empty row' option to achieve this in a single click. To learn more, refer to [Insert blank rows](basic-formatting/insert-blank-rows.md).

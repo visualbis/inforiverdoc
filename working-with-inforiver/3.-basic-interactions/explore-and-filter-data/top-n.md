@@ -67,3 +67,9 @@ A warning message gets displayed when you try to apply Top N on more than one co
 <figure><img src="../../../.gitbook/assets/Warning.png" alt=""><figcaption><p>Applying top N filter on multiple columns throws a warning</p></figcaption></figure>
 
 In the next section, we'll be covering [sorting & reordering data](../sort-and-reorder-data.md).
+
+#### Resources
+
+[The Business Case for dynamic & nested Top N + Others reports](https://inforiver.com/blog/general/the-business-case-for-dynamic-nested-top-n-others-reports/)
+
+[Dynamic and nested Top N + Others in Power BI](https://inforiver.com/blog/general/dynamic-and-nested-top-n-others-in-power-bi/)
