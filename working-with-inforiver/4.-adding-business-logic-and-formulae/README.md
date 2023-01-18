@@ -26,4 +26,4 @@ We successfully used filters, KPI explorer, manage columns, expand/collapse hier
 
 **6. Manage inserted rows & columns** - Rows or columns inserted in the visual such as calculations, static rows, or data input columns can be managed using the 'Manage' options. To learn more, refer to [manage inserted rows & columns](manage-inserted-rows-and-columns.md).
 
-**7. Formula syntax** - Inforiver provides several functions, operators, and identifiers that can be used for calculations. To learn more, refer to [formula syntax](formula-syntax/).
+**7. Formula syntax** - Inforiver provides several functions, operators, and identifiers that can be used for calculations. To learn more, refer to [formula syntax](../../formula-syntax/).

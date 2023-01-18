@@ -20,7 +20,7 @@ d) You can apply conditional formatting to values and totals, totals only or val
 
  
 
-<figure><img src="../../.gitbook/assets/5.2.3 Levels.png" alt=""><figcaption><p>Row hierarchy levels - Options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.2.3 Levels (1).png" alt=""><figcaption><p>Row hierarchy levels - Options</p></figcaption></figure>
 
 </div>
 

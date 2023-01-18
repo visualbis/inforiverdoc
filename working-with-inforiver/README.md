@@ -14,7 +14,7 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **5. Conditional formatting** - The [conditional formatting](5.-conditional-formatting.md) section covers various options such as quick rules, color scales, conditional formatting based on nested if conditions, segmentation, Top N ranking and more.
 
-**6. Working with charts** - The charts and visualizations have a number of customization options such as reference bands and lines, scaling, comparison bands etc. which are covered in [working with charts](6.-working-with-charts/).
+**6. Working with charts** - The charts and visualizations have a number of customization options such as reference bands and lines, scaling, comparison bands etc. which are covered in [working with charts](6.-working-with-charts.md).
 
 **7. Planning, budgeting & forecasting** - What-if analysis & simulations, budgeting, allocations and forecasting are covered in [planning, budgeting & forecasting](7.-planning-budgeting-and-forecasting/).
 

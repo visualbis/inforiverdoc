@@ -106,7 +106,7 @@ a) In the 'Comments' dropdown, turn the 'Comments column' toggle on.
 
 b) The comments column gets added.&#x20;
 
-<figure><img src="../../../.gitbook/assets/8.2.37 comments column.png" alt=""><figcaption><p>Comments column gets added</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.2.37 comments column (1).png" alt=""><figcaption><p>Comments column gets added</p></figcaption></figure>
 
 c) Click on any cell in the comments column. The comment editor opens. Enter a comment and click 'Post'.
 

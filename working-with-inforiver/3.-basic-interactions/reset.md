@@ -9,7 +9,7 @@ Reset option allows you to remove or revert any changes that have been made to a
 
 In the 'Home' tab of the toolbar, select the 'Reset' icon from the 'Actions' section. You can see that Reset Formats and Reset Value options are disabled. To enable them, you need to select one or more cells with formats applied or edited values.
 
-<figure><img src="../../.gitbook/assets/Reset (2).png" alt=""><figcaption><p>Reset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Reset (3).png" alt=""><figcaption><p>Reset</p></figcaption></figure>
 
 ### **1. Reset formats**
 
@@ -25,7 +25,7 @@ The formatting has been reset.
 
 Note that 'Reset formats' does not remove conditional formatting applied in the visual. For example, consider the measure (AC vs PL %).
 
-<figure><img src="../../.gitbook/assets/CF.png" alt=""><figcaption><p>Conditional formatting not reset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CF (1).png" alt=""><figcaption><p>Conditional formatting not reset</p></figcaption></figure>
 
 Select a cell with conditional formatting, you can see that the 'Reset formats' option is not enabled.
 

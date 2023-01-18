@@ -16,7 +16,7 @@ With Inforiver, you can deliver a range of charts and visualizations in your mat
 8. **Blend columns/KPIs -** Blend **two measures in a single column** along with formatting, including conditional formatting&#x20;
 
 {% hint style="info" %}
-In this section, only the basics of charts will be covered. For advanced customizations, visit [working with charts](../6.-working-with-charts/).
+In this section, only the basics of charts will be covered. For advanced customizations, visit [working with charts](../6.-working-with-charts.md).
 {% endhint %}
 
 ## 1. Trend
@@ -289,6 +289,6 @@ c) If you want to display in a horizontal orientation, change the 'Blend directi
 
 <figure><img src="../../.gitbook/assets/2.5.12 blend kpi.png" alt=""><figcaption><p>Blend measures horizontally</p></figcaption></figure>
 
-There are several customization options available for the charts and visualizations which will be covered in [working with charts](../6.-working-with-charts/).
+There are several customization options available for the charts and visualizations which will be covered in [working with charts](../6.-working-with-charts.md).
 
 In the next section, we'll be covering the [basic interactions](../3.-basic-interactions/).
