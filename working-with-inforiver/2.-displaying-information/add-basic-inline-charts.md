@@ -31,7 +31,7 @@ a) Click on the 'Sparkline' icon highlighted and choose the 'Column sparkline'.&
 
 b) The spark column appears incorporating data for all the months. You can see the minimum and maximum values for each row in red and green.&#x20;
 
-In the toolbar, you can see the 'Customize' tab which gets enabled. We'll cover these toolbar options in a later section.
+In the toolbar, you can see the 'Customize' tab which gets enabled. We'll cover these toolbar options in the [sparkline charts](../6.-working-with-charts/sparkline-charts.md) section.
 
 <figure><img src="../../.gitbook/assets/2.5.3 sparkline.png" alt=""><figcaption><p>Sparkline customization options</p></figcaption></figure>
 
@@ -51,13 +51,15 @@ b) The bullet chart gets inserted showing a comparison of the two measures. The 
 
 <figure><img src="../../.gitbook/assets/2.5.5 2 value bullet.png" alt=""><figcaption><p>Bullet chart customization options</p></figcaption></figure>
 
+In the toolbar, you can see the 'Customize' tab which gets enabled. We'll cover these toolbar options in the [2-value bullet charts](../6.-working-with-charts/bullet-charts-and-clustered-bar-charts.md#i-2-value-bullet-charts) section.
+
 ### ii) 3-value bullet charts
 
 a) To enable the 3-value bullets, add one more measure as shown below. We'll choose the 'Bullet with marker' as highlighted.
 
 <figure><img src="../../.gitbook/assets/2.5.6 3 value bullet.png" alt=""><figcaption><p>3-value bullet variants</p></figcaption></figure>
 
-b) This type of bullet chart also displays the comparison band. The legend is highlighted below. These options can be customized from the toolbar.
+b) This type of bullet chart also displays the comparison band. The legend is highlighted below. These options can be customized from the toolbar and are covered in the [3-value bullet charts](../6.-working-with-charts/bullet-charts-and-clustered-bar-charts.md#ii-3-value-bullet-charts) section.
 
 <figure><img src="../../.gitbook/assets/2.5.7 3 value bullet.png" alt=""><figcaption><p>Bullet with marker</p></figcaption></figure>
 
@@ -74,6 +76,8 @@ In the popup screen, enable 'Clustered bar'.
 b) The clustered bar gets applied.
 
 <figure><img src="../../.gitbook/assets/2.5.9 clustered bar.png" alt=""><figcaption><p>Clustered bar</p></figcaption></figure>
+
+In the toolbar, you can see the 'Customize' tab which gets enabled. We'll cover these toolbar options in the [clustered bar](../6.-working-with-charts/bullet-charts-and-clustered-bar-charts.md#iii-clustered-bars) section.
 
 ## 3. Distribution
 
@@ -93,7 +97,7 @@ c) Let's hide the subcategory columns. In the toolbar, click on the 'Manage colu
 
 <figure><img src="../../.gitbook/assets/2.5.15 stacked chart.png" alt=""><figcaption><p>Hide subcategory columns</p></figcaption></figure>
 
-d) Select the column with the chart and drag using the arrow next to the column header to resize. There are a number of customization options available, which will be covered in a later section.
+d) Select the column with the chart and drag using the arrow next to the column header to resize. There are a number of customization options available, which are covered in the [stacked charts](../6.-working-with-charts/stacked-charts.md) section.
 
 <figure><img src="../../.gitbook/assets/2.5.16 stacked chart.png" alt=""><figcaption><p>Resize the chart</p></figcaption></figure>
 

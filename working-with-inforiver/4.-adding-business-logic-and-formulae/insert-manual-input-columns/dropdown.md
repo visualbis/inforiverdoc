@@ -9,6 +9,10 @@ The single-select and multi-select columns have two main differences:
 
 In this section, we'll cover single-select columns. The same steps can be followed for multi-select except for the two points mentioned above.
 
+{% hint style="info" %}
+If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to start inserting a dropdown column.
+{% endhint %}
+
 Click on the 'Select' option in the dropdown.
 
 <figure><img src="../../../.gitbook/assets/4.4.2.1 Select.png" alt=""><figcaption><p>Input type - Select</p></figcaption></figure>

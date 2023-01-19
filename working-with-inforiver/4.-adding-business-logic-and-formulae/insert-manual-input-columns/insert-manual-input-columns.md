@@ -4,6 +4,10 @@ Numeric data can be entered and formatted in a variety of ways. You can either i
 
 Let's first look at the steps to insert a blank numeric data input column. The steps to copy another column as a data input column are covered in '[Copy as data input](insert-manual-input-columns.md#4.-copy-as-data-input)'.
 
+{% hint style="info" %}
+If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to start inserting a number column.
+{% endhint %}
+
 ## 1. Create a column
 
 Select the 'Number' option in the dropdown.

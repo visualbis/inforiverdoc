@@ -60,11 +60,11 @@ d) Using the 'Search' option, you can search for any row/column/cell within the 
 
 e) There is also an advanced filter option where you can filter based on the type of change, date range and logs with comments:
 
-'Type' - You can filter the log based on data editing, formatting or data entry.&#x20;
+Type - You can filter the log based on data editing, formatting or data entry.&#x20;
 
-'Date range' - You can filter the logs that fall within a date range by selecting the 'From' and 'To' dates from the date picker.
+Date range - You can filter the logs that fall within a date range by selecting the 'From' and 'To' dates from the date picker.
 
-'Filter logs with comments' - You can filter only the logs with comments.
+Filter logs with comments - You can filter only the logs with comments.
 
 <figure><img src="../.gitbook/assets/Filter (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
@@ -80,17 +80,17 @@ Export is supported only in Power BI service.
 
 b) The downloaded audit log contains several fields which are explained below.
 
-'Activity' - You can see the type of change such as a change in data, row reorder, data measure rename etc.&#x20;
+Activity - You can see the type of change such as a change in data, row reorder, data measure rename etc.&#x20;
 
-'Level' - Indicates the magnitude of change. For example, a change to a data source cell is marked 'Critical'.
+Level - Indicates the magnitude of change. For example, a change to a data source cell is marked 'Critical'.
 
-'Change' - Description for the change such as the name of the field that was added/removed, label change etc.
+Change - Description for the change such as the name of the field that was added/removed, label change etc.
 
-'Selection type' - Indicates whether the change affected the entire table/matrix or specific row/column/cell.
+Selection type - Indicates whether the change affected the entire table/matrix or specific row/column/cell.
 
-'Selection' - In case the change was applicable to a row/column/cell, the particular selection is mentioned.
+Selection - In case the change was applicable to a row/column/cell, the particular selection is mentioned.
 
-'Comments' - If the log has any comment added, the comment is shown.
+Comments - If the log has any comment added, the comment is shown.
 
 <figure><img src="../.gitbook/assets/Audit excel.png" alt=""><figcaption><p>Downloaded excel</p></figcaption></figure>
 

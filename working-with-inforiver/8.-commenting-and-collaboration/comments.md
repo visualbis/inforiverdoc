@@ -26,7 +26,7 @@ d) In the Inforiver visual, you can now see your profile picture instead of the 
 
 <figure><img src="../../.gitbook/assets/8.2.5 Successful login.png" alt=""><figcaption><p>Inforiver visual on successful login</p></figcaption></figure>
 
-e) On clicking the dropdown, you can find more information and options. The workspace that you are part of will be shown. You can navigate to the <mark style="color:red;">Inforiver Console</mark> (covered in detail in another section).&#x20;
+e) On clicking the dropdown, you can find more information and options. The workspace that you are part of will be shown. You can navigate to the [Inforiver Console](../../advanced-topics/admin-console.md).
 
 <figure><img src="../../.gitbook/assets/8.2.6 Successful login.png" alt=""><figcaption><p>Options available after login</p></figcaption></figure>
 
