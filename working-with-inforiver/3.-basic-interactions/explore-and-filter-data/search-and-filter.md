@@ -12,7 +12,7 @@ The 'Search' option helps you find characters, words, and phrases in your Infori
 
 a) In the 'Home' tab of the toolbar, click on the 'Search' icon **** in the Analyze section.
 
-<figure><img src="../../../.gitbook/assets/Search (2) (1).png" alt=""><figcaption><p>Search option in toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Search (2).png" alt=""><figcaption><p>Search option in toolbar</p></figcaption></figure>
 
 b) Type the text/value in the search box. Inforiver starts narrowing down the matches as soon as you start typing. Navigate through the results using the up and down arrows.
 
@@ -34,7 +34,7 @@ Inforiver provides nested AND/OR filtering options to filter a range of data bas
 
 a) In the 'Home' tab of the toolbar, click on the 'Filter' icon **** in the Analyze section.
 
-<figure><img src="../../../.gitbook/assets/Filter (1).png" alt=""><figcaption><p>Filter option in toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Filter.png" alt=""><figcaption><p>Filter option in toolbar</p></figcaption></figure>
 
 b) Click 'Add Filter'. You can filter by row or column hierarchies, or by measures. Inforiver provides conditions depending on the filter selected. Enter a condition as shown below.
 

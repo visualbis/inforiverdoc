@@ -229,49 +229,59 @@ Inforiver provides a number of KPI card presets which can be customized as requi
 
 Let's insert a KPI card in this report.&#x20;
 
-a) Hover over the header and click on the '6 dots' icon. Click on 'Preset'.
+a) Hover over the header and click on the '6 dots' icon. Click on 'Edit'.
 
-<figure><img src="../../.gitbook/assets/2.5.39 kpi card.png" alt=""><figcaption><p>Editing header</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.5.49 kpi card.png" alt=""><figcaption><p>Editing header</p></figcaption></figure>
 
-b) The 'Header & footer' tab opens up as shown below. There are a number of 'Header presets' to choose from. The 5th header preset features 2 KPI cards. But let us create a KPI card using a KPI preset. &#x20;
+b) The 'Header & footer' tab opens up as shown below. Click on the 'Settings' icon as highlighted.
 
-Click on the dropdown as highlighted and select 'KPI'.
+<figure><img src="../../.gitbook/assets/2.5.50 kpi card.png" alt=""><figcaption><p>Header footer customization screen</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.40 kpi card.png" alt=""><figcaption><p>Header footer customization screen</p></figcaption></figure>
+c) Click on 'Type' and select 'KPI'.
 
-c) Click 'Proceed'.
+<figure><img src="../../.gitbook/assets/2.5.51 kpi card.png" alt=""><figcaption><p>Choosing the 'KPI' option</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.41 kpi card.png" alt=""><figcaption><p>Warning message</p></figcaption></figure>
+d) You can see a warning message that says the text will be cleared. Click 'Proceed'.
 
-d) A simple KPI card gets inserted. Let us see how to insert a preset.
+<figure><img src="../../.gitbook/assets/2.5.52 kpi card.png" alt=""><figcaption><p>Warning message</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.42 kpi card.png" alt=""><figcaption><p>Simple KPI card</p></figcaption></figure>
+e) A simple KPI card gets inserted. Let us see how to insert a preset.
 
-e) Click on 'KPI presets'. The KPI preset panel opens up. Go to the 'Combo' tab and select the preset highlighted below.
+<figure><img src="../../.gitbook/assets/2.5.53 kpi card.png" alt=""><figcaption><p>Simple KPI card</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.43 kpi card.png" alt=""><figcaption><p>KPI presets</p></figcaption></figure>
+f) Click on 'KPI presets'. The KPI preset panel opens up. Go to the 'Combo' tab and select the preset highlighted below.
 
-f) Click 'Proceed'.
+<figure><img src="../../.gitbook/assets/2.5.54 kpi card.png" alt=""><figcaption><p>KPI presets</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.44 kpi card.png" alt=""><figcaption><p>Warning message</p></figcaption></figure>
+g) Click 'Proceed'.
 
-g) The selected KPI preset gets applied. Let's now edit the KPI card to display the variances as desired. Close the side panel.&#x20;
+<figure><img src="../../.gitbook/assets/2.5.55 kpi card.png" alt=""><figcaption><p>Warning message</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.45 kpi card.png" alt=""><figcaption><p>KPI preset gets inserted</p></figcaption></figure>
+h) The selected KPI preset gets applied. Let's now edit the KPI card to display the variances as desired. Close the side panel.&#x20;
 
-h) Ideally, 2022 Actuals should be displayed on the top followed by 2022 Plan and 2021 Actuals and their variances.&#x20;
+<figure><img src="../../.gitbook/assets/2.5.56 kpi card.png" alt=""><figcaption><p>KPI preset gets inserted</p></figcaption></figure>
 
-In the floating toolbar, click on the 'Data selection' icon highlighted. The matrix is no longer greyed out.&#x20;
+i) Since the KPI card occupies the entire header, let's split the container. Click on the '+' sign.
 
-Select the grand total cells in the order shown in the below image by using Shift+Click. The KPI card gets updated.
+<figure><img src="../../.gitbook/assets/2.5.57 kpi card.png" alt=""><figcaption><p>Splitting container</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.46 kpi card.png" alt=""><figcaption><p>Selecting data to display in KPI cards</p></figcaption></figure>
+j) You can now resize the KPI card to the desired size by dragging the handle at the right border of the KPI card.
 
-i) KPI cards can be resized by hovering on the container border and dragging it to the desired size. Click on 'Close editor' as highlighted.
+<figure><img src="../../.gitbook/assets/2.5.58 kpi card.png" alt=""><figcaption><p>Resize KPI card</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.5.47 kpi card.png" alt=""><figcaption><p>Resize KPI cards</p></figcaption></figure>
+k) Ideally, 2022 Actuals should be displayed on the top followed by 2022 Plan and 2021 Actuals and their variances. Click on the KPI card and the 'Data selection' icon highlighted.&#x20;
 
-j) The KPI card is shown below.
+<figure><img src="../../.gitbook/assets/2.5.59 kpi card.png" alt=""><figcaption><p>Selecting data to display in KPI card</p></figcaption></figure>
+
+l) The matrix is no longer greyed out. Select the grand total cells in the order shown in the below image by using Shift+Click. The KPI card gets updated.
+
+<figure><img src="../../.gitbook/assets/2.5.60 kpi card.png" alt=""><figcaption><p>Selecting data to display in KPI cards</p></figcaption></figure>
+
+m) Click on 'Close editor' as highlighted.
+
+<figure><img src="../../.gitbook/assets/2.5.61 kpi card.png" alt=""><figcaption><p>Closing the editor</p></figcaption></figure>
+
+n) The KPI card is shown below.
 
 <figure><img src="../../.gitbook/assets/2.5.48 kpi card.png" alt=""><figcaption><p>KPI card inserted</p></figcaption></figure>
 

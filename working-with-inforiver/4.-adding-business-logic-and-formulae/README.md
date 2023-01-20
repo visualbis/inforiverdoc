@@ -1,17 +1,5 @@
 # 4. Adding business logic and formulae
 
-
-
-#### Resources
-
-[Visual calculations using Inforiver](https://inforiver.com/visual-calculations-powerbi/)
-
-[Excel-like MoM, QoQ, YoY % calculations in rows ](https://inforiver.com/blog/general/excel-like-mom-qoq-yoy-calculations-power-bi/)
-
-[Calculate remaining budget without using DAX](https://inforiver.com/blog/general/calculating-remaining-budget-powerbi/)
-
-[Implement SUM measure totals without using DAX](https://inforiver.com/blog/general/sum-measure-totals-powerbi-no-dax/)
-
 We successfully used filters, KPI explorer, manage columns, expand/collapse hierarchies, group & pin rows and columns, and many other features in the [previous section](../3.-basic-interactions/). In this section, we'll cover the following:
 
 **1. Insert calculated rows** - Inforiver provides an option to insert calculated rows using an Excel-like formula engine. To learn more, refer to [insert calculated rows](insert-calculated-rows.md).
@@ -27,3 +15,13 @@ We successfully used filters, KPI explorer, manage columns, expand/collapse hier
 **6. Manage inserted rows & columns** - Rows or columns inserted in the visual such as calculations, static rows, or data input columns can be managed using the 'Manage' options. To learn more, refer to [manage inserted rows & columns](manage-inserted-rows-and-columns.md).
 
 **7. Formula syntax** - Inforiver provides several functions, operators, and identifiers that can be used for calculations. To learn more, refer to [formula syntax](../../formula-syntax/).
+
+#### Resources
+
+[Visual calculations using Inforiver](https://inforiver.com/visual-calculations-powerbi/)
+
+[Excel-like MoM, QoQ, YoY % calculations in rows ](https://inforiver.com/blog/general/excel-like-mom-qoq-yoy-calculations-power-bi/)
+
+[Calculate remaining budget without using DAX](https://inforiver.com/blog/general/calculating-remaining-budget-powerbi/)
+
+[Implement SUM measure totals without using DAX](https://inforiver.com/blog/general/sum-measure-totals-powerbi-no-dax/)

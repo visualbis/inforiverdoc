@@ -4,7 +4,7 @@ Inforiver provides an interactive, filterable, exportable and comment-enabled au
 
 In the 'Insert' tab, click on the 'Audit' option. The 'Audit' side panel opens showing a list of all the changes made to the report. &#x20;
 
-<figure><img src="../.gitbook/assets/Audit (1).png" alt=""><figcaption><p>Audit log</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Audit (2).png" alt=""><figcaption><p>Audit log</p></figcaption></figure>
 
 ### 1. Track changes
 
@@ -12,7 +12,7 @@ Let's look at some of the changes that are captured in the audit log below:
 
 a) In the below image, you can see that the measure, row and column that are added to the visual are captured along with a description and timestamp.
 
-<figure><img src="../.gitbook/assets/Audit (2).png" alt=""><figcaption><p>Adding fields</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Audit (3).png" alt=""><figcaption><p>Adding fields</p></figcaption></figure>
 
 b) The below image captures the following changes - Inserting a new simulation column and renaming it to 2022 Forecast. Notice the tag 'MES' to indicate that these logs are related to a measure.
 
@@ -20,7 +20,7 @@ b) The below image captures the following changes - Inserting a new simulation c
 
 c) Cells that are edited are captured in the audit log as shown. The tag 'CEL' is displayed to indicate cell-level changes.
 
-<figure><img src="../.gitbook/assets/Value change.png" alt=""><figcaption><p>Cell value edit</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Value change (1).png" alt=""><figcaption><p>Cell value edit</p></figcaption></figure>
 
 d) Any data field that is removed is also captured as a 'Data change in measures'.&#x20;
 
@@ -56,7 +56,7 @@ c) You can also add comments in the audit log. Hover over a log, click on the 'c
 
 d) Using the 'Search' option, you can search for any row/column/cell within the audit log. Inforiver starts narrowing down the matches as soon as you start typing. You can select the required item from the list.
 
-<figure><img src="../.gitbook/assets/Search (2).png" alt=""><figcaption><p>Search</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Search (3).png" alt=""><figcaption><p>Search</p></figcaption></figure>
 
 e) There is also an advanced filter option where you can filter based on the type of change, date range and logs with comments:
 
@@ -66,7 +66,7 @@ Date range - You can filter the logs that fall within a date range by selecting 
 
 Filter logs with comments - You can filter only the logs with comments.
 
-<figure><img src="../.gitbook/assets/Filter.png" alt=""><figcaption><p>Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
 ### 3. Export
 
@@ -76,7 +76,7 @@ a) Click 'Export' to export the audit log as an Excel file to do any further ana
 Export is supported only in Power BI service.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Delete (3).png" alt=""><figcaption><p>Export audit log</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Delete (4).png" alt=""><figcaption><p>Export audit log</p></figcaption></figure>
 
 b) The downloaded audit log contains several fields which are explained below.
 
@@ -98,8 +98,8 @@ Comments - If the log has any comment added, the comment is shown.
 
 a) You can individually delete any of the audit logs by clicking on the respective 'Delete' icon.
 
-<figure><img src="../.gitbook/assets/Delete (2).png" alt=""><figcaption><p>Delete</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Delete (3).png" alt=""><figcaption><p>Delete</p></figcaption></figure>
 
 b) Click on **** 'Reset all' to reset all the audit logs. Note that this does not reset the changes in the visual.&#x20;
 
-<figure><img src="../.gitbook/assets/Delete (4).png" alt=""><figcaption><p>Reset logs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Delete (5).png" alt=""><figcaption><p>Reset logs</p></figcaption></figure>
