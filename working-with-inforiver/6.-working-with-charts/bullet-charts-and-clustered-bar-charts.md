@@ -1,6 +1,8 @@
 # Bullet charts and clustered bar charts
 
-In this section, you can learn about the performance chart types in detail. Performance chart types are used to visually compare multiple measures. This includes _2 value bullet charts, 3 value bullet charts,_ **** and **** _clustered bar charts._
+Performance chart types are used to visually compare multiple measures in dashboard and scorecard applications, where space is limited, and the goal is to present a lot of data in a small, easy-to-read format.&#x20;
+
+Inforiver provides _2 value bullet charts, 3 value bullet charts,_ **** and **** _clustered bar charts._
 
 ## 1. Adding the chart&#x20;
 

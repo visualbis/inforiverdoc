@@ -1,6 +1,8 @@
 # Sparkline charts
 
-In this chapter, you can learn about the trend chart types in detail. Trend charts are used charts to **** capture the performance trends over time. This includes _line, area, baseline, column_s, and _win-loss_ sparkline charts.
+A sparkline is typically used to show trends in a series of values over time, such as stock prices or website traffic. Sparklines are often used in dashboards and other data visualizations to provide a  quick and condensed view of a data series.
+
+Inforiver provides _line, area, baseline, column_s, and _win-loss_ sparkline charts.
 
 ## 1. Adding the chart
 

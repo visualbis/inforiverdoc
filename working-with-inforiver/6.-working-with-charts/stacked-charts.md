@@ -1,6 +1,6 @@
 # Stacked charts
 
-In this section, you can learn about the stacked charts in detail. Stacked charts are used when you want to compare the relative proportions of different data series and see how they contribute to the total.
+Stacked charts are often used to show the breakdown of a total, such as the distribution of expenses by category or the composition of a portfolio by asset class. They can also be used to show changes in the composition over time, such as the distribution of sales by product or region.
 
 Inforiver offers two variations of stacked charts, they are:
 
