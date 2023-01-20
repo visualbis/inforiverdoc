@@ -60,7 +60,7 @@
     * [Set version](working-with-inforiver/4.-adding-business-logic-and-formulae/set-version.md)
   * [8. Paginated reporting](working-with-inforiver/8.-paginated-reporting/README.md)
     * [Pagination](working-with-inforiver/8.-paginated-reporting/pagination.md)
-    * [Header & footer](working-with-inforiver/8.-paginated-reporting/header-and-footer/README.md)
+    * [Header & footer](working-with-inforiver/8.-paginated-reporting/header-and-footer.md)
       * [Text & images](working-with-inforiver/8.-paginated-reporting/header-and-footer/text-and-images.md)
       * [Charts](working-with-inforiver/8.-paginated-reporting/header-and-footer/charts.md)
       * [KPI cards](working-with-inforiver/8.-paginated-reporting/header-and-footer/kpi-cards.md)
