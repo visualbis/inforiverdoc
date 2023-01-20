@@ -48,6 +48,8 @@ h) To convert the values to a percentage format, click on the % icon from the 'H
 
 We have successfully inserted a calculated measure at the visual level in our Power BI matrix report.
 
+We have used the default '[Row aggregation type](insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type)' which is 'Formula'. This property is covered in detail in the Number column section.
+
 ### 2. Visual column
 
 A calculated column works differently from a calculated measure. Let's consider two examples.
@@ -64,7 +66,7 @@ b) You will also notice that the _References_ section is a bit different. While 
 
 c) Enter a title and the formula and click 'Create'.
 
-<figure><img src="../../.gitbook/assets/4.2.16 Column (1).png" alt=""><figcaption><p>Creating a visual column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.2.16 Column.png" alt=""><figcaption><p>Creating a visual column</p></figcaption></figure>
 
 d) You will see the values updated in the report.
 
