@@ -1,6 +1,8 @@
 # ROW.PARENT
 
-ROW.PARENT refers to the immediate parent. Note that chaining is possible.  ROW.PARENT.PARENT refers to the grandparent and so on.
+ROW.PARENT refers to the immediate parent. Used along with identifier \<COLUMN\_ID>.
+
+Note that chaining is possible.  ROW.PARENT.PARENT refers to the grandparent and so on.
 
 ## Example
 

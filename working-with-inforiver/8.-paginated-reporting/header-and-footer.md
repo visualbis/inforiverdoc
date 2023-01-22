@@ -8,16 +8,188 @@ Below is a sample report created using Inforiver. You can see a header with a KP
 
 The header & footer section is organized as follows:
 
-1. [Interface](header-and-footer.md#1.-interface) - Overview of the toolbar, header & footer sections, presets and common customization options&#x20;
+1. Introduction - Overview of the toolbar, header & footer sections, presets, basic interactions and basic customization options&#x20;
 2. [Text & images](header-and-footer/text-and-images.md) - Adding text and images
 3. [Charts](header-and-footer/charts.md) - Types of charts and customization options
 4. [KPI cards](header-and-footer/kpi-cards.md) - KPI presets and customization options
 
 ## 1. Interface
 
+Let's first take a look at the header/footer interface. In the edit mode, you have the 'Header & footer' tab in the toolbar and options to edit the header elements. In the read mode, you have a context menu using which you can show/hide the header/footer, turn off pagination, reset changes and access the edit mode.
+
+### i) Edit mode
+
+a) Click on 'Header & footer' in the 'Design' tab.
+
+<figure><img src="../../.gitbook/assets/8.2.2 Header &#x26; footer.png" alt=""><figcaption><p>Header &#x26; footer option in Design tab</p></figcaption></figure>
+
+b) The 'Header & footer' tab gets enabled. You can see that there is a default header that shows the fields added and the scaling.
+
+<figure><img src="../../.gitbook/assets/8.2.3 Header.png" alt=""><figcaption><p>Default header</p></figcaption></figure>
+
+c) The blue box is called the 'container'. Currently, there is only one 'cell' in the container with the default fields and scaling. But containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text-and-images.md), [Image](header-and-footer/text-and-images.md), [Chart](header-and-footer/charts.md) and [KPI](header-and-footer/kpi-cards.md). We'll be covering cell and container customization in a later section.
+
+<figure><img src="../../.gitbook/assets/8.2.24 Context menu.png" alt=""><figcaption><p>Container</p></figcaption></figure>
+
+e) The toolbar provides a number of options and they are covered as follows:
+
+Preset - [Header](header-and-footer.md#i-header-preset) & [footer presets](header-and-footer.md#ii-footer-preset)
+
+Insert & Format - Only applicable for [text](header-and-footer/text-and-images.md) elements
+
+[Cell, Container & Margin](header-and-footer.md#3.-basic-customization) - Common customization options for all the elements&#x20;
+
+### ii) Read mode
+
+a) In the read mode, you have a context menu as highlighted in the below image. You can access the edit mode by selecting either '[Presets](header-and-footer.md#i-header-preset)' to directly open the 'Header presets' panel or 'Edit' to open the '[Header & footer](header-and-footer.md#2.-basic-interactions)' tab. You can also hide or reset your changes to the header.
+
+<figure><img src="../../.gitbook/assets/8.2.17 Context menu.png" alt=""><figcaption><p>Header context menu</p></figcaption></figure>
+
+b) To access the footer customization toolbar, click on the icon highlighted in the below image and select either '[Presets](header-and-footer.md#ii-footer-preset)' to directly open the 'Footer presets' panel or 'Edit' to open the '[Header & footer](header-and-footer.md#2.-basic-interactions)' tab. You can also hide or reset your changes to the footer.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.21 Context menu.png" alt=""><figcaption><p>Footer context menu</p></figcaption></figure>
+
+c) 'Hide pagination' can be used to turn off pagination. Notice that currently pagination is enabled as highlighted in the status bar.
+
+<figure><img src="../../.gitbook/assets/8.2.22 Context menu.png" alt=""><figcaption><p>Pagination on</p></figcaption></figure>
+
+d) Turn on the toggle and you can see the scroll bar at the right and the pagination controls have been hidden in the status bar.
+
+<figure><img src="../../.gitbook/assets/8.2.23 Context menu.png" alt=""><figcaption><p>Pagination turned off</p></figcaption></figure>
+
+## 2. Basic interactions
+
+As mentioned in the [interface](header-and-footer.md#i-edit-mode) section, the header/footer containers can be split into cells and customized further. Let's first look at creating and managing cells. For cell and container customization, refer to [basic customization](header-and-footer.md#4.-basic-customization).
+
+a) Go to the edit mode by clicking on 'Edit' in the context menu.
+
+<figure><img src="../../.gitbook/assets/8.2.25 Interactions.png" alt=""><figcaption><p>Edit mode</p></figcaption></figure>
+
+{% hint style="info" %}
+In the Basic interactions section, we have used the example of headers but all of these properties are applicable to footers as well.&#x20;
+{% endhint %}
+
+b) Notice that there are four handles - one on each corner of the container.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.27 Interactions.png" alt=""><figcaption><p>Container handles</p></figcaption></figure>
+
+c) Hover near any of the handles and you'll see a '+' icon which can be used to split the container. Clicking on the left handle will split it and create a cell on the left.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.28 Interactions.png" alt=""><figcaption><p>Splitting the container</p></figcaption></figure>
+
+d) Notice that the existing content is present in the right cell and there is a new cell in the left.
+
+<figure><img src="../../.gitbook/assets/8.2.29 Interactions.png" alt=""><figcaption><p>New cell created</p></figcaption></figure>
+
+e) The container height can be adjusted by hovering on the bottom border and dragging the handle.
+
+<figure><img src="../../.gitbook/assets/8.2.30 Interactions.png" alt=""><figcaption><p>Increase/decrease container height</p></figcaption></figure>
+
+f) Cell widths can also be adjusted by dragging the handle that gets enabled on hovering over the cell border.
+
+<figure><img src="../../.gitbook/assets/8.2.31 Interactions.png" alt=""><figcaption><p>Increase/decrease cell width</p></figcaption></figure>
+
+g) At the top right of each cell, you can see a 'Settings' icon. Clicking on it displays the options shown in the below image.&#x20;
+
+Type - Change the cell to one of the available types - Text, Image, Chart and KPI which are covered in subsequent sections&#x20;
+
+Copy - Copy the contents of a cell&#x20;
+
+Paste - Paste the contents of another cell
+
+Delete - Delete the cell
+
+Reset - Reset the changes made to the cell
+
+<figure><img src="../../.gitbook/assets/8.2.32 Interactions.png" alt=""><figcaption><p>Context menu</p></figcaption></figure>
+
+## 3. Presets
+
+Before looking at creating header/footer elements from scratch, let's see how to leverage presets to insert header/footer in a single click.
+
+### i) Header preset
+
+a) In the 'Header & footer' tab, click on 'Header preset'. A side panel opens up as shown below.
+
+<figure><img src="../../.gitbook/assets/8.2.5 Header presets.png" alt=""><figcaption><p>Header presets</p></figcaption></figure>
+
+b) Choose any of the presets and click 'Proceed' in the warning message.
+
+<figure><img src="../../.gitbook/assets/8.2.6 Header presets.png" alt=""><figcaption><p>Applying a preset</p></figcaption></figure>
+
+c) You can see that the header has been updated. These can be further customized but for now, let's go ahead with the preset.
+
+<figure><img src="../../.gitbook/assets/8.2.7 Header presets.png" alt=""><figcaption><p>Applying a preset</p></figcaption></figure>
+
+d) Click on 'Close editor' to apply the preset.
+
+<figure><img src="../../.gitbook/assets/8.2.8 Header presets.png" alt=""><figcaption><p>Close editor</p></figcaption></figure>
+
+e) Note that if you want to hide the header, you can either click on the 'Hide' icon next to the editor or the 'Hide header' option in the 'Header' side panel. But we are not interested in hiding the header now. Let's see how the header preset looks in the reading view.
+
+<figure><img src="../../.gitbook/assets/8.2.16 Header presets.png" alt=""><figcaption><p>Hiding the header</p></figcaption></figure>
+
+f) Once you close the editor, you can see the header as shown in the below image.
+
+<figure><img src="../../.gitbook/assets/8.2.9 Header presets.png" alt=""><figcaption><p>Header preset applied</p></figcaption></figure>
+
+g) Header can be hidden in the reading view by using the context menu.
+
+<figure><img src="../../.gitbook/assets/8.2.18 Context menu.png" alt=""><figcaption><p>Hiding the header from the context menu</p></figcaption></figure>
+
+g) If you have hidden the header and want to display it again, click on the context menu and the 'Show header' option.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.19 Context menu.png" alt=""><figcaption><p>Show header option</p></figcaption></figure>
+
+h) You can see the header. If you want to revert back to the default header, click on 'Reset'.
+
+<figure><img src="../../.gitbook/assets/8.2.20 Context menu.png" alt=""><figcaption><p>Reset changes</p></figcaption></figure>
+
+### ii) Footer preset
+
+Inforiver also offers a number of footer presets with page numbers, report titles, logos etc.&#x20;
+
+a) Click on 'Footer presets'. A side panel opens with a list of the available presets. The default preset gets applied as shown below.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.10 Footer presets.png" alt=""><figcaption><p>Footer presets</p></figcaption></figure>
+
+b) You can choose a different one from the list. Click on 'Proceed' in the warning message.
+
+<figure><img src="../../.gitbook/assets/8.2.11 Footer presets.png" alt=""><figcaption><p>Changing the preset</p></figcaption></figure>
+
+c) You can see the footer editor showing the page number.
+
+<figure><img src="../../.gitbook/assets/8.2.12 Footer presets.png" alt=""><figcaption><p>Changing the preset</p></figcaption></figure>
+
+d) The preset can be customized further. But, for now, let's apply this preset. Click on 'Close editor'.
+
+<figure><img src="../../.gitbook/assets/8.2.14 Footer presets.png" alt=""><figcaption><p>Closing the editor</p></figcaption></figure>
+
+e) There are two ways to hide the footer in the edit mode. You can either click on the 'Hide' icon next to the editor or the 'Hide header' option in the 'Header' side panel. But we are not interested in hiding the footer now. Let's see how the footer preset looks in the reading view.
+
+<figure><img src="../../.gitbook/assets/8.2.13 Footer presets.png" alt=""><figcaption><p>Hiding the footer</p></figcaption></figure>
+
+f) On closing the editor, you can see the page number in the footer section.
+
+<figure><img src="../../.gitbook/assets/8.2.15 Footer presets.png" alt=""><figcaption><p>Footer gets updated</p></figcaption></figure>
+
+## 4. Basic customization
 
 
 
+### i) Cell
+
+
+
+
+
+### ii) Container
+
+
+
+
+
+### iii) Margin
 
 
 

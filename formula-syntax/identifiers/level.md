@@ -1,6 +1,6 @@
 # LEVEL
 
-Returns the row Level in the hierarchy.&#x20;
+Returns the row level in the hierarchy.&#x20;
 
 ## Example
 
