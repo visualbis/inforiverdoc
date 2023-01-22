@@ -6,9 +6,9 @@ Below is a sample report created using Inforiver. You can see a header with a KP
 
 <figure><img src="../../.gitbook/assets/8.2.1 Header &#x26; footer.png" alt=""><figcaption><p>Customized header and footer</p></figcaption></figure>
 
-The header & footer section is organized as follows:
+The header & footer module is organized as follows:
 
-1. Introduction - Overview of the toolbar, header & footer sections, presets, basic interactions and basic customization options&#x20;
+1. [Introduction](header-and-footer.md#1.-interface) - Overview of the toolbar, header & footer sections, presets, basic interactions and basic customization options&#x20;
 2. [Text & images](header-and-footer/text-and-images.md) - Adding text and images
 3. [Charts](header-and-footer/charts.md) - Types of charts and customization options
 4. [KPI cards](header-and-footer/kpi-cards.md) - KPI presets and customization options
@@ -69,11 +69,11 @@ a) Go to the edit mode by clicking on 'Edit' in the context menu.
 In the Basic interactions section, we have used the example of headers but all of these properties are applicable to footers as well.&#x20;
 {% endhint %}
 
-b) Notice that there are four handles - one on each corner of the container.&#x20;
+b) Notice that there are four controls - one on each corner of the container.&#x20;
 
 <figure><img src="../../.gitbook/assets/8.2.27 Interactions.png" alt=""><figcaption><p>Container handles</p></figcaption></figure>
 
-c) Hover near any of the handles and you'll see a '+' icon which can be used to split the container. Clicking on the left handle will split it and create a cell on the left.&#x20;
+c) Hover near any of the controls and you'll see a '+' icon which can be used to split the container. Clicking on the left control will split it and create a cell on the left.&#x20;
 
 <figure><img src="../../.gitbook/assets/8.2.28 Interactions.png" alt=""><figcaption><p>Splitting the container</p></figcaption></figure>
 
@@ -175,23 +175,68 @@ f) On closing the editor, you can see the page number in the footer section.
 
 ## 4. Basic customization
 
+All cells regardless of the type (Text, Image etc.) can be formatted using the 'Cell' and 'Margin' sections of the 'Header & footer' toolbar. The header/footer containers can be formatted using the 'Container' section.
 
+{% hint style="info" %}
+Multiple cells can be selected by using Ctrl + Click and formatting can be done at once. In the Basic customization section, we have used the example of headers but all of these properties are applicable to footers as well.&#x20;
+{% endhint %}
 
 ### i) Cell
 
+The 'Cell' section is highlighted below. Using the options in this section, you can align the contents, apply fill, border or shadows and more.
 
+<figure><img src="../../.gitbook/assets/8.2.33 Cell customization.png" alt=""><figcaption><p>Cell customization options</p></figcaption></figure>
 
+a) Horizontal/Vertical align - Contents in a cell can be aligned horizontally and vertically as shown below.
 
+<figure><img src="../../.gitbook/assets/8.2.34 Cell customization.png" alt=""><figcaption><p>Alignment options</p></figcaption></figure>
+
+b) In addition to using the handles, you also have an option in the toolbar to split the container  or cells.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.35 Cell customization.png" alt=""><figcaption><p>Split cell/container</p></figcaption></figure>
+
+c) On selecting two cells, you can swap them by using the 'Swap container' option.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.36 Cell customization.png" alt=""><figcaption><p>Swap cells</p></figcaption></figure>
+
+d) Fill - Fill color can be applied to one or more cells by using the color picker.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.37 Cell customization.png" alt=""><figcaption><p>Fill color for cells</p></figcaption></figure>
+
+e) Shadows can be applied to cells as shown below.
+
+<figure><img src="../../.gitbook/assets/8.2.38 Cell customization.png" alt=""><figcaption><p>Shadow for cells</p></figcaption></figure>
+
+f) Borders - Borders can be applied for cells, you can set the weight, corner radius and choose a color.&#x20;
+
+<figure><img src="../../.gitbook/assets/8.2.39 Cell customization.png" alt=""><figcaption><p>Custom borders</p></figcaption></figure>
 
 ### ii) Container
 
+The following options are available for the header/footer containers - Appearance and Ruler.
 
+<figure><img src="../../.gitbook/assets/8.2.40 Container customization.png" alt=""><figcaption><p>Container customization options</p></figcaption></figure>
 
+a) You can apply a border to the container by clicking on the 'Appearance' option. You can see a dialog box as shown below.&#x20;
 
+<figure><img src="../../.gitbook/assets/8.2.41 Container customization.png" alt=""><figcaption><p>Header appearance options</p></figcaption></figure>
+
+b) We have changed some properties as shown below. Click 'Apply'.
+
+<figure><img src="../../.gitbook/assets/8.2.42 Container customization.png" alt=""><figcaption><p>Header customization</p></figcaption></figure>
+
+c) A blue border gets applied on the top. Notice that the inner controls are hidden since we turned 'off' the 'Container inner controls' option.
+
+<figure><img src="../../.gitbook/assets/8.2.43 Container customization.png" alt=""><figcaption><p>Border gets applied</p></figcaption></figure>
+
+d) By clicking on the 'Ruler' option, you can see rulers on the top and left of the container. It shows the x and y coordinates for any point within the container.
+
+<figure><img src="../../.gitbook/assets/8.2.44 Container customization.png" alt=""><figcaption><p>Ruler</p></figcaption></figure>
 
 ### iii) Margin
 
+Top, bottom, right and left margins can be applied to cells as shown in the below image.
 
+<figure><img src="../../.gitbook/assets/8.2.45 Margins.png" alt=""><figcaption><p>Cell margins</p></figcaption></figure>
 
-
-
+In the next section, we'll be covering [text and images](header-and-footer/text-and-images.md) in the header/footer.
