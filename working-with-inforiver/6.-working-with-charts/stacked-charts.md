@@ -37,7 +37,7 @@ Some of these customization options may or may not be available, depending on th
 
 From the 'Sorting' drop-down, you can set the sorting order of the data series in the chart to either _Ascending_ or _Descending_.
 
-<figure><img src="../../.gitbook/assets/stacked-bar-sort (1).png" alt=""><figcaption><p>Stacked chart sorting option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stacked-bar-sort.png" alt=""><figcaption><p>Stacked chart sorting option</p></figcaption></figure>
 
 ### **ii) Alignment**&#x20;
 

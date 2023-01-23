@@ -16,7 +16,7 @@ In the 'Insert' tab of the toolbar, click the 'Aggregation' dropdown. You can se
 
 By default, the 'Native' option is applied which follows the native summarization set in Power BI. 2022 Plan is set to Sum in Power BI in this example, hence the rows are summed up.
 
-<figure><img src="../.gitbook/assets/Native.png" alt=""><figcaption><p>Native aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Native (1).png" alt=""><figcaption><p>Native aggregation</p></figcaption></figure>
 
 #### Sum
 
@@ -28,13 +28,13 @@ By default, the 'Native' option is applied which follows the native summarizatio
 
 'Minimum' aggregation displays the minimum value of the immediate child node as the aggregate. In the below example, you can see that the 'United States' region displays the minimum value of its immediate child nodes which is 'Midwest'.
 
-<figure><img src="../.gitbook/assets/min.png" alt=""><figcaption><p>Minimum aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Minimum.png" alt=""><figcaption><p>Minimum aggregation</p></figcaption></figure>
 
 #### Maximum
 
 'Maximum' aggregation displays the maximum value of the immediate child node as the aggregate. In the below image, 'International' displays the maximum value of its immediate child nodes which is 'EMEA'. &#x20;
 
-<figure><img src="../.gitbook/assets/Max.png" alt=""><figcaption><p>Maximum aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Max (1).png" alt=""><figcaption><p>Maximum aggregation</p></figcaption></figure>
 
 #### Average (Children)
 
@@ -52,13 +52,13 @@ By default, the 'Native' option is applied which follows the native summarizatio
 
 'Standard deviation' aggregation displays the standard deviation of the child rows as the aggregate. 'Central' sub-region displays the standard deviation of its immediate child nodes 'Beverages' and 'Water'.
 
-<figure><img src="../.gitbook/assets/std dev.png" alt=""><figcaption><p>Standard deviation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Std.png" alt=""><figcaption><p>Standard deviation</p></figcaption></figure>
 
 #### Visible rounding
 
 'Visible rounding' aggregation rounds off values in a way that the individual values add up properly to the subtotal' and grand total. This is a very common requirement in external financial statement reporting such as the income statement and balance sheet reporting.
 
-<figure><img src="../.gitbook/assets/Visible rounding.png" alt=""><figcaption><p>Visible rounding</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Visible.png" alt=""><figcaption><p>Visible rounding</p></figcaption></figure>
 
 ### 2. Column level
 
@@ -66,7 +66,7 @@ The 'Manage aggregation' option allows you to manage aggregations for specific m
 
 a) In the 'Insert' tab of the toolbar, click the 'Aggregation' dropdown and select 'Manage aggregation'.
 
-<figure><img src="../.gitbook/assets/Manage aggre.png" alt=""><figcaption><p>Manage aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Manage.png" alt=""><figcaption><p>Manage aggregation</p></figcaption></figure>
 
 {% hint style="info" %}
 Another way to access 'Manage Aggregation' is using 'Manage columns'. Click on 'Manage columns' and then the 'Settings' icon.
@@ -74,15 +74,15 @@ Another way to access 'Manage Aggregation' is using 'Manage columns'. Click on '
 
 b) A pop-up opens showing a list of measures under the 'Display' section. You can change the aggregation type of multiple measures here.
 
-<figure><img src="../.gitbook/assets/Manage column (2).png" alt=""><figcaption><p>Manage columns pop-up</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Display.png" alt=""><figcaption><p>Manage columns pop-up</p></figcaption></figure>
 
 c) Let's change the aggregation for '2020 Actuals' from 'Sum' to 'Maximum'. Select 'Maximum' aggregation from the dropdown.&#x20;
 
-<figure><img src="../.gitbook/assets/List.png" alt=""><figcaption><p>Change aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Change agg.png" alt=""><figcaption><p>Column aggregation</p></figcaption></figure>
 
 d) In the below image, you can see that East -> 2020 Actuals shows 40.18 which is the maximum of Beverages and Water, whereas East -> 2020 Plan shows 45.03 which is the sum of the two categories. &#x20;
 
-<figure><img src="../.gitbook/assets/Aggregation.png" alt=""><figcaption><p>Sum &#x26; maximum aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sum &#x26; maximum aggregation.png" alt=""><figcaption><p>Sum &#x26; maximum aggregation</p></figcaption></figure>
 
 {% hint style="info" %}
 Report-level and column-level aggregations are applicable only for the data source rows.
