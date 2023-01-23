@@ -1,6 +1,10 @@
 # GROUP INDEX
 
-Returns the position of a row or column.
+Returns the position of a column.&#x20;
+
+{% hint style="info" %}
+GROUP\_INDEX can be used in both calculated rows and columns.
+{% endhint %}
 
 ## Examples
 

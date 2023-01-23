@@ -20,7 +20,7 @@ value2,...– The additional nodes or numbers to be averaged. These are optional
 AVERAGE(COLUMN1, COLUMN2)
 ```
 
-Returns the average of COLUMN1, COLUMN1
+Returns the average of COLUMN1, COLUMN2
 
 ## Excel Equivalent
 

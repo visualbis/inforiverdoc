@@ -1,26 +1,26 @@
 # AVERAGEIF
 
-The AVERAGEIF function returns the average of the filtered values that are satisfy the given condition.
+The AVERAGEIF function returns the average of the filtered values that satisfy the given condition.
 
 ## Syntax
 
 ```javascript
-AVERAGEIF([Range], condition)
+AverageIf([Range], Condition)
 ```
 
 ## Arguments
 
-Range – list of values
+Range – List of values
 
-condition - string
+Condition – String&#x20;
 
 ## Example
 
 ```javascript
-AVERAGEIF([Quantity],[Units Sold], “>10000”)
+AVERAGEIF([Column1],[Column2], “>10000”)
 ```
 
-Returns the average of Quantity and Units Sold if they are above 10000.
+Returns the average of Column1 and Column2 if they are above 10000.
 
 ## Excel Equivalent
 

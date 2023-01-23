@@ -1,21 +1,23 @@
 # FILTERIF
 
+Returns the list of items that match the given condition
+
 ## Syntax
 
 ```javascript
-FILTERIF([value1,value2..],”Conditionvalue)
+FilterIF([List], "Condition")
 ```
 
 ## Arguments
 
-value1,value2,.. – list of values&#x20;
+List – List of values&#x20;
 
-condition - string
+Condition - String
 
 ## Example
 
 ```javascript
-FILTERIF([Column1,Column2,Column3],”>1000)
+Average(FilterIF([Column1,Column2,Column3],">1000"))
 ```
 
-Returns the list of items that matches the given condition
+Returns the average of values in Column1, Column2 and Column3 if they are greater than 1000.

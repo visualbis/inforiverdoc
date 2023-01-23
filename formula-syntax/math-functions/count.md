@@ -1,11 +1,11 @@
 # COUNT
 
-The COUNT function returns the count of the number of items in a range.
+Returns the count of the number of items in a list.
 
 ## Syntax
 
 ```javascript
-COUNT (value1,value2....)
+Count(value1,value2....)
 ```
 
 ## Arguments
@@ -14,10 +14,10 @@ value1,value2,.. – list of values&#x20;
 
 ## Example
 
-<pre class="language-javascript"><code class="lang-javascript"><strong>COUNT(Column1,Column2,Column3)
+<pre class="language-javascript"><code class="lang-javascript"><strong>Count(FilterIF([Column1,Column2,Column3],">1000"))
 </strong></code></pre>
 
-Returns the count of the number of items in a range
+Returns the count of values that are greater than 1000
 
 ## Excel Equivalent
 

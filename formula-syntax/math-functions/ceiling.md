@@ -1,11 +1,11 @@
 # CEILING
 
-The Ceiling function returns the ceil of a number.
+Rounds a number to the nearest integer or to the nearest multiple of significance.
 
 ## Syntax
 
 ```javascript
-CEILING(value, significance)
+Ceiling(value, significance)
 ```
 
 ## Arguments
@@ -17,10 +17,10 @@ significance - number
 ## Example
 
 ```javascript
-CEILING(COLUMN1)
+Ceiling(COLUMN1,2)
 ```
 
-Returns the ceiling of COLUMN1 to the significance of two decimal.
+Returns the ceiling value of COLUMN1 to the significance of two decimals.
 
 ## Excel Equivalent
 

@@ -1,11 +1,11 @@
 # COUNTIF
 
-Returns the count of item matches the condition, can be used to with BLANK as condition to count the blank values in a column/row
+Returns the count of items that match the condition.
 
 ## Syntax
 
 ```javascript
-Count(list, condition)
+CountIF(list, condition)
 ```
 
 ## Arguments
@@ -20,7 +20,7 @@ condition - string representing a condition
 COUNTIF([100,500,120],"<200")
 ```
 
-Returns 2, since only two values in the given list matches the condition.
+Returns 2, since only two values in the given list match the condition.
 
 ## Excel Equivalent
 

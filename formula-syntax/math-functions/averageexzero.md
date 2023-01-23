@@ -17,8 +17,10 @@ value2,...– The additional nodes or numbers to be averaged. These are optional
 ## Example
 
 ```javascript
-AVERAGEEXZERO (East, South, Central, West)
+AverageExZero(East, South, Central, West)
 ```
+
+Returns the average of the four regions excluding zeros
 
 ## Excel Equivalent
 

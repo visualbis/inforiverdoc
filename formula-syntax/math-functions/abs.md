@@ -1,22 +1,21 @@
 # ABS
 
-The ABS function returns the absolute value of a number, a number without its sign.
+Returns the absolute value of a number.
 
 ## Syntax
 
 ```javascript
-ABS(value)
+Abs(value)
 ```
 
 ## Arguments
 
-value – The node or number of which you want the absolute of.
+value – The number for which you want the absolute value
 
 ## Example
 
-```javascript
-ABS(COLUMN1)
-```
+<pre class="language-javascript"><code class="lang-javascript"><strong>Abs(COLUMN1)
+</strong></code></pre>
 
 Returns the absolute value of COLUMN1
 
