@@ -145,17 +145,17 @@ c) Let's apply comparison bands. Click on the 'Comparison bands' icon. A popup s
 
 <figure><img src="../../.gitbook/assets/2.5.27 bar.png" alt=""><figcaption><p>Adding a comparison band</p></figcaption></figure>
 
-### ii) Lollipop/pin charts
+### ii) Pin charts
 
-To visualize Margin%, let's use the lollipop chart.&#x20;
+To visualize Margin%, let's use the pin chart.&#x20;
 
 a) Click on the column and then the icon highlighted.
 
-<figure><img src="../../.gitbook/assets/2.5.28 bar.png" alt=""><figcaption><p>Lollipop chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.5.28 bar.png" alt=""><figcaption><p>Pin chart</p></figcaption></figure>
 
-b) The 'Simple lollipop' chart gets inserted.
+b) The 'Simple pin' chart gets inserted.
 
-<figure><img src="../../.gitbook/assets/2.5.29 bar.png" alt=""><figcaption><p>Simple lollipop chart added</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.5.29 bar.png" alt=""><figcaption><p>Simple pin chart added</p></figcaption></figure>
 
 ### iii) Data bars
 
@@ -211,17 +211,17 @@ b) The bar chart gets inserted. Note that the positive variances are highlighted
 
 <figure><img src="../../.gitbook/assets/2.5.36 comparison.png" alt=""><figcaption><p>Variance using bar chart</p></figcaption></figure>
 
-### ii) Lollipop/pin charts
+### ii) Pin charts
 
-To visualize (2022 Actuals - 2021 Actuals)%, let's use the lollipop chart.&#x20;
+To visualize (2022 Actuals - 2021 Actuals)%, let's use the pin chart.&#x20;
 
 a) Click on the column and then the icon highlighted.
 
-<figure><img src="../../.gitbook/assets/2.5.37 comparison.png" alt=""><figcaption><p>Inserting bar colored lollipop for variance%</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.5.37 comparison.png" alt=""><figcaption><p>Inserting bar colored pin for variance%</p></figcaption></figure>
 
-b) The 'Bar colored lollipop' chart gets inserted.
+b) The 'Bar colored pin' chart gets inserted.
 
-<figure><img src="../../.gitbook/assets/2.5.38 comparison.png" alt=""><figcaption><p>Variance% using lollipop chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.5.38 comparison.png" alt=""><figcaption><p>Variance% using pin chart</p></figcaption></figure>
 
 ## 7. KPI cards
 

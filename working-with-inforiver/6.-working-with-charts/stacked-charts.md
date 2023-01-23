@@ -37,7 +37,7 @@ Some of these customization options may or may not be available, depending on th
 
 From the 'Sorting' drop-down, you can set the sorting order of the data series in the chart to either _Ascending_ or _Descending_.
 
-<figure><img src="../../.gitbook/assets/stacked-bar-sort.png" alt=""><figcaption><p>Stacked chart sorting option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stacked-bar-sort (1).png" alt=""><figcaption><p>Stacked chart sorting option</p></figcaption></figure>
 
 ### **ii) Alignment**&#x20;
 
@@ -51,4 +51,4 @@ You can enable this checkbox to display an axis line for reference, above the ch
 
 <figure><img src="https://lh4.googleusercontent.com/6KOWdNsh3l8-lU-Y6S4dwJFCwkduR1MUo2FGkvvKyDsdSqkTpmpdcR49a4K8EXFtCWX0PogJXAYXNivOkiCbjyk0H8ij4hYrVU3unCl3OyP3YlD5mFLV3OnriOK9vDp5nzcM6ffdSibC0oPWZGllRIWxUxGTzCz923XAobyv-Q16fIoY8rQGFfTRvLDt7w" alt=""><figcaption><p>Stacked chart show axis option</p></figcaption></figure>
 
-In this section, we covered stacked charts. Navigate to the next section to learn more about waterfall charts.
+In this section, we covered stacked charts. Navigate to the next section to learn more about [waterfall charts](waterfall-charts.md).

@@ -99,4 +99,4 @@ You can customize the fill pattern of the bar to any of these IBCS notations: _S
 
 <figure><img src="../../.gitbook/assets/waterfall-fill-pattern.png" alt=""><figcaption><p>Waterfall chart fill pattern</p></figcaption></figure>
 
-In this section, we covered waterfall charts. Navigate to the next section to learn more about the bar, lollipop, and pin charts.
+In this section, we covered waterfall charts. Navigate to the next section to learn more about the [bar and pin charts](bar-and-pin-charts.md).

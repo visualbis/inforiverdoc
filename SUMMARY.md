@@ -54,6 +54,7 @@
     * [Bullet charts and clustered bar charts](working-with-inforiver/6.-working-with-charts/bullet-charts-and-clustered-bar-charts.md)
     * [Stacked charts](working-with-inforiver/6.-working-with-charts/stacked-charts.md)
     * [Waterfall charts](working-with-inforiver/6.-working-with-charts/waterfall-charts.md)
+    * [Bar and pin charts](working-with-inforiver/6.-working-with-charts/bar-and-pin-charts.md)
   * [7. Planning, budgeting & forecasting](working-with-inforiver/7.-planning-budgeting-and-forecasting/README.md)
     * [What-if analysis & simulations](working-with-inforiver/4.-adding-business-logic-and-formulae/what-if-analysis-and-simulations.md)
     * [Budgeting & allocations](working-with-inforiver/4.-adding-business-logic-and-formulae/budgeting-and-allocations.md)
