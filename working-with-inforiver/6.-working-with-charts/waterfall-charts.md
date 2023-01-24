@@ -99,4 +99,34 @@ You can customize the fill pattern of the bar to any of these IBCS notations: _S
 
 <figure><img src="../../.gitbook/assets/waterfall-fill-pattern.png" alt=""><figcaption><p>Waterfall chart fill pattern</p></figcaption></figure>
 
+### vi) Appearance
+
+This option lets you change the appearance of the waterfall charts. Clicking on this option will display a 'Colors' or 'Series Display' sub-option (depending on the type/variant of the chart inserted). Clicking on either of these sub-options will open up an 'Appearance' model in which you can configure the following properties:
+
+<figure><img src="https://lh3.googleusercontent.com/IDWvOtcckB8KokeXzdnOuBJ8ZM-5h09qhiu4ka2QYYcuAH9hM9jB1PICKca4cVG-msK3HFz9xAjues-CpdxN_y-BBu-Y5FpbHzODRYdd63lAoJHNu_bcPiSIvvEsdjo1ZI3P2bIi9VocbK-5CFAEcf0JzY_jPmcfrzSIDtwSuKbPiG71hRWFFftZxeWUBw" alt=""><figcaption><p>Appearance modal</p></figcaption></figure>
+
+{% hint style="info" %}
+Some of these properties/options may or may not be available depending on the inserted chart type and variant.
+{% endhint %}
+
+**a) Positive color** - Using this option you can customize the positive color of the bar/marker
+
+**b) Negative color** - Using this option you can customize the negative color of the bar/marker
+
+**c) Axis color** - This option lets you set the axis color of the chart
+
+<figure><img src="https://lh5.googleusercontent.com/h9W4sxojkezlcffIknQQOnGLv8-u6gJDjpwwrU4g809oMAy_FRrbMJkX-Gn37Ugt-q-ewrh2IdS1kbzSBT7X9ou-tqdMPmN0sZYs6lB3yGteuZ8vGwNgjYm-ltIRYfDGHdiNhCF4JmH2WTELJGE1d3L2mMGWFfj8sWCL-FDlFkfoZrqHTRXVrfnPuXxBLw" alt=""><figcaption><p>Variance and axis color options</p></figcaption></figure>
+
+**d) Data label color** - This option lets you set the color of the data labels in the chart
+
+{% hint style="info" %}
+The following properties are present in the 'Series Display' option available under the 'Appearance' option of **waterfall charts**.
+{% endhint %}
+
+**e) Bar color** - This option is available only for solid bar charts and will let you customize the color of the bar.
+
+**f) Gradient** - Enabling this option will allow you to set a gradient color to your bar chart. If you enable this option, the Min and Max color options become available using which you can set the color for the min value and the max value.
+
+<figure><img src="https://lh4.googleusercontent.com/YpwW5fsQqD3hU3as9s6z_jsmv30VQC1OxrVEhYl7E9L3AZHb-2doU2pSWd3ZBOguy1RAfyv6XOwcCIjF16xUkVYhzVNiKjEeTpwuSJTK11r_EU6MeIsDnC42ZWRyUMiCs44M5SMqaGC7m2yonYeimK_9ncLeLt9CFmfC_3B2e0bTOz_rgRyV3lDw2h31AA" alt=""><figcaption><p>Appearance series display options</p></figcaption></figure>
+
 In this section, we covered waterfall charts. Navigate to the next section to learn more about the [bar and pin charts](bar-and-pin-charts.md).
