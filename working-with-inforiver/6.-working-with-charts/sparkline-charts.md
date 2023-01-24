@@ -116,7 +116,57 @@ The padding option is available only for the _Column_ and _Win/Loss_ Sparklines.
 
 <figure><img src="../../.gitbook/assets/sparkline-padding.png" alt=""><figcaption><p>Sparkline padding option</p></figcaption></figure>
 
-### **viii) Remove sparkline**&#x20;
+### viii) Appearance
+
+This option lets you change the appearance of the sparkline charts. Clicking on this option will open up an 'Appearance' model in which you can configure the following properties:
+
+<figure><img src="https://lh3.googleusercontent.com/Am3Gtt8nEUAvEE5uCR8WOmk2-HBomcq-er4OFc0ZJ3287YWQJCubl5gCosaDeq6RlvdxZMuD3UCPcWoRUuZh789YPHk1gN3gqUzGXEwslSK9fHIhBdKNn7JTi672pPNpuR4Okh0OsJ0h09qQ6oPH-LZB63sabvke9PjkjNiuUGgmntlEOIGaK47YhZFUkA" alt=""><figcaption><p>Sparkline appearance modal</p></figcaption></figure>
+
+**a) Apply default theme** - Enabling this option will apply default power BI themes and colors to your sparkline charts
+
+<figure><img src="https://lh5.googleusercontent.com/pTyQdnb2RWPvGjLIlD2Waumhd5l8UyGgBeT8XR_2CI7WcSYTy0zEqBa-CXGr4i80hZWTPp3bwwWlLaxxLiXqOt1EFLwo2eevhBBEGBQVklOj3tZP-G-kTp4CgL-xgUSX4bYnRnJYrm4BMpOJhbNdzfhlhfNFYLtx6HzdT9D01itXe0zVQL6FJZ8hvpSQaQ" alt=""><figcaption><p>Apply default theme option</p></figcaption></figure>
+
+**b) Stroke width** - With this option, you can configure the width of the stroke of your sparkline charts. The default is 1.
+
+<figure><img src="https://lh6.googleusercontent.com/8WQTtrVRZExnSsq4QyRKugkPscE9fIAmLfoKs8vR2blZ4quFGgXzafepP6h3YO6i47GlpPDD63KXZWrXUp7HKgqY4GOefbtxEue0EMXpAXPggmkd9Zn3sm0P9LKwYNAQCST-xZbuHSvoSCbCDOP8Twvs-Azm99fv4eY1ZYz4LeVAViJPEKjOoX2waaPTTQ" alt=""><figcaption><p>Stroke width option</p></figcaption></figure>
+
+**c) Base color** - Using this option you can configure the base color of the strokes of the sparkline charts
+
+**d) Max** - This option lets you set the color of the maximum point in the chart
+
+**e) Min** - This option lets you configure the color of the minimum point in the chart
+
+**f) Label** - This option lets you configure the color of the data label in the chart
+
+**g) Apply gradient** - With this option, you can enable or disable the gradient coloring. If you enable this option, two additional options become available. The 'Area above 1' and 'Area above 2' using which you can set the starting and ending colors for the area above the axis.
+
+<figure><img src="https://lh5.googleusercontent.com/ne0rsvzXEsHEwc8c-Liy9uuZ3ujOyM8WscFW8VkwaoeFTHVGn608H9Vdk4F3oZ0eufBfJYPgalsNrUFZ8qZVNxO-_SyCbLgrm8CKGkjmaWdIwqQdsCk9QPvFOtSN45khvmLKqY3HGaapJUYKNjSIQR9xnndK6qxctyaJQ-oxklFw-wGLfRJBrfL6iXXtEQ" alt=""><figcaption><p>Apply gradient option</p></figcaption></figure>
+
+**h) Line above** - With this option, you can set the color of the line above the axis
+
+**i) Line below** - With this option, you can set the color of the line below the axis
+
+**j) Area above** - With this option you can customize the color of the area above the axis
+
+**k) Area below** - With this option you can customize the color of the area below the axis
+
+<figure><img src="https://lh4.googleusercontent.com/fVjnrkHvLoo8py1MH0y2rgYErbkxjlvrxMq0B5i0i6An-lWOMq64hh8XCut-AGjPLrjUb-y01CxsTPvS_SfAjCF-ueTjxbhzH33j14I5ECkIQsF5eonQxnT-sa6BStoLT1PDyvviSPC7kdFZ5EQ06SxgqQStBqtcsDDi91c6z5Vyvy4iwfWc50LToy2zlA" alt=""><figcaption><p>Baseline appearance option</p></figcaption></figure>
+
+**l) Axis color** - This option lets you customize the color of the axis line
+
+**m) Positive color** - Using this option you can customize the positive color of the bar
+
+**n) Negative color** - Using this option you can customize the negative color of the bar
+
+<figure><img src="https://lh4.googleusercontent.com/0dsdj87irHFSfg-BXFL0_D833Y-v_SkpJBJAHklSbYkN9p-xbh8CSulIb6y1C1GoN7DFZK1x1iMHBdPqnsRGb1r4mLAoQ7xbBOEHOW73nw4QXtQuF5j3Nq0SP_SASXxhow5mLsOVxQ8gV6bdhPtDRttUXCqcUF5IWN-mnzdEkKZynLlmuC_fXVHMBz77_Q" alt=""><figcaption><p>Variance color option</p></figcaption></figure>
+
+### viii) Show label&#x20;
+
+You can configure whether to show or hide data labels using this option. Data labels are shown by default. Clicking on this option once will hide the data labels and clicking again will show the labels.
+
+<figure><img src="https://lh4.googleusercontent.com/5EooZXEDHO2fUYxUkMJh1jS08A7CcT0DNf_qaYYIOFWpy38aESLh7wO6UsotTqciVjPTKtBN1LpyvLlI0wE2k3-MsaCFqCvBnykoYRizac-My19TsOemq9Kwv4e4svU5J3RXRp6OVwUFBBHWsFIkE3wtnGv_Ck7MJQedFcT_4ciMe70vcSX_7T71VAHohQ" alt=""><figcaption><p>Show label option</p></figcaption></figure>
+
+### **ix) Remove sparkline**&#x20;
 
 Clicking on the 'Remove sparkline' option removes the sparkline chart from the report and restores it to the original number format.
 
@@ -124,4 +174,4 @@ Clicking on the 'Remove sparkline' option removes the sparkline chart from the r
 
 <figure><img src="../../.gitbook/assets/sparkline-chart-remove.png" alt=""><figcaption><p>After removal</p></figcaption></figure>
 
-In this section, we covered sparkline charts. Navigate to the next section to learn more about [bullet and clustered charts](bullet-charts-and-clustered-bar-charts.md).
+In this section, we covered the sparkline charts. Navigate to the next section to learn more about [bullet and clustered charts](bullet-charts-and-clustered-bar-charts.md).
