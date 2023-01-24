@@ -5,7 +5,7 @@ The SUM function returns the sum of all numbers in the arguments, which can be n
 ## Syntax
 
 ```javascript
-Sum(value1,[value2]....)
+sum(value1,[value2]....)
 ```
 
 ## Arguments
@@ -17,11 +17,11 @@ value2,...– The additional nodes or numbers to be added. These are optional ar
 ## Example
 
 ```javascript
-SUM(COLUMN1, COLUMN2)
+sum(COLUMN1, COLUMN2)
 ```
 
 Returns the sum of COLUMN1 and COLUMN2
 
-## Excel Equivalent
+## Excel equivalent
 
 [SUM](https://support.microsoft.com/en-us/office/sum-function-043e1c7d-7726-4e80-8f32-07b23e057f89)

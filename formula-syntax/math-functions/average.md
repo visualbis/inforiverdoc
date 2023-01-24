@@ -5,7 +5,7 @@ The AVERAGE function returns the average (arithmetic mean) of its arguments, whi
 ## Syntax
 
 ```javascript
-Average(value1,[value2]....)
+average(value1,[value2]....)
 ```
 
 ## Arguments
@@ -17,11 +17,11 @@ value2,...– The additional nodes or numbers to be averaged. These are optional
 ## Example
 
 ```javascript
-AVERAGE(COLUMN1, COLUMN2)
+average(COLUMN1, COLUMN2)
 ```
 
-Returns the average of COLUMN1, COLUMN2
+Returns the average of COLUMN1 and COLUMN2
 
-## Excel Equivalent
+## Excel equivalent
 
 [AVERAGE](https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6)

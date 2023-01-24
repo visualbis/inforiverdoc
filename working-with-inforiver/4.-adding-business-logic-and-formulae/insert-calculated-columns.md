@@ -2,7 +2,11 @@
 
 With Inforiver, it is possible to insert a new calculated row, column or measure at the visual level in your Power BI table/matrix style reports, without writing DAX. The rows, measures and columns so created can also be formatted, rearranged, and utilized for downstream calculations.
 
-The Excel-like formula engine supports 50+ functions (logical, boolean, math functions and more). The formula editor provides syntax, examples and features such as autocomplete, multi-line support and more to help users create, and troubleshoot formulas
+The Excel-like formula engine supports 50+ functions (logical, boolean, math functions and more). The formula editor provides syntax, examples and features such as autocomplete, multi-line support and more to help users create, and troubleshoot formulas.
+
+{% hint style="info" %}
+Refer to [formula syntax](../../formula-syntax/) for a detailed list of functions, operators, and identifiers that can be used for calculations.
+{% endhint %}
 
 ### 1. Visual measure
 
@@ -27,6 +31,10 @@ c) Once you place the cursor inside the formula editor, you will see a context a
 <figure><img src="../../.gitbook/assets/4.2.11 Measure.png" alt=""><figcaption><p>List of functions</p></figcaption></figure>
 
 d) Let us go ahead and start typing in values. As you key in a formula, the _References_ list automatically refreshes to show a narrower set of options.&#x20;
+
+{% hint style="info" %}
+You can directly select a column from the table to insert in the formula editor. Note that measures can not be referred by using this way. To insert a measure in your formula, you need to use the 'References' tab in the context assistant.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/4.2.6 Measure.png" alt=""><figcaption><p>Reference list</p></figcaption></figure>
 

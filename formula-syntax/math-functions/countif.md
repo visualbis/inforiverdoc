@@ -1,18 +1,18 @@
 # COUNTIF
 
-Returns the count of items that match the condition.
+The COUNTIF function returns the count of items that match the specified condition.
 
 ## Syntax
 
 ```javascript
-CountIF(list, condition)
+countif(list, condition)
 ```
 
 ## Arguments
 
-list - array of numbers or text
+list - List of values. This is a required argument.
 
-condition - string representing a condition
+condition - The condition to be evaluated. This is a required argument.
 
 ## Example
 
@@ -20,8 +20,8 @@ condition - string representing a condition
 COUNTIF([100,500,120],"<200")
 ```
 
-Returns 2, since only two values in the given list match the condition.
+Returns 2, since only two values in the given list, match the condition
 
-## Excel Equivalent
+## Excel equivalent
 
 [COUNTIF](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34)

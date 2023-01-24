@@ -1,6 +1,6 @@
 # RELATIVE
 
-Changes the absolute cell/column reference to a relative reference.
+The RELATIVE identifier changes the absolute cell/column reference to a relative reference.
 
 ## Syntax
 
@@ -22,12 +22,12 @@ CELL\_REF - Reference to a cell
 
 \[Column1] - Reference to a column
 
-The argument in case of column reference should be a negative number
+The argument in case of column reference should be a negative number.
 
 ## Examples
 
 {% hint style="warning" %}
-Relative reference will not work correctly if columns are reordered. Column references from the original layout will be used. Also, it is applicable only for visual measures.
+Relative reference will not work correctly if columns are reordered. Column references from the original layout will be used. Also, it is applicable only when inserting visual measures and not columns.
 {% endhint %}
 
 ### **Relative cell reference**

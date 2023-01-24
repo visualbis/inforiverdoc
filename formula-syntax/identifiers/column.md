@@ -1,11 +1,11 @@
 # COLUMNS
 
-Returns a reference to a specific column in the report. Type 'COLUMNS.' to enable a dropdown with a list of all the columns available in the visual.&#x20;
+The COLUMNS identifier returns a reference to a specific column in the report. Type 'COLUMNS.' to enable a dropdown with a list of all the columns available in the visual.&#x20;
 
 <figure><img src="../../.gitbook/assets/Formula Columns 2.png" alt=""><figcaption><p>Columns reference</p></figcaption></figure>
 
 {% hint style="warning" %}
-'Columns' is applicable only for visual measures.
+'Columns' is applicable only when inserting visual measures.
 {% endhint %}
 
 ## Example

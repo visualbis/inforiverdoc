@@ -1,6 +1,6 @@
 # RELATIVE\_COLUMN
 
-Returns the value of the column relative to the current column.
+The RELATIVE\_COLUMN identifier returns the value of the column relative to the current column.
 
 ## Syntax
 
@@ -12,7 +12,7 @@ Returns the value of the column relative to the current column.
 
 \[Row1] - Reference to a row
 
-The argument should be a negative number
+The argument should be a negative number.
 
 ## Example
 

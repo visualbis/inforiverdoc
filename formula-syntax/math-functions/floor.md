@@ -1,26 +1,26 @@
 # FLOOR
 
-The Floor function returns the floor of a number.
+The FLOOR function rounds a number (towards zero) to the nearest specified multiple of significance.
 
 ## Syntax
 
 ```javascript
-FLOOR(value, significance)
+floor(value, significance)
 ```
 
 ## Arguments
 
-value - number or reference
+value - Number or reference. This is a required argument.
 
-significance - number
+significance - Multiple to which the number should be rounded. This is an optional argument. If missing, the number is rounded to the nearest integer less than the number.
 
 ## Example
 
 ```javascript
-FLOOR(COLUMN1)
+floor(11,3)
 ```
 
-Returns the floor of COLUMN1 to the significance of two decimal
+Returns 9 which is the closest multiple of 3 less than 11
 
 ## Excel Equivalent
 

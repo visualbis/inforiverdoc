@@ -1,27 +1,27 @@
 # RIGHT
 
-Extracts text from the right of the value up to the number of characters specified. When used with number the resultant value is stored as text.
+The RIGHT function returns the last character or characters in a text string, based on the number of characters you specify. When used with a number, the resultant value is stored as text.
 
 ## Syntax
 
 ```javascript
-RIGHT(text/number, [num_chars])
+right(text/number, [num_chars])
 ```
 
 ## Arguments
 
-text/number - string
+text/number - Required. The text string containing the characters you want to extract.
 
-num\_chars - number
+num\_chars - Required. Specifies the number of characters you want RIGHT to extract.
 
 ## Example
 
 ```javascript
-RIGHT([Full Name],6)
+right([Full Name],6)
 ```
 
-When field Full Name has values such as Johny Rivers, this will return Rivers
+When the field Full Name has the value Johny Rivers, this will return Rivers
 
-## **Excel Equivalent**
+## **Excel equivalent**
 
 [RIGHT](https://support.microsoft.com/en-us/office/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)

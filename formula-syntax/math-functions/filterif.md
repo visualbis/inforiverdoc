@@ -1,18 +1,18 @@
 # FILTERIF
 
-Returns the list of items that match the given condition
+The FILTERIF function returns the list of items that match the given condition.
 
 ## Syntax
 
 ```javascript
-FilterIF([List], "Condition")
+filterif([List], Condition)
 ```
 
 ## Arguments
 
-List – List of values&#x20;
+List - A list of values. This is a required argument.
 
-Condition - String
+Condition - The condition to be evaluated. This is a required argument.
 
 ## Example
 
@@ -20,4 +20,4 @@ Condition - String
 Average(FilterIF([Column1,Column2,Column3],">1000"))
 ```
 
-Returns the average of values in Column1, Column2 and Column3 if they are greater than 1000.
+Returns the average of values in Column1, Column2 and Column3 if they are greater than 1000

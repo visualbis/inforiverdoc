@@ -22,6 +22,6 @@ MATCH(“ABC-123-WEW”,”^ABC”)
 
 Returns TRUE if the string value matches the regex value
 
-## **Excel Equivalent**
+## **Excel equivalent**
 
 [MATCH](https://support.microsoft.com/en-us/office/match-function-e8dffd45-c762-47d6-bf89-533f4a37673a)

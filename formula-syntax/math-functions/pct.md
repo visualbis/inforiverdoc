@@ -1,22 +1,21 @@
 # PCT
 
-The PCT function is used for Percentage Calculation.
+The PCT function is used to do a percentage calculation.
 
 ## Syntax
 
 ```javascript
-PCT(value:number)
+pct(value)
 ```
 
 ## Arguments
 
-value – number&#x20;
+value – The percentage in number format. This is a required argument.
 
 ## Example
 
 ```javascript
-SALES + PCT(10) = SALES + 10%
+SALES + Pct(10) = SALES + 10%
 ```
 
-Returns percentage value.
-
+Returns the current sales value plus 10% of sales

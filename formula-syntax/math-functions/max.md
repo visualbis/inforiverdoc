@@ -1,24 +1,26 @@
 # MAX
 
-The MAX function returns the largest number in a set of values. Node references also accepted as arguments.
+The MAX function returns the largest number in a set of values. Node references are also accepted as arguments.
 
 ## Syntax
 
 ```javascript
-MAX(value1,[value2]....)
+max (value1,[value2]....)
 ```
 
 ## Arguments
 
-value1,value2... – The nodes or numbers of which you want the largest of.
+value1 - The numbers or names, arrays, or references that contain numbers. This is a required argument.
+
+value2... - The numbers or names, arrays, or references that contain numbers. This is an optional argument.
 
 ## Example
 
 ```javascript
-MAX(COLUMN1,COLUMN2,COLUMN3)
+max (COLUMN1,COLUMN2,COLUMN3)
 ```
 
-Returns the maximum of COLUMN1, COLUMN2, COLUMN3
+Returns the maximum of COLUMN1, COLUMN2 and COLUMN3
 
 ## Excel Equivalent
 

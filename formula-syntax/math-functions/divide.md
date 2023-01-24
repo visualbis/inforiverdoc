@@ -1,21 +1,23 @@
 # DIVIDE
 
-The Divide function returns the division of the two numbers.
+The DIVIDE function returns the division of the two numbers.
 
 ## Syntax
 
 ```javascript
-DIVIDE(Numerator, Denominator, Alternate)
+divide (Numerator, Denominator, Alternate)
 ```
 
 ## Arguments
 
-&#x20;Numerator, Denominator, Alternate- number
+Numerator, Denominator - The values to be divided. These are required arguments.
+
+Alternate - An alternate value when the division returns an error. This is an optional argument. In case the denominator is null and there is no alternate, returns a !DIV/0 error.
 
 ## Example
 
 ```javascript
-DIVIDE(COLUMN1, COLUMN2, 0)
+divide (COLUMN1, COLUMN2, 0)
 ```
 
-Returns COLUMN1/COLUMN2 and if any error, returns 0
+Returns COLUMN1/COLUMN2 and if any error returns 0

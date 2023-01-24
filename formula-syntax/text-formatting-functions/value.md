@@ -1,25 +1,25 @@
 # VALUE
 
-Converts string to a number
+The VALUE function converts a text string that represents a number to a number.
 
 ## Syntax
 
 ```javascript
-VALUE(value:string)
+value(value:string)
 ```
 
 ## Arguments
 
-value - string
+value - Required. A text string containing a number.
 
 ## Example
 
 ```javascript
-VALUE(MID”ABC-123-WEW”,5,3))
+value(MID"ABC-123-WEW",5,3))
 ```
 
-Returns “123” as number.
+Returns “123” as a number
 
-## **Excel Equivalent**
+## **Excel equivalent**
 
-[https://support.microsoft.com/en-us/office/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028](https://support.microsoft.com/en-us/office/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028)
+[VALUE](https://support.microsoft.com/en-us/office/value-function-257d0108-07dc-437d-ae1c-bc2d3953d8c2)

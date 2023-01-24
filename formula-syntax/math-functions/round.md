@@ -1,27 +1,27 @@
 # ROUND
 
-The Round function returns the round of a number.
+The ROUND function rounds a number to the specified number of decimal places.
 
 ## Syntax
 
 ```javascript
-ROUND(value, significance)
+round(value, significance)
 ```
 
 ## Arguments
 
-value - number or reference
+value - Required. The number to be rounded.
 
-significance - number
+significance - Optional. The decimal places to which the number should be rounded. If this argument is missing, it is considered as 0.
 
 ## Example
 
 ```javascript
-ROUND(COLUMN1, 2)
+round(COLUMN1, 2)
 ```
 
-Returns the round of COLUMN1 to the significance of two decimal.
+Returns the round of COLUMN1 to the significance of two decimals
 
-## Excel Equivalent
+## Excel equivalent
 
 [ROUND](https://support.microsoft.com/en-us/office/round-function-c018c5d8-40fb-4053-90b1-b3e7f61a213c)

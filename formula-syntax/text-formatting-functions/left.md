@@ -1,27 +1,27 @@
 # LEFT
 
-Extracts text from the left of the value up to the number of characters specified. When used with number the resultant value is stored as text.
+The LEFT function returns the first character or characters in a text string, based on the number of characters you specify. When used with a number, the resultant value is stored as text.
 
 ## Syntax
 
 ```javascript
-LEFT(text/number, [num_chars])
+left(text/number, [num_chars])
 ```
 
 ## Arguments
 
-text/number - string
+text/number - Required. The text string that contains the characters you want to extract
 
-num\_chars - number&#x20;
+num\_chars - Required. Specifies the number of characters you want LEFT to extract.
 
 ## Example
 
 ```javascript
-LEFT([Full Name],4)
+left([Full Name],4)
 ```
 
-When field Full Name has values such as Johny Rivers, this will return John
+When the field Full Name has the value of Johny Rivers, this will return John
 
-## **Excel Equivalent**
+## **Excel equivalent**
 
 [LEFT](https://support.microsoft.com/en-us/office/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)

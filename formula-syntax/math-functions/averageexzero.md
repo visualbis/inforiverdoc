@@ -5,7 +5,7 @@ The AVERAGEEXZERO function returns the average (arithmetic mean) of its argument
 ## Syntax
 
 ```javascript
-AverageExZero(value1,[value2]....)
+averageexzero(value1,[value2]....)
 ```
 
 ## Arguments
@@ -17,11 +17,11 @@ value2,...– The additional nodes or numbers to be averaged. These are optional
 ## Example
 
 ```javascript
-AverageExZero(East, South, Central, West)
+averageexzero(East, South, Central, West)
 ```
 
 Returns the average of the four regions excluding zeros
 
-## Excel Equivalent
+## Excel equivalent
 
 [AVERAGEEXZERO](https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6)

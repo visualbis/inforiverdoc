@@ -1,27 +1,27 @@
 # IN
 
-Returns true if the given value is in list
+The IN function returns TRUE if the list of values being searched is in the array.
 
 ## Syntax
 
 ```javascript
-IN(value,[tem1,item2...]
+in(value,[item1,item2...]
 ```
 
 ## Arguments
 
-value- number or reference
+value - The string which is being searched
 
-item1,item2-array,representing list
+item1,item2 - The values which are being searched in the array
+
+## **Return value**
+
+Either True or False
 
 ## **Example**
 
 ```javascript
-IF(IN(Region, ["West","East]),25, 30)
+if(in(Region, ["West","East"]),25, 30)
 ```
 
-Will return 25 if the region is West or East otherwise returns 30&#x20;
-
-## **Excel Equivalent**
-
-IN
+Returns 25 if the region is West or East otherwise returns 30

@@ -1,6 +1,6 @@
 # GROUP INDEX
 
-Returns the position of a column.&#x20;
+The GROUP\_INDEX identifier returns the position of a column.&#x20;
 
 {% hint style="info" %}
 GROUP\_INDEX can be used in both calculated rows and columns.

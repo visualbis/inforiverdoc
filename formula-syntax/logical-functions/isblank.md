@@ -1,25 +1,29 @@
 # ISBLANK
 
-Checks whether value is empty
+The ISBLANK function returns the logical value TRUE if the value argument is a reference to an empty cell; otherwise, it returns FALSE.
 
 ## Syntax
 
 ```javascript
-ISBLANK(value)
+isblank(value)
 ```
 
 ## Arguments
 
-value - number or reference or expression&#x20;
+value - cell or reference or expression&#x20;
+
+## **Return value**
+
+Either True or False
 
 ## **Example**
 
 ```javascript
-ISBLANK(AC)
+isblank(AC)
 ```
 
 Returns TRUE if AC is empty
 
-## **Excel Equivalent**
+## **Excel equivalent**
 
 [ISBLANK](https://support.microsoft.com/en-us/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665)

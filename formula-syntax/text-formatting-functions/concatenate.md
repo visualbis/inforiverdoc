@@ -1,25 +1,25 @@
 # CONCATENATE
 
-Concatenates all the arguments
+The CONCATENATE function concatenates two or more text strings into one string.
 
 ## Syntax
 
 ```javascript
-CONCATENATE(string1, string2, ..)
+concatenate(string1, string2, ..)
 ```
 
 ## Arguments
 
-string1, string2.. - string&#x20;
+string1, string2.. - Text strings to be joined&#x20;
 
 ## Example
 
 ```javascript
-CONCATENATE("Today's price is ",TEXT(6000,"$###,###.00"))
+concatenate ("Today's price is ",text(6000,"$###,###.00"))
 ```
 
-Above formula will return "Today's price is $6,000
+The above formula returns 'Today's price is $6,000'
 
-## **Excel Equivalent**
+## **Excel equivalent**
 
 [CONCATENATE](https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d)

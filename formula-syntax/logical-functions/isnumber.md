@@ -1,25 +1,29 @@
 # ISNUMBER
 
-Checks whether value is a valid number
+The ISNUMBER function returns the logical value TRUE if the value argument is a valid number; otherwise, it returns FALSE.&#x20;
 
 ## Syntax
 
 ```javascript
-ISNUMBER(value)
+isnumber(value)
 ```
 
 ## Arguments
 
-value - number or reference
+value - cell or reference or expression
+
+## **Return value**
+
+Either True or False
 
 ## **Example**
 
 ```javascript
-IF(ISNUMBER((AC-PY)/PY), (AC-PY)/PY , 0)
+if(isnumber((AC-PY)/PY), (AC-PY)/PY, 0)
 ```
 
 Returns AC-PY/PY if the value is a number else returns 0
 
-## **Excel Equivalent**
+## **Excel equivalent**
 
 [ISNUMBER](https://support.microsoft.com/en-us/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665)

@@ -5,7 +5,7 @@ The AVERAGEEXZERONEG function returns the average (arithmetic mean) of its argum
 ## Syntax
 
 ```javascript
-AverageExZeroNeg(value1,[value2]....)
+averageexzeroneg(value1,[value2]....)
 ```
 
 ## Arguments

@@ -2,6 +2,10 @@
 
 Inforiver provides an option to insert calculated rows using an intuitive formula editor. The Excel-like formula engine supports 50+ functions (logical, boolean, math functions and more). The formula editor provides syntax, examples and features such as autocomplete, multi-line support and more to help users create, and troubleshoot formulas.
 
+{% hint style="info" %}
+Refer to [formula syntax](../../formula-syntax/) for a detailed list of functions, operators, and identifiers that can be used for calculations.
+{% endhint %}
+
 Let us take this example, where we have sales data by category and subcategory. Let's insert a row for Specialty Beverages which is calculated as the minimum of the other subcategories in Beverages across quarters.
 
 <figure><img src="../../.gitbook/assets/4.1.1 Calculated row.png" alt=""><figcaption><p>Sales report</p></figcaption></figure>
