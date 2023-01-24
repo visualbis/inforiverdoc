@@ -173,4 +173,16 @@ This option is available only for '_Bullet with marker_' and '_Qualitative bulle
 
 <figure><img src="../../.gitbook/assets/bullet-comparion-bands.png" alt=""><figcaption><p>Bullet chart comparison band option</p></figcaption></figure>
 
+### viii) Appearance
+
+This option lets you change the appearance of the bullet charts. Clicking on this option will open up an 'Appearance' model in which you can configure the following properties:
+
+**Positive color** - Using this option you can customize the positive color of the bar/marker
+
+**Negative color** - Using this option you can customize the negative color of the bar/marker
+
+**Axis color** - This option lets you set the axis color of the chart
+
+<figure><img src="https://lh5.googleusercontent.com/-xAizGQNLseFyOAfut3pBQaAAsO_CRhVq1x9TuSxGARUsddSIX743kxk9koVkUBX8AIRYW5nSo4bUeShcM4l1Dg0IfW6e1QQvwzj_x1PmmvIWOVg0etWCL1j4f67YGOXHAnPDo6QEBlPpHY79E6J1sZDh8Coi_pn8se9sSewyd71K5RKIFilIciRZtFTqQ" alt=""><figcaption><p>Appearance modal</p></figcaption></figure>
+
 In this section, we covered bullet and clustered charts. Navigate to the next section to learn more about [stacked charts](stacked-charts.md).

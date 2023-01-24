@@ -215,4 +215,50 @@ You can customize the fill pattern to any of these IBCS notations: _Solid, Outli
 
 <figure><img src="../../.gitbook/assets/reference-line-fill-pattern.png" alt=""><figcaption><p>Fill pattern options</p></figcaption></figure>
 
+### ix) Appearance
+
+Appearance has two sub-options - Color and Series display.&#x20;
+
+Color is applicable for both the bar and pin charts and lets you define properties such as the bar color, axis color, data label color etc. &#x20;
+
+Series display is only applicable for the pin chart and you can select the marker type and marker size.
+
+{% hint style="info" %}
+Some of these properties/options may or may not be available depending on the inserted chart type and variant.
+{% endhint %}
+
+**A) Colors**
+
+The following options can be accessed by clicking on the 'Colors' option in the case of both bar and pin charts.&#x20;
+
+<figure><img src="../../.gitbook/assets/appearance-colors-option.png" alt=""><figcaption><p>Appearance colors option</p></figcaption></figure>
+
+**a) Positive color** - Using this option you can customize the positive color of the bar/marker
+
+**b) Negative color** - Using this option you can customize the negative color of the bar/marker
+
+**c) Axis color** - This option lets you set the axis color of the chart
+
+**d) Data label color** - This option lets you set the color of the data labels in the chart
+
+**e) Bar color** - This option is available only for solid bar charts and will let you customize the color of the bar
+
+<figure><img src="../../.gitbook/assets/appearance-options.png" alt=""><figcaption><p>Appearance modal</p></figcaption></figure>
+
+**f) Gradient** - Enabling this option will allow you to set a gradient color to your bar chart. If you enable this option, the Min and Max color options become available using which you can set the color for the min value and the max value.
+
+<figure><img src="https://lh3.googleusercontent.com/sPCrbLR6XEFd5ZBYWo0BUzkyvLH1BBdymwKEfl9IFdnSywwvwRG14Snl0IPKwcZ8LyzDdvek5L5QX_hKS9bRvuxB5zK5xLriUDM9iI0jWZuCPDbcDGbDk43piz6hZWh30q0Pc9uQw6jhXk1N3dGXA5Hutq-tk4WtP_BMzNlHwnqLalykhl8hWgx5Bh1TZA" alt=""><figcaption><p>Gradient option</p></figcaption></figure>
+
+**B) Series display**
+
+The following options can be accessed by clicking on the 'Series display' option in the case of pin charts.&#x20;
+
+<figure><img src="../../.gitbook/assets/series-display-option (1).png" alt=""><figcaption><p>Series display option in appearance</p></figcaption></figure>
+
+**a) Marker type** - You can set the marker type for your pin chart(s) using this option. The marker type drop-down has the following options: _Square, Diamond_, and _Circle_.
+
+**b) Marker size** - This drop-down lets you configure the size of the marker in your pin charts. It has the following options: _Mini, Small, Medium_, and _Large_.
+
+<figure><img src="https://lh6.googleusercontent.com/bZaAPJyyrSQC9imG77jx3muwvnHpH3FHYOJD8SeXpzAGffrKcDYfOhnxe96CaF0FA5TwvP7fhH7iN0FqKTtw5qZEUcHNcqMA5O1suUQFSyCLAIi3r5PqlGouSpllNJbrtfkuS_2MIiII-7aN6hIt3fNobztN3tePf1h5F8H7KfaIYdU2wM3PQMY6cBJyjw" alt=""><figcaption><p>Marker type and size options</p></figcaption></figure>
+
 In this section, we covered bar and lollipop/pin charts. Navigate to the next section to learn more about the change/deviation charts.

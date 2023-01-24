@@ -51,4 +51,18 @@ You can enable this checkbox to display an axis line for reference, above the ch
 
 <figure><img src="https://lh4.googleusercontent.com/6KOWdNsh3l8-lU-Y6S4dwJFCwkduR1MUo2FGkvvKyDsdSqkTpmpdcR49a4K8EXFtCWX0PogJXAYXNivOkiCbjyk0H8ij4hYrVU3unCl3OyP3YlD5mFLV3OnriOK9vDp5nzcM6ffdSibC0oPWZGllRIWxUxGTzCz923XAobyv-Q16fIoY8rQGFfTRvLDt7w" alt=""><figcaption><p>Stacked chart show axis option</p></figcaption></figure>
 
+### iv) Appearance
+
+This option lets you change the appearance of the stacked charts. Clicking on this option will open up an 'Appearance' model in which you can configure the following properties:
+
+**Theme** - Using this option, you can customize the theme of the chart. The bar colors change depending on the theme chosen. It has the following options: _IBCS, Power BI,_ and _Custom_.&#x20;
+
+* **IBCS** - Set the bar color of values to the default IBCS theme color
+* **Power BI** - Set the bar color of values to the default Power BI theme color
+* **Custom** - This option lets you set your own custom color for the bars
+
+**Value 1, Value 2,...** - These drop-downs display the columns for which the stacked bar chart is inserted.
+
+<figure><img src="https://lh4.googleusercontent.com/aWbF3yS90zHFrbAum51e4dYbpKEnqnN6-ga3qzX70ZH4PMgqk4G5Ly11VEKC05jAtTDneE8nvWUdWDLdIcEt1YmlPFNiDAXz_Q4L4jR0mPlmymOTz3KKgfjR63dBc7rgAPcjuewCcLuLy_cWBtYH7AzSqDCG9JvnPGjM9CykqMWPYcWEaQy2GHSQ0qf6OQ" alt=""><figcaption><p>Appearance options</p></figcaption></figure>
+
 In this section, we covered stacked charts. Navigate to the next section to learn more about [waterfall charts](waterfall-charts.md).
