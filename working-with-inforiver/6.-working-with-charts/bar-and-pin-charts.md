@@ -261,4 +261,4 @@ The following options can be accessed by clicking on the 'Series display' option
 
 <figure><img src="https://lh6.googleusercontent.com/bZaAPJyyrSQC9imG77jx3muwvnHpH3FHYOJD8SeXpzAGffrKcDYfOhnxe96CaF0FA5TwvP7fhH7iN0FqKTtw5qZEUcHNcqMA5O1suUQFSyCLAIi3r5PqlGouSpllNJbrtfkuS_2MIiII-7aN6hIt3fNobztN3tePf1h5F8H7KfaIYdU2wM3PQMY6cBJyjw" alt=""><figcaption><p>Marker type and size options</p></figcaption></figure>
 
-In this section, we covered bar and lollipop/pin charts. Navigate to the next section to learn more about the change/deviation charts.
+In this section, we covered bar and lollipop/pin charts. Navigate to the next section to learn more about the [change/deviation charts](change-deviation-charts.md).

@@ -99,4 +99,4 @@ e) A sample comment digest is shown below.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.18 comment digest.png" alt=""><figcaption><p>Sample comment digest</p></figcaption></figure>
 
-In the next section, we'll look at [data writeback](../../9.-data-writeback.md).
+In the next section, we'll look at [data writeback](broken-reference).

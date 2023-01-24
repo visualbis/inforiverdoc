@@ -3,7 +3,7 @@
 Data-level commentary is very common in real-life scenarios. In this section, we'll see how you can add data-level comments, mention other users, reply to comments and receive instant notifications on replies/mentions.
 
 {% hint style="info" %}
-While all comments can be [written back](../../9.-data-writeback.md) to databases or shared drives, only the [comment column](comments.md#4.-comments-column) can be exported to an Excel/PDF file.
+While all comments can be [written back](broken-reference) to databases or shared drives, only the [comment column](comments.md#4.-comments-column) can be exported to an Excel/PDF file.
 {% endhint %}
 
 ## 1. Add comments
