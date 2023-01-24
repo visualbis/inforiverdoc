@@ -34,7 +34,7 @@ The 'Distribute parent value to children' option ensures that if a value is ente
 
 <figure><img src="../../.gitbook/assets/4.3.3 Static rows.png" alt=""><figcaption><p>Static row side panel</p></figcaption></figure>
 
-#### Edit cell
+## 3. Edit cell
 
 a) Double-click on a cell as shown in the image. A formula bar gets enabled below the toolbar. Type in a value and click 'Enter'. Note that Inforiver allows entry of scaled values (e.g. 45.3m instead of 45,300,000).
 
@@ -77,7 +77,7 @@ j) To delete a static row, hover over the row and click on the row gripper. Sele
 <figure><img src="../../.gitbook/assets/4.3.14 Static rows.png" alt=""><figcaption><p>Delete a static row</p></figcaption></figure>
 
 {% hint style="info" %}
-You can also edit cells by using the 'Edit cell' icon in the toolbar. You can access it in the Insert tab, Cell section.&#x20;
+You can also edit cells by using the 'Edit cell' icon in the toolbar. You can access it in the 'Insert' tab, 'Cell' section.&#x20;
 {% endhint %}
 
 In the next section, we'll be looking at [inserting manual input columns](insert-manual-input-columns.md).

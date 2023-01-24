@@ -12,7 +12,7 @@ All Power BI users with a valid Inforiver Enterprise subscription would be able 
 
 #### 3. How does the login process work for the admin app/console? <a href="#headline-442-2838" id="headline-442-2838"></a>
 
-You can log in to the admin console by visiting [https://addons.inforiver.com/](https://addons.inforiver.com/). Admin console provides options to manage users, schedules, writeback connections, assets for header/footers, and more. &#x20;
+You can log in to the admin console by visiting [https://addons.inforiver.com/](https://addons.inforiver.com/). [Admin console](../../advanced-topics/admin-console.md) provides options to manage users, schedules, writeback connections, assets for header/footers, and more. &#x20;
 
 #### 4. How frequently would Inforiver be updated? <a href="#headline-447-2838" id="headline-447-2838"></a>
 
