@@ -14,7 +14,7 @@ b) The default header is of type 'Text' as can be seen by clicking on the 'Setti
 
 c) Let's delete the existing content and type a title for the report as shown.
 
-<figure><img src="../../../.gitbook/assets/8.3.3 Text (1).png" alt=""><figcaption><p>Entering the report title</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.3.3 Text.png" alt=""><figcaption><p>Entering the report title</p></figcaption></figure>
 
 d) As you select the text, you can see a floating toolbar with formatting options.&#x20;
 

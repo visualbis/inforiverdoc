@@ -30,7 +30,7 @@ The argument in case of column reference should be a negative number.
 Relative reference will not work correctly if columns are reordered. Column references from the original layout will be used. Also, it is applicable only when inserting visual measures and not columns.
 {% endhint %}
 
-### **Relative cell reference**
+## **1. Cell reference**
 
 Consider ship mode cost for each month. To increase the cost of ship mode by the month's total, you can use the 'Relative' function and select the cell as shown in the below image.
 
@@ -42,7 +42,7 @@ Increased cost for Bookcases -> First Class = 1.06k +126.46k =127.53k
 
 Note that even though we have used the reference to April's total in the formula, it applies the corresponding month's total for the calculation. That is, for Bookcases -> First Class -> January, the updated cost is 0.72k +97.67k, 97.67k being January's total.&#x20;
 
-### Relative column reference
+## 2. Column reference
 
 Consider an example where you want to calculate the variance between the current month's sales and the prior month's sales. The prior month's sales can be calculated using 'Relative' as shown below.
 
