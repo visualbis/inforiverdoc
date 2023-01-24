@@ -22,7 +22,7 @@ By default, the 'Native' option is applied which follows the native summarizatio
 
 'Sum' aggregation displays the sum of the immediate child nodes as the aggregate. In this example, the 'East' subregion is the sum of its immediate child nodes 'Beverages' and 'Water'.
 
-<figure><img src="../.gitbook/assets/Sum (2).png" alt=""><figcaption><p>Sum aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sum (2) (1).png" alt=""><figcaption><p>Sum aggregation</p></figcaption></figure>
 
 #### Minimum
 
