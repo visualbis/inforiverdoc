@@ -22,7 +22,9 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **9. Commenting & collaboration** - The [commenting & collaboration](8.-commenting-and-collaboration/) section covers adding notes, annotations & comments, using @mentions, replies, email notifications, comment digest and more.
 
-**10. Sharing and exporting reports** - The [sharing and exporting reports](broken-reference) section covers export to Excel and PDF.&#x20;
+**10. Sharing and exporting reports** - The [sharing and exporting reports](broken-reference) section covers export to Excel and PDF, ad-hoc emails, and report bursting and scheduling to emails and shared drives.
+
+**11. Data writeback** - The [data writeback](11.-data-writeback.md) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more.
 
 Ad-hoc emails, report bursting and scheduling to emails and shared drives, data writeback, admin console and other Enterprise features will be added in the coming weeks.
 

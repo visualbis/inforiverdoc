@@ -19,7 +19,7 @@ Inforiver also provides an option to add notes at the report level as shown belo
 <figure><img src="../../.gitbook/assets/8.1.2(2) Notes.png" alt=""><figcaption><p>Report level notes</p></figcaption></figure>
 
 {% hint style="info" %}
-Notes can be [exported](../export.md) along with the report as Excel and PDF. It can also be [written back to databases, shared drives or URLs](broken-reference).
+Notes can be [exported](../10.-sharing-and-exporting-reports/export.md) along with the report as Excel and PDF. It can also be [written back to databases, shared drives or URLs](broken-reference).
 {% endhint %}
 
 ## 1. Cell-level notes
