@@ -1,6 +1,6 @@
 # Header & footer
 
-The header and footer in business reports provide a consistent way to identify the content, promote the company's brand and ensure that important information is easily accessible. Inforiver offers powerful header & footer customization capabilities and can be used to show charts, KPIs, logos, images and text.
+The header and footer in business reports provide a consistent way to identify the content, promote the company's brand and ensure that important information is easily accessible. Inforiver offers powerful header & footer customization capabilities and can be used to show charts, KPIs, images and text.
 
 Below is a sample report created using Inforiver. You can see a header with a KPI card, report title and a donut chart. The footer contains the company logo and page number.
 
