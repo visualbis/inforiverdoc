@@ -1,4 +1,4 @@
-# Inforiver Enterprise
+# Inforiver Enterprise FAQs
 
 ### A) General
 
@@ -12,7 +12,7 @@ All Power BI users with a valid Inforiver Enterprise subscription would be able 
 
 #### 3. How does the login process work for the admin app/console? <a href="#headline-442-2838" id="headline-442-2838"></a>
 
-You can log in to the admin console by visiting [https://addons.inforiver.com/](https://addons.inforiver.com/). [Admin console](../../advanced-topics/admin-console.md) provides options to manage users, schedules, writeback connections, assets for header/footers, and more. &#x20;
+You can log in to the admin console by visiting [https://addons.inforiver.com/](https://addons.inforiver.com/). [Admin console](broken-reference) provides options to manage users, schedules, writeback connections, assets for header/footers, and more. &#x20;
 
 #### 4. How frequently would Inforiver be updated? <a href="#headline-447-2838" id="headline-447-2838"></a>
 
@@ -26,7 +26,7 @@ We don't have any requirements on Power BI capacity ​for the enterprise featur
 
 Inforiver requires certain permissions to access resources in your organization which must be granted by the O365 admin. Inforiver requires certain permissions to access resources in your organization which must be granted by the O365 admin. &#x20;
 
-<figure><img src="../../.gitbook/assets/FAQ Enterprise permissions.png" alt=""><figcaption><p>Permissions for Inforiver Enterprise</p></figcaption></figure>
+<figure><img src=".gitbook/assets/FAQ Enterprise permissions.png" alt=""><figcaption><p>Permissions for Inforiver Enterprise</p></figcaption></figure>
 
 #### 7. How to resolve the error showing that the app requires admin consent while login in? <a href="#headline-623-2838" id="headline-623-2838"></a>
 

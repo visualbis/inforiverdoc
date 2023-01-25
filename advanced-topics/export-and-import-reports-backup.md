@@ -53,7 +53,7 @@ h) Your visual gets updated with the configurations from the exported file.
 <figure><img src="../.gitbook/assets/Restored file.png" alt=""><figcaption><p>Restored configuration</p></figcaption></figure>
 
 {% hint style="info" %}
-Another option to reuse report configurations is using the '[Enterprise Themes](enterprise-themes.md)'. You can easily create and add custom themes to the repository which can be accessed by others in the organization. The enterprise themes option is available only in Inforiver Enterprise.&#x20;
+Another option to reuse report configurations is using the '[Enterprise Themes](broken-reference)'. You can easily create and add custom themes to the repository which can be accessed by others in the organization. The enterprise themes option is available only in Inforiver Enterprise.&#x20;
 {% endhint %}
 
-In the next section, we'll be covering the [Admin console](admin-console.md).
+In the next section, we'll be covering the [Admin console](broken-reference).

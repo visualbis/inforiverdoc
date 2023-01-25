@@ -1,26 +1,24 @@
 # MATCH
 
-Check whether value matches the regex
+The MATCH identifier checks whether the specified value is an exact match to the column being searched.&#x20;
 
 ## Syntax
 
 ```javascript
-MATCH(value:string,regex:string)
+match(column, searchvalue)
 ```
 
 ## Arguments
 
-value - string
+column - The columns where the search needs to be performed. This is a required argument.&#x20;
 
-regex - string
+searchvalue - The value to be searched in the column. This is a required argument.&#x20;
 
-## **Example**
+## Example
 
-```javascript
-MATCH(“ABC-123-WEW”,”^ABC”) 
-```
+Consider the below scenario where we need to close the sprint if the Q4 project status is 'Completed'. This has been achieved using the MATCH identifier as shown in the below image.&#x20;
 
-Returns TRUE if the string value matches the regex value
+<figure><img src="../../.gitbook/assets/Formula match.png" alt=""><figcaption><p>Using the MATCH identifer</p></figcaption></figure>
 
 ## **Excel equivalent**
 

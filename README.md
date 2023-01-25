@@ -6,20 +6,20 @@ Inforiver offers the **fastest** way to build Power BI reports, using a comprehe
 
 You can leverage Inforiver to support several use cases such as the following:
 
-1. Visualizations
-2. Storytelling with annotations
-3. Formatted and paginated reports
-4. Free-form data exploration
-5. Spreadsheet-like pivot analysis
-6. Visual-level formula & calculations
-7. Manual data entry & capture
-8. Forecasting, planning & budgeting
-9. What-If simulations
-10. Commenting & Collaboration
-11. Write back data to databases and shared drives
+1. Storytelling with annotations
+2. Free-form data exploration
+3. Visualizations
+4. Commenting & Collaboration
+5. Formatted and paginated reports
+6. Spreadsheet-like pivot analysis
+7. What-If simulations
+8. Visual-level formula & calculations
+9. Write back data to databases and shared drives
+10. Manual data entry & capture
+11. Forecasting, planning & budgeting
 12. Scheduling
 
-<figure><img src=".gitbook/assets/inforiver-use-cases.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Intro.png" alt=""><figcaption></figcaption></figure>
 
 ## 5 reasons to get started with Inforiver
 
