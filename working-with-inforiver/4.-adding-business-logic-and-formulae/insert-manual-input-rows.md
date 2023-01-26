@@ -81,3 +81,7 @@ You can also edit cells by using the 'Edit cell' icon in the toolbar. You can ac
 {% endhint %}
 
 In the next section, we'll be looking at [inserting manual input columns](insert-manual-input-columns.md).
+
+#### Resources
+
+[Insert row and manually enter data in Power BI matrix reports](https://inforiver.com/blog/feature-highlights/insert-row-manual-data-entry-powerbi/)

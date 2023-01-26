@@ -58,8 +58,12 @@ In the 'Totals' menu, you can now see an option to freeze the total.
 
 On selecting 'On', you can see that the grand total row is frozen on the top. You can also freeze it at the bottom by selecting 'Row grand total' as 'Bottom' and 'Freeze total' as 'On'.
 
-<figure><img src="../../../.gitbook/assets/2.4.3.7 Freeze totals.png" alt=""><figcaption><p>Grand total row freezed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.4.3.7 Freeze totals.png" alt=""><figcaption><p>Grand total row frozen</p></figcaption></figure>
 
 In summary, Inforiver allows you to manage row & column subtotals & grand totals the way you want in an intuitive & flexible manner.
 
 In the next section, we'll be covering [inserting empty rows](insert-blank-rows.md).
+
+#### Resources
+
+[Manage totals & subtotals in Power BI](https://inforiver.com/blog/general/managing-totals-subtotals/)

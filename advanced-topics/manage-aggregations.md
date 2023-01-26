@@ -1,4 +1,4 @@
-# Manage aggregations
+# Manage aggregation
 
 While working with Power BI table/matrix reports, we would sometimes like to apply custom measure aggregations in a specific report (e.g., average quantity sold) instead of using the default aggregation used in a data model (e.g., the sum of quantity sold).&#x20;
 
@@ -93,3 +93,7 @@ e) In the below image, you can see that the aggregation field is disabled for th
 <figure><img src="../.gitbook/assets/For.png" alt=""><figcaption><p>Simulation column </p></figcaption></figure>
 
 In the next section, we'll be covering the[ Invert sign](invert-sign.md) feature.
+
+#### Resources
+
+[Change & manage aggregation in Power BI matrix](https://inforiver.com/blog/feature-highlights/define-visual-aggregation-power-bi-table-matrix/)

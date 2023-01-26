@@ -178,4 +178,4 @@ ix) The five subcategories are summed across the subregions and shown as columns
 
 <figure><img src="../../../.gitbook/assets/8.5.48 Charts.png" alt=""><figcaption><p>Auto sum option</p></figcaption></figure>
 
-In the next section, we'll be covering adding [KPI charts](kpi-cards.md).
+In the next section, we'll be covering adding [KPI cards](kpi-cards.md).

@@ -9,9 +9,10 @@ Below is a sample report created using Inforiver. You can see a header with a KP
 The header & footer module is organized as follows:
 
 1. [Introduction](header-and-footer.md#1.-interface) - Overview of the toolbar, header & footer sections, presets, basic interactions and basic customization options&#x20;
-2. [Text & images](header-and-footer/text.md) - Adding text and images
-3. [Charts](header-and-footer/charts.md) - Types of charts and customization options
-4. [KPI cards](header-and-footer/kpi-cards.md) - KPI presets and customization options
+2. [Text](header-and-footer/text.md) - Adding formatted text and using presets like page number, data fields
+3. [Images](header-and-footer/images.md) - Adding images from local files and organizational workspace
+4. [Charts](header-and-footer/charts.md) - Types of charts and customization options
+5. [KPI cards](header-and-footer/kpi-cards.md) - KPI presets and customization options
 
 ## 1. Interface
 
@@ -27,7 +28,7 @@ b) The 'Header & footer' tab gets enabled. You can see that there is a default h
 
 <figure><img src="../../.gitbook/assets/8.2.3 Header.png" alt=""><figcaption><p>Default header</p></figcaption></figure>
 
-c) The blue box is called the 'container'. Currently, there is only one 'cell' in the container with the default fields and scaling. But containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text.md), [Image](header-and-footer/text.md), [Chart](header-and-footer/charts.md) and [KPI](header-and-footer/kpi-cards.md). We'll be covering cell and container customization in a later section.
+c) The blue box is called the 'container'. Currently, there is only one 'cell' in the container with the default fields and scaling. But containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text.md), [Image](header-and-footer/images.md), [Chart](header-and-footer/charts.md) and [KPI](header-and-footer/kpi-cards.md). We'll be covering [cell](header-and-footer.md#i-cell) and [container](header-and-footer.md#ii-container) customization in a later section.
 
 <figure><img src="../../.gitbook/assets/8.2.24 Context menu.png" alt=""><figcaption><p>Container</p></figcaption></figure>
 
@@ -239,4 +240,4 @@ Top, bottom, right and left margins can be applied to cells as shown in the belo
 
 <figure><img src="../../.gitbook/assets/8.2.45 Margins.png" alt=""><figcaption><p>Cell margins</p></figcaption></figure>
 
-In the next section, we'll be covering [text and images](header-and-footer/text.md) in the header/footer.
+In the next section, we'll be covering adding formatted [text](header-and-footer/text.md) in the header/footer.

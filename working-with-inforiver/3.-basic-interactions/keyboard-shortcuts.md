@@ -8,9 +8,7 @@ a) To switch to the 'Home' tab - `Alt` + `H`&#x20;
 
 b) To switch to the 'Insert' tab - `Alt` + `I`&#x20;
 
-c) To switch to the 'Design' tab -&#x20;
-
-d) To switch to the 'Export' tab - `Alt` + `E`&#x20;
+c) To switch to the 'Export' tab - `Alt` + `E`&#x20;
 
 ## 2. Footer
 
@@ -91,10 +89,6 @@ a) To open the 'Layout' dropdown - `Alt` + `B`&#x20;
 b) To expand selected row level - `Alt` + `←`
 
 c) To collapse selected row level - `Alt` + `→`&#x20;
-
-d) To expand all levels -&#x20;
-
-e) To collapse all levels -
 
 ## 6. Templates
 

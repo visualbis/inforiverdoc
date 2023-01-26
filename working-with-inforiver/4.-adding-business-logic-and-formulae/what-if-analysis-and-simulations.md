@@ -107,3 +107,7 @@ All the variances are in red because the negative variance formatting style has 
 {% endhint %}
 
 To learn more about simulations in Power BI, read this [blog](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/). &#x20;
+
+#### References
+
+[5 ways to run dynamic what-if simulations in Power BI](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/)

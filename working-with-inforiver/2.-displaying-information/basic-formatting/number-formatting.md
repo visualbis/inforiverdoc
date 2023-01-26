@@ -129,3 +129,7 @@ You can also display positive and negative numbers in the formats shown below.
 </div>
 
 In the next section, we'll be covering [Cell & value formatting](cell-and-value-formatting.md).
+
+#### Resources
+
+[Intelligent number formatting & scaling in Power BI](https://inforiver.com/blog/general/intelligent-automated-number-formatting-for-tables/)

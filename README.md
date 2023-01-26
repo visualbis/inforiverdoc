@@ -9,7 +9,7 @@ You can leverage Inforiver to support several use cases such as the following:
 1. Storytelling with annotations
 2. Free-form data exploration
 3. Visualizations
-4. Commenting & Collaboration
+4. Commenting & collaboration
 5. Formatted and paginated reports
 6. Spreadsheet-like pivot analysis
 7. What-If simulations

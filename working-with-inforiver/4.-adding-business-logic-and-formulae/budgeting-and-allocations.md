@@ -215,3 +215,9 @@ c) Value can be copied until the last column using the highlighted option.
 <figure><img src="../../.gitbook/assets/7.2.33 Copy last column.png" alt=""><figcaption><p>Copy until the last column</p></figcaption></figure>
 
 In the next section, we'll be covering [set version](set-version.md).
+
+#### Resources
+
+[Forecasting Multiple Items with Seasonality in Power BI](https://inforiver.com/blog/general/forecast-multiple-items-with-seasonality-power-bi/)
+
+[5 ways to enhance your budgeting & forecasting process for better data-driven decisions](https://inforiver.com/insights/enhance-budgeting-forecasting-process-for-data-driven-decisions/)

@@ -72,6 +72,8 @@ In the next section, we'll look at the [one-click templates](templates.md) offer
 
 [Pivot analysis using Inforiver](https://inforiver.com/excel-like-pivot-analysis-powerbi/)
 
-#### Resources
-
 [Nesting Measures in Inforiver](https://inforiver.com/blog/general/nesting-measures-inforiver/)
+
+[Table and Matrix as Visuals = The Same but Different, Use Wisely](https://inforiver.com/blog/general/table-and-matrix-as-visuals-the-same-but-different-use-wisely/)
+
+[7 scenarios where Table, Matrix or Scorecard visuals are better than Charts](https://inforiver.com/insights/scenarios-where-table-matrix-scorecard-visuals-are-better-than-charts/)

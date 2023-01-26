@@ -97,3 +97,7 @@ Collapse all the categories in the columns to show only the Regions
 This option is useful when there are more than 2 hierarchy levels. Here you can expand all branches to Sub Region, for example
 
 In the next section, we'll be [creating visual hierarchies](create-visual-hierarchies.md) using the Group feature.
+
+#### Resources
+
+[Expand/collapse column hierarchy in Power BI](https://inforiver.com/blog/feature-highlights/expand-collapse-column-hierarchy-in-power-bi/)

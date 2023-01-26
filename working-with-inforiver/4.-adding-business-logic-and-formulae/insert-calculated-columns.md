@@ -127,3 +127,7 @@ We have now learnt how to insert calculated columns/measures in a Power BI matri
 [Insert Formulas, Columns and Aggregation](https://www.youtube.com/watch?v=hjPAbuYJUSc)
 
 [Visual calculations using Inforiver](https://inforiver.com/visual-calculations-powerbi/)
+
+[Calculate remaining budget in Power BI (without using DAX)](https://inforiver.com/blog/general/calculating-remaining-budget-powerbi/)
+
+[Insert calculated measure or column in Power BI](https://inforiver.com/blog/feature-highlights/insert-visual-measure-column-calculations-in-microsoft-power-bi/)

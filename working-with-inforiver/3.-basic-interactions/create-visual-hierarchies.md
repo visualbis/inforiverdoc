@@ -83,3 +83,7 @@ b) In case of auto-grouped rows, in the 'Insert' tab, '**Group**' dropdown, sele
 <figure><img src="../../.gitbook/assets/3.7.15 Remove auto row groups.png" alt=""><figcaption><p>Removing auto row group based on classification</p></figcaption></figure>
 
 In the next section, we'll cover how to [pin rows and columns](pin-rows-and-columns.md).
+
+#### Resources
+
+[Group rows or columns in table/matrix reports](https://inforiver.com/blog/general/group-rows-columns-matrix-powerbi/)

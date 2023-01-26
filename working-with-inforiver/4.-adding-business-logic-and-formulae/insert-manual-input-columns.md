@@ -98,3 +98,11 @@ Nothing. Just add Inforiver Enterprise visual to your report, and use the '[Data
 Yes. You can [write back data to a destination database or shared drive](https://inforiver.com/blog/writeback/writeback-power-bi-10-key-considerations/) storage. Inforiver supports destinations such as SQL, Snowflake, Azure, BigQuery, MySQL, Sharepoint, OneDrive and more. You may also simply export the data to a PDF or Excel file.
 
 In the next section, we'll be looking at inserting [number ](insert-manual-input-columns/insert-manual-input-columns.md)columns.
+
+#### Resources
+
+[5 types of manual data entry options in your Power BI table/matrix](https://inforiver.com/blog/writeback/5-types-manual-data-entry-powerbi-table-matrix/)
+
+[Allow multiple users to enter data in a blank table/form in Power BI](https://inforiver.com/blog/writeback/input-data-multiple-users-blank-table-form-powerbi/)
+
+[Input & Edit Sales Forecasts in a Power BI Report](https://inforiver.com/blog/general/input-edit-sales-forecasts-in-a-power-bi-report/)

@@ -20,7 +20,7 @@ d) On clicking 'Select image', you can see a dialog box with two options - 'Sign
 
 <figure><img src="../../../.gitbook/assets/8.4.4 Images.png" alt=""><figcaption><p>Uploading image</p></figcaption></figure>
 
-### 1. Upload from computer
+### 1. From local system
 
 a) On selecting the 'Upload from computer' option in the 'Select image' dialog box, you'll be able to select a file from your system. Select the file and click 'Open'.
 
@@ -42,7 +42,7 @@ e) The image in the header in read mode is shown in the below image.
 
 <figure><img src="../../../.gitbook/assets/8.4.9 Images.png" alt=""><figcaption><p>Header in read mode</p></figcaption></figure>
 
-### 2. Upload from workspace
+### 2. From the workspace
 
 a) To access the images available in the workspace, you need to first sign in with your Office 365 account. Click on the 'Sign in with Office 365' button.
 

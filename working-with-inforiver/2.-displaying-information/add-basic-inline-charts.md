@@ -113,6 +113,8 @@ b) You can see that the highest positive and negative contributions are from Lam
 
 <figure><img src="../../.gitbook/assets/2.5.18 waterfall chart.png" alt=""><figcaption><p>Waterfall chart to visualize margin contribution</p></figcaption></figure>
 
+Learn more about [waterfall charts](https://inforiver.com/insights/waterfall-charts-finance-professionals-best-friend/).
+
 ### iii) Progress bars
 
 a) To visualize the contribution of each category and subcategory to the total sales using the progress bar, click on the 'Quick formula' dropdown in the 'Insert' tab.
@@ -222,6 +224,8 @@ a) Click on the column and then the icon highlighted.
 b) The 'Bar colored pin' chart gets inserted.
 
 <figure><img src="../../.gitbook/assets/2.5.38 comparison.png" alt=""><figcaption><p>Variance% using pin chart</p></figcaption></figure>
+
+Learn more about [hierarchical variance analysis](https://inforiver.com/blog/general/hierarchical-variance-analysis-in-power-bi/) using Inforiver.
 
 ## 7. KPI cards
 

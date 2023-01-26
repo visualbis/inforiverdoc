@@ -111,3 +111,7 @@ When 'Evaluate columns before rows' is disabled, the grand total variance is cal
 [Insert Formulas, Columns and Aggregation](https://www.youtube.com/watch?v=hjPAbuYJUSc)
 
 [Visual calculations using Inforiver](https://inforiver.com/visual-calculations-powerbi/)
+
+[Implement SUM measure totals in Power BI (without using DAX)](https://inforiver.com/blog/general/sum-measure-totals-powerbi-no-dax/)
+
+[Excel-like MoM, QoQ, YoY % Calculations in Rows in Power BI](https://inforiver.com/blog/general/excel-like-mom-qoq-yoy-calculations-power-bi/)

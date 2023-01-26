@@ -154,3 +154,7 @@ Export to Excel does not support images and charts. Only basic icons that are av
 {% endhint %}
 
 Another way to share reports is by sending ad-hoc emails. To learn more, refer to [Send to email](broken-reference).
+
+#### Resources
+
+[Formatted Export to Excel/Spreadsheets in Power BI](https://inforiver.com/blog/general/formatted-export-to-excel-spreadsheets-in-microsoft-power-bi/)

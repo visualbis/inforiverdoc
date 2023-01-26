@@ -130,3 +130,7 @@ The following properties are present in the 'Series Display' option available un
 <figure><img src="https://lh4.googleusercontent.com/YpwW5fsQqD3hU3as9s6z_jsmv30VQC1OxrVEhYl7E9L3AZHb-2doU2pSWd3ZBOguy1RAfyv6XOwcCIjF16xUkVYhzVNiKjEeTpwuSJTK11r_EU6MeIsDnC42ZWRyUMiCs44M5SMqaGC7m2yonYeimK_9ncLeLt9CFmfC_3B2e0bTOz_rgRyV3lDw2h31AA" alt=""><figcaption><p>Appearance series display options</p></figcaption></figure>
 
 In this section, we covered waterfall charts. Navigate to the next section to learn more about the [bar and pin charts](bar-and-pin-charts.md).
+
+#### Resources
+
+[Waterfall charts: A finance professional's best friend](https://inforiver.com/insights/waterfall-charts-finance-professionals-best-friend/)

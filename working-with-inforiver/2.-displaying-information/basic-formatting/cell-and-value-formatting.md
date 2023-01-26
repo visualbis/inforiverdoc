@@ -79,3 +79,7 @@ Use the indentation icon from the toolbar to indent specific values. This featur
 You can increase or decrease row size manually. This is especially useful when inserting inline charts.&#x20;
 
 In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).
+
+#### Resources
+
+[Best Fonts for Financial Reporting](https://inforiver.com/blog/general/best-fonts-financial-reporting/)
