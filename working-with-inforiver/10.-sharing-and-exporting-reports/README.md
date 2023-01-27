@@ -2,7 +2,7 @@
 
 Inforiver provides options such as pagination, header & footer, and report layouts which allow you to build highly formatted & interactive paginated reports. In this section, we'll cover the following:
 
-**1. Export to PDF/Excel** - You can perform formatted export to excel and PDF while retaining the report layout, cell, value & number formatting, notes & annotations, and more. To learn more, refer to [export to PDF & Excel](export.md).
+**1. Export to PDF/Excel** - You can perform formatted export to excel and PDF while retaining the report layout, cell, value & number formatting, notes & annotations, and more. To learn more, refer to [export to PDF & Excel](../7.-sharing-and-exporting-reports/export.md).
 
 **2.** **Ad-hoc emails** - With Inforiver, you can send ad-hoc, formatted PDF/Excel exports of the report by email to select recipients, including external stakeholders. To learn more, refer to [ad-hoc emails](ad-hoc-emails.md).
 
