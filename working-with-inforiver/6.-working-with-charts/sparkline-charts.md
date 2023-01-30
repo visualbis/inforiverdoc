@@ -78,7 +78,7 @@ You can configure the _type_ and _style_ of the axis line from the 'Axis config'
 The axis config option is available only for the _baseline_ chart.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/sparkline-axis-config.png" alt=""><figcaption><p>Sparkline axis config option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-axis-config (1).png" alt=""><figcaption><p>Sparkline axis config option</p></figcaption></figure>
 
 **Type** - An axis in a chart basically serves as a reference making it easy to interpret other data values with respect to it. Depending on the axis type you choose, the axis will get displayed at the
 

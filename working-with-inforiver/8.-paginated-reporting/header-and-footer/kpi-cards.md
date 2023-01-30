@@ -10,7 +10,7 @@ The following KPI card was created earlier. Let's now create another KPI card fr
 
 a) Hover over the header and click on the '6 dots' icon. Click on 'Edit'.
 
-<figure><img src="../../../.gitbook/assets/8.5.2 KPI card.png" alt=""><figcaption><p>Header &#x26; footer toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.5.2 KPI card (1).png" alt=""><figcaption><p>Header &#x26; footer toolbar</p></figcaption></figure>
 
 b) The 'Header & footer' tab opens up as shown below. Click on the 'Settings' icon.
 
@@ -22,7 +22,7 @@ c) Click on 'Type' and select 'KPI'.
 
 d) A simple KPI card gets inserted as shown below. You can also see the KPI customization toolbar.
 
-<figure><img src="../../../.gitbook/assets/8.5.4 KPI card (1).png" alt=""><figcaption><p>Simple KPI card</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.5.4 KPI card.png" alt=""><figcaption><p>Simple KPI card</p></figcaption></figure>
 
 ## 2. Customization options
 
@@ -34,7 +34,7 @@ There are a number of customization options available in the toolbar once a KPI 
 
 As discussed [earlier](../../2.-displaying-information/add-basic-inline-charts.md#7.-kpi-cards), there are a number of KPI presets - Simple, Variance and Combo that can be used to quickly create KPI cards. These KPI cards can be further customized using the below options.
 
-<figure><img src="../../../.gitbook/assets/8.5.6 KPI card.png" alt=""><figcaption><p>KPI presets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.5.6 KPI card (1).png" alt=""><figcaption><p>KPI presets</p></figcaption></figure>
 
 ### ii) Invert variance
 
@@ -44,7 +44,7 @@ In cases where positive variance has a negative impact, you can invert the sign 
 
 On clicking 'Invert variance', you can see that the arrow changes to red.
 
-<figure><img src="../../../.gitbook/assets/8.5.8 KPI card (1).png" alt=""><figcaption><p>Positive and negative variances in red and green</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.5.8 KPI card.png" alt=""><figcaption><p>Positive and negative variances in red and green</p></figcaption></figure>
 
 ### iii) Appearance
 
@@ -52,11 +52,11 @@ There are a number of options to customize the appearance of the KPI cards.
 
 a) Color - The colors for positive and negative values can be chosen using a color picker.
 
-<figure><img src="../../../.gitbook/assets/8.5.9 KPI card (1).png" alt=""><figcaption><p>Appearance options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.5.9 KPI card.png" alt=""><figcaption><p>Appearance options</p></figcaption></figure>
 
 b) Variance icons can be enabled/disabled. By default, the up/down arrows are used. But these can be customized as shown below. You can also upload custom icons if required.
 
-<figure><img src="../../../.gitbook/assets/8.5.10 KPI card (1).png" alt=""><figcaption><p>Icons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.5.10 KPI card.png" alt=""><figcaption><p>Icons</p></figcaption></figure>
 
 c) A 'Variance border' can be applied as shown in the image. A green border is applied in the KPI card since the variance wrt the primary target (2021 Actuals) is positive.&#x20;
 

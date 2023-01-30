@@ -21,7 +21,7 @@ In this example, we have 2022 Actuals and Plan across regions and categories and
 
 a)  We have added '2022 Actuals' in the 'Values (AC)' field and '2022 Plan' in the ' Compare to Prior Period (PY)' field in the visualization pane.
 
-<figure><img src="../../.gitbook/assets/bullet-chart-visualization-pane.png" alt=""><figcaption><p>Data mapping</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bullet-chart-visualization-pane (1).png" alt=""><figcaption><p>Data mapping</p></figcaption></figure>
 
 b) Select the columns for which you want to insert a 2-value bullet chart. In the following image, the 2022 Actuals and 2022 Plan columns have been selected.
 
@@ -119,7 +119,7 @@ This option lets you customize the fill pattern/style of the bar. You can set th
 
 Enabling this option displays the axis line above the chart.
 
-<figure><img src="../../.gitbook/assets/bullet-show-axis.png" alt=""><figcaption><p>Bullet chart show axis option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bullet-show-axis (1).png" alt=""><figcaption><p>Bullet chart show axis option</p></figcaption></figure>
 
 ### **iv) Series display**&#x20;
 
