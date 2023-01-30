@@ -1,8 +1,8 @@
-# Inforiver Matrix
+# Inforiver Matrix FAQs
 
 #### 1.  How do I purchase Inforiver Matrix? <a href="#headline-592-2838" id="headline-592-2838"></a>
 
-Visit Microsoft Appsource to purchase licenses for [Inforiver Matrix](https://appsource.microsoft.com/en-us/product/power-bi-visuals/xviz.inforiver-premium?tab=Overview). Subscription is available by tier and the fee varies based on the plans. To learn how to set up, pay for, and manage licenses for custom Power BI visuals purchased from [AppSource](https://appsource.microsoft.com/), refer to this [article](https://learn.microsoft.com/en-us/power-bi/developer/visuals/licensing-faq).
+Visit Microsoft Appsource to purchase licenses for [Inforiver Matrix](https://appsource.microsoft.com/en-us/product/power-bi-visuals/xviz.inforiver-premium?tab=Overview). Subscription is available by tier and the fee varies based on the plans. To learn how to set up, pay for, and manage licenses for custom Power BI visuals purchased from AppSource, refer to this [article](https://learn.microsoft.com/en-us/power-bi/developer/visuals/licensing-faq).
 
 For other Inforiver licensing-related queries, visit the [General FAQ](https://inforiver.com/faq/) page.
 
@@ -26,7 +26,7 @@ With our enterprise edition – you can save your theme, settings, etc., and it 
 
 #### 6. Can I use Inforiver for budgeting/forecasting? <a href="#headline-608-2838" id="headline-608-2838"></a>
 
-YES. With Inforiver Premium Matrix and Enterprise, you can input and create new budgets or forecasts in seconds. Specifically, you can (a) Create forecasts based on past sales data, (b) Create forecasts from a blank template, (c) Allocate forecasts across countries or product categories proportional to past performance, (d) Perform dynamic what-if simulations to adjust forecasts using a slider interface (e) Comment and annotate on budgets, forecasts, plan, or variance data points, and (f) writeback forecast data along with notes & comments.
+Yes. With Inforiver Premium Matrix and Enterprise, you can input and create new budgets or forecasts in seconds. Specifically, you can (a) Create forecasts based on past sales data, (b) Create forecasts from a blank template, (c) Allocate forecasts across countries or product categories proportional to past performance, (d) Perform dynamic what-if simulations to adjust forecasts using a slider interface (e) Comment and annotate on budgets, forecasts, plan, or variance data points, and (f) writeback forecast data along with notes & comments.
 
 Note: Points e and f are supported only in Inforiver Enterprise
 
@@ -45,7 +45,7 @@ We also recommend that you don’t compare the performance of Inforiver matrix v
 
 #### 8. Is there a limit to the number of pages that can be exported? <a href="#headline-652-2838" id="headline-652-2838"></a>
 
-We offer a formatted and paginated export solution. So, there is a limit of 30k rows for Excel and 1000 pages for PDF for performance and fidelity reasons on the quality of the export.
+We offer a formatted and paginated export solution. So, there is a limit of 30k rows for Excel and 10MB for PDF for performance and fidelity reasons on the quality of the export.
 
 #### 9. What are the collaboration options available? <a href="#headline-612-2838" id="headline-612-2838"></a>
 
@@ -75,8 +75,8 @@ Inforiver [scheduler](https://inforiver.com/schedule-reports-powerbi/) supports 
 
 #### 13. Can we build our own product incorporating Inforiver and sell it to our customers for a license or subscription free? (OEM licensing) <a href="#headline-656-4516" id="headline-656-4516"></a>
 
-Yes. For bundling (OEM) Inforiver fully or partially with your own products or services to your customers or any third party, a separate licensing plan is available. This would be based on the number of developers or customers. [Contact us](https://inforiver.com/contact-us/) to learn more.
+Yes. For bundling (OEM) Inforiver fully or partially with your own products or services to your customers or any third party, a separate licensing plan is available on the [Inforiver website](https://inforiver.com/matrix/pricing/). This would be based on the number of developers or customers.&#x20;
 
 #### 14. Can we build Power BI reports which can be consumed by external organizations for a service fee? (Embedded licensing) <a href="#headline-673-4516" id="headline-673-4516"></a>
 
-Yes. For embedding Inforiver fully or partially with your own products or services, a separate licensing plan is available. This would be based on the number of developers. [Contact us](https://inforiver.com/contact-us/) to learn more.
+Yes. For embedding Inforiver fully or partially with your own products or services, a separate licensing plan is available on the [Inforiver website](https://inforiver.com/matrix/pricing/). This would be based on the number of developers.&#x20;

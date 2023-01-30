@@ -32,6 +32,10 @@ Inforiver requires certain permissions to access resources in your organization 
 
 Your office 365 administrator has restricted you to use apps that have been consented to by one of the administrators. Follow the steps outlined [here](https://lumel.notion.site/Microsoft-Login-Admin-Consent-b3b8eea861ff4070ab0d586f0b5cc3d7) for your administrator to approve.&#x20;
 
+#### 8. How to resolve the error that shows 'connection timed out' when trying to connect to databases? <a href="#headline-953-4237" id="headline-953-4237"></a>
+
+Your IT Team must whitelist _addons.inforiver.com_ to enable Inforiver to connect with various destinations from your server.
+
 ### B) Writeback
 
 #### 1. Do I have to bring my own database for the writeback? <a href="#headline-795-4237" id="headline-795-4237"></a>
@@ -146,7 +150,7 @@ Yes. With the built-in page break feature in Inforiver – the scheduler can han
 
 #### 8. Is there a way to call/reference the filter on the Email subject or body? <a href="#headline-746-4237" id="headline-746-4237"></a>
 
-Yes, report filters can be included in the email subject/body – refer <mark style="color:red;">post</mark> for more details.&#x20;
+Yes, report filters can be included in the email subject/body.&#x20;
 
 #### 9. Can I manually email the paginated reports without requiring Inforiver Enterprise? <a href="#headline-744-4237" id="headline-744-4237"></a>
 

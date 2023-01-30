@@ -171,27 +171,35 @@ In the image below, every child row has been indented from its parent row by the
 
 #### Single child&#x20;
 
-Using this option you can select which nodes to display when a parent hierarchy has only one child. In this example, there is only one subcategory 'Mineral Water' and one sub-region 'Central' in United States. Let's see how this subcategory and subregion are displayed for each of the options.
+Using this option you can select which nodes to display when a parent hierarchy has only one child. In this example, we have a multi-level account hierarchy with several single-child rows and blank rows.&#x20;
 
-* **All** - Displays all the rows i.e the parent rows and the single child rows. Mineral water and Central rows are shown.
+The sales and marketing expenses row has only one child. The personnel cost row's child rows have blank rows. Let's see how this report is displayed for each of the options.
+
+* **All** - Displays all the rows i.e the parent rows and the single child rows. There are blank rows at levels 5 and 6.
 
 <figure><img src="../.gitbook/assets/Single child all.png" alt=""><figcaption><p>Single child - All</p></figcaption></figure>
 
-* **Parent only** - Displays the parent nodes of the single child. The 'Mineral water' row is not shown but 'Central' is shown.
+* **Parent only** - Displays the parent nodes of the single child. The blank rows at level 6 have all been hidden as shown below. The blank rows at level 5 are still shown.&#x20;
 
 <figure><img src="../.gitbook/assets/Single child parent only.png" alt=""><figcaption><p>Single child - Parent only</p></figcaption></figure>
 
-* **Parent (Multi-level) -** Displays only the highest level row of the multi-level hierarchy. Both 'Mineral water' and 'Central' are not shown.
+* **Parent (Multi-level) -** Displays only the highest level row of the multi-level hierarchy. The blank rows at both levels 5 and 6 are not shown.&#x20;
 
-<figure><img src="../.gitbook/assets/Single child parent multilevel.png" alt=""><figcaption><p>Single child - Parent multi-level</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Single child parent multilevel (1).png" alt=""><figcaption><p>Single child - Parent multi-level</p></figcaption></figure>
 
-* **Single child level as parent -** Displays the single child as the parent of its level
+* **Single child level as parent -** Displays the single child as the parent of its level.&#x20;
+
+We are taking a different scenario to explain the single child level as parent and single child as parent options. As you can see below, under Operating expenses we have filtered only IT expenses. You can see blanks at levels 5 and 6.
+
+<figure><img src="../.gitbook/assets/Single child level as parent 1.png" alt=""><figcaption><p>Single child at level 4</p></figcaption></figure>
+
+On selecting 'Single child level as parent', you can see that the level 6 blank row is shown as the child for the level 4 row.
 
 <figure><img src="../.gitbook/assets/Single child level as parent.png" alt=""><figcaption><p>Single child level as parent</p></figcaption></figure>
 
-* **Single child as parent -** Displays only the single child at the lowest level. Only 'Mineral water' is shown.&#x20;
+* **Single child as parent -** Displays only the single child at the lowest level. The blank row at level 6 is shown as the child for the level 3 row.
 
-<figure><img src="../.gitbook/assets/Single child as parent.png" alt=""><figcaption><p>Single child as parent</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Single child as parent 1 (1).png" alt=""><figcaption><p>Single child as parent</p></figcaption></figure>
 
 ## x) Data window
 
