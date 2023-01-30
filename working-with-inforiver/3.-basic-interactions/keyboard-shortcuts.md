@@ -26,11 +26,11 @@ d) To turn off pagination - `Alt` + `L` + `0`&#x20;
 
 a) To navigate cells - `← ↑ → ↓`
 
-{% hint style="info" %}
-`← →` won't work when a row is selected, `↑ ↓` won't work when a column is selected
-{% endhint %}
-
 b) To move to the first/last cell horizontally or vertically - `Ctrl`+ `← ↑ → ↓`&#x20;
+
+{% hint style="info" %}
+In the case of cell navigation, `← →` won't work when a row is selected, `↑ ↓` won't work when a column is selected.&#x20;
+{% endhint %}
 
 ### ii) Cells & cell ranges
 
@@ -129,7 +129,7 @@ f) To apply Top N + Others - `Alt` + `N` + `R`&#x20;
 g) To apply filter - `Alt` + `F` + `I`&#x20;
 
 {% hint style="info" %}
-Select a column before using the Top N + Others shortcut; else gets applied to the first column in visual
+Select a column before using the Top N + Others shortcut; else gets applied to the first column in the report.
 {% endhint %}
 
 ## 8. Calculate
