@@ -74,4 +74,4 @@ c) To show a measure, check the corresponding checkbox.
 
 <figure><img src="../../.gitbook/assets/3.3.12 Unhide measure.png" alt=""><figcaption><p>Unhiding a measure</p></figcaption></figure>
 
-In the next section, we'll cover selections and formatting using [rails](rails.md).
+In the next section, we'll cover how to [manage column widths](manage-column-widths.md).&#x20;

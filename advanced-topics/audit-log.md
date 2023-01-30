@@ -103,3 +103,5 @@ a) You can individually delete any of the audit logs by clicking on the respecti
 b) Click on **** 'Reset all' to reset all the audit logs. Note that this does not reset the changes in the visual.&#x20;
 
 <figure><img src="../.gitbook/assets/Delete (5).png" alt=""><figcaption><p>Reset logs</p></figcaption></figure>
+
+In the next section, we'll be covering [template rows](template-rows.md).

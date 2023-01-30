@@ -95,3 +95,5 @@ b) The 'Blend measure' side panel opens, enter the title and click 'Create'.
 c) You can see the two values along with the data bars in a single column.
 
 <figure><img src="../../.gitbook/assets/Blended bars.png" alt=""><figcaption><p>Blended data bars</p></figcaption></figure>
+
+In the next section, we'll cover some [basic actions](actions/) such as selections and formatting using rails, toolbar customizations, keyboard shortcuts, and reset.

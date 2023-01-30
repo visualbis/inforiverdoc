@@ -8,16 +8,14 @@ We successfully used layouts/templates, applied formatting and added charts and 
 
 **3. Show/hide values** - Inforiver allows you to hide/unhide cells, rows, columns or measures from the toolbar in a single click. To learn more, refer to [show/hide values](show-or-hide-values-rows-and-columns.md).
 
-**4. Rails** - Learn how to enable the horizontal and vertical ruler and adjust the column width and row height of the visual. To learn more, refer to [rails](rails.md).
+**4. Manage column widths** - Learn more about the ways to quickly adjust column width, especially when you have a lot of columns in the section [manage column widths](manage-column-widths.md).
 
-**5. Manage column widths** - Learn more about the ways to quickly adjust column width, especially when you have a lot of columns in the section [manage column widths](manage-column-widths.md).
+**5. Manage hierarchies** - Inforiver provides several options such as expanding or collapsing row/column hierarchies to specified levels, descendants and more. To learn more, refer to [manage hierarchies](manage-hierarchies.md).
 
-**6. Manage hierarchies** - Inforiver provides several options such as expanding or collapsing row/column hierarchies to specified levels, descendants and more. To learn more, refer to [manage hierarchies](manage-hierarchies.md).
+**6. Create visual hierarchies** - With Inforiver, visual hierarchies in rows & columns can be created by selecting multiple items and grouping them. To learn more, refer to [create visual hierarchies](create-visual-hierarchies.md).&#x20;
 
-**7. Create visual hierarchies** - With Inforiver, visual hierarchies in rows & columns can be created by selecting multiple items and grouping them. To learn more, refer to [create visual hierarchies](create-visual-hierarchies.md).&#x20;
+**7. Pin rows & columns** - You can pin rows/columns to the top or left of the report to easily keep track of important KPIs. To learn more, refer to [pin rows & columns](pin-rows-and-columns.md).
 
-**8. Pin rows & columns** - You can pin rows/columns to the top or left of the report to easily keep track of important KPIs. To learn more, refer to [pin rows & columns](pin-rows-and-columns.md).
+**8. Blend measures** - Inforiver allows you to visually blend two measures in a single column along with formatting, including conditional formatting. To learn more, refer to [blend measures](blend-measures.md).
 
-**9. Keyboard shortcuts** - For a list of keyboard shortcuts that you can use to work efficiently with Inforiver, refer to [keyboard shortcuts](keyboard-shortcuts.md).
-
-**10. Reset** - Inforiver provides various reset options such as Reset formats, Reset value, Reset notes and Reset all. To learn more, refer to [reset](reset.md).
+**9. Actions** - In this section, we'll cover some [basic actions](actions/) such as selections and formatting using rails, toolbar customizations, keyboard shortcuts, and reset.

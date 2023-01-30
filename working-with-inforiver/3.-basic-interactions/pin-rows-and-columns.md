@@ -52,4 +52,4 @@ c) When there are multiple pinned rows and columns, you can quickly un-pin the r
 
 <figure><img src="../../.gitbook/assets/3.8.4 Unpin all.png" alt=""><figcaption><p>Unpin all</p></figcaption></figure>
 
-In the next section, you can find a list of the available [keyboard shortcuts](keyboard-shortcuts.md).
+In the next section, you can find a list of the available [keyboard shortcuts](actions/keyboard-shortcuts.md).

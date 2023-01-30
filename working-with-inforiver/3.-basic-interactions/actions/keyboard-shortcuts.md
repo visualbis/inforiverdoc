@@ -154,3 +154,4 @@ f) To paste a selection - `Ctrl` + `V`
 
 g) To open the audit log - `Alt` + `U`
 
+In the next section, we'll be covering [reset](reset.md) options.
