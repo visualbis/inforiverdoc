@@ -74,7 +74,7 @@ b) You will also notice that the _References_ section is a bit different. While 
 
 c) Enter a title and the formula and click 'Create'.
 
-<figure><img src="../../.gitbook/assets/4.2.16 Column.png" alt=""><figcaption><p>Creating a visual column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.2.16 Column (1).png" alt=""><figcaption><p>Creating a visual column</p></figcaption></figure>
 
 d) You will see the values updated in the report.
 

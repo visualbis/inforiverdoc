@@ -74,7 +74,7 @@ Another way to access 'Manage Aggregation' is using 'Manage columns'. Click on '
 
 b) A pop-up opens showing a list of measures under the 'Display' section. You can change the aggregation type of multiple measures here.
 
-<figure><img src="../.gitbook/assets/Display.png" alt=""><figcaption><p>Manage columns pop-up</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Display (2).png" alt=""><figcaption><p>Manage columns pop-up</p></figcaption></figure>
 
 c) Let's change the aggregation for '2020 Actuals' from 'Sum' to 'Maximum'. Select 'Maximum' aggregation from the dropdown.&#x20;
 
