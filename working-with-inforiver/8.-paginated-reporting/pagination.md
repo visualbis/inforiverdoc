@@ -8,7 +8,7 @@ In this section, let's discuss the single & multi-page options, pagination contr
 
 a) In the 'Design' tab of the toolbar, you can find two options - ‘Single page’ and ‘Multi pages’.
 
-<figure><img src="../../.gitbook/assets/Display (1) (1).png" alt=""><figcaption><p>Single and multiple pages</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Display (1) (2).png" alt=""><figcaption><p>Single and multiple pages</p></figcaption></figure>
 
 ### i) Single page
 

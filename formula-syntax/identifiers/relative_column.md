@@ -16,7 +16,7 @@ The argument should be a negative number.
 
 ## Example
 
-The company is planning to add one more size as Extra Large from January 2014. The expected sales for each month is going to be the same as the Large size.&#x20;
+The company is planning to add one more size as Extra Large from January 2014. The expected sales for each month are going to be the same as the previous month's value for the Large size.&#x20;
 
 Relative\_Column points to the previous month’s value. January value will be applied for February and so on. Since we do not have December 2013 sales, January 2014 will be blank.&#x20;
 
