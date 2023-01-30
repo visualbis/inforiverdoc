@@ -4,11 +4,11 @@ Below are the keyboards shortcuts that you can use to work efficiently with Info
 
 ## 1. Toolbar
 
-a) To switch to the 'Home' tab - `Alt` + `H`&#x20;
-
-b) To switch to the 'Insert' tab - `Alt` + `I`&#x20;
-
-c) To switch to the 'Export' tab - `Alt` + `E`&#x20;
+| Description                       | Shortcut     |
+| --------------------------------- | ------------ |
+| a) To switch to the 'Home' tab    | `Alt` + `H`  |
+| b) To switch to the 'Insert' tab  | `Alt` + `I`  |
+| c) To switch to the 'Export' tab  | `Alt` + `E`  |
 
 ## 2. Footer
 
@@ -126,11 +126,11 @@ e) To customize totals - `Alt` + `D`
 
 f) To apply Top N + Others - `Alt` + `N` + `R`&#x20;
 
-{% hint style="info" %}
-Select a column before using the shortcut; else gets applied to the first column in visual
-{% endhint %}
-
 g) To apply filter - `Alt` + `F` + `I`&#x20;
+
+{% hint style="info" %}
+Select a column before using the Top N + Others shortcut; else gets applied to the first column in visual
+{% endhint %}
 
 ## 8. Calculate
 
