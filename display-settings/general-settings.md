@@ -88,7 +88,7 @@ In the below example, 'Double' major gridlines are inserted and their colors are
 
 If 'Off' is selected, the major gridlines will not get displayed. In the below image, the major gridlines have been turned off.
 
-<figure><img src="../.gitbook/assets/gridlines-off.png" alt=""><figcaption><p>Major gridlines turned off</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gridlines-off (1).png" alt=""><figcaption><p>Major gridlines turned off</p></figcaption></figure>
 
 ## x) Minor gridlines
 
