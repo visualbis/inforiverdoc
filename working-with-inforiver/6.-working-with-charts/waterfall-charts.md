@@ -52,7 +52,7 @@ To create a row hierarchy, we have added the 'Category' in the 'Rows' field in t
 
 Select the 'Sales' column, and from the 'Waterfall chart' drop-down, select the 'Colored waterfall chart'.  The waterfall chart gets inserted as shown below.
 
-<figure><img src="../../.gitbook/assets/waterfall-chart-insertion.png" alt=""><figcaption><p>Waterfall chart insertion with row hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/waterfall-chart-insertion (1).png" alt=""><figcaption><p>Waterfall chart insertion with row hierarchy</p></figcaption></figure>
 
 The continuous option now becomes available under the 'Customize' tab. Enabling this option will display a continuous waterfall chart as shown in the image below.
 

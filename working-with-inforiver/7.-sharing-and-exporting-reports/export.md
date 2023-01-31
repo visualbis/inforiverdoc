@@ -105,7 +105,7 @@ Export to PDF does not support image columns.
 
 You can export your report as an Excel file by clicking on the 'Export report' dropdown as shown in the below image.
 
-When there are row/column hierarchies, there are three ways to export:  'Fully Expanded', 'With Expand/Collapse' and 'Current State'.&#x20;
+When there are row/column hierarchies, there are three ways to export:  'Fully Expanded', 'With Expand/Collapse', and 'Current State'.&#x20;
 
 <figure><img src="../../.gitbook/assets/ExportReport.png" alt=""><figcaption><p>Export report</p></figcaption></figure>
 
@@ -150,8 +150,22 @@ The downloaded Excel shows the same expand/collapse state as in the report.
 <figure><img src="../../.gitbook/assets/Excel Report-currentstate.png" alt=""><figcaption><p>Current state report</p></figcaption></figure>
 
 {% hint style="info" %}
-Export to Excel does not support images and charts. Only basic icons that are available in excel, rating and data bars are supported.
+Export to Excel does not support images and charts. Only basic icons that are available in excel, rating, and data bars are supported.
 {% endhint %}
+
+### 3. Copy to clipboard
+
+You can copy the data from your Inforiver visual including the calculated row, columns, edits, and notes (if there are any). The copied data can be easily pasted into an Excel sheet.&#x20;
+
+{% hint style="info" %}
+The keyboard shortcut for the copy to clipboard option is **'Ctrl+C+L'**
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/copy-to-clipboard.png" alt=""><figcaption><p>Copy to clipboard</p></figcaption></figure>
+
+The above data has been copied and pasted in an Excel sheet and it gets displayed as shown in the below image.
+
+<figure><img src="../../.gitbook/assets/pasted-data-in-excel.png" alt=""><figcaption><p>Pasted data in Excel</p></figcaption></figure>
 
 Another way to share reports is by sending ad-hoc emails. To learn more, refer to [Send to email](broken-reference).
 

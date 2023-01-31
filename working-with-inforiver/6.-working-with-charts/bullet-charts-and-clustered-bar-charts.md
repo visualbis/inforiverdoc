@@ -113,7 +113,7 @@ You can change your current bullet chart type from this drop-down.
 
 This option lets you customize the fill pattern/style of the bar. You can set the fill pattern to any of the three relevant IBCS notations: _Solid, Hatched,_ or _Outlined._ In the following image, the fill pattern of 'Actual' has been changed to _Outlined_ and that of 'Target' has been changed to _Hatched_.
 
-<figure><img src="../../.gitbook/assets/bullet-chart-fill-pattern.png" alt=""><figcaption><p>Bullet chart fill pattern option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bullet-chart-fill-pattern (1).png" alt=""><figcaption><p>Bullet chart fill pattern option</p></figcaption></figure>
 
 ### **iii) Show axis**&#x20;
 
@@ -141,7 +141,7 @@ The variance bar height option is available only for _Integrated variance overla
 * **Clustered bar** - Enabling this checkbox will display a clustered bar. You can refer to the [_Clustered Bar_](bullet-charts-and-clustered-bar-charts.md#iii-clustered-bars) section for additional information.
 * **Color** - The fill color drop-down lets you choose the color of the bar for every displayed measure.
 
-<figure><img src="../../.gitbook/assets/bullet-chart-series-display.png" alt=""><figcaption><p>Bullet chart series display option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bullet-chart-series-display (1).png" alt=""><figcaption><p>Bullet chart series display option</p></figcaption></figure>
 
 ### **v) Show column**&#x20;
 

@@ -74,7 +74,7 @@ Reference lines are horizontal or vertical lines that are added to a chart to in
 
 Clicking on this option will open up a 'Reference line' modal to the right of the report.&#x20;
 
-<figure><img src="../../.gitbook/assets/bar-chart-reference-line.png" alt=""><figcaption><p>Reference line options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-chart-reference-line (1).png" alt=""><figcaption><p>Reference line options</p></figcaption></figure>
 
 Click on the 'Add New Line' button in the modal. This will open up a toolbar as shown below.
 
@@ -144,7 +144,7 @@ And the second drop-down lets you select the ending value of the reference band.
 4. **Mid value -**The mid value of the data metric is set as the ending value of the reference band
 5. **Constant -** If you select this option, an additional 'Static Value' field becomes available. Using this option, you can set the static/constant value which is set as the ending value of the reference band.
 
-<figure><img src="../../.gitbook/assets/reference-band-value-display.png" alt=""><figcaption><p>Reference band value display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-band-value-display (1).png" alt=""><figcaption><p>Reference band value display</p></figcaption></figure>
 
 **b) Start From -** Using this drop-down, you can select the starting value of the reference band. It has the following options:&#x20;
 
