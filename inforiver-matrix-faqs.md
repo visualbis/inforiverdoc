@@ -41,7 +41,9 @@ However, we suggest using Inforiver to gather your budgets, forecasts, plans, an
 
 Inforiver works best with summarized and aggregated data. Your Data model could contain billions of rows, but we recommend that using Power BI slicers you restrict the data assigned to Inforiver to be summarized in nature.
 
-We also recommend that you don’t compare the performance of Inforiver matrix vs Power BI Matrix, as Power BI only brings one hierarchy level of data at a time, and using the windowing technique, they only show what you can see. However, Inforiver brings all the hierarchy levels at once and we paginate them so that we can offer hundreds of additional features and visual-level formula capabilities like Excel. So, we are architecturally different from Power BI Matrix for a reason. <mark style="color:red;">In the near future – we will offer turbo mode where the Inforiver matrix will function like the Native Matrix by bringing only one hierarchy level at a time for performance reasons but compromising on features/functionalities which require all the hierarchy levels.</mark>
+We also recommend that you don’t compare the performance of Inforiver matrix vs Power BI Matrix, as Power BI only brings one hierarchy level of data at a time, and using the windowing technique, they only show what you can see. However, Inforiver brings all the hierarchy levels at once and we paginate them so that we can offer hundreds of additional features and visual-level formula capabilities like Excel. So, we are architecturally different from Power BI Matrix for a reason.&#x20;
+
+In the near future – we will offer a performance build where the Inforiver matrix will function like the Native Matrix by bringing only one hierarchy level at a time for performance reasons but compromising on features/functionalities which require all the hierarchy levels.
 
 #### 8. Is there a limit to the number of pages that can be exported? <a href="#headline-652-2838" id="headline-652-2838"></a>
 
