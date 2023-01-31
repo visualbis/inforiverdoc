@@ -126,7 +126,7 @@ The following options are available to customise the signs for the row headers i
 
 In the below image, you can see the positive and equal signs on the data source and total rows.&#x20;
 
-<figure><img src="../.gitbook/assets/Sign in.png" alt=""><figcaption><p>Sign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sign in (3).png" alt=""><figcaption><p>Sign</p></figcaption></figure>
 
 ## vi) Column styles
 

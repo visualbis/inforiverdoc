@@ -18,13 +18,13 @@ a) We have added 'Sub Category' in the 'Rows' field, and 'Sales', 'Margin', 'Mar
 
 b) Select the column for which you want to insert the bar chart. In the following image, the sales column has been selected.
 
-The bar chart option gets enabled. From the 'Bar chart' drop-down, select the 'Solid bar chart'.&#x20;
+The bar chart option gets enabled. From the 'Bar chart' drop-down, select the 'Solid bar chart'. i
 
-<figure><img src="../../.gitbook/assets/barchart-selection (1).png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-column-selection.png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
 
 c) The solid bar chart gets inserted as shown below. You can see the 'Customize' tab in the toolbar and the following [customization options](bar-and-pin-charts.md#2.-customization-options).
 
-<figure><img src="../../.gitbook/assets/barchart-insertion.png" alt=""><figcaption><p>Inserting a bar chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-chart-insertion.png" alt=""><figcaption><p>Inserting a bar chart</p></figcaption></figure>
 
 ### ii) Pin charts
 
@@ -40,11 +40,11 @@ b) Select the column for which you want to insert the pin chart. In the followin
 
 The pin chart option gets enabled. From the 'Pin chart' drop-down, select the 'Simple pin chart'.&#x20;
 
-<figure><img src="../../.gitbook/assets/pinchart-selection.png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pin-chart-column-selection.png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
 
 c) The simple pin chart gets inserted as shown below. You can see the 'Customize' tab in the toolbar and the following [customization options](bar-and-pin-charts.md#2.-customization-options).
 
-<figure><img src="../../.gitbook/assets/pinchart-insertion.png" alt=""><figcaption><p>Inserting a simple pin chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pin-chart-insertion.png" alt=""><figcaption><p>Inserting a simple pin chart</p></figcaption></figure>
 
 ## 2. Customization options
 
@@ -54,7 +54,7 @@ Inserting a bar chart or a pin chart will open up the following configuration op
 
 Here you can change your current chart type.
 
-<figure><img src="../../.gitbook/assets/bar-chart-type-option.png" alt=""><figcaption><p>Bar chart type options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-chart-option.png" alt=""><figcaption><p>Bar chart type options</p></figcaption></figure>
 
 ### **ii) Axis config**&#x20;
 
@@ -66,7 +66,7 @@ This option lets you configure the axis for the chart. Clicking on the 'Axis Con
 * **Show X Axis** - Enable this check box if you want to display an axis on the X coordinate
 * **Hide ticks** - With this option, you can either show/hide tick intervals
 
-<figure><img src="../../.gitbook/assets/bar-chart-axis-config.png" alt=""><figcaption><p> Axis config options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-chart-axis-config (1).png" alt=""><figcaption><p> Axis config options</p></figcaption></figure>
 
 ### **iii) Reference line**&#x20;
 
@@ -78,7 +78,7 @@ Clicking on this option will open up a 'Reference line' modal to the right of th
 
 Click on the 'Add New Line' button in the modal. This will open up a toolbar as shown below.
 
-<figure><img src="../../.gitbook/assets/reference-line-modal.png" alt=""><figcaption><p>Reference line toolbar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-line-toolbar.png" alt=""><figcaption><p>Reference line toolbar</p></figcaption></figure>
 
 You can customize the following options in the reference line modal:
 
@@ -94,21 +94,21 @@ And the second drop-down lets you select the value at which the reference line n
 4. **Mid value -** Inserts a reference line at the mid value of the data metric
 5. **Constant -** If you select this option, an additional 'Static value' field becomes available. Using this option, you can set the static/constant value at which you want to insert the reference line.
 
-<figure><img src="../../.gitbook/assets/reference-line-constant-value (1).png" alt=""><figcaption><p>Reference line constant option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-line-constant.png" alt=""><figcaption><p>Reference line constant option</p></figcaption></figure>
 
 **b) Style -** This option has three drop-downs.&#x20;
 
-From the first drop-down, you can choose the style of the reference line. You can choose from any of the following options: _Dotted, Dashed, Solid, Long Dashed,_ and _Double Solid_.&#x20;
+From the first drop-down, you can choose the style of the reference line. You can choose from any of the following options: _Dotted, Dashed, Solid, Long Dashed,_ or _Double Solid_.&#x20;
 
 From the second drop-down, you can select the color of the reference line.&#x20;
 
 And from the third drop-down, you can choose the position of the reference line. It has the following two options: _Front_ - positions the reference line in front of data values, and _Back_ - positions the reference line to the back of the data values.
 
-<figure><img src="../../.gitbook/assets/reference-line-style-option.png" alt=""><figcaption><p>Reference line style options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-line-style.png" alt=""><figcaption><p>Reference line style options</p></figcaption></figure>
 
 After choosing all the customizations, click on 'Apply' to insert a reference line with chosen customization options.
 
-<figure><img src="../../.gitbook/assets/reference-line-apply.png" alt=""><figcaption><p>Reference line apply</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-line-insertion (1).png" alt=""><figcaption><p>Reference line apply</p></figcaption></figure>
 
 **Add more than one reference line** - To add more than one reference line, you can click on the 'add new trend line' link at the bottom of the toolbar in the reference line modal.
 
@@ -116,11 +116,11 @@ After choosing all the customizations, click on 'Apply' to insert a reference li
 
 **Delete a reference line** - To delete an existing reference line, click on the trash can/delete icon.
 
-<figure><img src="../../.gitbook/assets/delete-reference-line.png" alt=""><figcaption><p>Delete reference line</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-reference-line (1).png" alt=""><figcaption><p>Delete reference line</p></figcaption></figure>
 
 **Disable a reference line** - To disable an existing reference line, click on the toggle switch button.
 
-<figure><img src="../../.gitbook/assets/reference-line-disable.png" alt=""><figcaption><p>Disable a reference line</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/disable-reference-line.png" alt=""><figcaption><p>Disable a reference line</p></figcaption></figure>
 
 ### **iv) Reference band**
 
@@ -128,7 +128,7 @@ Reference bands are similar to reference lines, but they are represented as a sh
 
 Clicking on this option will open up a 'Reference Band' modal.
 
-<figure><img src="../../.gitbook/assets/reference-band-option.png" alt=""><figcaption><p>Reference band options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-band.png" alt=""><figcaption><p>Reference band options</p></figcaption></figure>
 
 From this modal, you can customize the following options
 
@@ -151,11 +151,11 @@ And the second drop-down lets you select the ending value of the reference band.
 1. **Min** - The minimum value of the data metric becomes the starting value of the reference band
 2. **Zero** - Zero becomes the starting value of the reference band
 
-<figure><img src="../../.gitbook/assets/reference-band-start-from.png" alt=""><figcaption><p>Reference band start from options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-band-start-from (2).png" alt=""><figcaption><p>Reference band start from options</p></figcaption></figure>
 
 &#x20;**** 3**.  Constant** - If you select this option, a new input field becomes available where you can select the constant value which becomes the starting value of the reference band.
 
-<figure><img src="../../.gitbook/assets/reference-band-constant-option.png" alt=""><figcaption><p>Reference band constant option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-band-constant.png" alt=""><figcaption><p>Reference band constant option</p></figcaption></figure>
 
 **c) Line Style -** The line style option allows you to set the style and color of the lines that get displayed at the starting and ending value of the reference band.&#x20;
 
@@ -163,26 +163,26 @@ From the first drop-down, you can choose the style of the lines. You can choose 
 
 And, from the second drop-down, you can select the color of the lines.
 
-<figure><img src="../../.gitbook/assets/reference-band-line-style.png" alt=""><figcaption><p>Reference band line style options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-band-line-style (1).png" alt=""><figcaption><p>Reference band line style options</p></figcaption></figure>
 
 **d) Background color** - This color picker lets you choose the color for the shaded area in the reference band.
 
 **Delete reference band** - To delete an inserted reference band, click on the 'Delete' button at the bottom of the 'Reference Band' modal.
 
-<figure><img src="../../.gitbook/assets/reference-band-deletion.png" alt=""><figcaption><p>Delete a reference band</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reference-band-delete.png" alt=""><figcaption><p>Delete a reference band</p></figcaption></figure>
 
 ### **v) Comparison band**
 
 The comparison band indicates the state of the measure depending on which band it resides in. They provide a performance rating to the value being measured where each color represents a different state.
 
-<figure><img src="../../.gitbook/assets/reference-band-comparison-band.png" alt=""><figcaption><p>Comparison band options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/comparison-band.png" alt=""><figcaption><p>Comparison band options</p></figcaption></figure>
 
 You can add comparison bands by clicking on the 'Comparison bands**'** icon. The following properties are available:
 
 * **Compared series** - This drop-down lets you configure the range of comparison bands as values or percentages.
 * **Dynamic** - If you enable this checkbox, then the comparison band range will be added based on individual scaling.
 
-<figure><img src="../../.gitbook/assets/dynamic-option (1).png" alt=""><figcaption><p>Dynamic option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dynamic-comparison-band.png" alt=""><figcaption><p>Dynamic option</p></figcaption></figure>
 
 * **Number of bands** - Here you can set the number of bands required.
 
@@ -194,26 +194,26 @@ This option lets you configure the properties related to the data label. You can
 * **Bar overlap** - By enabling this option, you can overlap the data labels over the bar. By default, this option is not enabled and the data labels are displayed next to the corresponding bar.
 * **Data label flip** - With this option, you can reverse/flip the positions of the data labels. By default, the labels are placed to the right of the bar. By enabling this option you can flip/reverse their position to the left with respect to the bars.
 
-<figure><img src="../../.gitbook/assets/data-label-flip.png" alt=""><figcaption><p>Data label flip</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/data-label-flip (1).png" alt=""><figcaption><p>Data label flip</p></figcaption></figure>
 
 * **Show label** - In this drop-down, you can select the format of the data label. You can display the data values as just labels (numbers), as percentages, or as both.
 * **Percentage scaling** - This drop-down gets enabled only if you have chosen 'Percentage' or 'Both' as the data format in the show label drop-down. Using this option you can configure the scaling of the percentage data label. The available scaling options are
   1. **Universal -** This is the default option and it indicates the percentage contribution of the value to the grand total.
   2. **By level -** Whereas 'By level' indicates the percentage contribution of the value to its parent level or category.
 
-<figure><img src="../../.gitbook/assets/percentage-scaling-option.png" alt=""><figcaption><p>Percentage scaling options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/percentage-scaling.png" alt=""><figcaption><p>Percentage scaling options</p></figcaption></figure>
 
 ### **vii) Padding**&#x20;
 
 You can configure the inner padding (the space between the bar and the top/bottom border of a cell) with this option. Increasing the padding value will increase the spacing.
 
-<figure><img src="../../.gitbook/assets/reference-line-padding.png" alt=""><figcaption><p>Padding options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/padding-option.png" alt=""><figcaption><p>Padding options</p></figcaption></figure>
 
 ### **viii) Fill pattern**&#x20;
 
 You can customize the fill pattern to any of these IBCS notations: _Solid, Outlined,_ or _Hatched_.
 
-<figure><img src="../../.gitbook/assets/reference-line-fill-pattern.png" alt=""><figcaption><p>Fill pattern options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-chart-fill-pattern.png" alt=""><figcaption><p>Fill pattern options</p></figcaption></figure>
 
 ### ix) Appearance
 
@@ -231,7 +231,7 @@ Some of these properties/options may or may not be available depending on the in
 
 The following options can be accessed by clicking on the 'Colors' option in the case of both bar and pin charts.&#x20;
 
-<figure><img src="../../.gitbook/assets/appearance-colors-option.png" alt=""><figcaption><p>Appearance colors option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-appearance-colors.png" alt=""><figcaption><p>Appearance colors option</p></figcaption></figure>
 
 **a) Positive color** - Using this option you can customize the positive color of the bar/marker
 
@@ -243,22 +243,22 @@ The following options can be accessed by clicking on the 'Colors' option in the 
 
 **e) Bar color** - This option is available only for solid bar charts and will let you customize the color of the bar
 
-<figure><img src="../../.gitbook/assets/appearance-options.png" alt=""><figcaption><p>Appearance modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-chart-appearance.png" alt=""><figcaption><p>Appearance modal</p></figcaption></figure>
 
 **f) Gradient** - Enabling this option will allow you to set a gradient color to your bar chart. If you enable this option, the Min and Max color options become available using which you can set the color for the min value and the max value.
 
-<figure><img src="https://lh3.googleusercontent.com/sPCrbLR6XEFd5ZBYWo0BUzkyvLH1BBdymwKEfl9IFdnSywwvwRG14Snl0IPKwcZ8LyzDdvek5L5QX_hKS9bRvuxB5zK5xLriUDM9iI0jWZuCPDbcDGbDk43piz6hZWh30q0Pc9uQw6jhXk1N3dGXA5Hutq-tk4WtP_BMzNlHwnqLalykhl8hWgx5Bh1TZA" alt=""><figcaption><p>Gradient option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bar-gradient.png" alt=""><figcaption><p>Gradient option</p></figcaption></figure>
 
 **B) Series display**
 
 The following options can be accessed by clicking on the 'Series display' option in the case of pin charts.&#x20;
 
-<figure><img src="../../.gitbook/assets/series-display-option (1).png" alt=""><figcaption><p>Series display option in appearance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pin-chart-series-display.png" alt=""><figcaption><p>Series display option in appearance</p></figcaption></figure>
 
 **a) Marker type** - You can set the marker type for your pin chart(s) using this option. The marker type drop-down has the following options: _Square, Diamond_, and _Circle_.
 
 **b) Marker size** - This drop-down lets you configure the size of the marker in your pin charts. It has the following options: _Mini, Small, Medium_, and _Large_.
 
-<figure><img src="https://lh6.googleusercontent.com/bZaAPJyyrSQC9imG77jx3muwvnHpH3FHYOJD8SeXpzAGffrKcDYfOhnxe96CaF0FA5TwvP7fhH7iN0FqKTtw5qZEUcHNcqMA5O1suUQFSyCLAIi3r5PqlGouSpllNJbrtfkuS_2MIiII-7aN6hIt3fNobztN3tePf1h5F8H7KfaIYdU2wM3PQMY6cBJyjw" alt=""><figcaption><p>Marker type and size options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pin-chart-marker-option.png" alt=""><figcaption><p>Marker type and size options</p></figcaption></figure>
 
 In this section, we covered bar and lollipop/pin charts. Navigate to the next section to learn more about the [change/deviation charts](change-deviation-charts.md).

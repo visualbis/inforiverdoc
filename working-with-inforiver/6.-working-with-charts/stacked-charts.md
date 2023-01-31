@@ -19,11 +19,11 @@ b) Select columns for which you want to insert the stacked/percentage stacked ch
 
 The bullet/stacked chart option gets enabled. From the 'Bullet/Stacked chart' drop-down, select the 'Percentage stacked chart' under the 'Others' category.&#x20;
 
-<figure><img src="../../.gitbook/assets/stacked-bar-chart-insertion.png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stacked-column-chart-type.png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
 
 c) The percentage stacked chart gets inserted as shown below. You can see the 'Customize' tab in the toolbar and the following [customization options](stacked-charts.md#2.-customization-options).
 
-<figure><img src="../../.gitbook/assets/percentage-stacked-bar-insertion.png" alt=""><figcaption><p>Inserting a percentage stacked bar chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stakced-bar-chart (2).png" alt=""><figcaption><p>Stacked bar chart insertion</p></figcaption></figure>
 
 ## 2. Customization options
 
@@ -37,19 +37,19 @@ Some of these customization options may or may not be available, depending on th
 
 From the 'Sorting' drop-down, you can set the sorting order of the data series in the chart to either _Ascending_ or _Descending_.
 
-<figure><img src="../../.gitbook/assets/stacked-bar-sort.png" alt=""><figcaption><p>Stacked chart sorting option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stacked-bar-sorting (1).png" alt=""><figcaption><p>Stacked chart sorting option</p></figcaption></figure>
 
 ### **ii) Alignment**&#x20;
 
 Using this drop-down, you can set the alignment of the data labels within the bar. You can align the label to the _Left, Center,_ or _Right_ of the bar, the default is Left.
 
-<figure><img src="https://lh3.googleusercontent.com/SQeB7MgdmDB7jfpD0TEj0M9-92ZOMZsrhS2xWkUUBmRZsR1jm2e7dkTOGidfdM_uatOeRdNs05qrQBs71VRoDmUMx2LuY6T7hh9D86BCk1karTiWjjA24Q_ViUNj6KB3A165Iw4f0c2vhr_wCLssXd2M4Sf4dOZIBfSHPDF0r97rEJmlWA2cndROrMKevw" alt=""><figcaption><p>Stacked chart alignment option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stacked-alignment (1).png" alt=""><figcaption><p>Stacked chart alignment option</p></figcaption></figure>
 
 ### **iii) Show axis**&#x20;
 
 You can enable this checkbox to display an axis line for reference, above the chart.
 
-<figure><img src="https://lh4.googleusercontent.com/6KOWdNsh3l8-lU-Y6S4dwJFCwkduR1MUo2FGkvvKyDsdSqkTpmpdcR49a4K8EXFtCWX0PogJXAYXNivOkiCbjyk0H8ij4hYrVU3unCl3OyP3YlD5mFLV3OnriOK9vDp5nzcM6ffdSibC0oPWZGllRIWxUxGTzCz923XAobyv-Q16fIoY8rQGFfTRvLDt7w" alt=""><figcaption><p>Stacked chart show axis option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stacked-show-axis.png" alt=""><figcaption><p>Stacked chart show axis</p></figcaption></figure>
 
 ### iv) Appearance
 
@@ -63,6 +63,6 @@ This option lets you change the appearance of the stacked charts. Clicking on th
 
 **Value 1, Value 2,...** - These drop-downs display the columns for which the stacked bar chart is inserted.
 
-<figure><img src="https://lh4.googleusercontent.com/aWbF3yS90zHFrbAum51e4dYbpKEnqnN6-ga3qzX70ZH4PMgqk4G5Ly11VEKC05jAtTDneE8nvWUdWDLdIcEt1YmlPFNiDAXz_Q4L4jR0mPlmymOTz3KKgfjR63dBc7rgAPcjuewCcLuLy_cWBtYH7AzSqDCG9JvnPGjM9CykqMWPYcWEaQy2GHSQ0qf6OQ" alt=""><figcaption><p>Appearance options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stacked-appearance.png" alt=""><figcaption><p>Stacked chart appearance options</p></figcaption></figure>
 
 In this section, we covered stacked charts. Navigate to the next section to learn more about [waterfall charts](waterfall-charts.md).

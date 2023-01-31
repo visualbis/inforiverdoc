@@ -16,11 +16,11 @@ b) Select a column for which you want to insert the sparkline chart. In the foll
 
 The sparkline chart option gets enabled. From the 'Sparkline chart' drop-down, select the 'Column sparkline chart'.&#x20;
 
-<figure><img src="../../.gitbook/assets/sparkline-column-select.png" alt=""><figcaption><p>Selecting column and sparkline chart type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-column-chart-type-selection.png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
 
 c) The spark column appears incorporating data for all the months. You can see the _minimum_ and _maximum_ values for each row in _red_ and _green_. You can see the 'Customize' tab in the toolbar and the following [customization options](sparkline-charts.md#2.-customization-options).
 
-<figure><img src="../../.gitbook/assets/2.5.3 sparkline.png" alt=""><figcaption><p>Sparkline customization options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-cistomization-option.png" alt=""><figcaption><p>Sparkline customization options</p></figcaption></figure>
 
 {% hint style="info" %}
 You can select a **subset of the columns** using Shift/Ctrl + Click if you do not want to visualize all the periods as a sparkline.
@@ -38,7 +38,7 @@ Depending on the type of sparkline chart chosen, some of these options may or ma
 
 You can change your current sparkline chart type by clicking on the drop-down arrow in the 'Sparkline' section. In the image below, we have changed the chart type from '_Column sparkline_' to '_Baseline_'.
 
-<figure><img src="../../.gitbook/assets/sparkline-chart-type.png" alt=""><figcaption><p>Sparkline chart type customization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-chart-type (1).png" alt=""><figcaption><p>Sparkline chart type options</p></figcaption></figure>
 
 ### **ii) Marker**&#x20;
 
@@ -52,7 +52,7 @@ From the 'Marker' drop-down, you can select the type of marker points you want t
 * **Max** - Only for the maximum value
 * **Last** - Only for the last value
 
-<figure><img src="../../.gitbook/assets/sparkline-marker.png" alt=""><figcaption><p>Sparkline marker points option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-marker-type.png" alt=""><figcaption><p>Sparkline marker type</p></figcaption></figure>
 
 ### **iii) Scale bands**&#x20;
 
@@ -62,13 +62,13 @@ From the 'Marker' drop-down, you can select the type of marker points you want t
 The scale bands option is available only if you select any of the standard sparkline chart types (_Line Linear, Line Spline,_ or _Line Stepped_).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/sparkline-scale-band (1).png" alt=""><figcaption><p>Sparkline scale band option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-scale-band (1).png" alt=""><figcaption><p>Sparkline scale band</p></figcaption></figure>
 
 ### **iv) Show column**&#x20;
 
 From the 'Show column' section, you can choose whether to show the _Min, Max, Avg,_ or _Sum_ columns or _All children (enabled by default)._ In the below image, the _Avg_ and _Min_ columns are enabled in the Show Column option, and the report shows the Min and Average columns.
 
-<figure><img src="../../.gitbook/assets/sparkline-show-column.png" alt=""><figcaption><p>Sparkline show column options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-show-column (1).png" alt=""><figcaption><p>Sparkline show column</p></figcaption></figure>
 
 ### **v) Axis config**&#x20;
 
@@ -78,7 +78,7 @@ You can configure the _type_ and _style_ of the axis line from the 'Axis config'
 The axis config option is available only for the _baseline_ chart.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/sparkline-axis-config (1).png" alt=""><figcaption><p>Sparkline axis config option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-axis-config (1).png" alt=""><figcaption></figcaption></figure>
 
 **Type** - An axis in a chart basically serves as a reference making it easy to interpret other data values with respect to it. Depending on the axis type you choose, the axis will get displayed at the
 
@@ -120,15 +120,15 @@ The padding option is available only for the _Column_ and _Win/Loss_ Sparklines.
 
 This option lets you change the appearance of the sparkline charts. Clicking on this option will open up an 'Appearance' model in which you can configure the following properties:
 
-<figure><img src="https://lh3.googleusercontent.com/Am3Gtt8nEUAvEE5uCR8WOmk2-HBomcq-er4OFc0ZJ3287YWQJCubl5gCosaDeq6RlvdxZMuD3UCPcWoRUuZh789YPHk1gN3gqUzGXEwslSK9fHIhBdKNn7JTi672pPNpuR4Okh0OsJ0h09qQ6oPH-LZB63sabvke9PjkjNiuUGgmntlEOIGaK47YhZFUkA" alt=""><figcaption><p>Sparkline appearance modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-appearance.png" alt=""><figcaption><p>Sparkline appearance option</p></figcaption></figure>
 
 **a) Apply default theme** - Enabling this option will apply default power BI themes and colors to your sparkline charts
 
-<figure><img src="https://lh5.googleusercontent.com/pTyQdnb2RWPvGjLIlD2Waumhd5l8UyGgBeT8XR_2CI7WcSYTy0zEqBa-CXGr4i80hZWTPp3bwwWlLaxxLiXqOt1EFLwo2eevhBBEGBQVklOj3tZP-G-kTp4CgL-xgUSX4bYnRnJYrm4BMpOJhbNdzfhlhfNFYLtx6HzdT9D01itXe0zVQL6FJZ8hvpSQaQ" alt=""><figcaption><p>Apply default theme option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-default-theme.png" alt=""><figcaption><p>Sparklinee default theme</p></figcaption></figure>
 
 **b) Stroke width** - With this option, you can configure the width of the stroke of your sparkline charts. The default is 1.
 
-<figure><img src="https://lh6.googleusercontent.com/8WQTtrVRZExnSsq4QyRKugkPscE9fIAmLfoKs8vR2blZ4quFGgXzafepP6h3YO6i47GlpPDD63KXZWrXUp7HKgqY4GOefbtxEue0EMXpAXPggmkd9Zn3sm0P9LKwYNAQCST-xZbuHSvoSCbCDOP8Twvs-Azm99fv4eY1ZYz4LeVAViJPEKjOoX2waaPTTQ" alt=""><figcaption><p>Stroke width option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-stroke-width.png" alt=""><figcaption><p>Sparkline stroke width</p></figcaption></figure>
 
 **c) Base color** - Using this option you can configure the base color of the strokes of the sparkline charts
 
@@ -140,7 +140,7 @@ This option lets you change the appearance of the sparkline charts. Clicking on 
 
 **g) Apply gradient** - With this option, you can enable or disable the gradient coloring. If you enable this option, two additional options become available. The 'Area above 1' and 'Area above 2' using which you can set the starting and ending colors for the area above the axis.
 
-<figure><img src="https://lh5.googleusercontent.com/ne0rsvzXEsHEwc8c-Liy9uuZ3ujOyM8WscFW8VkwaoeFTHVGn608H9Vdk4F3oZ0eufBfJYPgalsNrUFZ8qZVNxO-_SyCbLgrm8CKGkjmaWdIwqQdsCk9QPvFOtSN45khvmLKqY3HGaapJUYKNjSIQR9xnndK6qxctyaJQ-oxklFw-wGLfRJBrfL6iXXtEQ" alt=""><figcaption><p>Apply gradient option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-gradient.png" alt=""><figcaption><p>Sparkline apply gradient</p></figcaption></figure>
 
 **h) Line above** - With this option, you can set the color of the line above the axis
 
@@ -150,7 +150,7 @@ This option lets you change the appearance of the sparkline charts. Clicking on 
 
 **k) Area below** - With this option you can customize the color of the area below the axis
 
-<figure><img src="https://lh4.googleusercontent.com/fVjnrkHvLoo8py1MH0y2rgYErbkxjlvrxMq0B5i0i6An-lWOMq64hh8XCut-AGjPLrjUb-y01CxsTPvS_SfAjCF-ueTjxbhzH33j14I5ECkIQsF5eonQxnT-sa6BStoLT1PDyvviSPC7kdFZ5EQ06SxgqQStBqtcsDDi91c6z5Vyvy4iwfWc50LToy2zlA" alt=""><figcaption><p>Baseline appearance option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-color-options.png" alt=""><figcaption><p>Sparkline color options</p></figcaption></figure>
 
 **l) Axis color** - This option lets you customize the color of the axis line
 
@@ -158,20 +158,20 @@ This option lets you change the appearance of the sparkline charts. Clicking on 
 
 **n) Negative color** - Using this option you can customize the negative color of the bar
 
-<figure><img src="https://lh4.googleusercontent.com/0dsdj87irHFSfg-BXFL0_D833Y-v_SkpJBJAHklSbYkN9p-xbh8CSulIb6y1C1GoN7DFZK1x1iMHBdPqnsRGb1r4mLAoQ7xbBOEHOW73nw4QXtQuF5j3Nq0SP_SASXxhow5mLsOVxQ8gV6bdhPtDRttUXCqcUF5IWN-mnzdEkKZynLlmuC_fXVHMBz77_Q" alt=""><figcaption><p>Variance color option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-axis-color.png" alt=""><figcaption><p>Variance color option</p></figcaption></figure>
 
 ### viii) Show label&#x20;
 
 You can configure whether to show or hide data labels using this option. Data labels are shown by default. Clicking on this option once will hide the data labels and clicking again will show the labels.
 
-<figure><img src="https://lh4.googleusercontent.com/5EooZXEDHO2fUYxUkMJh1jS08A7CcT0DNf_qaYYIOFWpy38aESLh7wO6UsotTqciVjPTKtBN1LpyvLlI0wE2k3-MsaCFqCvBnykoYRizac-My19TsOemq9Kwv4e4svU5J3RXRp6OVwUFBBHWsFIkE3wtnGv_Ck7MJQedFcT_4ciMe70vcSX_7T71VAHohQ" alt=""><figcaption><p>Show label option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-show-llabel.png" alt=""><figcaption><p>Sparkline show label</p></figcaption></figure>
 
 ### **ix) Remove sparkline**&#x20;
 
 Clicking on the 'Remove sparkline' option removes the sparkline chart from the report and restores it to the original number format.
 
-<figure><img src="../../.gitbook/assets/sparkline-remove.png" alt=""><figcaption><p>Removing sparkline</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/remove-sparkline (2).png" alt=""><figcaption><p>Remove sparkline chart</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/sparkline-chart-remove.png" alt=""><figcaption><p>After removal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/remove-chart.png" alt=""><figcaption><p>After chart removal</p></figcaption></figure>
 
 In this section, we covered the sparkline charts. Navigate to the next section to learn more about [bullet and clustered charts](bullet-charts-and-clustered-bar-charts.md).
