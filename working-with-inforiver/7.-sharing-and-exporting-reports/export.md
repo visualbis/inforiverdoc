@@ -167,7 +167,7 @@ The above data has been copied and pasted in an Excel sheet and it gets displaye
 
 <figure><img src="../../.gitbook/assets/pasted-data-in-excel.png" alt=""><figcaption><p>Pasted data in Excel</p></figcaption></figure>
 
-Another way to share reports is by sending ad-hoc emails. To learn more, refer to [Send to email](broken-reference).
+Another way to share reports is by sending ad-hoc emails. To learn more, refer to [Send to email](../10.-sharing-and-exporting-reports/ad-hoc-emails.md).
 
 #### Resources
 
