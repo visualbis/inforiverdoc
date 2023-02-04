@@ -36,6 +36,10 @@ Your office 365 administrator has restricted you to use apps that have been cons
 
 Your IT Team must whitelist _addons.inforiver.com_ to enable Inforiver to connect with various destinations from your server.
 
+#### 9. What does fair use policy mean? What is the impact?
+
+When individual users or small teams on the SaaS edition exceed the business transaction value of their heavy usage – we recommend they move their workloads to their own Azure private tenants. Public tenant is for the benefit of SMB use cases, and we want to ensure that a small set of heavy users doesn’t impact the user experience for the rest of the SMB customers who use the shared public tenant and Azure services hosted by Inforiver.
+
 ### B) Writeback
 
 #### 1. Do I have to bring my own database for the writeback? <a href="#headline-795-4237" id="headline-795-4237"></a>
