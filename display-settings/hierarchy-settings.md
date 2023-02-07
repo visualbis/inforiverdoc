@@ -209,7 +209,7 @@ On selecting 'Single child level as parent', you can see that the level 6 blank 
 Currently, this is an experimental feature.&#x20;
 {% endhint %}
 
-In this option, you can specify the number of columns to be fetched from the data source. You can specify up to a maximum of 2000 columns. The default value is 5.
+In this option, you can specify the number of columns to be fetched from the data source. You can specify up to a maximum of 1000 columns. The default value is 5.
 
 <figure><img src="../.gitbook/assets/column-count.png" alt=""><figcaption><p>Column count option</p></figcaption></figure>
 
