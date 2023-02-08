@@ -2,8 +2,6 @@
 
 Inforiver provides an option to insert calculated rows using an intuitive formula editor. The Excel-like formula engine supports 50+ functions (logical, boolean, math functions and more). The formula editor provides syntax, examples and features such as autocomplete, multi-line support and more to help users create, and troubleshoot formulas.
 
-{% embed url="https://lumel.wistia.com/medias/n67puv7p0m" %}
-
 {% hint style="info" %}
 Refer to [formula syntax](../../formula-syntax/) for a detailed list of functions, operators, and identifiers that can be used for calculations.
 {% endhint %}

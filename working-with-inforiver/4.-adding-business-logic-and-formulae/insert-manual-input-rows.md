@@ -4,8 +4,6 @@ Quite often we would like to insert a row in our table/matrix reports in Power B
 
 To address such scenarios, Inforiver allows you to insert static rows in matrix-style reports where you can input or enter the data.
 
-{% embed url="https://lumel.wistia.com/medias/n67puv7p0m" %}
-
 Let's take this example where we need to insert a new subcategory 'Specialty beverages'.&#x20;
 
 ## 1. Insert static row

@@ -15,6 +15,10 @@ Inforiver provides six (6) different options to manually enter data in your Powe
 Inforiver Matrix offers only the first five types. Input types and features specific to Inforiver Enterprise are covered in a later [section](insert-manual-input-columns/enterprise-features.md).&#x20;
 {% endhint %}
 
+In this video, we discuss the data input functionality in the reading and editing modes.
+
+{% embed url="https://lumel.wistia.com/medias/oxcfjxw9a5" %}
+
 ## 1. Sign-in
 
 a) If you are using the Enterprise version, you need to sign in as shown below.
