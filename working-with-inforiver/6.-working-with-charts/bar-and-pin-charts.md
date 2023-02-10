@@ -112,7 +112,7 @@ After choosing all the customizations, click on 'Apply' to insert a reference li
 
 **Add more than one reference line** - To add more than one reference line, you can click on the 'add new trend line' link at the bottom of the toolbar in the reference line modal.
 
-<figure><img src="../../.gitbook/assets/add-new-trend-line.png" alt=""><figcaption><p>Add new trend line</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-new-trend-line (1).png" alt=""><figcaption><p>Add new trend line</p></figcaption></figure>
 
 **Delete a reference line** - To delete an existing reference line, click on the trash can/delete icon.
 

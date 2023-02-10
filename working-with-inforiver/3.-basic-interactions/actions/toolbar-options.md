@@ -114,7 +114,7 @@ In this image, the context menu appears on right-click when the report is in the
 
 If you enable this option, you can easily drag and drop the rows and columns for easy reordering in reading view mode.
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Reorder row/column option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Reorder row/column option</p></figcaption></figure>
 
 #### Show toast message
 

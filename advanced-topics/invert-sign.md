@@ -20,7 +20,7 @@ a) Select the required row. In the ‘Insert’ tab of the toolbar, click the �
 
 b) The row 'East -> Beverages' is inverted and you can see the change in the value of totals.&#x20;
 
-<figure><img src="../.gitbook/assets/Toast.png" alt=""><figcaption><p>Result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Toast (2).png" alt=""><figcaption><p>Result</p></figcaption></figure>
 
 c) If you do not want the sign inversion to impact the totals, turn off the 'Include in Total' toggle in the Display -> Numbers settings.
 
@@ -28,7 +28,7 @@ c) If you do not want the sign inversion to impact the totals, turn off the 'Inc
 
 d) Click ‘Invert’ again with the respective row selected to reset to the default value.
 
-<figure><img src="../.gitbook/assets/Reset.png" alt=""><figcaption><p>Reset inversion</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Reset (2) (1).png" alt=""><figcaption><p>Reset inversion</p></figcaption></figure>
 
 e) A pop-up opens with a message as shown, select ‘Apply’ to reset.
 
@@ -36,7 +36,7 @@ e) A pop-up opens with a message as shown, select ‘Apply’ to reset.
 
 f) You can now see the original values in the Beverages row and the totals.
 
-<figure><img src="../.gitbook/assets/Value reset.png" alt=""><figcaption><p>Reset to default</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Value reset (2).png" alt=""><figcaption><p>Reset to default</p></figcaption></figure>
 
 g) Instead of inverting the sign of the child nodes individually, you can do it in bulk at the parent level. Let's invert the 'United States' parent row, select the row and apply 'Invert'.
 

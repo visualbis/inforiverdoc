@@ -62,7 +62,7 @@ From the 'Marker' drop-down, you can select the type of marker points you want t
 The scale bands option is available only if you select any of the standard sparkline chart types (_Line Linear, Line Spline,_ or _Line Stepped_).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/sparkline-scale-band (1) (1).png" alt=""><figcaption><p>Sparkline scale band</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-scale-band (1).png" alt=""><figcaption><p>Sparkline scale band</p></figcaption></figure>
 
 ### **iv) Show column**&#x20;
 

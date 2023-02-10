@@ -34,7 +34,7 @@ Inforiver provides nested AND/OR filtering options to filter a range of data bas
 
 a) In the 'Home' tab of the toolbar, click on the 'Filter' icon **** in the Analyze section.
 
-<figure><img src="../../../.gitbook/assets/Filter.png" alt=""><figcaption><p>Filter option in toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Filter (2).png" alt=""><figcaption><p>Filter option in toolbar</p></figcaption></figure>
 
 b) Click 'Add Filter'. You can filter by row or column hierarchies, or by measures. Inforiver provides conditions depending on the filter selected. Enter a condition as shown below.
 
