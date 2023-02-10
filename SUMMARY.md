@@ -29,6 +29,7 @@
     * [Blend measures](working-with-inforiver/3.-basic-interactions/blend-measures.md)
     * [Actions](working-with-inforiver/3.-basic-interactions/actions/README.md)
       * [Rails](working-with-inforiver/3.-basic-interactions/actions/rails.md)
+      * [Toolbar options](working-with-inforiver/3.-basic-interactions/actions/toolbar-options.md)
       * [Keyboard shortcuts](working-with-inforiver/3.-basic-interactions/actions/keyboard-shortcuts.md)
       * [Reset](working-with-inforiver/3.-basic-interactions/actions/reset.md)
   * [4. Adding business logic and formulae](working-with-inforiver/4.-adding-business-logic-and-formulae/README.md)

@@ -181,11 +181,11 @@ The sales and marketing expenses row has only one child. The personnel cost row'
 
 * **Parent only** - Displays the parent nodes of the single child. The blank rows at level 6 have all been hidden as shown below. The blank rows at level 5 are still shown.&#x20;
 
-<figure><img src="../.gitbook/assets/Single child parent only.png" alt=""><figcaption><p>Single child - Parent only</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Single child parent only (2).png" alt=""><figcaption><p>Single child - Parent only</p></figcaption></figure>
 
 * **Parent (Multi-level) -** Displays only the highest level row of the multi-level hierarchy. The blank rows at both levels 5 and 6 are not shown.&#x20;
 
-<figure><img src="../.gitbook/assets/Single child parent multilevel (1).png" alt=""><figcaption><p>Single child - Parent multi-level</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Single child parent multilevel (1) (1).png" alt=""><figcaption><p>Single child - Parent multi-level</p></figcaption></figure>
 
 * **Single child level as parent -** Displays the single child as the parent of its level.&#x20;
 

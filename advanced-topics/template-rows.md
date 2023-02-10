@@ -2,6 +2,8 @@
 
 Inforiver allows inserting calculated rows at every level in the hierarchy with the template row option.
 
+{% embed url="https://lumel.wistia.com/medias/n67puv7p0m" %}
+
 Let us take this example: Sales data by region and category. Let's insert a calculated row in each hierarchy which is 1.5 times the value of Beverages across quarters.
 
 a) Select a row above which you would like to insert the row.

@@ -34,4 +34,4 @@ g) You can now see the numbering over the rails.
 
 <figure><img src="../../../.gitbook/assets/Numbering on rail.png" alt=""><figcaption><p>Numbering over rails</p></figcaption></figure>
 
-In the next section, we'll cover [keyboard shortcuts](keyboard-shortcuts.md).
+In the next section, we'll cover [toolbar options](toolbar-options.md).
