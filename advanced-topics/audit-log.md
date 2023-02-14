@@ -56,7 +56,7 @@ c) You can also add comments in the audit log. Hover over a log, click on the 'c
 
 d) Using the 'Search' option, you can search for any row/column/cell within the audit log. Inforiver starts narrowing down the matches as soon as you start typing. You can select the required item from the list.
 
-<figure><img src="../.gitbook/assets/Search (3).png" alt=""><figcaption><p>Search</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Search (3) (2).png" alt=""><figcaption><p>Search</p></figcaption></figure>
 
 e) There is also an advanced filter option where you can filter based on the type of change, date range and logs with comments:
 
@@ -76,7 +76,7 @@ a) Click 'Export' to export the audit log as an Excel file to do any further ana
 Export is supported only in Power BI service.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Delete (4) (1).png" alt=""><figcaption><p>Export audit log</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Delete (4).png" alt=""><figcaption><p>Export audit log</p></figcaption></figure>
 
 b) The downloaded audit log contains several fields which are explained below.
 

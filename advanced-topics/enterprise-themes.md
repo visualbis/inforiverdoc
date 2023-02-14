@@ -138,7 +138,7 @@ Username - Filter the themes by the username
 
 Date range - You can filter the themes that fall within a date range by selecting the 'From' and 'To' dates from the date picker
 
-<figure><img src="../.gitbook/assets/Filter1.png" alt=""><figcaption><p>Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter1 (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
 c) You can individually delete any of the themes by clicking on the respective 'Delete' icon.
 

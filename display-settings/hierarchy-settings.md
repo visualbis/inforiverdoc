@@ -205,12 +205,14 @@ On selecting 'Single child level as parent', you can see that the level 6 blank 
 
 #### Column count&#x20;
 
-{% hint style="info" %}
-Currently, this is an experimental feature.&#x20;
-{% endhint %}
+Inforiver supports wide table use cases through the dynamic columns feature. You can fetch up to 1000 columns, however, the performance would be compromised. &#x20;
 
-In this option, you can specify the number of columns to be fetched from the data source. You can specify up to a maximum of 1000 columns. The default value is 5.
+Every fetch from Power BI is 30,000 cells (No of rows x No of columns). This means you can load data chunks of different sizes dynamically as 500 Rows by 60 Columns (or) 30 Rows by 1000 Columns (or) 10,000 Rows by 3 Columns.
+
+You can view the current column count by hovering over the 'i' icon and modify the column count if needed.
 
 <figure><img src="../.gitbook/assets/column-count.png" alt=""><figcaption><p>Column count option</p></figcaption></figure>
+
+Learn more about dynamically setting data chunk size using Power BI's [fetchMoreData API](https://learn.microsoft.com/en-us/power-bi/developer/visuals/fetch-more-data).
 
 In this section, we covered the hierarchy display settings. Navigate to the next section to learn more about [advanced number formatting](advanced-number-formatting.md).\

@@ -50,9 +50,9 @@ b) To access the footer customization toolbar, click on the icon highlighted in 
 
 <figure><img src="../../.gitbook/assets/8.2.21 Context menu.png" alt=""><figcaption><p>Footer context menu</p></figcaption></figure>
 
-c) 'Hide pagination' can be used to turn off pagination. Notice that currently pagination is enabled as highlighted in the status bar.
+c) 'Pagination' can be used to turn off pagination. Notice that currently pagination is enabled as highlighted in the status bar.
 
-<figure><img src="../../.gitbook/assets/8.2.22 Context menu.png" alt=""><figcaption><p>Pagination on</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.2.22 Context menu (1).png" alt=""><figcaption><p>Pagination on</p></figcaption></figure>
 
 d) Turn on the toggle and you can see the scroll bar at the right and the pagination controls have been hidden in the status bar.
 

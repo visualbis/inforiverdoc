@@ -56,9 +56,19 @@ There are three formats for page numbers as shown in the image.
 
 ### ii) Date&#x20;
 
-The available date formats are shown in the below image.
+The available date formats are shown in the below image. The date in the header will get displayed in the selected format.
 
 <figure><img src="../../../.gitbook/assets/8.3.13 Date.png" alt=""><figcaption><p>Date formats</p></figcaption></figure>
+
+You can either choose from the pre-defined date formats or you can also create your custom date form. To create a custom date format, click on the 'Custom' option from the drop-down. This will open up the 'Custom date' modal.
+
+<figure><img src="../../../.gitbook/assets/custom-date-format.png" alt=""><figcaption><p>Custom date type formats</p></figcaption></figure>
+
+You can enter your date format in the 'Type here' input field. The 'Valid format' displays the list of all the valid date formats you can enter.&#x20;
+
+Click 'Apply' to apply the entered format.
+
+<figure><img src="../../../.gitbook/assets/custom-date-apply.png" alt=""><figcaption><p>Apply custom date</p></figcaption></figure>
 
 ### iii) Symbol&#x20;
 
