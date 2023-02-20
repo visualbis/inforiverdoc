@@ -26,6 +26,6 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **11. Data writeback** - The [data writeback](11.-data-writeback.md) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more.
 
-Ad-hoc emails, report bursting and scheduling to emails and shared drives, data writeback, admin console and other Enterprise features will be added in the coming weeks.
+Report bursting and scheduling to emails and shared drives, data writeback and admin console will be added in the coming weeks.
 
 To start building your first Inforiver report, refer to the [first section](1.-build-your-first-inforiver-report.md).&#x20;
