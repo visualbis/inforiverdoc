@@ -84,7 +84,7 @@ It is optimized for 30,000 rows, but it is subject to vary based on destination 
 
 #### 1. Can users add comments in reading mode? <a href="#headline-482-2838" id="headline-482-2838"></a>
 
-Yes, comments can be added in the read mode. The main difference between the edit mode and read mode is the ability to configure additional settings such as restricting access, enabling public commenting, and scheduling summary digests.&#x20;
+Yes, [comments](working-with-inforiver/8.-commenting-and-collaboration/) can be added in the read mode. The main difference between the edit mode and read mode is the ability to configure additional settings such as restricting access, enabling public commenting, and scheduling summary digests.&#x20;
 
 #### 2. Can users add comments in embedded reports? <a href="#headline-486-2838" id="headline-486-2838"></a>
 
@@ -126,7 +126,7 @@ You can configure comments digest for users within the domain – a scheduled su
 
 #### 1. Is it possible to schedule reports to an email or other destinations like OneDrive? <a href="#headline-525-2838" id="headline-525-2838"></a>
 
-Custom scheduling of reports to email and other external destinations like OneDrive, SharePoint, and Teams is supported. Burst and broadcast of paginated reports honoring row-level security (RLS) are also possible.&#x20;
+Custom [scheduling of reports](working-with-inforiver/11.-scheduling-reports/) to email and other external destinations like OneDrive, SharePoint, and Teams is supported. Burst and broadcast of paginated reports honoring row-level security (RLS) are also possible.&#x20;
 
 #### 2. Is there an ability to burst reports using scheduling? <a href="#headline-529-2838" id="headline-529-2838"></a>
 

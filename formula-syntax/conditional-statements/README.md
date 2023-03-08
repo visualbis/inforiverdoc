@@ -1,0 +1,3 @@
+# Conditional statements
+
+<table><thead><tr><th>NAME</th><th>DESCRIPTION</th><th data-hidden></th></tr></thead><tbody><tr><td><a href="if.md">IF </a></td><td>Checks whether a condition is met, and returns one value if TRUE, and another value if FALSE</td><td></td></tr><tr><td><a href="ifna.md">IFNA</a></td><td>Returns the value you specify if a formula returns the #N/A error value; otherwise, it returns the result of the formula</td><td></td></tr><tr><td><a href="switch.md">SWITCH</a></td><td>Evaluates an expression against a list of values and returns the result corresponding to the first matching value. If there is no match, an optional default value is returned.</td><td></td></tr></tbody></table>

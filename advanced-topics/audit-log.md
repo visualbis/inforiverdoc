@@ -56,7 +56,7 @@ c) You can also add comments in the audit log. Hover over a log, click on the 'c
 
 d) Using the 'Search' option, you can search for any row/column/cell within the audit log. Inforiver starts narrowing down the matches as soon as you start typing. You can select the required item from the list.
 
-<figure><img src="../.gitbook/assets/Search (3) (2).png" alt=""><figcaption><p>Search</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Search (3).png" alt=""><figcaption><p>Search</p></figcaption></figure>
 
 e) There is also an advanced filter option where you can filter based on the type of change, date range and logs with comments:
 
@@ -66,7 +66,7 @@ Date range - You can filter the logs that fall within a date range by selecting 
 
 Filter logs with comments - You can filter only the logs with comments.
 
-<figure><img src="../.gitbook/assets/Filter (1) (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
 ### 3. Export
 

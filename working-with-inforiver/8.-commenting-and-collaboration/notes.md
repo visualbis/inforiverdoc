@@ -19,7 +19,7 @@ Inforiver also provides an option to add notes at the report level as shown belo
 <figure><img src="../../.gitbook/assets/8.1.2(2) Notes.png" alt=""><figcaption><p>Report level notes</p></figcaption></figure>
 
 {% hint style="info" %}
-Notes can be [exported](../7.-sharing-and-exporting-reports/export.md) along with the report as Excel and PDF. It can also be [written back to databases, shared drives or URLs](broken-reference).
+Notes can be [exported](../10.-exporting-reports/export.md) along with the report as Excel and PDF. It can also be [written back to databases, shared drives or URLs](broken-reference).
 {% endhint %}
 
 ## 1. Cell-level notes
@@ -100,7 +100,7 @@ a) In the 'Notes' dropdown, turn the 'Notes column' toggle on.
 
 b) A notes column gets added. Double-click on a cell and start typing in the rich text editor. You can apply formatting such as bold, italic, underline, fon/background color and hyperlinks.
 
-<figure><img src="../../.gitbook/assets/8.1.17 Notes column.png" alt=""><figcaption><p>Rich text formatting for notes column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.1.17 Notes column (1).png" alt=""><figcaption><p>Rich text formatting for notes column</p></figcaption></figure>
 
 ## 6. Hide notes
 

@@ -62,7 +62,7 @@ The available date formats are shown in the below image. The date in the header 
 
 You can either choose from the pre-defined date formats or you can also create your custom date form. To create a custom date format, click on the 'Custom' option from the drop-down. This will open up the 'Custom date' modal.
 
-<figure><img src="../../../.gitbook/assets/custom-date-format.png" alt=""><figcaption><p>Custom date type formats</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/custom-date-format (1).png" alt=""><figcaption><p>Custom date type formats</p></figcaption></figure>
 
 You can enter your date format in the 'Type here' input field. The 'Valid format' displays the list of all the valid date formats you can enter.&#x20;
 

@@ -22,10 +22,12 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **9. Commenting & collaboration** - The [commenting & collaboration](8.-commenting-and-collaboration/) section covers adding notes, annotations & comments, using @mentions, replies, email notifications, comment digest and more.
 
-**10. Sharing and exporting reports** - The [sharing and exporting reports](broken-reference) section covers export to Excel and PDF, ad-hoc emails, and report bursting and scheduling to emails and shared drives.
+**10. Exporting reports** - The [exporting reports](10.-exporting-reports/) section covers export to Excel and PDF and ad-hoc emails.
 
-**11. Data writeback** - The [data writeback](11.-data-writeback.md) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more.
+**11. Scheduling reports** - The [scheduling reports](11.-scheduling-reports/) section covers report bursting and scheduling to emails and shared drives.
 
-Report bursting and scheduling to emails and shared drives, data writeback and admin console will be added in the coming weeks.
+**12. Data writeback** - The [data writeback](12.-data-writeback.md) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more.
+
+Data writeback and admin console will be added in the coming weeks.
 
 To start building your first Inforiver report, refer to the [first section](1.-build-your-first-inforiver-report.md).&#x20;
