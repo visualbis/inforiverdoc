@@ -56,7 +56,7 @@ c) 'Pagination' can be used to turn off pagination. Notice that currently pagina
 
 d) Turn on the toggle and you can see the scroll bar at the right and the pagination controls have been hidden in the status bar.
 
-<figure><img src="../../.gitbook/assets/8.2.23 Context menu (1).png" alt=""><figcaption><p>Pagination turned off</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.2.23 Context menu.png" alt=""><figcaption><p>Pagination turned off</p></figcaption></figure>
 
 ## 2. Basic interactions
 

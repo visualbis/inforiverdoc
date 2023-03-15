@@ -2,13 +2,13 @@
 
 With the user management feature, you can manage all the users and members of your team/organization in an easy-to-use dashboard. You can add, or remove users, grant/revoke permissions and also manage the user roles in reports.
 
-<figure><img src="../../.gitbook/assets/user-management-screen (1).png" alt=""><figcaption><p>User management console</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/user-management-screen.png" alt=""><figcaption><p>User management console</p></figcaption></figure>
 
 ## 1. Overview&#x20;
 
 The left half of the page displays a list of all the users in the team. Whereas the right half displays a summary of the selected user. By default, the admin is displayed as the first member in the list.
 
-<figure><img src="../../.gitbook/assets/user-management-screen.png" alt=""><figcaption><p>User management dashboard screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/user-management-screen (1).png" alt=""><figcaption><p>User management dashboard screen</p></figcaption></figure>
 
 {% hint style="info" %}
 The user management feature is available only for the workspace admins
@@ -118,11 +118,11 @@ To add a group, click on the 'Add group' button at the top right corner of the p
 
 Enter the group name or select the group name from the drop-down.
 
-<figure><img src="../../.gitbook/assets/add-ad-group (1).png" alt=""><figcaption><p>Add group modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-ad-group.png" alt=""><figcaption><p>Add group modal</p></figcaption></figure>
 
 In the below image, 'Inforiver-Documentation' has been added. Once someone from the group logs in, an account will be created for the user on the user management page with member access to the workspace.
 
-<figure><img src="../../.gitbook/assets/add-ad-group.png" alt=""><figcaption><p>Add group button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-ad-group (1).png" alt=""><figcaption><p>Add group button</p></figcaption></figure>
 
 The 'Derived from' field shows the AD group name that the member belongs to.
 
@@ -132,11 +132,11 @@ You can see the following details of the members of the AD group such as the dat
 
 You can delete the added group by clicking on the 'Delete group' button in the top right corner as highlighted in the below image.
 
-<figure><img src="../../.gitbook/assets/delete-ad-group (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-ad-group.png" alt=""><figcaption></figcaption></figure>
 
 Clicking on this button will open up a 'Delete group' confirmation modal. Click 'Delete' to confirm the deletion.
 
-<figure><img src="../../.gitbook/assets/delete-ad-group-confirmation (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-ad-group-confirmation.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Delete user
 

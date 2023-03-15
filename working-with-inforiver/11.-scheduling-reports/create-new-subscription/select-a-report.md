@@ -61,7 +61,7 @@ You can learn more about Report+ [here](https://docs.inforiver.com/inforiver/wor
 
 Once you select 'Report plus layout', the scheduler automatically detects the number of categories present in the report page selected.
 
-<figure><img src="../../../.gitbook/assets/report-plus (1).png" alt=""><figcaption><p>Report plus layout categories</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/report-plus.png" alt=""><figcaption><p>Report plus layout categories</p></figcaption></figure>
 
 These categories can be viewed and selected in the 'Select Destination' -> 'Category' section.
 

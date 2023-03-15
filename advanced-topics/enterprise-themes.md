@@ -44,7 +44,7 @@ g) Click 'Apply theme' to apply the theme properties to your report.&#x20;
 
 h) The theme gets applied and you will get a toast message as shown.
 
-<figure><img src="../.gitbook/assets/Toast (1).png" alt=""><figcaption><p>Toast message</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Toast (1) (1).png" alt=""><figcaption><p>Toast message</p></figcaption></figure>
 
 {% hint style="info" %}
 You can click 'Undo' in the toast message, to revert to the original settings.
@@ -138,7 +138,7 @@ Username - Filter the themes by the username
 
 Date range - You can filter the themes that fall within a date range by selecting the 'From' and 'To' dates from the date picker
 
-<figure><img src="../.gitbook/assets/Filter1 (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter1 (2).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
 c) You can individually delete any of the themes by clicking on the respective 'Delete' icon.
 

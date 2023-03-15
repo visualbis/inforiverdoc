@@ -22,7 +22,7 @@ This will redirect you to the 'New subscription' page of the Inforiver Scheduler
 
 Click on the 'Pencil' icon on the top of the 'New subscription' page to edit the name of the subscription.
 
-<figure><img src="../../.gitbook/assets/subscription-name.png" alt=""><figcaption><p>IInforiver subscription name</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscription-name (1).png" alt=""><figcaption><p>IInforiver subscription name</p></figcaption></figure>
 
 In Inforiver, you can easily create new subscriptions, manage your existing subscriptions and also manage the subscriptions of your team/organization members. Let's look at these features in detail.
 

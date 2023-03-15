@@ -60,7 +60,7 @@ You can customize the toolbar options that are available for the report consumer
 
 Click the 'Set reading view access' option from the drop-down.
 
-<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Set reading view access option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (3).png" alt=""><figcaption><p>Set reading view access option</p></figcaption></figure>
 
 You can see the 'Reading view access' modal.
 
@@ -84,7 +84,7 @@ Enabling this option will display the 'Home' tab in the toolbar if the report is
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Home' tab: Layout, Style, Text, Format, Visualize, Data, Notes, and Settings.
 
-<figure><img src="../../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption><p>Home tab sub options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Home tab sub options</p></figcaption></figure>
 
 #### Insert tab
 
@@ -108,7 +108,7 @@ Enabling this option will show a gripper and context menu (the menu that display
 
 In this image, the context menu appears on right-click when the report is in the reading view mode.
 
-<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Context menu on reading view mode</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Context menu on reading view mode</p></figcaption></figure>
 
 #### Reorder row/column
 
@@ -120,7 +120,7 @@ If you enable this option, you can easily drag and drop the rows and columns for
 
 Enabling this option will display the toast message in the reading view mode. In the image below, a 'Copied to clipboard' toast message is displayed in the reading mode when the 'Copy to clipboard' option is clicked.
 
-<figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
 
 #### Sort on click
 
@@ -128,7 +128,7 @@ If this option is enabled, then clicking on the column header will sort the data
 
 In the below image, the up arrow on the column header is highlighted indicating that the column is sorted in descending order.
 
-<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption><p>Sort on click option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Sort on click option</p></figcaption></figure>
 
 #### Show search
 
@@ -138,7 +138,7 @@ Enabling this option will display the search icon and search bar at the top of t
 The 'Show search' option is available only if the 'Toolbar' option is set to 'Off' in the 'Reading view access' modal
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
 
 ## 7. Quick access
 

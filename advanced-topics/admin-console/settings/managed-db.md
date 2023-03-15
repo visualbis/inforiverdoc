@@ -27,7 +27,7 @@ Click the 'Reset all' link to clear all the applied filters.
 
 <figure><img src="../../../.gitbook/assets/reset-all-db-filter.png" alt=""><figcaption><p>Rest all filter</p></figcaption></figure>
 
-## Create a destination
+## Create a ManagedDB destination
 
 To create a new Azure Managed DB destination, Click the 'Writeback' option in the toolbar of your Inforiver report.
 

@@ -104,7 +104,7 @@ Clicking on this option will reset all the applied filters.
 
 Clicking on the name of any subscription in the 'My subscriptions' page will display all the subscription details of the report. By default, the 'Summary' tab is shown.
 
-<figure><img src="../../.gitbook/assets/subscription-summary.png" alt=""><figcaption><p>Subscription summary page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscription-summary (1).png" alt=""><figcaption><p>Subscription summary page</p></figcaption></figure>
 
 The following options are present at the top bar of this page
 
@@ -160,7 +160,7 @@ The 'Milestones' section contains a flow about all
 
 * **Deliver to destinations -** Indicates that the scheduled job report is delivered to the destination
 
-<figure><img src="../../.gitbook/assets/report-milestones (1).png" alt=""><figcaption><p>Milestone details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report-milestones.png" alt=""><figcaption><p>Milestone details</p></figcaption></figure>
 
 If a job run fails, then the 'Milestones' section has a 'Re-Run Job' button available at the top right corner of the section. Clicking on this option will re-run the failed job.
 
@@ -185,7 +185,7 @@ Here is a sample of a downloaded error log
 
 Clicking on the 'Email' tab will display a list of all the recipients to which the scheduled job email was sent along with the delivery date, time, and delivery status.
 
-<figure><img src="../../.gitbook/assets/email-list (1).png" alt=""><figcaption><p>Email recipients list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/email-list.png" alt=""><figcaption><p>Email recipients list</p></figcaption></figure>
 
 You can also select any of the recipients by enabling the checkbox next to their corresponding email. If any of the checkboxes are enabled, then the 'Re-run job' button becomes available at the top-right corner of the page.&#x20;
 

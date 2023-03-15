@@ -171,4 +171,5 @@
   * [Enterprise themes](advanced-topics/enterprise-themes.md)
 * [Inforiver Matrix FAQs](inforiver-matrix-faqs.md)
 * [Inforiver Enterprise FAQs](inforiver-enterprise-faqs.md)
+* [Video tutorials](video-tutorials.md)
 * [Resources](resources.md)

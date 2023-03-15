@@ -10,7 +10,7 @@ Under this section, you can set the time for running the job and the threshold t
 
 You can set the time out in minutes to run the scheduled job. If a job exceeds the specified time limit, the job will fail with a timeout error.
 
-<figure><img src="../../../.gitbook/assets/General (1).png" alt=""><figcaption><p>Job timeout option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/General (2).png" alt=""><figcaption><p>Job timeout option</p></figcaption></figure>
 
 {% hint style="info" %}
 Depending upon the timeout cycle, the job runs for an additional 15 minutes
@@ -20,7 +20,7 @@ Depending upon the timeout cycle, the job runs for an additional 15 minutes
 
 Here you can specify the value after which the completed or paused schedules will be moved to the archived state.
 
-<figure><img src="../../../.gitbook/assets/General.png" alt=""><figcaption><p>Active threshold option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/General (1).png" alt=""><figcaption><p>Active threshold option</p></figcaption></figure>
 
 {% hint style="info" %}
 You cannot edit, reuse or perform any operations on the jobs in the archived state.

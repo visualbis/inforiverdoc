@@ -70,7 +70,7 @@ For example, if you select the row Beverages and 'Collapse Region', the categori
 
 In this example, the hierarchy in columns is Region -> Sub Region -> Quarter.
 
-You can expand/collapse **individual columns** using the expand/collapse icons <img src="../../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> . In the image below, you can see that International -> APAC is fully expanded to show the Quarters, while EMEA and United States remain collapsed.&#x20;
+You can expand/collapse **individual columns** using the expand/collapse icons <img src="../../.gitbook/assets/image (17) (2).png" alt="" data-size="line"> . In the image below, you can see that International -> APAC is fully expanded to show the Quarters, while EMEA and United States remain collapsed.&#x20;
 
 <figure><img src="../../.gitbook/assets/ColumnHierarchy.png" alt=""><figcaption><p>Column hierarchy</p></figcaption></figure>
 

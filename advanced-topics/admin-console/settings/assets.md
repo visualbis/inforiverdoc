@@ -26,11 +26,11 @@ The following filter options are present at the top of the page:
 
 * **Type** - With this drop-down, you can filter assets by their type.
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Type filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Type filter</p></figcaption></figure>
 
 * **Added by** - Using this drop-down you can filter the assets based on the user who added them.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Added by filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Added by filter</p></figcaption></figure>
 
 * **Reset all -** Clicking on this link will reset or clear all the applied filters.
 
@@ -60,7 +60,7 @@ To upload an icon, click the 'Add' button at the top-right.
 
 This will open up the file manager in your system to select the icon to be added.
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Select icon from file manager</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Select icon from file manager</p></figcaption></figure>
 
 The selected icon asset gets added.
 

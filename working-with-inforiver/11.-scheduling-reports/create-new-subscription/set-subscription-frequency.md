@@ -8,7 +8,7 @@ The frequency at which the scheduler should run. You can select from the followi
 
 * **Daily** - This option will run the scheduler every day.  If you want to schedule once every 'x' day(s), you can input 'x' in the 'Once every' input field.
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Daily frequency option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Daily frequency option</p></figcaption></figure>
 
 * **Weekly** - This option will run the scheduler every week. If this option is enabled, the days of the week becomes available, and you can choose the exact day(s) of the week on which you want the scheduler to run.
 
@@ -34,6 +34,6 @@ This option lets you select the starting and ending date of the schedule using a
 
 Here you can set the exact time along with the time zone at which the scheduler should run.
 
-<figure><img src="../../../.gitbook/assets/timezone.png" alt=""><figcaption><p>Scheduled time and timezone</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/timezone (1).png" alt=""><figcaption><p>Scheduled time and timezone</p></figcaption></figure>
 
 In the next section, we'll look at [configuring the subscription destination](select-destination-s.md)
