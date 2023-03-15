@@ -42,7 +42,7 @@ Clicking on the pause icon will open up a 'Pause' modal.  Click the 'Pause' butt
 
 Clicking on the delete icon will open up a 'Delete' modal.  Click the 'Delete' button in the modal to delete the subscription.
 
-<figure><img src="../../.gitbook/assets/delete-subscription.png" alt=""><figcaption><p>Delete subscription</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-subscription (1).png" alt=""><figcaption><p>Delete subscription</p></figcaption></figure>
 
 Here is a detailed breakdown of all the options available on this page. It has the following filter options to filter and narrow down your search:
 
@@ -124,7 +124,7 @@ The following options are present at the top bar of this page
 
 * **Delete -** Clicking on this option will delete the chosen subscription
 
-<figure><img src="../../.gitbook/assets/delete-subscription (1).png" alt=""><figcaption><p>Delete subscription option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-subscription.png" alt=""><figcaption><p>Delete subscription option</p></figcaption></figure>
 
 ### **b) Jobs**
 
@@ -160,7 +160,7 @@ The 'Milestones' section contains a flow about all
 
 * **Deliver to destinations -** Indicates that the scheduled job report is delivered to the destination
 
-<figure><img src="../../.gitbook/assets/report-milestones.png" alt=""><figcaption><p>Milestone details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report-milestones (1).png" alt=""><figcaption><p>Milestone details</p></figcaption></figure>
 
 If a job run fails, then the 'Milestones' section has a 'Re-Run Job' button available at the top right corner of the section. Clicking on this option will re-run the failed job.
 

@@ -4,7 +4,7 @@ Inforiver's Excel-like formula engine supports 50+ functions (logical, boolean, 
 
 Refer to the below sections for a detailed list of functions, operators, and identifiers that can be used for calculations.
 
-* [Conditional Statements](conditional-statements/),
+* [Conditional Statements](conditional-statements/)
 * [Logical Functions](logical-functions/)
 * [Math Functions](math-functions/)
 * [Text Formatting Functions](text-formatting-functions/)

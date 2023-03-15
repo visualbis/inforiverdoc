@@ -2,7 +2,7 @@
 
 Here you can select the destination(s) to which you want the send the reports. The scheduled reports can be exported to any of the following destinations: Email, OneDrive, Microsoft Teams, SharePoint, and Google Drive.
 
-<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption><p>Destination option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Destination option</p></figcaption></figure>
 
 {% hint style="info" %}
 By default, the email option is chosen in the destinations section.
@@ -32,7 +32,7 @@ If this option is set to 'Filter', a new input field becomes available right nex
 Hover over the '?' icon to find help links on how to use filter/bookmark
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Tooltip in email destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Tooltip in email destination</p></figcaption></figure>
 
 Click the 'Add new' option to add a new filter/bookmark.
 
@@ -68,7 +68,7 @@ You can also bulk upload a CSV file of recipients' emails. Click the 'Bulk uploa
 \
 Click the 'Upload' button or drag and drop to upload the CSV file with the recipient's details.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Bulk upload option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Bulk upload option</p></figcaption></figure>
 
 **Download sample**&#x20;
 
@@ -120,7 +120,7 @@ Click the 'Trash' icon to delete the applied filter/bookmark.
 
 Enter the subject line of the email. Clicking the 'Insert variable' link will open up a 'Suggested variables' modal from which you can select the pre-declared variables to be inserted into the subject line.&#x20;
 
-<figure><img src="../../../.gitbook/assets/insert-variable.png" alt=""><figcaption><p>Insert variables option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/insert-variable (1).png" alt=""><figcaption><p>Insert variables option</p></figcaption></figure>
 
 ### **f) Body**&#x20;
 
@@ -152,7 +152,7 @@ You can specify the destination folder in OneDrive where you want the report to 
 
 Click on the 'Browse' button. This will open up a 'Select folder' modal in which you can select the OneDrive destination folder.
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption><p>OneDrive destination folder selection modal</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption><p>OneDrive destination folder selection modal</p></figcaption></figure>
 
 Clicking the 'Insert variable' link next to the subfolder field will suggest pre-defined variables that can be easily inserted into the subfolder field in a single click.
 

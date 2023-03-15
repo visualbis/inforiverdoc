@@ -12,6 +12,6 @@ In this section, we'll cover some advanced functionalities such as
 
 **5. Back up & restore report config** - Inforiver allows you to import/export the visual configuration as a JSON file which can be saved to your local system and also shared with other users. To learn more, refer to [backup & restore report config](export-and-import-reports-backup.md).
 
-**6. Admin console** - Inforiver provides an intuitive, slick and user-friendly interface for managing and administering schedules​​, configuring admin writeback connections, user management and more. To learn more, refer to [admin console](admin-console.md).
+**6. Admin console** - Inforiver provides an intuitive, slick and user-friendly interface for managing and administering schedules​​, configuring admin writeback connections, user management and more. To learn more, refer to [admin console](broken-reference).
 
 **7. Enterprise themes** - The Inforiver report configuration can be saved as a theme and reused within the organization. To learn more, refer to [enterprise themes](enterprise-themes.md).

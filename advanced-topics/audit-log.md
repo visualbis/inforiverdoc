@@ -66,7 +66,7 @@ Date range - You can filter the logs that fall within a date range by selecting 
 
 Filter logs with comments - You can filter only the logs with comments.
 
-<figure><img src="../.gitbook/assets/Filter (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter (1) (1).png" alt=""><figcaption><p>Filter</p></figcaption></figure>
 
 ### 3. Export
 

@@ -16,7 +16,7 @@ You can also monitor, view, and gather insights into the subscriptions of other 
 
 All the scheduled jobs will be displayed here. The 'Subscription jobs' page has the following columns.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
 
 ### a) Job details
 
@@ -83,7 +83,7 @@ Click on this option to view additional filter options for the jobs. The additio
 * **Job type** - Enabling this option will filter your jobs based on the job type
 * **Start time** - Enabling this option will filter your jobs based on the start time
 
-<figure><img src="../../.gitbook/assets/subscription-jobs-more-filter.png" alt=""><figcaption><p>Subscription jobs more filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscription-jobs-more-filter (1).png" alt=""><figcaption><p>Subscription jobs more filter</p></figcaption></figure>
 
 ### **h) Reset all**&#x20;
 

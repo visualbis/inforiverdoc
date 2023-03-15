@@ -1,3 +1,0 @@
-# Admin console
-
-Coming soon...

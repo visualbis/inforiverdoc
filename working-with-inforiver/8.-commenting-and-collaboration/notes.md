@@ -100,7 +100,7 @@ a) In the 'Notes' dropdown, turn the 'Notes column' toggle on.
 
 b) A notes column gets added. Double-click on a cell and start typing in the rich text editor. You can apply formatting such as bold, italic, underline, fon/background color and hyperlinks.
 
-<figure><img src="../../.gitbook/assets/8.1.17 Notes column (1).png" alt=""><figcaption><p>Rich text formatting for notes column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.1.17 Notes column.png" alt=""><figcaption><p>Rich text formatting for notes column</p></figcaption></figure>
 
 ## 6. Hide notes
 
