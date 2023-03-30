@@ -52,6 +52,10 @@ However, if this option is turned on, the column headers and measure labels are 
 
 <figure><img src="../.gitbook/assets/combine-column-headers-on.png" alt=""><figcaption><p>Combine column header on</p></figcaption></figure>
 
+{% hint style="warning" %}
+If the 'Combine column headers' option is enabled, you won't be able to reorder the columns.
+{% endhint %}
+
 #### Column header separator&#x20;
 
 This option lets you specify the separator that will get inserted between the column header and the measure label.
