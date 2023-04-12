@@ -2,9 +2,13 @@
 
 Financial statements and reports often require options to add white spaces for formatting. Inforiver provides the insert 'empty row' option to achieve this in a single click. &#x20;
 
-Select a row below which you would like to insert an empty row. In the 'Inset' tab of the toolbar, click on the 'Insert row' dropdown and select the 'Empty row' option.
+Select a row below which you would like to insert an empty row. In the 'Insert' tab of the toolbar, click on the 'Insert row' dropdown and select the 'Empty row' option.
 
 <figure><img src="../../../.gitbook/assets/2.6.2 empty rows.png" alt=""><figcaption><p>Insert empty row option</p></figcaption></figure>
+
+{% hint style="info" %}
+Blank rows can be inserted at all levels of the hierarchy.
+{% endhint %}
 
 A blank row gets inserted below Tea & coffee as shown in the image.
 
