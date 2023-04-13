@@ -6,7 +6,7 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **1. Build your first Inforiver report** - Adding the visual, configuring the initial report layout using the launch wizard and mapping the data are covered in the [build your first Inforiver report](1.-build-your-first-inforiver-report.md) section.
 
-**2. Displaying information** - **** The report interface, layout options, templates, basic formatting and basic inline charts are covered in the [displaying information](2.-displaying-information/) section.
+**2. Displaying information** - The report interface, layout options, templates, basic formatting and basic inline charts are covered in the [displaying information](2.-displaying-information/) section.
 
 **3. Basic interactions** - Basic interactions such as explorer, Top N ranking, search & filter, sorting, managing column widths, managing hierarchies, and grouping rows and columns, are covered in [basic interactions](3.-basic-interactions/).&#x20;
 
@@ -16,7 +16,7 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **6. Working with charts** - The charts and visualizations have a number of customization options such as reference bands and lines, scaling, comparison bands etc. which are covered in [working with charts](6.-working-with-charts.md).
 
-**7. Planning, budgeting & forecasting** - What-if analysis & simulations, budgeting, allocations and forecasting are covered in [planning, budgeting & forecasting](7.-planning-budgeting-and-forecasting/).
+**7. Planning, budgeting & forecasting** - What-if analysis & simulations, scenarios, budgeting, allocations, set versions and snapshots are covered in [planning, budgeting & forecasting](7.-planning-budgeting-and-forecasting/).
 
 **8. Paginated reporting** - The [paginated reporting](8.-paginated-reporting/) section covers options such as pagination, header & footer, and report layouts which allow you to build highly formatted & interactive paginated reports.
 

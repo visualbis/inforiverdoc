@@ -59,9 +59,7 @@ The 'Terms of service' modal opens up. Click 'Continue' as an acknowledgment of 
 
 On the next page, the 'Connections details' are displayed. Enter your table name in the 'Table name' field and click 'Save destination'&#x20;
 
-<figure><img src="../../../.gitbook/assets/table-name.png" alt=""><figcaption><p>Enter table name</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/add-new-destination (1).png" alt=""><figcaption></figcaption></figure>
 
 The new destination will get saved and it will also get displayed both on the destinations page as well as in the managed DB settings page.
 

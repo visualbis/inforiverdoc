@@ -7,7 +7,7 @@ Inforiver provides six (6) different options to manually enter data in your Powe
 | [Number](insert-manual-input-columns/insert-manual-input-columns.md) | Double-click and start typing values in directly into a cell                                              |
 | [Text](../../formula-syntax/text-formatting-functions/text.md)       | Enter text with multi-line support and word wrap                                                          |
 | [Dropdown](insert-manual-input-columns/dropdown.md)                  | Use the available presets or create your own list of values; supports both single-select and multi-select |
-| [Date](insert-manual-input-columns/text-checkbox-and-date.md)        | Add a date from the calendar / date picker                                                                |
+| [Date](insert-manual-input-columns/text-checkbox-and-date.md)        | Add a date from the calendar/date picker                                                                  |
 | [Checkbox](insert-manual-input-columns/text-checkbox-and-date.md)    | Used in case of binary selections                                                                         |
 | [Person](insert-manual-input-columns/enterprise-features.md)         | Input users from your organization (only available in Inforiver Enterprise)                               |
 

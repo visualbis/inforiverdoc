@@ -32,4 +32,4 @@ To edit the subscription, click the 'Edit subscription' button on the top right 
 
 <figure><img src="../../../.gitbook/assets/edit-subscription.png" alt=""><figcaption><p>Edit subscription</p></figcaption></figure>
 
-In the next section, we'll look at how to [manage your subscriptions](../manage-your-subscriptions.md)
+In the next section, we'll look at how to [manage your subscriptions](../manage-your-subscriptions.md).

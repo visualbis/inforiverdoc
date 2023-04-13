@@ -2,7 +2,7 @@
 
 Rails allow you to enable the horizontal and vertical ruler and adjust the column width and row height of the visual.
 
-a) In the 'Home' tab of the toolbar, click on the 'Rails' icon **** in the Actions section.
+a) In the 'Home' tab of the toolbar, click on the 'Rails' icon in the Actions section.
 
 <figure><img src="../../../.gitbook/assets/Rail.png" alt=""><figcaption><p>Rails</p></figcaption></figure>
 

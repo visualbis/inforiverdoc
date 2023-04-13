@@ -26,17 +26,21 @@ e) The task gets assigned.
 
 ## 2. Task status
 
-a) By default, on assigning a task, it is set to 'Open'. To change the task status, click on the 'Open' dropdown and select 'Resolved'.&#x20;
+a) By default, on assigning a task, it is set to 'Open'.&#x20;
 
-<figure><img src="../../../.gitbook/assets/8.2.30 assign tasks.png" alt=""><figcaption><p>Changing task status</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Open task.png" alt=""><figcaption><p>Changing task status</p></figcaption></figure>
 
-b) The status gets changed. The comment box is greyed out to indicate that the task is resolved.&#x20;
+b) To change the task status, click on the 'three dots' and select 'Resolve thread'.&#x20;
 
-<figure><img src="../../../.gitbook/assets/8.2.31 assign tasks.png" alt=""><figcaption><p>Task set to resolved</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Resolve thread.png" alt=""><figcaption><p>Resolve thread</p></figcaption></figure>
 
-c) Resolved tasks can be reopened if required by setting the status to 'Open'.
+b) The thread is marked as resolved as shown below.&#x20;
 
-<figure><img src="../../../.gitbook/assets/8.2.32 assign tasks.png" alt=""><figcaption><p>Reopening a resolved task</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Resolved thread 2.png" alt=""><figcaption><p>Task set to resolved</p></figcaption></figure>
+
+c) Resolved tasks can be reopened if required by clicking on the 'Undo' icon. Alternatively, replying to any resolved thread will automatically make it open again.
+
+<figure><img src="../../../.gitbook/assets/Reopen thread.png" alt=""><figcaption><p>Reopening a resolved task</p></figcaption></figure>
 
 d) Comments added in the comments column can also be assigned as tasks. Select a comment and assign it to a user.
 

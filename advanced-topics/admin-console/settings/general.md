@@ -62,4 +62,4 @@ Enabling this option will allow editing the native values in the visual.
 
 <figure><img src="../../../.gitbook/assets/native-settings.png" alt=""><figcaption><p>Native values option</p></figcaption></figure>
 
-In this section, we have covered the general settings. Navigate to the next chapter to learn more about the [writeback settings.](writeback-sync.md)
+In this section, we have covered the general settings. Navigate to the next chapter to learn more about the [writeback settings.](writeback.md)

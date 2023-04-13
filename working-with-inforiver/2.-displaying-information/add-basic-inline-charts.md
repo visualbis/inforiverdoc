@@ -113,7 +113,7 @@ b) You can see that the highest positive and negative contributions are from Lam
 
 <figure><img src="../../.gitbook/assets/2.5.18 waterfall chart.png" alt=""><figcaption><p>Waterfall chart to visualize margin contribution</p></figcaption></figure>
 
-Learn more about [waterfall charts](https://inforiver.com/insights/waterfall-charts-finance-professionals-best-friend/).
+Learn more about [waterfall charts](../6.-working-with-charts/waterfall-charts.md).
 
 ### iii) Progress bars
 

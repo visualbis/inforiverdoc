@@ -22,4 +22,8 @@ e) Comments and tasks can be filtered using a date range by clicking on the 'Cal
 
 <figure><img src="../../../.gitbook/assets/8.2.3.5 track changes.png" alt=""><figcaption><p>Filter by date</p></figcaption></figure>
 
+Note: With Inforiver Enterprise 2.0, there are some updates to the comments side panel. Header comments and cell level comments are categorised as shown below.
+
+<figure><img src="../../../.gitbook/assets/Comments panel.png" alt=""><figcaption><p>Comments side panel changes</p></figcaption></figure>
+
 In the next section, we'll cover the [general settings and comment digest](comment-settings.md).

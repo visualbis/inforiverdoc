@@ -4,7 +4,7 @@ Inforiver offers multiple configuration options related to writeback/sync, manag
 
 **1. General** - You can configure the subscription-related settings including insights and comments. To learn more, refer to [general](general.md).
 
-**2. Writeback/sync** - You can configure and manage all your subscription connections and their settings. To learn more, refer to [writeback/sync](writeback-sync.md).
+**2. Writeback/sync** - You can configure and manage all your subscription connections and their settings. To learn more, refer to [writeback/sync](writeback.md).
 
 **3. Managed DB** - Here you can learn about Inforiver managed Azure SQL database connection for writeback POC purposes. To learn more, refer to [managed DB](managed-db.md).
 

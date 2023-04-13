@@ -2,7 +2,7 @@
 
 Here you can select the destination(s) to which you want the send the reports. The scheduled reports can be exported to any of the following destinations: Email, OneDrive, Microsoft Teams, SharePoint, and Google Drive.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Destination option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (4).png" alt=""><figcaption><p>Destination option</p></figcaption></figure>
 
 {% hint style="info" %}
 By default, the email option is chosen in the destinations section.
@@ -37,10 +37,6 @@ Hover over the '?' icon to find help links on how to use filter/bookmark
 Click the 'Add new' option to add a new filter/bookmark.
 
 <figure><img src="../../../.gitbook/assets/add-new.png" alt=""><figcaption><p>Add new link option</p></figcaption></figure>
-
-For example, this filter "**?filter=Acme - Region Master/Region eq 'United States'**" has been added to the report and it has been highlighted in the following image.
-
-<figure><img src="../../../.gitbook/assets/filter.png" alt=""><figcaption><p>Adding filter</p></figcaption></figure>
 
 #### **Bookmark**&#x20;
 
@@ -152,7 +148,7 @@ You can specify the destination folder in OneDrive where you want the report to 
 
 Click on the 'Browse' button. This will open up a 'Select folder' modal in which you can select the OneDrive destination folder.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>OneDrive destination folder selection modal</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>OneDrive destination folder selection modal</p></figcaption></figure>
 
 Clicking the 'Insert variable' link next to the subfolder field will suggest pre-defined variables that can be easily inserted into the subfolder field in a single click.
 
@@ -228,4 +224,4 @@ You can select if you want the applied filters/bookmarks to be exported to the c
 
 You can add more than one destination channel to export the report. Click on the 'Add channel' button to add a destination channel.
 
-In the next section, we'll look at [reviewing and saving subscriptions](review-and-save-subscription.md)
+In the next section, we'll look at [reviewing and saving subscriptions](review-and-save-subscription.md).

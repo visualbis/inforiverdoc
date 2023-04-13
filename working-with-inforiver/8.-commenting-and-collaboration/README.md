@@ -8,7 +8,7 @@ Data-level commentary is very common in real-life scenarios. Inforiver delivers 
 
 Both notes & comments in Inforiver are dynamic – in that, they are tied to a specific data point, row or measure. Filtering the report makes the comment appear at the appropriate location – as it is always tied to the data.
 
-But the similarities stop there. Notes & Comments in Inforiver are different in the following ways:
+But the similarities stop there. [Notes](notes.md) & [Comments](comments.md) in Inforiver are different in the following ways:
 
 1. You can respond to a comment, but not to a note.
 2. Comments are collaborative, while notes are only used to annotate/provide additional context to data

@@ -8,7 +8,7 @@ We successfully used filters, KPI explorer, manage columns, expand/collapse hier
 
 **3. Insert manual input rows** - Inforiver allows you to insert static rows in matrix-style reports where you can input or enter the data. To learn more, refer to [insert manual input rows](insert-manual-input-rows.md).
 
-**4. Insert manual input columns** - **** Inforiver provides six (6) different options to manually enter data in your Power BI report such as date, text, single/multi-select etc. To learn more, refer to [insert manual input columns](insert-manual-input-columns.md).
+**4. Insert manual input columns** - Inforiver provides six (6) different options to manually enter data in your Power BI report such as date, text, single/multi-select etc. To learn more, refer to [insert manual input columns](insert-manual-input-columns.md).
 
 **5. Quick formula** - Inforiver provides several one-click calculations for inserting columns and rows. To learn more, refer to [quick formulas](quick-formula.md).
 

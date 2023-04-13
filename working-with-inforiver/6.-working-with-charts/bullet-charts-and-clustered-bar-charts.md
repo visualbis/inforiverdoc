@@ -2,13 +2,13 @@
 
 Performance chart types are used to visually compare multiple measures in dashboard and scorecard applications, where space is limited, and the goal is to present a lot of data in a small, easy-to-read format.&#x20;
 
-Inforiver provides _2 value bullet charts, 3 value bullet charts,_ **** and **** _clustered bar charts._
+Inforiver provides _2 value bullet charts, 3 value bullet charts,_ and _clustered bar charts._
 
 ## 1. Adding the chart&#x20;
 
 ### **i) 2-value bullet charts**
 
-These charts are used to compare the performance of **** _two measures_. **** Currently, Inforiver offers six variants of 2-value bullet charts. They are&#x20;
+These charts are used to compare the performance of _two measures_. Currently, Inforiver offers six variants of 2-value bullet charts. They are&#x20;
 
 * IBCS bullet
 * Integrated variance bar
@@ -35,7 +35,7 @@ b) The chart gets inserted showing the comparison of the two measures. The varia
 
 ### **ii) 3-value bullet charts**
 
-These charts are used to compare the performance of _three measures._ **** Currently, Inforiver offers the following 3-value bullet chart types.
+These charts are used to compare the performance of _three measures._ Currently, Inforiver offers the following 3-value bullet chart types.
 
 * Integrated variance overlap&#x20;
 * Integrated bar with marker&#x20;
@@ -185,4 +185,4 @@ This option lets you change the appearance of the bullet charts. Clicking on thi
 
 <figure><img src="../../.gitbook/assets/bullet-chart-appearance.png" alt=""><figcaption><p>Appearance modal</p></figcaption></figure>
 
-In this section, we covered bullet and clustered charts. Navigate to the next section to learn more about [stacked charts](stacked-charts.md).
+In this section, we covered bullet and clustered charts. Navigate to the next section to learn more about [waterfall charts](waterfall-charts.md).

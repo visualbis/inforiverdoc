@@ -72,4 +72,4 @@ b) Data bars get added as shown in the image making it easy to spot the highest 
 
 To learn more about customizing data bars, visit [this section](color-scale.md#2.-data-bars).
 
-You can use the side panel to further customize your rules. In the next section, we'll look at the [advanced options](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/1HoYGlKZdGmcMoD9YKsh/working-with-inforiver/5.-conditional-formatting/advanced-options).
+You can use the side panel to further customize your rules. In the next section, we'll look at the [advanced options](create-rule-basic-settings.md).

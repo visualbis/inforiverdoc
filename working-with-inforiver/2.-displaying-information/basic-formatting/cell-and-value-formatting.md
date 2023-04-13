@@ -22,11 +22,15 @@ Font size can also be changed by using the Increase/Decrease font size options.
 
 #### c) Font style&#x20;
 
-Bold, Italics, and Underline styles can be applied.
+Bold, Italics and Underline styles can be applied.
 
 #### d) Font/background color
 
-Pick a color using the color picker to apply Font/Background colors.
+You can use the fill color option to apply background color to an entire column or column or even an individual cell.
+
+And use the font color option to change the foreground color or the font color of the data values, row or column headings, and subheadings.
+
+<figure><img src="../../../.gitbook/assets/colorformatting.png" alt=""><figcaption></figcaption></figure>
 
 #### e) Format painter
 

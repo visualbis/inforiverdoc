@@ -65,4 +65,4 @@ This option lets you change the appearance of the stacked charts. Clicking on th
 
 <figure><img src="../../.gitbook/assets/stacked-appearance.png" alt=""><figcaption><p>Stacked chart appearance options</p></figcaption></figure>
 
-In this section, we covered stacked charts. Navigate to the next section to learn more about [waterfall charts](waterfall-charts.md).
+In this section, we covered stacked charts. Navigate to the next section to learn more about [bullet and clustered charts](bullet-charts-and-clustered-bar-charts.md).&#x20;

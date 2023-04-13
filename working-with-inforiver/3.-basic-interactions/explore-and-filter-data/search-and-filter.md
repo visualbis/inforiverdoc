@@ -10,7 +10,7 @@ Search & filter - Overview
 
 The 'Search' option helps you find characters, words, and phrases in your Inforiver report.
 
-a) In the 'Home' tab of the toolbar, click on the 'Search' icon **** in the Analyze section.
+a) In the 'Home' tab of the toolbar, click on the 'Search' icon in the Analyze section.
 
 <figure><img src="../../../.gitbook/assets/Search (2).png" alt=""><figcaption><p>Search option in toolbar</p></figcaption></figure>
 
@@ -32,7 +32,7 @@ Inforiver provides nested AND/OR filtering options to filter a range of data bas
 
 ### i) Nested and grouped filters
 
-a) In the 'Home' tab of the toolbar, click on the 'Filter' icon **** in the Analyze section.
+a) In the 'Home' tab of the toolbar, click on the 'Filter' icon in the Analyze section.
 
 <figure><img src="../../../.gitbook/assets/Filter (2).png" alt=""><figcaption><p>Filter option in toolbar</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ c) The data has been filtered to show only the rows corresponding to the categor
 
 <figure><img src="../../../.gitbook/assets/FilterResult (2).png" alt=""><figcaption><p>Filter result</p></figcaption></figure>
 
-d) You can add multiple filters using the 'Add Filter' **** option and can apply nested AND/OR conditions. In the below example, we have added one more condition to filter only the International region for the category Water.
+d) You can add multiple filters using the 'Add Filter' option and can apply nested AND/OR conditions. In the below example, we have added one more condition to filter only the International region for the category Water.
 
 <figure><img src="../../../.gitbook/assets/NestedFilters.png" alt=""><figcaption><p>Nested filters</p></figcaption></figure>
 
@@ -60,11 +60,11 @@ f) Click 'Add group'. In the below image, we have added four conditions nested u
 
 g) You can delete the individual filters by clicking on the 'Delete' icon available next to the condition.
 
-h) If you want to temporarily turn off all the filters, select the 'Disable all' **** option.
+h) If you want to temporarily turn off all the filters, select the 'Disable all' option.
 
 i) The 'Persist filters' option ensures the filters are retained when switching between pages in the report.&#x20;
 
-j) Click on **** 'Reset all' to reset all the filters.
+j) Click on 'Reset all' to reset all the filters.
 
 <figure><img src="../../../.gitbook/assets/Delete1.png" alt=""><figcaption><p>Delete, Reset, Disable All, Persist filters</p></figcaption></figure>
 

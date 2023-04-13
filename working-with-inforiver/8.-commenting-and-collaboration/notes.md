@@ -16,11 +16,19 @@ You can insert notes at a cell level, row/column header level, as notes column, 
 
 Inforiver also provides an option to add notes at the report level as shown below.
 
-<figure><img src="../../.gitbook/assets/8.1.2(2) Notes.png" alt=""><figcaption><p>Report level notes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Report level notes.png" alt=""><figcaption><p>Report level notes</p></figcaption></figure>
+
+In reports with large number of hierarchies, you can see notes rolled up at the subtotal and grand total level even if the hierarchies are collapsed. This enables executives to see collapsed and summarized reports but still see exception notes rolled up at the parent levels.
+
+<figure><img src="../../.gitbook/assets/Roll up notes (1).png" alt=""><figcaption><p>Roll-up notes</p></figcaption></figure>
 
 {% hint style="info" %}
-Notes can be [exported](../10.-exporting-reports/export.md) along with the report as Excel and PDF. It can also be [written back to databases, shared drives or URLs](broken-reference).
+You can [export](../10.-exporting-reports/export.md) notes along with the report as Excel and PDF. You can also [write back](../12.-data-writeback.md) to databases, shared drives or URLs.
 {% endhint %}
+
+Note: With Inforiver Enterprise 2.0, there are few changes in the notes configuration options. The updated UI/UX is shown below.
+
+<figure><img src="../../.gitbook/assets/New UI.png" alt=""><figcaption><p>Inforiver Enterprise version 2.0</p></figcaption></figure>
 
 ## 1. Cell-level notes
 
@@ -74,15 +82,25 @@ f) Similarly, select a row and add a note. You can edit/delete the note using th
 
 With Inforiver, you can also add notes and explanations at the report level as shown below.
 
-a) Click on 'Notes' and then 'View all notes'. In the 'Report' tab, enter the note.
+a) Click on 'Notes' and then 'Report Summary'. In the 'Report Summary' side panel, enter the note.
 
-<figure><img src="../../.gitbook/assets/8.1.12 Report notes.png" alt=""><figcaption><p>Report level note</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Report level notes 1.png" alt=""><figcaption><p>Report level note</p></figcaption></figure>
 
 b) On clicking 'Save', the note gets displayed in the side panel. You can edit/delete the note by clicking on the corresponding icon in the top right.
 
-<figure><img src="../../.gitbook/assets/8.1.13 Report notes.png" alt=""><figcaption><p>Report level notes added</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Report level notes 2.png" alt=""><figcaption><p>Report level notes added</p></figcaption></figure>
 
-## 4. Footnotes
+## 4. Roll-up notes
+
+If you add a note at the leaf node level in a hierarchical data structure, the notes will automatically roll up to the total/subtotal level even when the leaf nodes are collapsed. To configure roll-up notes, in 'Settings' -> turn on the 'Roll-up indicator' toggle as shown in the below image and click 'Apply'.
+
+<figure><img src="../../.gitbook/assets/Roll up notes.png" alt=""><figcaption><p>Roll-up indicator</p></figcaption></figure>
+
+In the below image, notes have been added at the sub region level. By clicking on the rollup indicator at the region level, you can see the consolidated notes.
+
+<figure><img src="../../.gitbook/assets/Roll up notes 2.png" alt=""><figcaption><p>Rolled up notes</p></figcaption></figure>
+
+## 5. Footnotes
 
 Notes can be viewed as footnotes are an integral part of financial statements and provide supplementary information such as the accounting method used or an explanation of important financial results.&#x20;
 
@@ -90,7 +108,7 @@ To enable footnotes, in the 'Notes' dropdown, turn on the 'Footnote' toggle. You
 
 <figure><img src="../../.gitbook/assets/8.1.14 Footnotes.png" alt=""><figcaption><p>Footnotes</p></figcaption></figure>
 
-## 5. Notes column
+## 6. Notes column
 
 Notes can be added in a separate column.&#x20;
 
@@ -98,11 +116,11 @@ a) In the 'Notes' dropdown, turn the 'Notes column' toggle on.
 
 <figure><img src="../../.gitbook/assets/8.1.16 Notes column.png" alt=""><figcaption><p>Adding a notes column</p></figcaption></figure>
 
-b) A notes column gets added. Double-click on a cell and start typing in the rich text editor. You can apply formatting such as bold, italic, underline, fon/background color and hyperlinks.
+b) A notes column gets added. Double-click on a cell and start typing in the rich text editor. You can apply formatting such as bold, italic, underline, font/background color and hyperlinks.
 
 <figure><img src="../../.gitbook/assets/8.1.17 Notes column.png" alt=""><figcaption><p>Rich text formatting for notes column</p></figcaption></figure>
 
-## 6. Hide notes
+## 7. Hide notes
 
 a) To hide the footnotes, turn off the footnote toggle.
 
@@ -112,7 +130,7 @@ c) To hide the cell, header, and report-level notes, turn on the 'Hide all notes
 
 <figure><img src="../../.gitbook/assets/8.1.15 Hide notes.png" alt=""><figcaption><p>Hiding all notes</p></figcaption></figure>
 
-## 7. Settings
+## 8. Settings
 
 You can customize the notes indicator, position, footnote height and more.&#x20;
 
@@ -128,7 +146,7 @@ c) There are a number of indicator types such as numbered, lettered, arrow etc. 
 
 <figure><img src="../../.gitbook/assets/8.1.22 Settings.png" alt=""><figcaption><p>Changes made to the indicators and footnotes</p></figcaption></figure>
 
-## 8. Marker mode
+## 9. Marker mode
 
 ‘Marker Mode’ can be used to highlight important observations during presentations. Markings are temporary and can be cleared.&#x20;
 

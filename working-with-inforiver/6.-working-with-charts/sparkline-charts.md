@@ -56,7 +56,7 @@ From the 'Marker' drop-down, you can select the type of marker points you want t
 
 ### **iii) Scale bands**&#x20;
 
-'Scale bands' visually display information about the overall distribution of values. If the distribution of values falls in the **** _first quartile (0-25%)_, then it is represented by a _lighter shade of gray_. However, if the value distribution falls in the **** _last quartile (75-100%)_, then it is represented by a _darker shade of gray_.&#x20;
+'Scale bands' visually display information about the overall distribution of values. If the distribution of values falls in the _first quartile (0-25%)_, then it is represented by a _lighter shade of gray_. However, if the value distribution falls in the _last quartile (75-100%)_, then it is represented by a _darker shade of gray_.&#x20;
 
 {% hint style="info" %}
 The scale bands option is available only if you select any of the standard sparkline chart types (_Line Linear, Line Spline,_ or _Line Stepped_).
@@ -174,4 +174,4 @@ Clicking on the 'Remove sparkline' option removes the sparkline chart from the r
 
 <figure><img src="../../.gitbook/assets/remove-chart.png" alt=""><figcaption><p>After chart removal</p></figcaption></figure>
 
-In this section, we covered the sparkline charts. Navigate to the next section to learn more about [bullet and clustered charts](bullet-charts-and-clustered-bar-charts.md).
+In this section, we covered the sparkline charts. Navigate to the next section to learn more about [stacked charts](stacked-charts.md).&#x20;

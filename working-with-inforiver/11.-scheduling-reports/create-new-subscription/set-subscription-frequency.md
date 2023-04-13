@@ -36,4 +36,4 @@ Here you can set the exact time along with the time zone at which the scheduler 
 
 <figure><img src="../../../.gitbook/assets/timezone (1).png" alt=""><figcaption><p>Scheduled time and timezone</p></figcaption></figure>
 
-In the next section, we'll look at [configuring the subscription destination](select-destination-s.md)
+In the next section, we'll look at [configuring the subscription destination](select-destination-s.md).

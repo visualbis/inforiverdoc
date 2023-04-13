@@ -213,4 +213,4 @@ To unsubscribe from receiving the scheduled report emails, click on the unsubscr
 
 <figure><img src="../../.gitbook/assets/unsubscribe-email.png" alt=""><figcaption><p>Unsubscription email</p></figcaption></figure>
 
-In the next section, we'll look at how to manage the subscriptions for [workspace admins](administration.md)
+In the next section, we'll look at how to manage the subscriptions for [workspace admins](administration.md).

@@ -110,6 +110,20 @@ In this image, the context menu appears on right-click when the report is in the
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Context menu on reading view mode</p></figcaption></figure>
 
+#### Show floating toolbar
+
+Inforiver now offers Excel-like floating toolbar in the reading view mode on the selected report elements (row, column, or cell) for improved discoverability of features and improved user experience.
+
+<figure><img src="../../../.gitbook/assets/show-floating-toolbar.png" alt=""><figcaption></figcaption></figure>
+
+If you enable this option, then on unpinning the toolbar you will get a floating toolbar when the report is in the reading view mode.
+
+<figure><img src="../../../.gitbook/assets/unpin-toolbar.png" alt=""><figcaption></figcaption></figure>
+
+When this option is enabled, then on selecting any report element you will find the possible actions and configurations you can perform on that element in the floating toolbar.
+
+<figure><img src="../../../.gitbook/assets/floating-toolbar.png" alt=""><figcaption></figcaption></figure>
+
 #### Reorder row/column
 
 If you enable this option, you can easily drag and drop the rows and columns for easy reordering in reading view mode.

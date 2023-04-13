@@ -43,7 +43,7 @@ In this field, you can enter the email body.
 
 #### iv) Create a schedule&#x20;
 
-Clicking on this link will create a new schedule for the report. You can learn more about creating and managing schedules in the [schedule reports](broken-reference) section.
+Clicking on this link will create a new schedule for the report. You can learn more about creating and managing schedules in the [schedule reports](../11.-scheduling-reports/) section.
 
 <figure><img src="../../.gitbook/assets/create-schedule-option.png" alt=""><figcaption><p>Create a schedule option</p></figcaption></figure>
 
@@ -59,4 +59,4 @@ Click 'Cancel' to close the modal.
 
 <figure><img src="../../.gitbook/assets/cancel-option.png" alt=""><figcaption><p>Cancel option</p></figcaption></figure>
 
-In the next section, we'll look at [scheduling reports](broken-reference).
+In the next section, we'll look at [snapshots](snapshot-enterprise-only.md).

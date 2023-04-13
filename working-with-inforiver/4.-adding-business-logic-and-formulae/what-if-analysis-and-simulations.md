@@ -52,6 +52,10 @@ e) **Value range** - By default, each cell can be simulated from -100% to +100% 
 
 Once the field has been created, you can click on any cell in this new simulation-enabled field. This will display a small slider icon next to it. Hovering over this icon reveals a slider. Clicking and dragging the slider changes the value in the cell. It also shows a percentage change as you keep moving the slider to the right or to the left. The value & totals get updated once you release the slider.
 
+{% hint style="info" %}
+The 'Simulate' option in the 'Insert' toolbar is available only in the Inforiver Premium Matrix. For creating simulations in Inforiver Enterprise, refer to '[Scenarios](../7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md)'.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/4.7.2(2) Simulation.png" alt=""><figcaption><p>Simulation slider</p></figcaption></figure>
 
 In the example above, we have increased the value for the category Water in the region Pacific by 22%, which results in an overall sales increase of 1%.&#x20;

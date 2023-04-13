@@ -100,7 +100,7 @@ a) You can individually delete any of the audit logs by clicking on the respecti
 
 <figure><img src="../.gitbook/assets/Delete (3).png" alt=""><figcaption><p>Delete</p></figcaption></figure>
 
-b) Click on **** 'Reset all' to reset all the audit logs. Note that this does not reset the changes in the visual.&#x20;
+b) Click on 'Reset all' to reset all the audit logs. Note that this does not reset the changes in the visual.&#x20;
 
 <figure><img src="../.gitbook/assets/Delete (5).png" alt=""><figcaption><p>Reset logs</p></figcaption></figure>
 

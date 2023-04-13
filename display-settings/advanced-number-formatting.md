@@ -118,9 +118,9 @@ The below image shows the values in a scaled format with one decimal point as sp
 
 The following options are available to customise the signs for the row headers in the report. Note that the 'Show positive sign' and 'Show equal on totals' options are available only when the 'Sign in headers' toggle is on.
 
-**Sign in headers** - **** This option lets you show/hide the negative sign in the row headers
+**Sign in headers** - This option lets you show/hide the negative sign in the row headers
 
-**Show positive sign** - **** This option lets you show/hide the positive sign in the row headers
+**Show positive sign** - This option lets you show/hide the positive sign in the row headers
 
 **Show equals on totals** - This option lets you show/hide the equal sign in the total and subtotal rows
 

@@ -2,7 +2,7 @@
 
 We successfully created a simple Inforiver report in the [previous section](../1.-build-your-first-inforiver-report.md). In this section, we'll cover the following:
 
-**1. Report interface** - **** An Inforiver visual has the following elements - toolbar, report header, report canvas, status bar, zoom in/out controls and pagination controls. To learn more about the report interface, refer to [Report interface](the-report-interface.md).&#x20;
+**1. Report interface** - An Inforiver visual has the following elements - toolbar, report header, report canvas, status bar, zoom in/out controls and pagination controls. To learn more about the report interface, refer to [Report interface](the-report-interface.md).&#x20;
 
 **2. Layout options** - Inforiver offers two major types of layout options - Table layouts and Measure layouts. Each of these comes with its own set of variations and can be used together in a single layout. To learn more, refer to [Layout options](layout-options.md).
 

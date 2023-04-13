@@ -1,8 +1,8 @@
 # Number
 
-Numeric data can be entered and formatted in a variety of ways. You can either insert a blank column and start entering data or use an existing column as a base to make further updates.
+Numeric data can be entered and formatted in a variety of ways. You can either insert a new empty series, copy from another series or insert a forecast.
 
-Let's first look at the steps to insert a blank numeric data input column. The steps to copy another column as a data input column are covered in '[Copy as data input](insert-manual-input-columns.md#4.-copy-as-data-input)'.
+Let's first look at the steps to insert a numeric data input column. The steps to copy another column as a data input column are covered in '[Copy as data input](insert-manual-input-columns.md#4.-copy-as-data-input)'.
 
 {% hint style="info" %}
 If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to start inserting a number column.
@@ -10,11 +10,13 @@ If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-in
 
 ## 1. Create a column
 
-Select the 'Number' option in the dropdown.
+Select the 'Number' option in the dropdown. You will see three different options to create a column:  Insert a new empty series, Copy from another series, and Insert a forecast. Let's go through each of these methods.
 
-<figure><img src="../../../.gitbook/assets/4.4.3 Number.png" alt=""><figcaption><p>Inserting a numeric input column/measure</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/number-input-optionss.png" alt=""><figcaption><p>Insert number options</p></figcaption></figure>
 
-By default, a visual measure gets inserted as shown below. There is a side panel which provides a number of customization options.
+### i) Insert a new empty series
+
+If you select this option, a visual measure gets inserted as shown below. There is a side panel that provides several customization options.
 
 <figure><img src="../../../.gitbook/assets/4.4.4 Number.png" alt=""><figcaption><p>Data input side panel</p></figcaption></figure>
 
@@ -22,7 +24,7 @@ The available properties are:
 
 * **Insert as**: A [column or measure](../insert-manual-input-columns.md#2.-measure-vs-column) can be inserted. If there is a column hierarchy, the input column is inserted for each category. In case of no column hierarchy, a single column is inserted.
 * **Input type**: The type of [data input column](../insert-manual-input-columns.md); can be changed from the initial selection before creating the column by clicking on 'Create'.&#x20;
-* **Row aggregation type**: By default, totals and subtotals are defined as the sum of child rows. There are a number of other options such as average, minimum, maximum etc.&#x20;
+* **Row aggregation type**: By default, totals, and subtotals are defined as the sum of child rows. There are several other options such as average, minimum, maximum, etc.&#x20;
 * **Distribute parent value to children**: The values entered at a parent level are distributed to the child rows when enabled. This is very useful when creating budgets or forecasts.&#x20;
 * **Allow input**: By default, inputs are enabled in both read and edit modes. But, based on your requirement, you can [allow inputs](../insert-manual-input-columns.md#3.-input-restrictions) only in edit mode or based on a formula.&#x20;
 * **Description**: Option to add a note for reference
@@ -34,6 +36,80 @@ Change the title and go with the default for the other properties. Click 'Create
 The measure gets inserted and the column grand total also gets enabled.
 
 <figure><img src="../../../.gitbook/assets/4.4.7 Number.png" alt=""><figcaption><p>Numeric measure inserted</p></figcaption></figure>
+
+Learn how to enter a value in an empty numeric column in the [Enter a value](insert-manual-input-columns.md#2.-enter-a-value) section.
+
+### ii) Copy from another series
+
+If you select this option, you will see a sub-option with all the measures/forecasts present in the report. You can select any series to create a numeric column with all the data copied from the chosen series.
+
+<figure><img src="../../../.gitbook/assets/copy-from-another-series1 (1).png" alt=""><figcaption></figcaption></figure>
+
+A visual measure gets inserted as shown below. There is a side panel that provides several customization options. Change the title and go with the default for the other properties. Click 'Create'.
+
+<figure><img src="../../../.gitbook/assets/copy-from-another-series1.png" alt=""><figcaption></figcaption></figure>
+
+The newly created numeric column will be pre-populated with the data of the chosen series.
+
+In the below image, a numeric column is created by copying the data from '2021 Actuals' and the created column is pre-populated with the copied data.
+
+<figure><img src="../../../.gitbook/assets/prepopulated-col.png" alt=""><figcaption></figcaption></figure>
+
+### iii) Insert a forecast&#x20;
+
+You can now easily generate rolling forecast series using a range of options. You can copy values from multiple measures for different periods or use the average of the previous 3 closing periods etc.
+
+{% hint style="info" %}
+Assign a 'Date hierarchy' field in the columns for leveraging the time intelligence features available in Inforiver
+{% endhint %}
+
+a) Click the 'Insert a forecast' option to create a new forecast.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Insert a forecast.png" alt=""><figcaption></figcaption></figure>
+
+b) This will open up the 'Forecast' modal with the following options:
+
+<figure><img src="../../../.gitbook/assets/Rolling forecast.png" alt=""><figcaption></figcaption></figure>
+
+c) Enter the title for the forecast and select the forecast period. In this case, we are creating a rolling forecast for April 2023.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Forecast period.png" alt=""><figcaption></figcaption></figure>
+
+(d) You can now see additional fields for the closing period and series to be used as the data source. In this case, we'll select 2023 Actuals as the 'Copy from' series.
+
+<figure><img src="../../../.gitbook/assets/Closing period.png" alt=""><figcaption></figcaption></figure>
+
+(e) The forecast series can be created using a combination of the four types - blank, copy from series, copy from period and average of. Let's configure the average of 2023 Actuals for the period Apr to Jun.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Average of.png" alt=""><figcaption></figcaption></figure>
+
+(f) Once 'Average of' is selected, the 'Configuration' option gets enabled. You can select a range from the closing period.
+
+<figure><img src="../../../.gitbook/assets/config average of.png" alt=""><figcaption></figcaption></figure>
+
+(g) To create a rolling forecast, you need to define the settings for the entire forecast period. Click on 'Add new' to define for the rest of the period July to December.
+
+<figure><img src="../../../.gitbook/assets/Add new (1).png" alt=""><figcaption></figcaption></figure>
+
+(h) By default, the rest of the periods are defined as blank and the 'Add new' option is greyed out.
+
+<figure><img src="../../../.gitbook/assets/Blank series.png" alt=""><figcaption></figcaption></figure>
+
+(i) You can configure as required and click 'Create'.
+
+<figure><img src="../../../.gitbook/assets/Create series.png" alt=""><figcaption></figcaption></figure>
+
+(j) The forecast series gets created as shown.
+
+<figure><img src="../../../.gitbook/assets/Forecast series.png" alt=""><figcaption></figcaption></figure>
+
+(k) To manage the forecast, click on 'Manage' and the 'Pencil' icon.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Manage forecast.png" alt=""><figcaption></figcaption></figure>
+
+(l) To update the forecast period as your monthly actuals get updated in the source data, select the required month in the 'Forecast period' dropdown highlighted.
+
+<figure><img src="../../../.gitbook/assets/Update forecast period.png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Enter a value
 

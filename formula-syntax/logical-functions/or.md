@@ -1,6 +1,6 @@
 # OR
 
-The OR function returns TRUE if **** at least one of the arguments is TRUE and returns FALSE when all the arguments evaluate to FALSE.
+The OR function returns TRUE if at least one of the arguments is TRUE and returns FALSE when all the arguments evaluate to FALSE.
 
 ## Syntax
 

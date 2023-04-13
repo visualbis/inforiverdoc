@@ -3,7 +3,7 @@
 Data-level commentary is very common in real-life scenarios. In this section, we'll see how you can add data-level comments, mention other users, reply to comments and receive instant notifications on replies/mentions.
 
 {% hint style="info" %}
-While all comments can be [written back](broken-reference) to databases or shared drives, only the [comment column](comments.md#4.-comments-column) can be exported to an Excel/PDF file.
+While all comments can be [written back](../../12.-data-writeback.md) to databases or shared drives, only the [comment column](comments.md#4.-comments-column) can be exported to an Excel/PDF file.
 {% endhint %}
 
 ## 1. Add comments
@@ -50,19 +50,31 @@ j) All the comments are hidden.&#x20;
 
 <figure><img src="../../../.gitbook/assets/8.2.47 hide comments.png" alt=""><figcaption><p>All comments get hidden</p></figcaption></figure>
 
-k) Certain comments can be locked to prevent editing and replies. Click on the 'Lock' icon highlighted below.
+k) Certain comments can be locked to prevent editing and replies. Click on the 'Three dots' icon and click on 'Lock thread' highlighted below.
 
-<figure><img src="../../../.gitbook/assets/8.2.49 lock comments.png" alt=""><figcaption><p>Comments can be locked</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Lock thread.png" alt=""><figcaption><p>Comments can be locked</p></figcaption></figure>
 
-l) The comment thread gets greyed out. To unlock the thread, click on the 'Lock' icon.
+l) The comment thread gets greyed out. To unlock the thread, click on the 'Unlock' icon.
 
-<figure><img src="../../../.gitbook/assets/8.2.51 lock comments.png" alt=""><figcaption><p>Locked comments can be unlocked</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/locked thread.png" alt=""><figcaption><p>Locked comments can be unlocked</p></figcaption></figure>
 
 m) To delete all comments, in the 'Comments' dropdown, select 'Settings'. In the side panel, in the 'General' tab, click 'Delete all comments'.
 
 <figure><img src="../../../.gitbook/assets/8.2.52 delete all comments.png" alt=""><figcaption><p>Delete all comments</p></figcaption></figure>
 
-## 2. Mention other users
+## 2. Roll-up comments
+
+In reports with large number of hierarchies, you can see comments rolled up at the subtotal and grand total level even if the hierarchies are collapsed. This enables executives to see collapsed and summarized reports but still see exception comments rolled up at the parent levels.
+
+In the below image, comments are added at the product category and sub category levels which are consolidated and shown at the region level.
+
+<figure><img src="../../../.gitbook/assets/Roll up comments.png" alt=""><figcaption><p>Roll-up comments</p></figcaption></figure>
+
+To turn on roll-up comments, turn on the 'Rollup indicator' toggle in the 'Comments' dropdown.
+
+<figure><img src="../../../.gitbook/assets/Roll up comments 2.png" alt=""><figcaption><p>Roll-up indicator</p></figcaption></figure>
+
+## 3. Mention other users
 
 You can use @ symbol to tag other stakeholders and draw their attention​.
 
@@ -78,7 +90,7 @@ c) The comment gets posted successfully.
 
 <figure><img src="../../../.gitbook/assets/8.2.17 mention users.png" alt=""><figcaption><p>Comment posted successfully</p></figcaption></figure>
 
-## 3. Reply to comments
+## 4. Reply to comments
 
 Users can reply to comments posted by others and have interactive conversations.​​
 
@@ -96,7 +108,7 @@ c) The comment reply gets added as a thread.
 
 
 
-## 4. Comments column
+## 5. Comments column
 
 You can add a dedicated comments column to capture row-level comments.
 
@@ -128,7 +140,7 @@ g) To hide the comments column, turn off the toggle.
 
 <figure><img src="../../../.gitbook/assets/8.2.41(2) comments column.png" alt=""><figcaption><p>Hide comments column</p></figcaption></figure>
 
-## 5. Email notifications
+## 6. Email notifications
 
 The ‘@user’ mention in the comment automatically sends an email notification to the user, with a link to the report so that the user can respond to this comment and/or update the report. Replies to the comments are also notified to the user instantly.
 

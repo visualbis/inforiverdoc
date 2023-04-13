@@ -153,7 +153,7 @@ And the second drop-down lets you select the ending value of the reference band.
 
 <figure><img src="../../.gitbook/assets/reference-band-start-from (2).png" alt=""><figcaption><p>Reference band start from options</p></figcaption></figure>
 
-&#x20;**** 3**.  Constant** - If you select this option, a new input field becomes available where you can select the constant value which becomes the starting value of the reference band.
+&#x20;3**.  Constant** - If you select this option, a new input field becomes available where you can select the constant value which becomes the starting value of the reference band.
 
 <figure><img src="../../.gitbook/assets/reference-band-constant.png" alt=""><figcaption><p>Reference band constant option</p></figcaption></figure>
 
