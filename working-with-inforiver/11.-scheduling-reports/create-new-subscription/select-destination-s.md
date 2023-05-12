@@ -64,7 +64,7 @@ You can also bulk upload a CSV file of recipients' emails. Click the 'Bulk uploa
 \
 Click the 'Upload' button or drag and drop to upload the CSV file with the recipient's details.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Bulk upload option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Bulk upload option</p></figcaption></figure>
 
 **Download sample**&#x20;
 

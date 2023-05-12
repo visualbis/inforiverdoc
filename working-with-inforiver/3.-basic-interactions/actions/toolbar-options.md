@@ -128,7 +128,7 @@ When this option is enabled, then on selecting any report element you will find 
 
 If you enable this option, you can easily drag and drop the rows and columns for easy reordering in reading view mode.
 
-<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Reorder row/column option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption><p>Reorder row/column option</p></figcaption></figure>
 
 #### Show toast message
 

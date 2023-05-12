@@ -39,11 +39,7 @@ Configuring writeback destination(s) is straightforward and involves the same pr
 
 
 
-To learn how to configure each destination in the above list, [**navigate to this page**](destinations.md#overview)**.**&#x20;
-
-~~Currently, writeback of row level and column level comments are not supported, and only the cell level comments are supported.~~
-
-~~Similarly for notes, the writeback of row-level and column-level notes aren't supported.~~
+To learn how to configure each destination in the above list, [navigate to this page](destinations.md#overview).&#x20;
 
 {% hint style="info" %}
 The number of rows that can be written back is 200k rows for Excel and CSV and 250 rows for OneDrive and SharePoint.
@@ -62,5 +58,3 @@ The number of rows that can be written back is 200k rows for Excel and CSV and 2
 [Why Writeback using Power BI + Power Apps is Not for Everyone](https://inforiver.com/blog/writeback/writeback-using-powerbi-powerapps-not-for-everyone/)
 
 [10 Key Considerations for Choosing a Writeback Solution in Power BI](https://inforiver.com/blog/writeback/writeback-power-bi-10-key-considerations/)
-
-&#x20;

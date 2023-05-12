@@ -6,9 +6,7 @@ description: Comprehensive and Searchable Writeback Logs
 
 Inforiver offers milestone based tracking as soon as the writeback button is clicked. To view a comprehensive log of an ongoing writeback instance or previous writeback instances, a user shall click "Logs" under the "Export" tab of the Inforiver toolbar. The user could also click "View Log" in the modal that would open upon clicking writeback in order to access the log page.
 
-
-
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ### i) Writeback log filters
 
@@ -67,13 +65,13 @@ The writeback logs page has the following columns:
 
 This column displays a unique log ID that is used to identify the writeback log. You can sort the ID in ascending or descending order using the up/down arrows respectively.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on the writeback ID will open up a page with a detailed summary of the writeback.&#x20;
 
 Clicking the 'General' tab will display a summary of the writeback along with the milestones and their status.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 The writeback log summarizes the following milestones:
 
@@ -89,7 +87,7 @@ The data processing event logs the performed action, the date and time the event
 
 This milestone displays the events that occurred while the writeback data was delivered to the destination.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 You can click on the 'View destination events' link to view the summary of the writeback destination, the date and the time the destination was updated, and the status of the writeback.
 

@@ -87,7 +87,7 @@ This option becomes available only if the 'Refresh dataset for each run' option 
 
 If the 'Refresh dataset for each run' option is enabled, then a consent email will be sent to the recipients added in the dataset owner option. The consent email is shown in the image below.
 
-<figure><img src="../../../.gitbook/assets/consent-email.png" alt=""><figcaption><p>Refresh dataset consent email</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/consent-email (1).png" alt=""><figcaption><p>Refresh dataset consent email</p></figcaption></figure>
 
 {% hint style="warning" %}
 The subscription will be created only if the dataset owner(s) provide consent. The scheduled jobs will keep failing until consent is provided.

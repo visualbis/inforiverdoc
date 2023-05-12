@@ -195,7 +195,7 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Configuring Single Store as a writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Singlestore1.png" alt=""><figcaption><p>Configuring Single Store as a writeback destination</p></figcaption></figure>
 
 ## 11. SAP HANA
 
@@ -211,7 +211,7 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Configuring SAP HANA as a writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SAP HANA.png" alt=""><figcaption><p>Configuring SAP HANA as a writeback destination</p></figcaption></figure>
 
 ## 12. Oracle
 
@@ -226,7 +226,7 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Configuring Oracle as a writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Oracle.png" alt=""><figcaption><p>Configuring Oracle as a writeback destination</p></figcaption></figure>
 
 ## 13. PostgreSQL
 
@@ -243,7 +243,7 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Configuring PostgreSQL as a writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Postgresql.png" alt=""><figcaption><p>Configuring PostgreSQL as a writeback destination</p></figcaption></figure>
 
 ## 14. MySQL
 
@@ -258,7 +258,7 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Configuring MySQL as a writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MySQL.png" alt=""><figcaption><p>Configuring MySQL as a writeback destination</p></figcaption></figure>
 
 ## 15. OneDrive
 

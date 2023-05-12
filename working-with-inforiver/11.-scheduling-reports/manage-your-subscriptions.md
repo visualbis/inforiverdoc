@@ -42,7 +42,7 @@ Clicking on the pause icon will open up a 'Pause' modal.  Click the 'Pause' butt
 
 Clicking on the delete icon will open up a 'Delete' modal.  Click the 'Delete' button in the modal to delete the subscription.
 
-<figure><img src="../../.gitbook/assets/delete-subscription.png" alt=""><figcaption><p>Delete subscription</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-subscription (1).png" alt=""><figcaption><p>Delete subscription</p></figcaption></figure>
 
 Here is a detailed breakdown of all the options available on this page. It has the following filter options to filter and narrow down your search:
 
@@ -124,7 +124,7 @@ The following options are present at the top bar of this page
 
 * **Delete -** Clicking on this option will delete the chosen subscription
 
-<figure><img src="../../.gitbook/assets/delete-subscription (1).png" alt=""><figcaption><p>Delete subscription option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-subscription.png" alt=""><figcaption><p>Delete subscription option</p></figcaption></figure>
 
 ### **b) Jobs**
 
@@ -201,7 +201,7 @@ If the 'Refresh dataset' option is enabled, then a consent email will be sent to
 
 This page contains a list of recipients who have accepted and not accepted the consent emails.
 
-<figure><img src="../../.gitbook/assets/consent-email (1).png" alt=""><figcaption><p>Consent email</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/consent-email.png" alt=""><figcaption><p>Consent email</p></figcaption></figure>
 
 ### d) Unsubscribe
 
