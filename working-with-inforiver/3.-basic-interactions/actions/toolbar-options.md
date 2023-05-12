@@ -60,7 +60,7 @@ You can customize the toolbar options that are available for the report consumer
 
 Click the 'Set reading view access' option from the drop-down.
 
-<figure><img src="../../../.gitbook/assets/image (11) (3).png" alt=""><figcaption><p>Set reading view access option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Set reading view access option</p></figcaption></figure>
 
 You can see the 'Reading view access' modal.
 
@@ -92,7 +92,7 @@ Enabling this option will display the 'Insert' tab in the toolbar if the report 
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Insert' tab: Customize, Compare, Stimulate, Data input, and Logs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Insert tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Insert tab options</p></figcaption></figure>
 
 #### Export tab
 
@@ -100,7 +100,7 @@ Enabling this option will display the 'Export' tab in the toolbar if the report 
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Export' tab: Export to pdf and Export to excel.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Export tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Export tab options</p></figcaption></figure>
 
 #### Show gripper
 
@@ -152,7 +152,7 @@ Enabling this option will display the search icon and search bar at the top of t
 The 'Show search' option is available only if the 'Toolbar' option is set to 'Off' in the 'Reading view access' modal
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
 
 ## 7. Quick access
 

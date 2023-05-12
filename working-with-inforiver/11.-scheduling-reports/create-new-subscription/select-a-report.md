@@ -10,7 +10,7 @@ In the first drop-down, select the Power BI workspace in which the report you wa
 
 The 'Workspace' and 'Report' fields will get auto-populated with the workspace and report name of the report. If you want to schedule a different report, you can update the details here.
 
-<figure><img src="../../../.gitbook/assets/select-workspace.png" alt=""><figcaption><p>Select workspace option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/select-workspace (1).png" alt=""><figcaption><p>Select workspace option</p></figcaption></figure>
 
 Based on the selection made in the first drop-down, the second drop-down gets populated with reports available in the selected workspace.&#x20;
 
@@ -61,7 +61,7 @@ You can learn more about Report+ [here](https://docs.inforiver.com/inforiver/wor
 
 Once you select 'Report plus layout', the scheduler automatically detects the number of categories present in the report page selected.
 
-<figure><img src="../../../.gitbook/assets/report-plus.png" alt=""><figcaption><p>Report plus layout categories</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/report-plus (1).png" alt=""><figcaption><p>Report plus layout categories</p></figcaption></figure>
 
 These categories can be viewed and selected in the 'Select Destination' -> 'Category' section.
 
@@ -87,7 +87,7 @@ This option becomes available only if the 'Refresh dataset for each run' option 
 
 If the 'Refresh dataset for each run' option is enabled, then a consent email will be sent to the recipients added in the dataset owner option. The consent email is shown in the image below.
 
-<figure><img src="../../../.gitbook/assets/consent-email (1).png" alt=""><figcaption><p>Refresh dataset consent email</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/consent-email.png" alt=""><figcaption><p>Refresh dataset consent email</p></figcaption></figure>
 
 {% hint style="warning" %}
 The subscription will be created only if the dataset owner(s) provide consent. The scheduled jobs will keep failing until consent is provided.

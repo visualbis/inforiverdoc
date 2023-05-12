@@ -23,7 +23,7 @@ In reports with large number of hierarchies, you can see notes rolled up at the 
 <figure><img src="../../.gitbook/assets/Roll up notes (1).png" alt=""><figcaption><p>Roll-up notes</p></figcaption></figure>
 
 {% hint style="info" %}
-You can [export](../10.-exporting-reports/export.md) notes along with the report as Excel and PDF. You can also [write back](../12.-data-writeback.md) to databases, shared drives or URLs.
+You can [export](../10.-exporting-reports/export.md) notes along with the report as Excel and PDF. You can also [write back](../12.-data-writeback/) to databases, shared drives or URLs.
 {% endhint %}
 
 Note: With Inforiver Enterprise 2.0, there are few changes in the notes configuration options. The updated UI/UX is shown below.
@@ -118,7 +118,7 @@ a) In the 'Notes' dropdown, turn the 'Notes column' toggle on.
 
 b) A notes column gets added. Double-click on a cell and start typing in the rich text editor. You can apply formatting such as bold, italic, underline, font/background color and hyperlinks.
 
-<figure><img src="../../.gitbook/assets/8.1.17 Notes column.png" alt=""><figcaption><p>Rich text formatting for notes column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.1.17 Notes column (1).png" alt=""><figcaption><p>Rich text formatting for notes column</p></figcaption></figure>
 
 ## 7. Hide notes
 

@@ -26,6 +26,6 @@ While this guide can be used as a quick reference for specific features, it is a
 
 **11. Scheduling reports** - The [scheduling reports](11.-scheduling-reports/) section covers report bursting and scheduling to emails and shared drives.
 
-**12. Data writeback** - The [data writeback](12.-data-writeback.md) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more. This section will be added in the coming weeks.
+**12. Data writeback** - The [data writeback](12.-data-writeback/) section covers configuring writeback destinations, writeback to different databases, shared drives and URL destinations, writeback logs and more.&#x20;
 
 To start building your first Inforiver report, refer to the [first section](1.-build-your-first-inforiver-report.md).&#x20;

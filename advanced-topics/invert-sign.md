@@ -20,7 +20,7 @@ a) Select the required row. In the ‘Insert’ tab of the toolbar, click the �
 
 b) The row 'East -> Beverages' is inverted and you can see the change in the value of totals.&#x20;
 
-<figure><img src="../.gitbook/assets/Toast (1).png" alt=""><figcaption><p>Result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Toast.png" alt=""><figcaption><p>Result</p></figcaption></figure>
 
 c) If you do not want the sign inversion to impact the totals, turn off the 'Include in Total' toggle in the Display -> Numbers settings.
 

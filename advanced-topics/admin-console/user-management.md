@@ -56,7 +56,7 @@ In the following image, the users' list is sorted 'By name' and in 'Ascending' o
 
 Click 'Add Member' to add a single member to the application. A pop-up opens as shown.
 
-<figure><img src="../../.gitbook/assets/add-member.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-member (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter the user's email id in the textbox provided and click 'Add'.
 

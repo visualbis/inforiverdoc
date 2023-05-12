@@ -42,7 +42,7 @@ Clicking on the pause icon will open up a 'Pause' modal.  Click the 'Pause' butt
 
 Clicking on the delete icon will open up a 'Delete' modal.  Click the 'Delete' button in the modal to delete the subscription.
 
-<figure><img src="../../.gitbook/assets/delete-subscription (1).png" alt=""><figcaption><p>Delete subscription</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-subscription.png" alt=""><figcaption><p>Delete subscription</p></figcaption></figure>
 
 Here is a detailed breakdown of all the options available on this page. It has the following filter options to filter and narrow down your search:
 
@@ -92,7 +92,7 @@ If you enable this option, a destination filter drop-down will appear, in which 
 
 If you enable this option, a subscription filter drop-down will appear, in which you can filter your subscriptions based on the subscription type. The available options are highlighted below.
 
-<figure><img src="../../.gitbook/assets/subscription-filter.png" alt=""><figcaption><p>Subscription filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscription-filter (1).png" alt=""><figcaption><p>Subscription filter</p></figcaption></figure>
 
 ### h) Reset all&#x20;
 
@@ -104,7 +104,7 @@ Clicking on this option will reset all the applied filters.
 
 Clicking on the name of any subscription in the 'My subscriptions' page will display all the subscription details of the report. By default, the 'Summary' tab is shown.
 
-<figure><img src="../../.gitbook/assets/subscription-summary (1).png" alt=""><figcaption><p>Subscription summary page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscription-summary.png" alt=""><figcaption><p>Subscription summary page</p></figcaption></figure>
 
 The following options are present at the top bar of this page
 
@@ -124,7 +124,7 @@ The following options are present at the top bar of this page
 
 * **Delete -** Clicking on this option will delete the chosen subscription
 
-<figure><img src="../../.gitbook/assets/delete-subscription.png" alt=""><figcaption><p>Delete subscription option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-subscription (1).png" alt=""><figcaption><p>Delete subscription option</p></figcaption></figure>
 
 ### **b) Jobs**
 
@@ -160,7 +160,7 @@ The 'Milestones' section contains a flow about all
 
 * **Deliver to destinations -** Indicates that the scheduled job report is delivered to the destination
 
-<figure><img src="../../.gitbook/assets/report-milestones.png" alt=""><figcaption><p>Milestone details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/report-milestones (1).png" alt=""><figcaption><p>Milestone details</p></figcaption></figure>
 
 If a job run fails, then the 'Milestones' section has a 'Re-Run Job' button available at the top right corner of the section. Clicking on this option will re-run the failed job.
 
@@ -201,7 +201,7 @@ If the 'Refresh dataset' option is enabled, then a consent email will be sent to
 
 This page contains a list of recipients who have accepted and not accepted the consent emails.
 
-<figure><img src="../../.gitbook/assets/consent-email.png" alt=""><figcaption><p>Consent email</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/consent-email (1).png" alt=""><figcaption><p>Consent email</p></figcaption></figure>
 
 ### d) Unsubscribe
 

@@ -34,7 +34,7 @@ The created connection will get listed on the page.
 
 You can edit the available connections by using the edit icon(pencil) available on the top right corner of the page.
 
-<figure><img src="../../../.gitbook/assets/edit-connection.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/edit-connection (2).png" alt=""><figcaption></figcaption></figure>
 
 Clicking the pencil icon will open the 'Edit connection' page where you can edit or make changes to the connection.
 

@@ -20,7 +20,7 @@ You can also save the report by clicking on the 'Save and add another' button.
 
 But clicking on 'Save and add another' will create a subscription and open the 'New subscription' screen again with all the previously entered 'Select report' options retained.
 
-<figure><img src="../../../.gitbook/assets/save-add-another (1).png" alt=""><figcaption><p>Save and add another</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/save-add-another.png" alt=""><figcaption><p>Save and add another</p></figcaption></figure>
 
 After a new schedule is created, a summary of all the previously mentioned details will be displayed on the 'Summary' page.
 

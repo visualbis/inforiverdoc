@@ -16,7 +16,7 @@ You can also monitor, view, and gather insights into the subscriptions of other 
 
 All the scheduled jobs will be displayed here. The 'Subscription jobs' page has the following columns.
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
 
 ### a) Job details
 
@@ -36,7 +36,7 @@ Each of these column values can be sorted in ascending/descending order by click
 
 Clicking on any of the scheduled job IDs will display a detailed summary of the job in the 'Summary' tab.
 
-<figure><img src="../../.gitbook/assets/subscription-summary.png" alt=""><figcaption><p>Subscription summary</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscription-summary (1).png" alt=""><figcaption><p>Subscription summary</p></figcaption></figure>
 
 Clicking on the 'Email' tab will display a summary of all the emails sent along with the delivered at date, time, status, filter and bookmarks.
 
@@ -54,7 +54,7 @@ Using this search bar you can search for the job you need. If you have an enormo
 
 Using this drop-down you can filter the jobs based on the subscription. Only the jobs of the selected subscriptions will get displayed.
 
-<figure><img src="../../.gitbook/assets/subscription-jobs-filter (2).png" alt=""><figcaption><p>Subscription jobs filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscription-jobs-filter.png" alt=""><figcaption><p>Subscription jobs filter</p></figcaption></figure>
 
 ### **d) Workspace**
 
@@ -147,4 +147,4 @@ The lineage tab displays the lineage view of the dataset.
 
 <figure><img src="../../.gitbook/assets/all-reports-dataset.png" alt=""><figcaption><p>Dataset lineage view</p></figcaption></figure>
 
-In this section, we covered subscription administration. Navigate to the next section to learn more about [data writeback](../12.-data-writeback.md).
+In this section, we covered subscription administration. Navigate to the next section to learn more about [data writeback](../12.-data-writeback/).
