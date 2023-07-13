@@ -16,7 +16,7 @@ You can also monitor, view, and gather insights into the subscriptions of other 
 
 All the scheduled jobs will be displayed here. The 'Subscription jobs' page has the following columns.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
 
 ### a) Job details
 

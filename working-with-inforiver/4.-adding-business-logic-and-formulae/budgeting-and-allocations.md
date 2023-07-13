@@ -70,9 +70,13 @@ b) Once this option is selected, the 2023 Budget values are updated automaticall
 
 Values in data input columns can be locked either at a cell level or including all children (at a subtotal/total level). The cells that are locked are not affected by any of the allocation methods.
 
+{% hint style="info" %}
+A child node can be locked only when [row aggregation type](insert-manual-input-columns/insert-manual-input-columns.md#i-insert-a-new-empty-series) is set to Sum or Average.
+{% endhint %}
+
 ### i) Lock this cell
 
-Let’s consider a scenario – There is an overall budget for 2023 which is distributed to the categories based on 2022 Actuals. Certain categories and their sub-categories have a fixed budget, and the budget has to be reallocated once these changes are made. Budgets for Juices and Soda are 500m and 350m respectively. &#x20;
+Let’s consider a business case – There is an overall budget for 2023 which is distributed to the categories based on 2022 Actuals. Certain categories and their sub-categories have a fixed budget, and the budget has to be reallocated once these changes are made. Budgets for Juices and Soda are 500m and 350m respectively. &#x20;
 
 This can be easily achieved using Inforiver as shown below.&#x20;
 
@@ -130,7 +134,33 @@ f) The four quarters are locked including the grand total cell.
 
 <figure><img src="../../.gitbook/assets/7.2.18 Lock children.png" alt=""><figcaption><p>Juices across quarters locked</p></figcaption></figure>
 
-### iii) Unlock
+### iii) Lock row
+
+You may need to lock an entire row when [measures are displayed as rows](../2.-displaying-information/layout-options.md#a.-in-rows). Consider a business case wherein you need to [add a new measure](insert-manual-input-columns/insert-manual-input-columns.md#1.-create-a-column) to set the budgets for the next year.&#x20;
+
+After creating a new measure titled 2023 Budget, click on the row gripper and select Lock Row to lock the entire row.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Lock row on Measure in Rows</p></figcaption></figure>
+
+
+
+The entire row is now greyed out, indicating that it is locked and updates are disabled:
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Row locked for editing</p></figcaption></figure>
+
+### iv) Lock multiple cells
+
+In order to lock multiple cells, ctrl + click the required cells. Click on the lock icon and select Lock selected cells from the drop-down.
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Lock Selected Cells</p></figcaption></figure>
+
+
+
+The cells that are locked are highlighted:
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
+
+### v) Unlock
 
 a) To unlock a locked cell, select 'Unlock this cell' from the context menu.
 
@@ -147,6 +177,14 @@ c) All children of a locked cell can be unlocked by selecting the 'Unlock all ch
 d) All the cells including the quarters are unlocked.
 
 <figure><img src="../../.gitbook/assets/7.2.22 Unlock children.png" alt=""><figcaption><p>All children unlocked</p></figcaption></figure>
+
+e) To unlock a row when measure in rows in enabled, click on the row gripper and select Unlock Row.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Unlock Row</p></figcaption></figure>
+
+f) To unlock multiple cells, ctrl + click the cells and click on Unlock selected cells.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Unlock selected cells</p></figcaption></figure>
 
 ## 4. Edit period values
 
@@ -176,7 +214,7 @@ d) The values for Soda and Tea & Coffee are updated as shown in the below image.
 
 <figure><img src="../../.gitbook/assets/7.2.29 Trend.png" alt=""><figcaption><p>Copy until last row with trend</p></figcaption></figure>
 
-e) You can use 'Copy with trend' in combination with 'Lock this cell' to achieve different scenarios. Let's consider a scenario where the value for Q3 is fixed and the trend needs to be applied to the other quarters. Click on the 'Lock this cell' for the cell highlighted.
+e) You can use 'Copy with trend' in combination with 'Lock this cell' to achieve different business cases. Let's consider an example where the value for Q3 is fixed and the trend needs to be applied to the other quarters. Click on the 'Lock this cell' for the cell highlighted.
 
 <figure><img src="../../.gitbook/assets/7.2.30 Trend.png" alt=""><figcaption><p>Lock cells and copy to other columns</p></figcaption></figure>
 
