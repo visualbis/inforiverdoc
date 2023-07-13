@@ -240,7 +240,7 @@ You can find a Manage link next to every destination. Clicking on this manage li
 
 Inforiver allows both admin level security and user level for writebacks. Admin level settings can found by navigating the steps in the below picture.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Navigating to Inforiver Console</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>Navigating to Inforiver Console</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>Navigation to writeback connections page in Inforiver console</p></figcaption></figure>
 

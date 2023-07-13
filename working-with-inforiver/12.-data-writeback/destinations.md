@@ -146,7 +146,7 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Configuring Snowflake as a writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (2).png" alt=""><figcaption><p>Configuring Snowflake as a writeback destination</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p>Steps to set up a writeback destination in Snowflake</p></figcaption></figure>
 
@@ -167,19 +167,25 @@ After navigating to the add destination page, following details will have to be 
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Configuring Amazon Redshift as a writeback destination</p></figcaption></figure>
 
-## 9. Big Query
+## 9. BigQuery
 
-Allows you to configure BigQuery as a destination for Inforiver writeback.&#x20;
+&#x20;Inforiver offers 2 options to configure a BigQuery destination for writeback. After selecting the Key Type(JSON or P12), the following details need to be entered:
 
-After navigating to the add destination page, the following details will have to be entered.&#x20;
+| JSON(Recommended) | P12                   |
+| ----------------- | --------------------- |
+| Dataset ID        | Project ID            |
+| Json Key          | Dataset ID            |
+| Table Name        | Service Account Email |
+|                   | Private Key           |
+|                   | Table Name            |
 
-* Project ID
-* Dataset ID
-* Service Account Email
-* Private Key
-* Table Name
+{% hint style="info" %}
+If the tenant administrator creates a connection at admin level, the Dataset ID and Project ID fields will be populated automatically.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption><p>Configuring Big Query as a writeback destination</p></figcaption></figure>
+&#x20;For more information regarding setting up BigQuery destinations, refer to the help section at the top left of the page
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>BigQuery writeback</p></figcaption></figure>
 
 ## 10. SingleStore
 
