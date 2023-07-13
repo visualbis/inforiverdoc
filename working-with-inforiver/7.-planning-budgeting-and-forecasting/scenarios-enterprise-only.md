@@ -90,29 +90,29 @@ If you want to lock your scenario, enable the 'Lock scenario' checkbox. A locked
 
 ### iii) Input method&#x20;
 
-Inforiver offers two types of input methods, simulation, and distribution.
+Inforiver offers two types of input methods: simulation and distribution.
 
 <figure><img src="../../.gitbook/assets/input-method.png" alt=""><figcaption><p>Input method option</p></figcaption></figure>
 
-#### i) Simulation
+#### a) Simulation
 
-If you choose the simulation input method, every data will have the [simulation slider](../4.-adding-business-logic-and-formulae/what-if-analysis-and-simulations.md#ii-simulation-slider), in which you can vary the value to simulate the changes. Once simulations is performed, you can track them below the toolbar.
+If you choose the simulation input method, each cell will have a [simulation slider](../4.-adding-business-logic-and-formulae/what-if-analysis-and-simulations.md#ii-simulation-slider). You can calibrate the slider to adjust the value and simulate changes. Once simulations is performed, you can track them below the toolbar.
 
 <figure><img src="../../.gitbook/assets/simulation-method.png" alt=""><figcaption><p>Simulation option</p></figcaption></figure>
 
-#### ii) Distribution
+#### b) Distribution
 
 Using this method you can [distribute](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md) the value across descendants.
 
 <figure><img src="../../.gitbook/assets/distribution-method.png" alt=""><figcaption><p>Distribution option</p></figcaption></figure>
 
-### iii) Show variance
+### iv) Show variance
 
 If you enable this option, you will see the percentage of variance to the left of the data metrics.
 
 <figure><img src="../../.gitbook/assets/show-variance.png" alt=""><figcaption><p>Show variance option</p></figcaption></figure>
 
-### iv) Slider settings
+### v) Slider settings
 
 If you click the 'Slider settings' option, the 'Variance settings' modal will open up.
 
@@ -120,12 +120,36 @@ If you click the 'Slider settings' option, the 'Variance settings' modal will op
 
 This modal has the following options:
 
-i) **Series** - Displays the name of the series in the scenario
+a) **Series** - Displays the name of the series in the scenario
 
-ii) **Increase is good** - This toggle is enabled by default. If this is turned on, then the percentage increase will be displayed in green. If this option is disabled, then the increase in value or percentage will be displayed in red.
+b) **Increase is good** - This toggle is enabled by default. If this is turned on, then the percentage increase will be displayed in green. If this option is disabled, then the increase in value or percentage will be displayed in red.
 
-<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-iii) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
+c) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
 
-In the next section, you will learn about [budgeting and allocations](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md).
+### vi) Copy to base scenario
+
+You may perform simulations on different scenarios before arriving at the most optimal option. Any simulations on Data Input measures in a scenario can be updated to the base scenario using the Copy to Base option.
+
+In the below scenario, the measure 2023 Forecast is created by[ adding a new measure](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#1.-create-a-column) to the report. The simulations on 2023 Forecast in Scenario2 will be reflected in report after selecting the Copy to Base option.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Additional options</p></figcaption></figure>
+
+On selecting Copy to Base, a dialog box opens up which contains the list of columns that will be exported.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Copy to Base Modal</p></figcaption></figure>
+
+
+
+&#x20;On clicking on the Proceed button, the simulations in the scenario for 2023 Forecast have now been updated in the report.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Report with values set up in a scenario</p></figcaption></figure>
+
+### vii) Edit/duplicate/delete
+
+To edit, delete or duplicate a scenario - click on the additional options menu icon that appears on hovering over the name of the scenario and select the relevant option.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Copy to Base</p></figcaption></figure>
+
+&#x20;In the next section, we'll look at [budgeting and allocations](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md).
