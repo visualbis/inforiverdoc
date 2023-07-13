@@ -140,7 +140,7 @@ You may need to lock an entire row when [measures are displayed as rows](../2.-d
 
 After creating a new measure titled 2023 Budget, click on the row gripper and select Lock Row to lock the entire row.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Lock row on Measure in Rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (3).png" alt=""><figcaption><p>Lock row on Measure in Rows</p></figcaption></figure>
 
 
 
@@ -152,13 +152,13 @@ The entire row is now greyed out, indicating that it is locked and updates are d
 
 In order to lock multiple cells, ctrl + click the required cells. Click on the lock icon and select Lock selected cells from the drop-down.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Lock Selected Cells</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>Lock Selected Cells</p></figcaption></figure>
 
 
 
 The cells that are locked are highlighted:
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
 
 ### v) Unlock
 
@@ -180,11 +180,11 @@ d) All the cells including the quarters are unlocked.
 
 e) To unlock a row when measure in rows in enabled, click on the row gripper and select Unlock Row.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Unlock Row</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Unlock Row</p></figcaption></figure>
 
 f) To unlock multiple cells, ctrl + click the cells and click on Unlock selected cells.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Unlock selected cells</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Unlock selected cells</p></figcaption></figure>
 
 ## 4. Edit period values
 

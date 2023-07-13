@@ -124,7 +124,7 @@ a) **Series** - Displays the name of the series in the scenario
 
 b) **Increase is good** - This toggle is enabled by default. If this is turned on, then the percentage increase will be displayed in green. If this option is disabled, then the increase in value or percentage will be displayed in red.
 
-<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 c) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
 
@@ -134,22 +134,22 @@ You may perform simulations on different scenarios before arriving at the most o
 
 In the below scenario, the measure 2023 Forecast is created by[ adding a new measure](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#1.-create-a-column) to the report. The simulations on 2023 Forecast in Scenario2 will be reflected in report after selecting the Copy to Base option.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Additional options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (3).png" alt=""><figcaption><p>Additional options</p></figcaption></figure>
 
 On selecting Copy to Base, a dialog box opens up which contains the list of columns that will be exported.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Copy to Base Modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (2).png" alt=""><figcaption><p>Copy to Base Modal</p></figcaption></figure>
 
 
 
 &#x20;On clicking on the Proceed button, the simulations in the scenario for 2023 Forecast have now been updated in the report.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Report with values set up in a scenario</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Report with values set up in a scenario</p></figcaption></figure>
 
 ### vii) Edit/duplicate/delete
 
 To edit, delete or duplicate a scenario - click on the additional options menu icon that appears on hovering over the name of the scenario and select the relevant option.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Copy to Base</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Copy to Base</p></figcaption></figure>
 
 &#x20;In the next section, we'll look at [budgeting and allocations](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md).

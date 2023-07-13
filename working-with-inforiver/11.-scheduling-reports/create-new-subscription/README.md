@@ -8,6 +8,6 @@ The new subscription page has 3 sections: 'Select report', 'Set subscription fre
 
 **2. Set subscription frequency** - You can configure and set the subscription frequency. To learn more, refer to [set subscription frequency](set-subscription-frequency.md).
 
-**3. Select destinations** - You can select the destinations to schedule your subscriptions. To learn more, refer to [select destinations](select-destination-s.md).
+**3. Select destinations** - You can select the destinations to schedule your subscriptions. To learn more, refer to [select destinations](select-destination-s/).
 
 **4. Review & save subscription** - You can easily review your subscription details, save or edit the subscription. To learn more, refer to [review & save subscription](review-and-save-subscription.md).

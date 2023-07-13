@@ -8,7 +8,7 @@ Currently, in a native Power BI matrix, you cannot expand or collapse columns fr
 
 In this example, the hierarchy in rows is Region -> Sub Region -> Category -> Sub Category.
 
-You can expand/collapse **individual rows** using the expand/collapse icons![](<../../.gitbook/assets/image (2) (3).png>). In the image below, you can see that International is fully expanded to the last level, while EMEA and United States remain collapsed.&#x20;
+You can expand/collapse **individual rows** using the expand/collapse icons![](<../../.gitbook/assets/image (2) (3) (1).png>). In the image below, you can see that International is fully expanded to the last level, while EMEA and United States remain collapsed.&#x20;
 
 <figure><img src="../../.gitbook/assets/RowHierarchy.png" alt=""><figcaption><p>Row hierarchy</p></figcaption></figure>
 
