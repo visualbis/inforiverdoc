@@ -1,12 +1,14 @@
 # Reading mode
 
-Inforiver Enterprise allows a user to perform writeback even when the report is in reading view. This can be enabled by checking 'Writeback' tab option in the 'Reading view access' menu.&#x20;
+Inforiver Enterprise allows a user to perform writeback even when the report is in reading view. This can be enabled by checking the 'Writeback Tab' option in the 'Allowed User Controls' menu.&#x20;
 
-This means if there are users in the workspace that have "Viewer" access, they would still be able to perform writeback to configured destinations. Edit mode access users can allow/restrict others to perform writeback in read mode from Export -> Settings.&#x20;
+This means that if there are users in the workspace that have "Viewer" access, they would still be able to perform writeback to configured destinations. Users with edit mode access can allow/restrict others to perform writeback in read mode from Export -> Settings.&#x20;
 
-Please note Reading view access Writeback Tab checkbox and writeback button in reading mode appears only when there's at least one destination configured and the user has necessary permissions for writeback.
+{% hint style="info" %}
+In the Allowed User Controls menu, the Writeback tab is enabled only when there's at least one destination configured and the user has necessary permissions for writeback.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/writeback-access.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Inforiver displays the following options for users in reading view and also have writeback access.&#x20;
 
@@ -52,6 +54,6 @@ Inforiver will only writeback rows that are applicable to the user performing th
 
 #### d. How would the data be stored if multiple users are performing writeback? When does Inforiver overwrite rows or append rows?
 
-Inforiver performs writeback operations sequentially. For each operation, Inforiver writeback compares new writeback rows to existing DB rows and will overwrite only if you all the dimension column names and its values match. However, if you would prefer Inforiver didn't overwrite rows during writeback commits, select Writeback only changes/Delta writeback as the writeback type. Under this mode, Inforiver retains previous values. &#x20;
+Inforiver performs writeback operations sequentially. For each operation, Inforiver writeback compares new writeback rows to existing DB rows and will overwrite only if all the dimension column names and its values match. However, if you would prefer Inforiver didn't overwrite rows during writeback commits, select Writeback only changes/Delta writeback as the writeback type. Under this mode, Inforiver retains previous values. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>

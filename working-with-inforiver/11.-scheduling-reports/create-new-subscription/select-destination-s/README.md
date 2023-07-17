@@ -76,7 +76,7 @@ The image below displays the structure of the download sample CSV file for Email
 
 The image below displays the structure of the download sample CSV file for OneDrive/Teams/SharePoint:
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Sample csv file for non-email destinations</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (3).png" alt=""><figcaption><p>Sample csv file for non-email destinations</p></figcaption></figure>
 
 
 

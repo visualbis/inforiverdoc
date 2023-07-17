@@ -60,7 +60,7 @@ You can customize the toolbar options that are available for the report consumer
 
 Click the 'Set reading view access' option from the drop-down.
 
-<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Set reading view access option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption><p>Set reading view access option</p></figcaption></figure>
 
 You can see the 'Reading view access' modal.
 
@@ -92,7 +92,7 @@ Enabling this option will display the 'Insert' tab in the toolbar if the report 
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Insert' tab: Customize, Compare, Stimulate, Data input, and Logs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Insert tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption><p>Insert tab options</p></figcaption></figure>
 
 #### Export tab
 
@@ -100,7 +100,7 @@ Enabling this option will display the 'Export' tab in the toolbar if the report 
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Export' tab: Export to pdf and Export to excel.
 
-<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Export tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption><p>Export tab options</p></figcaption></figure>
 
 #### Show gripper
 
@@ -134,7 +134,7 @@ If you enable this option, you can easily drag and drop the rows and columns for
 
 Enabling this option will display the toast message in the reading view mode. In the image below, a 'Copied to clipboard' toast message is displayed in the reading mode when the 'Copy to clipboard' option is clicked.
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
 
 #### Sort on click
 

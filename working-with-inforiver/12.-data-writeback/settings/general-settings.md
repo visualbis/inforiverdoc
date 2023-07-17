@@ -1,42 +1,32 @@
----
-description: Inforiver writeback settings and customization
----
+# General Settings
 
-# Settings
+Under the general settings tab, you can configure the general writeback settings. Below is the list of options available:
 
-The writeback settings menu allows the user to configure various settings related to the writeback.
-
-Clicking on the 'Settings' icon under the 'Export' tab of the toolbar will open up the 'Writeback Settings' pane to the right of the report.
-
-## 1. General Settings
-
-Under the general settings tab, you can configure the general writeback settings. Below is the list of options available,
-
-<figure><img src="../../.gitbook/assets/genera-wb-settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/genera-wb-settings.png" alt=""><figcaption></figcaption></figure>
 
 ### i) Writeback type&#x20;
 
 Inforiver allows the user to choose the writeback table structure from a choice of 3 types.&#x20;
 
-<figure><img src="../../.gitbook/assets/wb-type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wb-type.png" alt=""><figcaption></figcaption></figure>
 
 #### a) Tidy (long) format
 
 This is the default writeback type for any writeback table. Tidy (long) type has one row per observation, and one column per variable. Please note only Tidy (long) type supports writing back Inforiver's comments and notes.
 
-<figure><img src="../../.gitbook/assets/tidy-format.png" alt=""><figcaption><p>Inforiver Tidy (long) writeback type</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tidy-format.png" alt=""><figcaption><p>Inforiver Tidy (long) writeback type</p></figcaption></figure>
 
 #### b) Measure on columns format
 
 As the name suggests, this option stores the measures in the form of columns. This format is also called as "wide" format. More measures are added, more columns are added to the writeback table to accommodate them. &#x20;
 
-<figure><img src="../../.gitbook/assets/measure-on-columns.png" alt=""><figcaption><p>Inforiver Measure on columns writeback type</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/measure-on-columns.png" alt=""><figcaption><p>Inforiver Measure on columns writeback type</p></figcaption></figure>
 
 #### c) Writeback with changes&#x20;
 
 Writeback with changes type also called "delta writeback" allows the user to record the changes/difference/adjustments made on a report during the writeback. If a new data comes into the database, the old data is moved to a column called _PreviousValue_ and the new data takes its place under _Value_ column. Inforiver also marks the _IsLatest_ column=1 to indicate the latest row. Writeback-only changes works for both _numeric_ data type adjustments and also _text_ data type adjustments.&#x20;
 
-<figure><img src="../../.gitbook/assets/wb-changes.png" alt=""><figcaption><p>Inforiver Measure on columns writeback type</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wb-changes.png" alt=""><figcaption><p>Inforiver Measure on columns writeback type</p></figcaption></figure>
 
 #### d) Writeback data type and best practices
 
@@ -51,7 +41,7 @@ Writeback with changes type also called "delta writeback" allows the user to rec
 
 Filter option allows the user to filter the data that is being written back to a destination. Filter dropdown list has a few presets readily available for the users.&#x20;
 
-<figure><img src="../../.gitbook/assets/wb-filter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wb-filter.png" alt=""><figcaption></figcaption></figure>
 
 #### a) None&#x20;
 
@@ -73,9 +63,9 @@ Only cells that have a comment will be included in Inforiver writeback. Please n
 
 Allows the user to define and set custom filter conditions. Inforiver allows a drag-and-drop, no-code filter creation experience that allows the user to set choose filter criteria for writeback with relative ease.&#x20;
 
-<figure><img src="../../.gitbook/assets/custom-filter (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/custom-filter (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/add-filter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/add-filter.png" alt=""><figcaption></figcaption></figure>
 
 Within Custom Filter,&#x20;
 
@@ -88,8 +78,6 @@ Within Custom Filter,&#x20;
 * If Power BI RLS is implemented, recommended filter setting is to exclude totals and sub totals.
 * Exclude totals and sub totals, Data with comments filter setting presets will not be available for measure on column writeback type.
 * Data with comments filter setting preset will not be available for writeback with changes writeback type.
-
-
 
 ### iii) Additional column configuration&#x20;
 
@@ -116,15 +104,15 @@ This allows the user to add date key column to the writeback table.&#x20;
 
 Date key column of a date table is typically at a date level. Inforiver reports are often used for high level aggregations such as Revenue by Year-Months, etc. In such situations, _Add Date Key_ feature adds a Date Key column and writes values by appending 01-01 to any high-level date dimensions. For example, If the report is set at Year-Month level. Inforiver adds 01-01-2023 for Jan'2023.&#x20;
 
-<figure><img src="../../.gitbook/assets/add-dimension-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/add-dimension-key.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/link.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/link.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/add-date-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/add-date-key.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/additional-col-config.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/additional-col-config.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/custom-year.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/custom-year.png" alt=""><figcaption></figcaption></figure>
 
 #### Additional Column Mapping and Best Practices
 
@@ -143,7 +131,7 @@ Under this option, all the users within the specified organization will be able 
 
 Selecting this option will display an input field. Users can then specify the email addresses or names of the people within the team or organization in grant writeback permissions.&#x20;
 
-<figure><img src="../../.gitbook/assets/add-permissions-email.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/add-permissions-email.png" alt=""><figcaption></figcaption></figure>
 
 ### v) Webhooks
 
@@ -189,7 +177,7 @@ Inforiver webhook delivers a JSON payload to any HTTP endpoint. The JSON payload
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/writeback-webhook.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/writeback-webhook.png" alt=""><figcaption></figcaption></figure>
 
 To setup Inforiver Webhook, paste HTTP endpoint URL in the URL field. Click the 'Add new header' link to add a new header. In the header, add the key-value pair. When writeback is initiated, Inforiver will deliver its JSON payload to the configured endpoint.&#x20;
 
@@ -198,56 +186,5 @@ To setup Inforiver Webhook, paste HTTP endpoint URL in the URL field. Click the 
 * Approval workflow using Power Automate Microsoft Teams
 * Refresh Dataset/Dataflow workflow using Power Automate
 
-The above are sample workflows that could be triggered using Inforiver webhook. There are many other workflows possible. Please note Inforiver webhook is different to URL as Destination. Inforiver webhook's JSON payload only contains essential information about the writeback table. URL as Destination JSON payload contains the entire writeback table. Learn more [here](destinations.md#url-as-destination).
+The above are sample workflows that could be triggered using Inforiver webhook. There are many other workflows possible. Please note Inforiver webhook is different to URL as Destination. Inforiver webhook's JSON payload only contains essential information about the writeback table. URL as Destination JSON payload contains the entire writeback table. Learn more [here](../destinations/url-as-destination.md).
 
-## 2. Data Settings&#x20;
-
-Under the data settings, you can view a list of all the series configurations. Here you can select the series that should be included in the writeback.
-
-#### i) Series allowed for writeback
-
-This option will list all the possible series that are allowed for writeback. All the series are selected by default.
-
-<figure><img src="../../.gitbook/assets/series-wb.png" alt=""><figcaption></figcaption></figure>
-
-You can select/unselect the series you want to write back to the destination.
-
-#### ii) Auto writeback for database destination
-
-This option can be enabled only after configuring a database destination
-
-<figure><img src="../../.gitbook/assets/auto-wb (1).png" alt=""><figcaption></figcaption></figure>
-
-If you enable this option, then the chosen series and scenario will be written back automatically without you having to initiate the writeback operation manually.
-
-#### iii) Scenarios to be included for auto writeback
-
-This option will be displayed only if you have created a scenario. You can read more on how to create a scenario here.
-
-<figure><img src="../../.gitbook/assets/scenario-wb.png" alt=""><figcaption></figcaption></figure>
-
-Under this option, you will find a list of all the created scenarios. You can select the scenario you want to write back. Please note, if no scenario is created and autowriteback is ON, only the data input columns will be auto written back if changes are made from the base table. Native columns will not be auto written back when modified.
-
-## 3. Destination Settings
-
-Here you can view all the previously configured writeback destinations
-
-You can find a Manage link next to every destination. Clicking on this manage link will open up the destinations page where you can add, edit, delete, or manage your existing destinations.
-
-<figure><img src="../../.gitbook/assets/manage-destination (1).png" alt=""><figcaption></figcaption></figure>
-
-## 4. Writeback security settings
-
-Inforiver allows both admin level security and user level for writebacks. Admin level settings can found by navigating the steps in the below picture.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Navigating to Inforiver Console</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>Navigation to writeback connections page in Inforiver console</p></figcaption></figure>
-
-&#x20;
-
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption><p>Navigation to writeback connections page in Inforiver console</p></figcaption></figure>
-
-**Writeback -> Connections Page:** Lists all writeback destinations configured by all users in your organization using Inforiver. Admin has access to create new connection, edit existing connection, or delete a connection.
-
-**Writeback -> Settings:** Allows Admin to enable/disable users to create and configure writeback destinations on their own. Because of data security and confidentiality requirements, organizations would prefer users to export data to destinations created and configured by admins. This setting will allow the admin to achieve that by disabling users to create and configure destination on their own.

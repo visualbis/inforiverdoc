@@ -14,11 +14,25 @@ Writeback screen is accessed by going to the Export tab in the toolbar. There ar
 
 **Writeback** - Export report data to a destination.&#x20;
 
-**Settings** - Configure writeback-related settings. Navigate to the [writeback settings](settings.md) chapter to learn more.&#x20;
+**Settings** - Configure writeback-related settings. Navigate to the [writeback settings](settings/) chapter to learn more.&#x20;
 
 **Logs** - Every writeback event is logged with detailed information relevant to each writeback. Navigate to the [writeback logs](logs.md) chapter to learn more.
 
-## 2. Configure Destination
+
+
+## 2. Writeback Modes
+
+You can choose whether to writeback the report alone or to writeback the report along with any associated scenarios.&#x20;
+
+Clicking on the icon below the Writeback button will show options for writeback.
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Writeback options</p></figcaption></figure>
+
+Selecting 'Writeback All' will open a dialogue box, which lets you choose which scenarios to writeback. If you do not want a particular scenario to be exported - uncheck the box adjacent to the name of that particular scenario.
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Writeback all</p></figcaption></figure>
+
+## 3. Configure Destination
 
 Inforiver supports fast writeback setup and execution for several types of data destinations.
 
@@ -39,7 +53,7 @@ Configuring writeback destination(s) is straightforward and involves the same pr
 
 
 
-To learn how to configure each destination in the above list, [navigate to this page](destinations.md#overview).&#x20;
+To learn how to configure each destination in the above list, [navigate to this page](destinations/#overview).&#x20;
 
 {% hint style="info" %}
 The number of rows that can be written back is 200k rows for Excel and CSV and 250 rows for OneDrive and SharePoint.
