@@ -2,7 +2,7 @@
 
 Inforiver supports minimal toolbar options for a better user experience in the small screen mode. You can also allow/restrict toolbar options to report viewers and a preview of the reading mode toolbar can be seen right from the edit mode. The available options are shown in the below image.
 
-<figure><img src="../../../.gitbook/assets/Toolbar options (2).png" alt=""><figcaption><p>Toolbar options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Toolbar options</p></figcaption></figure>
 
 ## 1. Full
 
@@ -10,19 +10,19 @@ The 'Full' option shows the full view of the toolbar covering all the features u
 
 By default, all reports display the full view of the toolbar as shown below.
 
-<figure><img src="../../../.gitbook/assets/Full toolbar.png" alt=""><figcaption><p>Full view of toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption><p>Full view of tollbar</p></figcaption></figure>
 
 ## 2. Minimal
 
 The 'Minimal' option shows the minimal view of the toolbar with options such as Layout, Top N, Auto fit, Row height, Notes, Export and many more as shown in the below image.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Minimal toolbar.png" alt=""><figcaption><p>Minimal toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption><p>Minimal toolbar</p></figcaption></figure>
 
 ## 3. Minimal with tabs
 
 The 'Minimal with tabs' option shows the tabs and the minimal toolbar as shown in the below image.
 
-<figure><img src="../../../.gitbook/assets/Minimal with tabs.png" alt=""><figcaption><p>Minimal with tabs</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption><p>Minimal with tabs</p></figcaption></figure>
 
 ## 4. Reading view preview
 
@@ -30,41 +30,41 @@ If you have [restricted access](toolbar-options.md#6.-set-reading-view-access) t
 
 Click on the 'Reading view preview' option as shown.
 
-<figure><img src="../../../.gitbook/assets/Reading view preview 1.png" alt=""><figcaption><p>Reading view preview option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Reading view preview option</p></figcaption></figure>
 
 This will give you a preview of how the report will look in the reading view.
 
-<figure><img src="../../../.gitbook/assets/Reading view preview.png" alt=""><figcaption><p>Reading view mode</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Reading view mode</p></figcaption></figure>
 
 To switch back to the editing mode, click on the 'Show edit mode' option from the toolbar options.
 
-<figure><img src="../../../.gitbook/assets/show edit mode.png" alt=""><figcaption><p>Show edit mode option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Unpin toolbar
 
 You can detach the toolbar and view the report in full screen using the 'Unpin toolbar' option.
 
-<figure><img src="../../../.gitbook/assets/Unpin toolbar.png" alt=""><figcaption><p>Unpin toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Unpin toolbar</p></figcaption></figure>
 
 The unpinned toolbar is shown below.
 
-<figure><img src="../../../.gitbook/assets/Unpinned toolbar.png" alt=""><figcaption><p>Unpinned toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption><p>Unpinned toolbar</p></figcaption></figure>
 
 You can pin it back by clicking the icon highlighted in the below image.
 
-<figure><img src="../../../.gitbook/assets/Pin toolbar.png" alt=""><figcaption><p>Pin toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-## 6. Set reading view access
+## 6. Allowed user controls
 
 You can customize the toolbar options that are available for the report consumers in reading mode of Power BI service.
 
-Click the 'Set reading view access' option from the drop-down.
+Click on the 'Allowed user controls' option from the drop-down.
 
-<figure><img src="../../../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption><p>Set reading view access option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption><p>Allowed user controls options</p></figcaption></figure>
 
-You can see the 'Reading view access' modal.
+You can see the 'Allowed user controls' modal.
 
-<figure><img src="../../../.gitbook/assets/reading-view-access.png" alt=""><figcaption><p>Reading view access modal</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption><p>Allowed user controls modal</p></figcaption></figure>
 
 In this modal you can enable/disable the following options:
 
@@ -80,27 +80,35 @@ Using this option you can specify how you want the toolbar to be displayed in re
 
 #### Home tab
 
-Enabling this option will display the 'Home' tab in the toolbar if the report is in reading view mode. Click 'Caret' next to the right of the 'Home' tab to expand it. This will display additional sub-options.&#x20;
+Enabling this option will display the 'Home' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Home' tab to expand it. This will display additional sub-options.&#x20;
 
-You can enable/disable the following options to show/hide in the toolbar under the 'Home' tab: Layout, Style, Text, Format, Visualize, Data, Notes, and Settings.
+You can enable/disable the following options to show/hide in the toolbar under the 'Home' tab.
 
-<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Home tab sub options</p></figcaption></figure>
-
-#### Insert tab
-
-Enabling this option will display the 'Insert' tab in the toolbar if the report is in reading view mode. Click 'Caret' next to the right of the 'Insert' tab to expand it. This will display additional sub-options.&#x20;
-
-You can enable/disable the following options to show/hide in the toolbar under the 'Insert' tab: Customize, Compare, Stimulate, Data input, and Logs.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption><p>Insert tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Home tab options</p></figcaption></figure>
 
 #### Export tab
 
-Enabling this option will display the 'Export' tab in the toolbar if the report is in reading view mode. Click 'Caret' next to the right of the 'Export' tab to expand it. This will display additional sub-options.&#x20;
+Enabling this option will display the 'Export' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Export' tab to expand it. This will display additional sub-options.&#x20;
 
-You can enable/disable the following options to show/hide in the toolbar under the 'Export' tab: Export to pdf and Export to excel.
+You can enable/disable the following options to show/hide in the toolbar under the 'Export' tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption><p>Export tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption><p>Export tab options</p></figcaption></figure>
+
+#### Scenario tab
+
+Enabling this option will display the 'Scenario' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Scenario' tab to expand it. This will display additional sub-options. To learn more about scenarios click [here](../../7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md).
+
+You can enable/disable the following options to show/hide in the toolbar under the 'Scenario' tab.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Scenario tab options</p></figcaption></figure>
+
+#### Writeback tab
+
+Enabling this option will display the 'Writeback' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Writeback' tab to expand it. This will display additional sub-options. To learn more about writeback click [here.](../../12.-data-writeback/)
+
+You can enable/disable the following options to show/hide in the toolbar under the 'Writeback' tab.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Writeback tab</p></figcaption></figure>
 
 #### Show gripper
 
@@ -114,15 +122,15 @@ In this image, the context menu appears on right-click when the report is in the
 
 Inforiver now offers Excel-like floating toolbar in the reading view mode on the selected report elements (row, column, or cell) for improved discoverability of features and improved user experience.
 
-<figure><img src="../../../.gitbook/assets/show-floating-toolbar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption><p>Show floating toolbar</p></figcaption></figure>
 
 If you enable this option, then on unpinning the toolbar you will get a floating toolbar when the report is in the reading view mode.
 
-<figure><img src="../../../.gitbook/assets/unpin-toolbar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 When this option is enabled, then on selecting any report element you will find the possible actions and configurations you can perform on that element in the floating toolbar.
 
-<figure><img src="../../../.gitbook/assets/floating-toolbar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 #### Reorder row/column
 
@@ -134,7 +142,7 @@ If you enable this option, you can easily drag and drop the rows and columns for
 
 Enabling this option will display the toast message in the reading view mode. In the image below, a 'Copied to clipboard' toast message is displayed in the reading mode when the 'Copy to clipboard' option is clicked.
 
-<figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
 
 #### Sort on click
 
@@ -160,7 +168,7 @@ Using the 'Quick access' option, you can quickly search for specific features an
 
 Select the 'Quick access' option.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Quick access.png" alt=""><figcaption><p>Quick access</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The keyboard shortcut for the Quick access option is **'Ctrl+F'**
@@ -168,10 +176,10 @@ The keyboard shortcut for the Quick access option is **'Ctrl+F'**
 
 A pop-up opens as shown below. The options are hyperlinked and help you navigate directly to the tool bar tab, side panel or dialog box. Let's click on 'Manage (Columns)'.
 
-<figure><img src="../../../.gitbook/assets/quick access menu 1.png" alt=""><figcaption><p>Quick access pop up</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Quick access menu</p></figcaption></figure>
 
 The 'Manage columns' side panel opens up as shown in the below image.
 
-<figure><img src="../../../.gitbook/assets/manage columns.png" alt=""><figcaption><p>Aggregation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Manage column via quick access menu</p></figcaption></figure>
 
 In the next section, we'll be covering [Keyboard shortcuts](keyboard-shortcuts.md).

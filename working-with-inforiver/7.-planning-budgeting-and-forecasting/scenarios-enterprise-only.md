@@ -52,7 +52,7 @@ Once all the permissions and settings are configured, click 'Create' to create a
 
 Creating a scenario in reading view mode follows the same procedure as the edit mode.&#x20;
 
-But there is one additional step, you need to enable the 'Scenario tab' in the 'Reading view access' modal. You can learn more about configuring the reading view access modal [here](https://docs.inforiver.com/working-with-inforiver/3.-basic-interactions/actions/toolbar-options#6.-set-reading-view-access).
+But there is one additional step, you need to enable the 'Scenario tab' in the 'Allowed User Controls' modal. You can learn more about configuring the allowed user controls modal [here](https://docs.inforiver.com/working-with-inforiver/3.-basic-interactions/actions/toolbar-options#6.-set-reading-view-access).
 
 <figure><img src="../../.gitbook/assets/scenario-tab-option.png" alt=""><figcaption><p>Enable scenario tab in reading view mode</p></figcaption></figure>
 
@@ -124,7 +124,7 @@ a) **Series** - Displays the name of the series in the scenario
 
 b) **Increase is good** - This toggle is enabled by default. If this is turned on, then the percentage increase will be displayed in green. If this option is disabled, then the increase in value or percentage will be displayed in red.
 
-<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 c) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
 
