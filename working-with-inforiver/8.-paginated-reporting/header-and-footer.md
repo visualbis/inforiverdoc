@@ -62,35 +62,35 @@ d) Turn on the toggle and you can see the scroll bar at the right and the pagina
 
 As mentioned in the [interface](header-and-footer.md#i-edit-mode) section, the header/footer containers can be split into cells and customized further. Let's first look at creating and managing cells. For cell and container customization, refer to [basic customization](header-and-footer.md#4.-basic-customization).
 
-a) Go to the edit mode by clicking on 'Edit' in the context menu.
+a) Go to the edit mode by clicking on 'Edit' in the context menu. You can also edit the header by clicking on the 'Header & Footer' button in the Design ribbon.
 
-<figure><img src="../../.gitbook/assets/8.2.25 Interactions.png" alt=""><figcaption><p>Edit mode</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 {% hint style="info" %}
 In the Basic interactions section, we have used the example of headers but all of these properties are applicable to footers as well.&#x20;
 {% endhint %}
 
-b) Notice that there are four controls - one on each corner of the container.&#x20;
+b) Notice that there are two controls - one on the side and one at the top of the container.&#x20;
 
-<figure><img src="../../.gitbook/assets/8.2.27 Interactions.png" alt=""><figcaption><p>Container handles</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Controls to split the container</p></figcaption></figure>
 
-c) Hover near any of the controls and you'll see a '+' icon which can be used to split the container. Clicking on the left control will split it and create a cell on the left.&#x20;
+c) Clicking on the control on the side will give options to split the container vertically. To split the container horizontally, click on the control at the bottom.
 
-<figure><img src="../../.gitbook/assets/8.2.28 Interactions.png" alt=""><figcaption><p>Splitting the container</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Splitting the container vertically</p></figcaption></figure>
 
-d) Notice that the existing content is present in the right cell and there is a new cell in the left.
+On selecting 'Split right', notice that the existing content is present in the right cell and there is a new cell on the left.
 
-<figure><img src="../../.gitbook/assets/8.2.29 Interactions.png" alt=""><figcaption><p>New cell created</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Split right</p></figcaption></figure>
 
-e) The container height can be adjusted by hovering on the bottom border and dragging the handle.
+d) The container height can be adjusted by hovering on the bottom border and dragging the handle.
 
-<figure><img src="../../.gitbook/assets/8.2.30 Interactions.png" alt=""><figcaption><p>Increase/decrease container height</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Adjusting the container height</p></figcaption></figure>
 
-f) Cell widths can also be adjusted by dragging the handle that gets enabled on hovering over the cell border.
+e) Cell widths can also be adjusted by dragging the handle that gets enabled on hovering over the cell border.
 
-<figure><img src="../../.gitbook/assets/8.2.31 Interactions.png" alt=""><figcaption><p>Increase/decrease cell width</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Adjusting the width of the cell</p></figcaption></figure>
 
-g) At the top right of each cell, you can see a 'Settings' icon. Clicking on it displays the options shown in the below image.&#x20;
+f) At the top right of each cell, you can see a 'Settings' icon. Clicking on it displays the options shown in the below image.&#x20;
 
 Type - Change the cell to one of the available types - Text, Image, Chart and KPI which are covered in subsequent sections&#x20;
 
@@ -100,9 +100,7 @@ Paste - Paste the contents of another cell
 
 Delete - Delete the cell
 
-Reset - Reset the changes made to the cell
-
-<figure><img src="../../.gitbook/assets/8.2.32 Interactions.png" alt=""><figcaption><p>Context menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Cell settings</p></figcaption></figure>
 
 ## 3. Presets
 
