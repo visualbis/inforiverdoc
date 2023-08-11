@@ -64,7 +64,7 @@ As mentioned in the [interface](header-and-footer.md#i-edit-mode) section, the h
 
 a) Go to the edit mode by clicking on 'Edit' in the context menu. You can also edit the header by clicking on the 'Header & Footer' button in the Design ribbon.
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 {% hint style="info" %}
 In the Basic interactions section, we have used the example of headers but all of these properties are applicable to footers as well.&#x20;
