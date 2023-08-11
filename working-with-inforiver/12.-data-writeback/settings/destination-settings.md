@@ -14,7 +14,7 @@ For demonstration purposes, consider a SQL server destination to which the base 
 
 <figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Count of region-wise data after writeback</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (7) (5) (1).png" alt=""><figcaption><p>Count of subregion-wise data after writeback</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (5).png" alt=""><figcaption><p>Count of subregion-wise data after writeback</p></figcaption></figure>
 
 The filter in writeback settings is changed from "None" to "Exclude Totals and Subtotals":
 
