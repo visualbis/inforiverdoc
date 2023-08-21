@@ -8,25 +8,33 @@ Top N + Others - Overview
 
 In this section, let us see how the Top N feature works in Inforiver.&#x20;
 
-Consider the example of displaying the Top 2 categories based on 2016 Sales.
+Consider the example of displaying the Top 2 categories which generated maximum Revenue.
 
-a) Select the Sales (2016 Sales) column.
+a) Select the Revenue column.
 
-b) In the 'Home' tab of the toolbar, select 'Top n' from the 'Analyze' section. The Top N dialog box appears.
-
-<figure><img src="../../../.gitbook/assets/Top n (1).png" alt=""><figcaption><p>Top N</p></figcaption></figure>
-
-c) Fill in the following to filter the Top 2 categories. Click 'Apply'.
+b) In the 'Home' tab of the toolbar, select 'Top n' from the 'Analyze' section. The Top N dialog box appears. Fill in the details to filter the Top 2 categories. Click 'Apply'.
 
 {% hint style="info" %}
 To show the top 2% of items, just change the selection ‘Value’ to ‘Percentage’.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Top N dialog box.png" alt=""><figcaption><p>Top N dialog box</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption><p>Top N dialog box</p></figcaption></figure>
 
-d) You can see the following Top 2 items along with 'Others'_._ It also indicates how many items are a part of the 'Others' row.
+c) You can see the top 2 categories with the remaining categories grouped under 'Others'_._ It also indicates how many items are a part of the 'Others' row.
 
-<figure><img src="../../../.gitbook/assets/Top 2 subcategories.png" alt=""><figcaption><p>Top 2 categories</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption><p>Others section</p></figcaption></figure>
+
+d) Hover over the 'Others' row to see a preview of the items grouped under Others.  Click on the expand icon to view all the categories that have been classified as Others. This will display all the categories under 'Others' in a separate window.
+
+<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p>Others category details</p></figcaption></figure>
+
+e) To remove a category from the Others group, right click on the category and select the 'Remove from others' options from the menu.
+
+<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption><p>Remove from others option</p></figcaption></figure>
+
+Notice how the selected category has been removed from the 'Others' group.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption><p>Remove from others result</p></figcaption></figure>
 
 ### 1. Nested rules
 

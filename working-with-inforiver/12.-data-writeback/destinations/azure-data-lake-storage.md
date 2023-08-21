@@ -4,7 +4,7 @@ Allows you to configure Azure Data Lake Storage as a destination for Inforiver w
 
 After navigating to the add destination page, log-in using your O365 credentials.
 
-<figure><img src="../../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 After successful log-in, following details will have to be entered,
 
@@ -23,6 +23,6 @@ The writeback creates a Parquet file in the data lake storage.&#x20;
 
 **Security:** Please note Inforiver leverages Azure Access Control Lists (ACLs) while configuring Azure Data Lake Storage as a writeback destination. That means, the user is only shown folders and directories that they have access to as per the defined ACL rules.
 
-<figure><img src="../../../.gitbook/assets/image (40) (1).png" alt=""><figcaption><p>Configuring Azure Data Lake Storage as a writeback destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Configuring Azure Data Lake Storage as a writeback destination</p></figcaption></figure>
 
 ##

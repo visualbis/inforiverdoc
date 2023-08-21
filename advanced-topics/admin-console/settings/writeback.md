@@ -52,7 +52,7 @@ This will open up a 'Confirmation' modal. Click 'Confirm' to permanently delete 
 
 The writeback settings let admins configure various access settings for the users. The admin can configure the following settings:
 
-<figure><img src="../../../.gitbook/assets/image (35) (1).png" alt=""><figcaption><p>Writeback/sync settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Writeback/sync settings</p></figcaption></figure>
 
 #### **i) Allow users to configure database connections**&#x20;
 

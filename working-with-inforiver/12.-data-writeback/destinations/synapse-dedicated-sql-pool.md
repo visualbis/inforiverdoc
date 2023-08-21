@@ -13,6 +13,6 @@ After navigating to the add destination page, the following details will have to
 * Password
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption><p>Configuring Synapse Dedicated SQL Pool as a writeback destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption><p>Configuring Synapse Dedicated SQL Pool as a writeback destination</p></figcaption></figure>
 
 ##

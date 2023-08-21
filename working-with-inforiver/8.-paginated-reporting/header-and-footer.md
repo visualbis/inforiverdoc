@@ -64,7 +64,7 @@ As mentioned in the [interface](header-and-footer.md#i-edit-mode) section, the h
 
 a) Go to the edit mode by clicking on 'Edit' in the context menu. You can also edit the header by clicking on the 'Header & Footer' button in the Design ribbon.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 {% hint style="info" %}
 In the Basic interactions section, we have used the example of headers but all of these properties are applicable to footers as well.&#x20;
@@ -72,23 +72,23 @@ In the Basic interactions section, we have used the example of headers but all o
 
 b) Notice that there are two controls - one on the side and one at the top of the container.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Controls to split the container</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption><p>Controls to split the container</p></figcaption></figure>
 
 c) Clicking on the control on the side will give options to split the container vertically. To split the container horizontally, click on the control at the bottom.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Splitting the container vertically</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Splitting the container vertically</p></figcaption></figure>
 
 On selecting 'Split right', notice that the existing content is present in the right cell and there is a new cell on the left.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Split right</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Split right</p></figcaption></figure>
 
 d) The container height can be adjusted by hovering on the bottom border and dragging the handle.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Adjusting the container height</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (5).png" alt=""><figcaption><p>Adjusting the container height</p></figcaption></figure>
 
 e) Cell widths can also be adjusted by dragging the handle that gets enabled on hovering over the cell border.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Adjusting the width of the cell</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (6).png" alt=""><figcaption><p>Adjusting the width of the cell</p></figcaption></figure>
 
 f) At the top right of each cell, you can see a 'Settings' icon. Clicking on it displays the options shown in the below image.&#x20;
 
@@ -100,7 +100,7 @@ Paste - Paste the contents of another cell
 
 Delete - Delete the cell
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Cell settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (6).png" alt=""><figcaption><p>Cell settings</p></figcaption></figure>
 
 ## 3. Presets
 
