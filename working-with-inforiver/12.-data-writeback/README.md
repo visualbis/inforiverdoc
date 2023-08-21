@@ -28,11 +28,11 @@ You can choose whether to writeback the report alone or to writeback the report 
 
 Clicking on the icon below the Writeback button will show options for writeback.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Writeback options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption><p>Writeback options</p></figcaption></figure>
 
 Selecting 'Writeback All' will open a dialogue box, which lets you choose which scenarios to writeback. If you do not want a particular scenario to be exported - uncheck the box adjacent to the name of that particular scenario.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Writeback all</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (3).png" alt=""><figcaption><p>Writeback all</p></figcaption></figure>
 
 ## 3. Configure Destination
 

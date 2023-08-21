@@ -74,11 +74,11 @@ You can add a layer of abstraction to the report by choosing whether to display 
 
 To hide all the child rows contributing to a parent row, click on the row gripper for the parent row and select the 'Hide icon & children for current row' option from the 'Show/Hide Expand icon' section.
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Hide child nodes in a hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117) (1).png" alt=""><figcaption><p>Hide child nodes in a hierarchy</p></figcaption></figure>
 
 The child rows under the 'TV and Video' level have been hidden.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Hiding child rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118) (1).png" alt=""><figcaption><p>Hiding child rows</p></figcaption></figure>
 
 To reinstate the hidden child rows, select the 'Show icon & children for current row' option from the row gripper context menu.
 

@@ -8,7 +8,7 @@ The following KPI card was created earlier. Let's now create another KPI card fr
 
 <figure><img src="../../../.gitbook/assets/8.5.1 KPI card.png" alt=""><figcaption><p>KPI card inserted using preset</p></figcaption></figure>
 
-a) Hover over the header and click on the '6 dots' icon. Click on 'Edit'.
+a) Hover over the header and go to edit mode by clicking on 'Edit' in the context menu.
 
 <figure><img src="../../../.gitbook/assets/8.5.2 KPI card (1).png" alt=""><figcaption><p>Header &#x26; footer toolbar</p></figcaption></figure>
 
@@ -48,60 +48,48 @@ On clicking 'Invert variance', you can see that the arrow changes to red.
 
 ### iii) Appearance
 
-There are a number of options to customize the appearance of the KPI cards.
+The appearance and styling of KPI cards can be customized by clicking on the Appearance button in the Customize ribbon.
 
 a) Color - The colors for positive and negative values can be chosen using a color picker.
 
-<figure><img src="../../../.gitbook/assets/8.5.9 KPI card.png" alt=""><figcaption><p>Appearance options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Setting the color</p></figcaption></figure>
 
-b) Variance icons can be enabled/disabled. By default, the up/down arrows are used. But these can be customized as shown below. You can also upload custom icons if required.
+b) By default, the up/down arrows are used as variance icons .These can be customized as shown below. You can also upload custom icons if required.
 
-<figure><img src="../../../.gitbook/assets/8.5.10 KPI card.png" alt=""><figcaption><p>Icons</p></figcaption></figure>
-
-c) A 'Variance border' can be applied as shown in the image. A green border is applied in the KPI card since the variance wrt the primary target (2021 Actuals) is positive.&#x20;
-
-<figure><img src="../../../.gitbook/assets/8.5.11 KPI card (1).png" alt=""><figcaption><p>Border</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Variance icons</p></figcaption></figure>
 
 ### iv) Data selection
 
-By default, the grand total value of the first measure is shown. But it can be easily customized.
+By default, the grand total value of the first measure is shown in the KPI card, this can be easily customized. Refer to the [data selection section](charts.md#2.-data-selection) for more options.&#x20;
 
-<figure><img src="../../../.gitbook/assets/8.5.12 KPI card.png" alt=""><figcaption><p>Default data selection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Click on 'Data selection'. Select the cell that you want to display. The value gets reflected.
+### v) Ungroup KPI
 
-<figure><img src="../../../.gitbook/assets/8.5.13 KPI card.png" alt=""><figcaption><p>Updating the data</p></figcaption></figure>
+KPI presets can be further customized using this feature. From the header cell settings, select the ungroup KPI option.
 
-Once you have updated the KPI card value, click on the 'tick mark' icon as highlighted to confirm your selection.
+{% hint style="warning" %}
+Ungrouping cannot be undone, the KPI preset elements will remain separate once ungrouping is applied
+{% endhint %}
 
-<figure><img src="../../../.gitbook/assets/8.5.14 KPI card.png" alt=""><figcaption><p>Confirm selection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (115).png" alt=""><figcaption><p>Ungroup KPI option</p></figcaption></figure>
 
-### v) Show chart
+We can now select each element in the KPI preset and apply a custom style from the floating toolbar. Note that the floating toolbar will appear only on selecting the element.
 
-You can add a chart to your KPI card by clicking on the 'Show chart' option. You can see that a chart gets inserted based on the grand total of the last 2 measures by default.
+<figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption><p>Styling KPI card elements</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/8.5.15 KPI card.png" alt=""><figcaption><p>Adding a chart</p></figcaption></figure>
+Notice how the font and color have been updated for each element in the KPI card.
 
-To edit the chart, click on the 'pencil' icon.
+<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Ungrouping KPI presets</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/8.5.16 KPI card.png" alt=""><figcaption><p>Editing the chart</p></figcaption></figure>
+The toolbar for customizing charts is loaded when the chart element is selected.
 
-The charts customization toolbar gets enabled as shown. Here you can select the data, customize the appearance and more. This is similar to the [chart customization](charts.md) covered in the previous section.
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Chart styling</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/8.5.17 KPI card.png" alt=""><figcaption><p>Charts - Customization options</p></figcaption></figure>
+Styling has been applied to each element.
 
-### vi) Chart height
-
-Once a chart has been added to the KPI card, you can customize the height using the highlighted option.
-
-<figure><img src="../../../.gitbook/assets/8.5.20 KPI card.png" alt=""><figcaption><p>Chart height</p></figcaption></figure>
-
-Once you have customized the KPI cards as required, click on 'Close editor' to close the header editor screen.
-
-<figure><img src="../../../.gitbook/assets/8.5.18 KPI card.png" alt=""><figcaption><p>Closing the header editor</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 You have successfully learnt to add KPI cards using presets and from scratch.&#x20;
-
-<figure><img src="../../../.gitbook/assets/8.5.19 KPI card.png" alt=""><figcaption><p>KPI card with chart</p></figcaption></figure>
 
 In the next section, we'll be covering advanced report layouts using the [Report+](../report-layouts-report+.md) feature.

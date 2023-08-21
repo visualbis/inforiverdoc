@@ -124,7 +124,7 @@ a) **Series** - Displays the name of the series in the scenario
 
 b) **Increase is good** - This toggle is enabled by default. If this is turned on, then the percentage increase will be displayed in green. If this option is disabled, then the increase in value or percentage will be displayed in red.
 
-<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 c) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
 
