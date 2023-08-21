@@ -8,7 +8,7 @@ The writeback settings menu allows the user to configure various settings relate
 
 Clicking on the 'Settings' icon under the 'Export' tab of the toolbar will open up the 'Writeback Settings' pane to the right of the report.
 
-<figure><img src="../../../.gitbook/assets/image (6) (5).png" alt=""><figcaption><p>Writeback Settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Writeback Settings</p></figcaption></figure>
 
 The writeback settings pane has 3 tabs:
 

@@ -84,7 +84,7 @@ Enabling this option will display the 'Home' tab in the toolbar if the report is
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Home' tab.
 
-<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Home tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95) (1).png" alt=""><figcaption><p>Home tab options</p></figcaption></figure>
 
 #### Export tab
 
@@ -100,7 +100,7 @@ Enabling this option will display the 'Scenario' tab in the toolbar if the repor
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Scenario' tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Scenario tab options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94) (1).png" alt=""><figcaption><p>Scenario tab options</p></figcaption></figure>
 
 #### Writeback tab
 
@@ -122,7 +122,7 @@ In this image, the context menu appears on right-click when the report is in the
 
 Inforiver now offers Excel-like floating toolbar in the reading view mode on the selected report elements (row, column, or cell) for improved discoverability of features and improved user experience.
 
-<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption><p>Show floating toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96) (1).png" alt=""><figcaption><p>Show floating toolbar</p></figcaption></figure>
 
 If you enable this option, then on unpinning the toolbar you will get a floating toolbar when the report is in the reading view mode.
 
@@ -142,7 +142,7 @@ If you enable this option, you can easily drag and drop the rows and columns for
 
 Enabling this option will display the toast message in the reading view mode. In the image below, a 'Copied to clipboard' toast message is displayed in the reading mode when the 'Copy to clipboard' option is clicked.
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
 
 #### Sort on click
 
@@ -160,7 +160,7 @@ Enabling this option will display the search icon and search bar at the top of t
 The 'Show search' option is available only if the 'Toolbar' option is set to 'Off' in the 'Reading view access' modal
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
 
 ## 7. Quick access
 

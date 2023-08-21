@@ -48,7 +48,7 @@ You can select this option if you want the applied filters/bookmarks to be expor
 
 You can also [bulk upload](https://app.gitbook.com/o/Bi5mNLq31yHE9Ep9vISb/s/EbkCXCUXmtUq5tcnUtZE/\~/changes/237/working-with-inforiver/11.-scheduling-reports/create-new-subscription/select-destination-s/onedrive#e-bulk-upload) filters and bookmarks in csv format.
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Deliver reports using Teams</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Deliver reports using Teams</p></figcaption></figure>
 
 
 

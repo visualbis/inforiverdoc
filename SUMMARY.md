@@ -171,6 +171,7 @@
     * [RIGHT](formula-syntax/text-formatting-functions/right.md)
     * [TEXT](formula-syntax/text-formatting-functions/text.md)
     * [VALUE](formula-syntax/text-formatting-functions/value.md)
+    * [HYPERLINK](formula-syntax/text-formatting-functions/hyperlink.md)
   * [Identifiers](formula-syntax/identifiers/README.md)
     * [COLUMNS](formula-syntax/identifiers/column.md)
     * [DESCENDANTS](formula-syntax/identifiers/descendants.md)
