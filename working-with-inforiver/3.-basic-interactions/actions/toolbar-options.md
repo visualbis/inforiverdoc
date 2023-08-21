@@ -108,7 +108,7 @@ Enabling this option will display the 'Writeback' tab in the toolbar if the repo
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Writeback' tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Writeback tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93) (1).png" alt=""><figcaption><p>Writeback tab</p></figcaption></figure>
 
 #### Show gripper
 
@@ -160,7 +160,7 @@ Enabling this option will display the search icon and search bar at the top of t
 The 'Show search' option is available only if the 'Toolbar' option is set to 'Off' in the 'Reading view access' modal
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
 
 ## 7. Quick access
 

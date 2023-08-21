@@ -6,7 +6,7 @@ description: Comprehensive and Searchable Writeback Logs
 
 Inforiver offers milestone based tracking as soon as the writeback button is clicked. To view a comprehensive log of an ongoing writeback instance or previous writeback instances, a user shall click "Logs" under the "Export" tab of the Inforiver toolbar. The user could also click "View Log" in the modal that would open upon clicking writeback in order to access the log page.
 
-<figure><img src="../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### i) Writeback log filters
 

@@ -1,5 +1,7 @@
 # 12. Data writeback
 
+## 2. Configure Destination
+
 Inforiver writeback allows a user to export and save a report table to destinations of types including file destinations, data warehouses and data lake storage.&#x20;
 
 Inforiver unlike other BI tools does not require IT overhead in terms of database setup and defining structure of writeback tables in advance. Inforiver instead supports dynamic database configuration and table creation at the run time and performs semi-structured, on-the-fly writeback to more than one destination at a time.
