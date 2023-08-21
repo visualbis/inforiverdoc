@@ -99,7 +99,7 @@ The post processing milestone indicates the events that occurred after processin
 
 Clicking on the name of the destination will display the connection details about the configured writeback destination.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### b) Report &#x20;
 

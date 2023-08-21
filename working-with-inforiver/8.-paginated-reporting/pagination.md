@@ -32,7 +32,7 @@ You can also turn off pagination from the footer. Click on the six-dots icon as 
 
 <figure><img src="../../.gitbook/assets/Pagination.png" alt=""><figcaption><p>Pagination option in footer</p></figcaption></figure>
 
-If you turn on the 'Hide pagination' toggle, pagination is removed and you can see all the rows displayed in the same page along with a scroll.
+If you turn on the 'Hide pagination' toggle, pagination is removed and you can see all the rows displayed on the same page along with a scroll.
 
 <figure><img src="../../.gitbook/assets/hide pg.png" alt=""><figcaption><p>Hide pagination</p></figcaption></figure>
 
@@ -46,21 +46,41 @@ Let's look at the three options one by one.
 
 <figure><img src="../../.gitbook/assets/Page break.png" alt=""><figcaption><p>Page breaks</p></figcaption></figure>
 
-### (i) Row break
+### i) Row break
 
 The 'Row break' option allows you to add a break based on a row hierarchy. To enable the ‘Row break’ option, you need to have at least 2 levels of row hierarchy. All the row hierarchies are listed in the dropdown.&#x20;
 
-<figure><img src="../../.gitbook/assets/Rowbreak.png" alt=""><figcaption><p>Row break</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption><p>Row break</p></figcaption></figure>
+
+* Data-driven row break
 
 Let's insert a row break for ‘Category’. Select 'Category' from the drop-down.
 
-<figure><img src="../../.gitbook/assets/category break.png" alt=""><figcaption><p>Category row break </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption><p>Page break based on category</p></figcaption></figure>
 
 You can now see each category for a region and sub-region on a separate page.
 
-<figure><img src="../../.gitbook/assets/ct break.png" alt=""><figcaption><p>Pagination based on row break</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Pagination based on category</p></figcaption></figure>
 
-### (ii) Column break
+* Custom row breaks
+
+You can override the data-driven options for creating page breaks and insert a page break at any point in the report. This can be accomplished using break rows. Select the row in the report where a page break has to be inserted. From the Insert ribbon, 'Insert Row' dropdown, select the 'Break Row' option.
+
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Insert a break row</p></figcaption></figure>
+
+An empty row is inserted above the selected row. Notice that the break row is greyed out.
+
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Break row inserted</p></figcaption></figure>
+
+Navigate to the Design ribbon. The 'Break rows' option is now enabled in the 'Row Break' dropdown. Select this option to insert page breaks based on break rows.
+
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Page break using break rows</p></figcaption></figure>
+
+Notice that a page break has been created at the specified point in the report and the remaining data has been shifted to the next page.
+
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Page break inserted</p></figcaption></figure>
+
+### ii) Column break
 
 The 'Column break' option allows you to add a break based on column hierarchy. To enable the ‘Column break’ option, you need to add at least one field in 'Columns'.&#x20;
 
@@ -72,7 +92,7 @@ Each quarter is shown on a different page. Since there is no row break applied, 
 
 <figure><img src="../../.gitbook/assets/Quarter break.png" alt=""><figcaption><p>Result</p></figcaption></figure>
 
-### (iii) Section break
+### iii) Section break
 
 The 'Section break' option allows you to split the table into different portions on the same page. The section break is enabled only if&#x20;
 

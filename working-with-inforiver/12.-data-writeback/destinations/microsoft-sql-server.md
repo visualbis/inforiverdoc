@@ -13,4 +13,4 @@ After navigating to the add destination page, the following details will have to
 * Password
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption><p>Configuring Microsoft SQL Server as a writeback destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59) (1).png" alt=""><figcaption><p>Configuring Microsoft SQL Server as a writeback destination</p></figcaption></figure>

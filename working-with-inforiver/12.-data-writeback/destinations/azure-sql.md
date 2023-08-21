@@ -13,6 +13,6 @@ After navigating to the add destination page, the following details will have to
 * Password
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption><p>Configuring Azure SQL Database as a writeback destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55) (1).png" alt=""><figcaption><p>Configuring Azure SQL Database as a writeback destination</p></figcaption></figure>
 
 ##

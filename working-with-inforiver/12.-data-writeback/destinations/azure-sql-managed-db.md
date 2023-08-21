@@ -6,7 +6,7 @@ Allows you to configure a writeback destination in Azure SQL Database that **exi
 
 After navigating to the writeback destination, enter a name for the writeback table.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 After saving the destination, the credentials to access this database will appear on the screen.&#x20;
 

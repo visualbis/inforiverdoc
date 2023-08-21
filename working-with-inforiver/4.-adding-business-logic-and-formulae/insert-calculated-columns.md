@@ -126,11 +126,11 @@ Another indirect approach would be to use IF/nested IF statements to define the 
 
 This feature is a single-click solution to creating signed measures. To invert a particular measure, select it and click on the 'Invert' button in the Insert ribbon.
 
-<figure><img src="../../.gitbook/assets/image (115) (1).png" alt=""><figcaption><p>Invert measure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Invert measure</p></figcaption></figure>
 
 Click on create to insert the new calculated measure .
 
-<figure><img src="../../.gitbook/assets/image (116) (1).png" alt=""><figcaption><p>Inverted measure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Inverted measure</p></figcaption></figure>
 
 We have now learnt how to insert calculated columns/measures in a Power BI matrix or a table report using Inforiver.
 
