@@ -6,70 +6,74 @@ Inforiver’s aggregation feature allows you to override the native Power BI agg
 
 ### 1. Report level
 
-Aggregations such as sum, average, standard deviation, minimum, maximum, and visible rounding can be applied globally for all the measures in the report.
+Aggregations such as sum, average, standard deviation, minimum, maximum, and visible rounding can be applied globally for all the measures in the report.&#x20;
 
-In the 'Insert' tab of the toolbar, click the 'Aggregation' dropdown. You can see a list of aggregation options.&#x20;
+{% hint style="info" %}
+Report level aggregation can be set only when there are more than 3 measures in the report.
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/Aggregation dropdown.png" alt=""><figcaption><p>Aggregation</p></figcaption></figure>
+In the 'Insert' tab of the toolbar, click the 'Aggregation' button. You can see the 'Manage Aggregation' dialog box. To set global aggregation for the report, select the aggregation method from the dropdown for the 'All' element.&#x20;
+
+<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption><p>Manage Aggregation dialog box</p></figcaption></figure>
 
 #### Native
 
-By default, the 'Native' option is applied which follows the native summarization set in Power BI. 2022 Plan is set to Sum in Power BI in this example, hence the rows are summed up.
+By default, the 'Native' option is applied which follows the native summarization set in Power BI.&#x20;
 
-<figure><img src="../.gitbook/assets/Native (1).png" alt=""><figcaption><p>Native aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption><p>Native aggregation at report level</p></figcaption></figure>
 
 #### Sum
 
-'Sum' aggregation displays the sum of the immediate child nodes as the aggregate. In this example, the 'East' subregion is the sum of its immediate child nodes 'Beverages' and 'Water'.
+'Sum' aggregation displays the sum of the immediate child nodes as the aggregate. In the highlighted example, the 'Computers' category is the sum of its immediate child nodes.
 
-<figure><img src="../.gitbook/assets/Sum (2).png" alt=""><figcaption><p>Sum aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption><p>Sum aggregation type at report level</p></figcaption></figure>
 
 #### Minimum
 
-'Minimum' aggregation displays the minimum value of the immediate child node as the aggregate. In the below example, you can see that the 'United States' region displays the minimum value of its immediate child nodes which is 'Midwest'.
+'Minimum' aggregation displays the minimum value of the immediate child node as the aggregate. In the below example, the 'Computers' category displays the minimum value of its immediate child nodes which is 'Computers Accessories'.
 
-<figure><img src="../.gitbook/assets/Minimum.png" alt=""><figcaption><p>Minimum aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption><p>Minimum aggregation type at report level</p></figcaption></figure>
 
 #### Maximum
 
-'Maximum' aggregation displays the maximum value of the immediate child node as the aggregate. In the below image, 'International' displays the maximum value of its immediate child nodes which is 'EMEA'. &#x20;
+'Maximum' aggregation displays the maximum value of the immediate child node as the aggregate. In the below image, the 'Computers' category displays the maximum value of its immediate child nodes which is 'Projectors and Screens'.
 
-<figure><img src="../.gitbook/assets/Max (1).png" alt=""><figcaption><p>Maximum aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption><p>Maximum aggregation type at report level</p></figcaption></figure>
 
 #### Average (Children)
 
-'Average (Children)' aggregation displays the average value of the immediate child nodes as the row aggregation. In the below example, United States is calculated as the average of the immediate child nodes which are the categories.
+'Average (Children)' aggregation displays the average value of the immediate child nodes as the row aggregation. In the below example,  'Computers' category is calculated as the average of the immediate child nodes i.e. the 'SubCategory' field.
 
-<figure><img src="../.gitbook/assets/Average children.png" alt=""><figcaption><p>Average of children</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption><p>Average(children) aggregation type at report level</p></figcaption></figure>
 
 #### Average (Leaf)
 
-'Average (Leaf)' aggregation displays the average value of all the leaf nodes of the row category as the row aggregation. In the below example, United States is calculated as the average of the leaf nodes which are the subcategories.
+'Average (Leaf)' aggregation displays the average value of all the leaf nodes of the row category as the row aggregation. In the below example, 'Computers' is calculated as the average of the leaf nodes i.e. the 'Class' field.
 
-<figure><img src="../.gitbook/assets/Average leaf.png" alt=""><figcaption><p>Average of leaf</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption><p>Average(leaf) aggregation type at report level</p></figcaption></figure>
 
 #### Standard deviation
 
-'Standard deviation' aggregation displays the standard deviation of the child rows as the aggregate. 'Central' sub-region displays the standard deviation of its immediate child nodes 'Beverages' and 'Water'.
+'Standard deviation' aggregation displays the standard deviation of the child rows as the aggregate. In the below example, 'Computers' is calculated as the standard deviation of its immediate child nodes.
 
-<figure><img src="../.gitbook/assets/Std.png" alt=""><figcaption><p>Standard deviation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption><p>Standard Deviation as aggregation type at report level</p></figcaption></figure>
 
 #### Visible rounding
 
 'Visible rounding' aggregation rounds off values in a way that the individual values add up properly to the subtotal' and grand total. This is a very common requirement in external financial statement reporting such as the income statement and balance sheet reporting.
 
-<figure><img src="../.gitbook/assets/Visible.png" alt=""><figcaption><p>Visible rounding</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption><p>Visible Rounding as aggregation type at report level</p></figcaption></figure>
 
 ### 2. Column level
 
 The 'Manage aggregation' option allows you to manage aggregations for specific measures.
 
-a) In the 'Insert' tab of the toolbar, click the 'Aggregation' dropdown and select 'Manage aggregation'.
-
-<figure><img src="../.gitbook/assets/Manage.png" alt=""><figcaption><p>Manage aggregation</p></figcaption></figure>
+a) In the 'Insert' tab of the toolbar, click on the 'Aggregation' button to open the 'Manage Aggregation' dialog box.
 
 {% hint style="info" %}
-Another way to access 'Manage Aggregation' is using 'Manage columns'. Click on 'Manage columns' and then the 'Settings' icon.
+Another way to access 'Manage Aggregation' is by clicking on 'Manage columns' and then the 'Settings' icon.
+
+Alternatively, click on the column gripper and select 'Manage Aggregation' from the Aggregation section of the context menu.
 {% endhint %}
 
 b) A pop-up opens showing a list of measures under the 'Display' section. You can change the aggregation type of multiple measures here.
@@ -91,6 +95,32 @@ Report-level and column-level aggregations are applicable only for the data sour
 e) In the below image, you can see that the aggregation field is disabled for the simulation column. Note that the [row aggregation type](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type) for calculated columns and manual data input columns can be defined here in the 'Manage columns' dialog box in addition to the 'Insert formula' and 'Data input' side panels. &#x20;
 
 <figure><img src="../.gitbook/assets/For.png" alt=""><figcaption><p>Simulation column </p></figcaption></figure>
+
+### 3. Hierarchy level
+
+If your data is hierarchical, Inforiver offers the flexibility to apply row aggregations on a selected branch of the hierarchy, for an entire hierarchy level and different aggregation methods for different levels simultaneously.
+
+#### i) Selected parent row of a hierarchy
+
+The global aggregation set at report level can be overridden and you can apply the required row aggregation method on a parent row. Click on the row gripper for the parent row, from the 'Aggregation' section of the menu, select the aggregation type.
+
+<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption><p>Selecting parent level aggregation</p></figcaption></figure>
+
+Row level aggregation has been set to Minimum for the 'TV and Video' category while the other categories retain the Native Power BI aggregation.
+
+<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption><p>Row level aggregation set to minimum</p></figcaption></figure>
+
+#### ii) Particular level of a hierarchy
+
+To apply a uniform aggregation method to a given level of the hierarchy, from the Insert ribbon, select the 'Aggregation' option from the 'Customize' section. Navigate to the 'Category' tab of the Manage Aggregation dialog box . Notice that we can assign different aggregation methods for different levels of the hierarchy.
+
+<figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption><p>Aggregation types for different levels of the hierarchy</p></figcaption></figure>
+
+The specified aggregation method is set for a specific level of the hierarchy.
+
+<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+
+
 
 In the next section, we'll be covering the[ Invert sign](invert-sign.md) feature.
 
