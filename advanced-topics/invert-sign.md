@@ -66,7 +66,17 @@ c) You can also show positive signs and equals on other data source rows and tot
 
 <figure><img src="../.gitbook/assets/positiv.png" alt=""><figcaption><p>Show positive &#x26; equals</p></figcaption></figure>
 
-### 3. Sign from a source table
+### 3. Measure level
+
+This feature is a single-click solution to creating signed measures. To invert a particular measure, select it and click on the 'Invert' button in the Insert ribbon.
+
+<figure><img src="../.gitbook/assets/InvertMEasure.webp" alt=""><figcaption><p>Invert measure</p></figcaption></figure>
+
+Click on Create to insert the new calculated measure in the report.
+
+<figure><img src="../.gitbook/assets/InvertMEasure2.webp" alt=""><figcaption><p>Inverted measure created in the report</p></figcaption></figure>
+
+### 4. Sign from a source table
 
 Instead of defining positive and negative signs at the report level, you can use the sign conventions from your data source tables. To do this, create a column which assigns values -1, +1 and 0 for negative, positive and totals respectively. A sample table is shown below.
 
