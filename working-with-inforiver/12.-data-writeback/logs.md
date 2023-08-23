@@ -65,13 +65,13 @@ The writeback logs page has the following columns:
 
 This column displays a unique log ID that is used to identify the writeback log. You can sort the ID in ascending or descending order using the up/down arrows respectively.
 
-<figure><img src="../../.gitbook/assets/image (17) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on the writeback ID will open up a page with a detailed summary of the writeback.&#x20;
 
 Clicking the 'General' tab will display a summary of the writeback along with the milestones and their status.
 
-<figure><img src="../../.gitbook/assets/image (19) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 The writeback log summarizes the following milestones:
 

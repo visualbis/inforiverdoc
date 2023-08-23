@@ -55,62 +55,6 @@ In the below image, a numeric column is created by copying the data from '2021 A
 
 <figure><img src="../../../.gitbook/assets/prepopulated-col.png" alt=""><figcaption></figcaption></figure>
 
-### iii) Insert a forecast&#x20;
-
-You can now easily generate rolling forecast series using a range of options. You can copy values from multiple measures for different periods or use the average of the previous 3 closing periods etc.
-
-{% hint style="info" %}
-Assign a 'Date hierarchy' field in the columns for leveraging the time intelligence features available in Inforiver
-{% endhint %}
-
-a) Click the 'Insert a forecast' option to create a new forecast.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Insert a forecast.png" alt=""><figcaption></figcaption></figure>
-
-b) This will open up the 'Forecast' modal with the following options:
-
-<figure><img src="../../../.gitbook/assets/Rolling forecast.png" alt=""><figcaption></figcaption></figure>
-
-c) Enter the title for the forecast and select the forecast period. In this case, we are creating a rolling forecast for April 2023.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Forecast period.png" alt=""><figcaption></figcaption></figure>
-
-(d) You can now see additional fields for the closing period and series to be used as the data source. In this case, we'll select 2023 Actuals as the 'Copy from' series.
-
-<figure><img src="../../../.gitbook/assets/Closing period.png" alt=""><figcaption></figcaption></figure>
-
-(e) The forecast series can be created using a combination of the four types - blank, copy from series, copy from period and average of. Let's configure the average of 2023 Actuals for the period Apr to Jun.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Average of.png" alt=""><figcaption></figcaption></figure>
-
-(f) Once 'Average of' is selected, the 'Configuration' option gets enabled. You can select a range from the closing period.
-
-<figure><img src="../../../.gitbook/assets/config average of.png" alt=""><figcaption></figcaption></figure>
-
-(g) To create a rolling forecast, you need to define the settings for the entire forecast period. Click on 'Add new' to define for the rest of the period July to December.
-
-<figure><img src="../../../.gitbook/assets/Add new (1).png" alt=""><figcaption></figcaption></figure>
-
-(h) By default, the rest of the periods are defined as blank and the 'Add new' option is greyed out.
-
-<figure><img src="../../../.gitbook/assets/Blank series.png" alt=""><figcaption></figcaption></figure>
-
-(i) You can configure as required and click 'Create'.
-
-<figure><img src="../../../.gitbook/assets/Create series.png" alt=""><figcaption></figcaption></figure>
-
-(j) The forecast series gets created as shown.
-
-<figure><img src="../../../.gitbook/assets/Forecast series.png" alt=""><figcaption></figcaption></figure>
-
-(k) To manage the forecast, click on 'Manage' and the 'Pencil' icon.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Manage forecast.png" alt=""><figcaption></figcaption></figure>
-
-(l) To update the forecast period as your monthly actuals get updated in the source data, select the required month in the 'Forecast period' dropdown highlighted.
-
-<figure><img src="../../../.gitbook/assets/Update forecast period.png" alt=""><figcaption></figcaption></figure>
-
 ## 2. Enter a value
 
 To enter a value, double-click a cell and type in the formula bar that opens on the top.&#x20;

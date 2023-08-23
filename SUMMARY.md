@@ -62,6 +62,7 @@
     * [What-if analysis & simulations](working-with-inforiver/4.-adding-business-logic-and-formulae/what-if-analysis-and-simulations.md)
     * [Scenarios (Enterprise only)](working-with-inforiver/7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md)
     * [Budgeting & allocations](working-with-inforiver/4.-adding-business-logic-and-formulae/budgeting-and-allocations.md)
+    * [Forecasting](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting.md)
     * [Set version](working-with-inforiver/4.-adding-business-logic-and-formulae/set-version.md)
   * [8. Paginated reporting](working-with-inforiver/8.-paginated-reporting/README.md)
     * [Pagination](working-with-inforiver/8.-paginated-reporting/pagination.md)

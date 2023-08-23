@@ -8,7 +8,7 @@ This means that if there are users in the workspace that have "Viewer" access, t
 In the Allowed User Controls menu, the Writeback tab is enabled only when there's at least one destination configured and the user has necessary permissions for writeback.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (19) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
 Inforiver displays the following options for users in reading view and also have writeback access.&#x20;
 

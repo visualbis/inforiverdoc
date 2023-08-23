@@ -6,29 +6,29 @@ In the header and footer, you can add all the inline charts such as sparklines, 
 
 a) Click on 'Header & footer' in the 'Design' tab.
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131) (1).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 b) Choose 'Chart' from the 'Type' option.
 
-<figure><img src="../../../.gitbook/assets/image (126).png" alt=""><figcaption><p>Choosing the chart element</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (126) (1).png" alt=""><figcaption><p>Choosing the chart element</p></figcaption></figure>
 
 c) By default, a donut chart gets inserted based on the data fields added to the report. Here we have a donut chart for the 4 quarters.
 
-<figure><img src="../../../.gitbook/assets/image (124).png" alt=""><figcaption><p>Default chart gets inserted</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (124) (1).png" alt=""><figcaption><p>Default chart gets inserted</p></figcaption></figure>
 
 d) You can see the customization options present in the 'Customize' tab. Appearance and Legend config are covered in [customization options](charts.md#4.-customization-options).
 
-<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption><p>Customization options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (135) (1).png" alt=""><figcaption><p>Customization options</p></figcaption></figure>
 
 ## 2. Data selection
 
 Note that by default, the table is greyed out as shown in the image.
 
-<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption><p>Table is greyed out</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (137) (1).png" alt=""><figcaption><p>Table is greyed out</p></figcaption></figure>
 
 On hovering over the chart, the  data selection button appears.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption><p>Change data icon</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (130) (1).png" alt=""><figcaption><p>Change data icon</p></figcaption></figure>
 
 Click on the change data symbol to open the 'Data Selection' dialog box. The data source used to render the chart can be set using the methods listed below:
 
@@ -50,13 +50,13 @@ Click on the change data symbol to open the 'Data Selection' dialog box. The dat
 Click on the 'Clear' link to reset and remove all the selected rows
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption><p>Choosing rows to render the chart</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (129) (1).png" alt=""><figcaption><p>Choosing rows to render the chart</p></figcaption></figure>
 
 3. After clicking on 'OK', the selected categories are displayed in the Data Selection dialog box. Click on 'Create' to render the chart.&#x20;
 
 Notice that the rows that are used as data source for the chart have been highlighted.
 
-<figure><img src="../../../.gitbook/assets/image (125).png" alt=""><figcaption><p>Chart rendered using row level data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (125) (1).png" alt=""><figcaption><p>Chart rendered using row level data</p></figcaption></figure>
 
 ### **b)  Data from columns**
 
@@ -70,7 +70,7 @@ Notice that the rows that are used as data source for the chart have been highli
 Click on 'Clear' to reset and remove the columns that have been selected.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Columns and measures selected to render the chart</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (132) (1).png" alt=""><figcaption><p>Columns and measures selected to render the chart</p></figcaption></figure>
 
 After clicking on 'OK', the columns that are selected are displayed in the Data Selection dialog box. Click on 'Create' to render the chart.
 
@@ -132,17 +132,17 @@ Most of the customization options are already covered in [working with charts](.
 
 By default, the legend is shown on the right of the chart, you can change the position to the left or turn it off. To change the legend, click on the 'Legend config' button in the Customize ribbon.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Legend config for header charts</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (140) (1).png" alt=""><figcaption><p>Legend config for header charts</p></figcaption></figure>
 
 When the legend is turned off, the chart will be rendered as shown in the image below.
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Legend disabled</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141) (1).png" alt=""><figcaption><p>Legend disabled</p></figcaption></figure>
 
 ### b) Styling donut chart
 
 The appearance of the donut chart can be customized by clicking on the 'Appearance' option. You can see the dialog box shown in the image where you can select the color for each arc, arc size and apply a gradient.
 
-<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Appearance customizations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142) (1).png" alt=""><figcaption><p>Appearance customizations</p></figcaption></figure>
 
 * When a **gradient** is applied, you can select the gradient color and the chart gets updated as shown.
 
