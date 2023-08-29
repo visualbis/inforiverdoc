@@ -124,7 +124,7 @@ a) **Series** - Displays the name of the series in the scenario
 
 b) **Increase is good** - This toggle is enabled by default. If this is turned on, then the percentage increase will be displayed in green. If this option is disabled, then the increase in value or percentage will be displayed in red.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 c) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
 
@@ -138,7 +138,7 @@ In the below scenario, the measure 2023 Forecast is created by[ adding a new mea
 
 On selecting Copy to Base, a dialog box opens up which contains the list of columns that will be exported.
 
-<figure><img src="../../.gitbook/assets/image (28) (2) (1).png" alt=""><figcaption><p>Copy to Base Modal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (2).png" alt=""><figcaption><p>Copy to Base Modal</p></figcaption></figure>
 
 
 
@@ -150,6 +150,6 @@ On selecting Copy to Base, a dialog box opens up which contains the list of colu
 
 To edit, delete or duplicate a scenario - click on the additional options menu icon that appears on hovering over the name of the scenario and select the relevant option.
 
-<figure><img src="../../.gitbook/assets/image (17) (2) (2).png" alt=""><figcaption><p>Copy to Base</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Copy to Base</p></figcaption></figure>
 
 &#x20;In the next section, we'll look at [budgeting and allocations](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md).

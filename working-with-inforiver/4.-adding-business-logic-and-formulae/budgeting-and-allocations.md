@@ -152,13 +152,13 @@ The entire row is now greyed out, indicating that it is locked and updates are d
 
 In order to lock multiple cells, ctrl + click the required cells. Click on the lock icon and select Lock selected cells from the drop-down.
 
-<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>Lock Selected Cells</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3) (1).png" alt=""><figcaption><p>Lock Selected Cells</p></figcaption></figure>
 
 
 
 The cells that are locked are highlighted:
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (2).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
 
 ### v) Unlock
 
@@ -184,7 +184,7 @@ e) To unlock a row when measure in rows in enabled, click on the row gripper and
 
 f) To unlock multiple cells, ctrl + click the cells and click on Unlock selected cells.
 
-<figure><img src="../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption><p>Unlock selected cells</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3) (2).png" alt=""><figcaption><p>Unlock selected cells</p></figcaption></figure>
 
 ## 4. Edit period values
 

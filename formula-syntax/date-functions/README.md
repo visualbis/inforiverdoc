@@ -1,0 +1,6 @@
+# Date Functions
+
+
+
+<table><thead><tr><th width="264">NAME</th><th>DESCRIPTION</th></tr></thead><tbody><tr><td><a href="dateadd.md">DATEADD</a></td><td>Adds a specified number of days to the input date</td></tr><tr><td><a href="datediff.md">DATEDIFF</a></td><td>Returns the number of days between two input dates</td></tr><tr><td><a href="day.md">DAY</a></td><td>Extracts the day of the month from an input date</td></tr><tr><td><a href="date.set.md">DATE.SET</a></td><td>Returns a date after changing the format</td></tr><tr><td><a href="eomonth.md">EOMONTH</a></td><td>Returns a date specifying the last day of the month</td></tr><tr><td><a href="fromexceldate.md">FROMEXCELDATE</a></td><td>Converts an input date to a excel format date serial number</td></tr><tr><td><a href="month.md">MONTH</a></td><td>Extracts the month from an input date</td></tr><tr><td><a href="now.md">NOW</a></td><td>Returns the current date and timestamp</td></tr><tr><td><a href="today.md">TODAY</a></td><td>Returns the current date</td></tr><tr><td><a href="toexceldate.md">TOEXCELDATE </a></td><td>Converts an excel recognized serial number to the equivalent date</td></tr><tr><td><a href="year.md">YEAR</a></td><td>Extracts the year from an input date</td></tr></tbody></table>
+

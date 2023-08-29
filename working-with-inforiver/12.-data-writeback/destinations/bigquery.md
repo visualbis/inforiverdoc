@@ -16,5 +16,5 @@ If the tenant administrator creates a connection at admin level, the Dataset ID 
 
 &#x20;For more information regarding setting up BigQuery destinations, refer to the help section at the top left of the page:
 
-<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption><p>BigQuery writeback</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>BigQuery writeback</p></figcaption></figure>
 

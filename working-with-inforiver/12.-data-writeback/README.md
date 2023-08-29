@@ -32,7 +32,7 @@ Clicking on the icon below the Writeback button will show options for writeback.
 
 Selecting 'Writeback All' will open a dialogue box, which lets you choose which scenarios to writeback. If you do not want a particular scenario to be exported - uncheck the box adjacent to the name of that particular scenario.
 
-<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>Writeback all</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (3) (1).png" alt=""><figcaption><p>Writeback all</p></figcaption></figure>
 
 ## 3. Configure Destination
 

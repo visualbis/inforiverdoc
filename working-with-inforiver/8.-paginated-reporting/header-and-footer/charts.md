@@ -146,7 +146,7 @@ The appearance of the donut chart can be customized by clicking on the 'Appearan
 
 * When a **gradient** is applied, you can select the gradient color and the chart gets updated as shown.
 
-<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption><p>Gradient applied</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143) (1).png" alt=""><figcaption><p>Gradient applied</p></figcaption></figure>
 
 * When there are more than 5 categories selected, the '**Enable others**' option is activated. Note that even though six regions were selected, only five are displayed in the chart. When the 'Enable others' property is set, you can see a segment in the donut called 'Others' which visualizes the sum of the values apart from the top 5 categories. That is, if there are 10 categories added, the last 5 categories will be consolidated and shown as 'Others'.
 
