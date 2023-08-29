@@ -27,6 +27,7 @@
     * [Create visual hierarchies](working-with-inforiver/3.-basic-interactions/create-visual-hierarchies.md)
     * [Pin rows & columns](working-with-inforiver/3.-basic-interactions/pin-rows-and-columns.md)
     * [Blend measures](working-with-inforiver/3.-basic-interactions/blend-measures.md)
+    * [Dynamic measure headers](working-with-inforiver/3.-basic-interactions/dynamic-measure-headers.md)
     * [Actions](working-with-inforiver/3.-basic-interactions/actions/README.md)
       * [Rails](working-with-inforiver/3.-basic-interactions/actions/rails.md)
       * [Toolbar options](working-with-inforiver/3.-basic-interactions/actions/toolbar-options.md)

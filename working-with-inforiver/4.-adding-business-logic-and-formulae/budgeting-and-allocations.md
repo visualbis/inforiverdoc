@@ -146,7 +146,7 @@ After creating a new measure titled 2023 Budget, click on the row gripper and se
 
 The entire row is now greyed out, indicating that it is locked and updates are disabled:
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Row locked for editing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Row locked for editing</p></figcaption></figure>
 
 ### iv) Lock multiple cells
 

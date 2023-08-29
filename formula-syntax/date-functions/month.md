@@ -24,4 +24,4 @@ MONTH('3/21/2023')
 
 Returns 3.
 
-<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption><p>Month function</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179) (1).png" alt=""><figcaption><p>Month function</p></figcaption></figure>
