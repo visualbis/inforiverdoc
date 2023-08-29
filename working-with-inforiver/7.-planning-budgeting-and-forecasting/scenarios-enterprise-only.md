@@ -144,7 +144,7 @@ On selecting Copy to Base, a dialog box opens up which contains the list of colu
 
 &#x20;On clicking on the Proceed button, the simulations in the scenario for 2023 Forecast have now been updated in the report.
 
-<figure><img src="../../.gitbook/assets/image (19) (2) (1).png" alt=""><figcaption><p>Report with values set up in a scenario</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Report with values set up in a scenario</p></figcaption></figure>
 
 ### vii) Edit/duplicate/delete
 

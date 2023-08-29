@@ -52,17 +52,17 @@ The appearance and styling of KPI cards can be customized by clicking on the App
 
 a) Color - The colors for positive and negative values can be chosen using a color picker.
 
-<figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption><p>Setting the color</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (172) (1).png" alt=""><figcaption><p>Setting the color</p></figcaption></figure>
 
 b) By default, the up/down arrows are used as variance icons .These can be customized as shown below. You can also upload custom icons if required.
 
-<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Variance icons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (173) (1).png" alt=""><figcaption><p>Variance icons</p></figcaption></figure>
 
 ### iv) Data selection
 
 By default, the grand total value of the first measure is shown in the KPI card, this can be easily customized. Refer to the [data selection section](charts.md#2.-data-selection) for more options.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (174) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### v) Ungroup KPI
 
@@ -72,23 +72,23 @@ KPI presets can be further customized using this feature. From the header cell s
 Ungrouping cannot be undone, the KPI preset elements will remain separate once ungrouping is applied
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (177).png" alt=""><figcaption><p>Ungroup KPI option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (177) (1).png" alt=""><figcaption><p>Ungroup KPI option</p></figcaption></figure>
 
 We can now select each element in the KPI preset and apply a custom style from the floating toolbar. Note that the floating toolbar will appear only on selecting the element.
 
-<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Styling KPI card elements</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (178) (1).png" alt=""><figcaption><p>Styling KPI card elements</p></figcaption></figure>
 
 Notice how the font and color have been updated for each element in the KPI card.
 
-<figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption><p>Ungrouping KPI presets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (179) (1).png" alt=""><figcaption><p>Ungrouping KPI presets</p></figcaption></figure>
 
 The toolbar for customizing charts is loaded when the chart element is selected.
 
-<figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption><p>Chart styling</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (175) (1).png" alt=""><figcaption><p>Chart styling</p></figcaption></figure>
 
 Styling has been applied to each element.
 
-<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (176) (1).png" alt=""><figcaption></figcaption></figure>
 
 You have successfully learnt to add KPI cards using presets and from scratch.&#x20;
 

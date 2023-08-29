@@ -24,7 +24,7 @@ Click the 'Clear all' link to clear or reset all the entered filter/bookmarks an
 
 You can also [bulk upload](./#bulk-upload) a CSV file of filters and bookmarks based on recipients' emails by clicking on the 'Bulk upload' option.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (5) (5).png" alt=""><figcaption><p>Bulk Upload</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Bulk Upload</p></figcaption></figure>
 
 ### **d) Download filters bookmark**
 

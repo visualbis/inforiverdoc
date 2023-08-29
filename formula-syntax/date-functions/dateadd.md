@@ -26,4 +26,4 @@ DATEADD('8/2/2023',5)
 
 Returns 7/8/2023.
 
-<figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>

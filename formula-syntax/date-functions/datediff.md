@@ -26,4 +26,4 @@ datediff('8/16/2023', '8/2/2023')
 
 Returns 14.
 
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>

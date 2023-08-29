@@ -18,15 +18,15 @@ b) In the 'Home' tab of the toolbar, select 'Top n' from the 'Analyze' section. 
 To show the top 2% of items, just change the selection ‘Value’ to ‘Percentage’.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption><p>Top N dialog box</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (169) (1).png" alt=""><figcaption><p>Top N dialog box</p></figcaption></figure>
 
 c) You can see the top 2 categories with the remaining categories grouped under 'Others'_._ It also indicates how many items are a part of the 'Others' row.
 
-<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption><p>Others section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (170) (1).png" alt=""><figcaption><p>Others section</p></figcaption></figure>
 
 d) Hover over the 'Others' row to see a preview of the items grouped under Others.  Click on the expand icon to view all the categories that have been classified as Others. This will display all the categories under 'Others' in a separate window.
 
-<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p>Others category details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (171) (1).png" alt=""><figcaption><p>Others category details</p></figcaption></figure>
 
 e) To remove a category from the Others group, right click on the category and select the 'Remove from others' options from the menu.
 

@@ -30,7 +30,7 @@ Reset will overwrite data in all configured destinations.&#x20;
 
 Since the filter has been changed to "Exclude Totals and Subtotals", notice that the rows with  value "All" for Region and subRegion have been removed after Reset:
 
-<figure><img src="../../../.gitbook/assets/image (10) (4).png" alt=""><figcaption><p>Count of region-wise data after reset</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (4) (1).png" alt=""><figcaption><p>Count of region-wise data after reset</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (28) (3).png" alt=""><figcaption><p>Count of subregion-wise data after reset</p></figcaption></figure>
 

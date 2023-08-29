@@ -162,6 +162,7 @@
     * [RAND](formula-syntax/math-functions/rand.md)
     * [RANDBETWEEN](formula-syntax/math-functions/randbetween.md)
     * [ROUND](formula-syntax/math-functions/round.md)
+    * [SORT](formula-syntax/math-functions/sort.md)
     * [SQRT](formula-syntax/math-functions/sqrt.md)
     * [SUM](formula-syntax/math-functions/sum.md)
     * [PMT](formula-syntax/math-functions/pmt.md)
