@@ -80,7 +80,7 @@ c) Clicking on the control on the side will give options to split the container 
 
 On selecting 'Split right', notice that the existing content is present in the right cell and there is a new cell on the left.
 
-<figure><img src="../../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption><p>Split right</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Split right</p></figcaption></figure>
 
 d) The container height can be adjusted by hovering on the bottom border and dragging the handle.
 

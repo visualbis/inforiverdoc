@@ -80,11 +80,11 @@ In the below image, data input is allowed only if (2022 Actuals - 2022 Plan)% < 
 
 Inforiver enterprise allows setting explicit read/write access on data input columns for specific users. To set user access control, open the Manage Columns menu and click on the user icon.
 
-<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption><p>Data input access</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption><p>Data input access</p></figcaption></figure>
 
 In the Data Input Access dialog box, you can assign access to users for each column or measure.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption><p>Setting user access for data input columns or measures</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption><p>Setting user access for data input columns or measures</p></figcaption></figure>
 
 ## 4. FAQs
 

@@ -26,4 +26,4 @@ DATE.SET('03/01/2023', 'YYYYMMDD')
 
 Returns 20230301.
 
-<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption><p>DATE.SET function</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176) (1).png" alt=""><figcaption><p>DATE.SET function</p></figcaption></figure>

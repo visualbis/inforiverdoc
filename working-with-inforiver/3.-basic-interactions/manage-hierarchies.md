@@ -8,7 +8,7 @@ Currently, in a native Power BI matrix, you cannot expand or collapse columns fr
 
 In this example, the hierarchy in rows is Region -> Sub Region -> Category -> Sub Category.
 
-You can expand/collapse **individual rows** using the expand/collapse icons![](<../../.gitbook/assets/image (2) (3).png>). In the image below, you can see that International is fully expanded to the last level, while EMEA and United States remain collapsed.&#x20;
+You can expand/collapse **individual rows** using the expand/collapse icons![](<../../.gitbook/assets/image (2) (3) (1).png>). In the image below, you can see that International is fully expanded to the last level, while EMEA and United States remain collapsed.&#x20;
 
 <figure><img src="../../.gitbook/assets/RowHierarchy.png" alt=""><figcaption><p>Row hierarchy</p></figcaption></figure>
 
@@ -74,29 +74,29 @@ You can add a layer of abstraction to the report by choosing whether to display 
 
 To hide all the child rows contributing to a parent row, click on the row gripper for the parent row and select the 'Hide icon & children for current row' option from the 'Show/Hide Expand icon' section.
 
-<figure><img src="../../.gitbook/assets/image (117) (1).png" alt=""><figcaption><p>Hide child nodes in a hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Hide child nodes in a hierarchy</p></figcaption></figure>
 
 The child rows under the 'TV and Video' level have been hidden.
 
-<figure><img src="../../.gitbook/assets/image (118) (1).png" alt=""><figcaption><p>Hiding child rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Hiding child rows</p></figcaption></figure>
 
 To reinstate the hidden child rows, select the 'Show icon & children for current row' option from the row gripper context menu.
 
-<figure><img src="../../.gitbook/assets/image (119) (1).png" alt=""><figcaption><p>Reinstating hidden rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Reinstating hidden rows</p></figcaption></figure>
 
 #### ii. Disabling expand/collapse for levels in the hierarchy
 
 You can also prevent users from expanding and collapsing the hierarchy by hiding the expand icon. This can be achieved by clicking on the row gripper for the parent node and selecting the 'Hide icon for level' option from the 'Show/Hide Expand icon' section.
 
-<figure><img src="../../.gitbook/assets/image (120) (1).png" alt=""><figcaption><p>Hide icon for level</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Hide icon for level</p></figcaption></figure>
 
 Notice how the expand icon has been removed for the hierarchy.
 
-<figure><img src="../../.gitbook/assets/image (121) (1).png" alt=""><figcaption><p>Hierarchy in expanded state</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Hierarchy in expanded state</p></figcaption></figure>
 
 To reinstate the icon, select the 'Show icon for level' option from the row gripper context menu.
 
-<figure><img src="../../.gitbook/assets/image (122) (1).png" alt=""><figcaption><p>Expand icon is enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Expand icon is enabled</p></figcaption></figure>
 
 ## 2. Column hierarchies
 

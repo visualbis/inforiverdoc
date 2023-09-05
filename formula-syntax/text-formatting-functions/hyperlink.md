@@ -1,6 +1,6 @@
 # HYPERLINK
 
-The HYPERLINK function returns hyperlinked text which will navigate to a given URL.&#x20;
+The HYPERLINK function returns hyperlinked text which will navigate to a given URL. Node references are also accepted as arguments.
 
 ## Syntax
 

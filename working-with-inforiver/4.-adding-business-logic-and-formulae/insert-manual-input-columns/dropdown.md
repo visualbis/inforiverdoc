@@ -101,15 +101,15 @@ The data input side panel opens up. You can make the changes as desired.
 
 If a particular item is not available in the presets or data source, you can create a new option while configuring a list of values. In the example below, the available values are ‘Submitted’, ‘In Review’, and ‘Approved’.
 
-<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (140) (1).png" alt=""><figcaption></figcaption></figure>
 
 To add a new value of ‘Rejected’, type the new value in the search bar and click on the ‘Create’ button.
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Adding a new value to a LOV</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141) (1).png" alt=""><figcaption><p>Adding a new value to a LOV</p></figcaption></figure>
 
 The new value gets added to the list.
 
-<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>New value added to the LOV</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142) (1).png" alt=""><figcaption><p>New value added to the LOV</p></figcaption></figure>
 
 
 

@@ -24,4 +24,4 @@ DAY('8/2/2023')
 
 Returns 2.
 
-<figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption><p>Day function</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (177) (1).png" alt=""><figcaption><p>Day function</p></figcaption></figure>

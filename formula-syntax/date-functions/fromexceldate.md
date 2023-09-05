@@ -24,4 +24,4 @@ fromexceldate(39457)
 
 Returns 10/1/2008.
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption><p>Fromexceldate function</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (165) (1).png" alt=""><figcaption><p>Fromexceldate function</p></figcaption></figure>

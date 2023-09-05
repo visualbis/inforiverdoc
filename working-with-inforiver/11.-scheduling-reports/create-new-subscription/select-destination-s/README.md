@@ -50,7 +50,7 @@ Once you select the bookmark option, the second drop-down gets populated with al
 
 You can also bulk upload a CSV file containing the filters and bookmarks applied on the report. Click the 'Bulk upload' option. This will open up the bulk upload modal as shown in the image below.
 
-<figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Bulk upload option</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (3).png" alt=""><figcaption><p>Bulk upload option</p></figcaption></figure>
 
 \
 Click the 'Upload' button or drag and drop to upload the CSV file with the recipient's details.
@@ -76,7 +76,7 @@ The image below displays the structure of the download sample CSV file for Email
 
 The image below displays the structure of the download sample CSV file for OneDrive/Teams/SharePoint:
 
-<figure><img src="../../../../.gitbook/assets/image (10) (3).png" alt=""><figcaption><p>Sample csv file for non-email destinations</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Sample csv file for non-email destinations</p></figcaption></figure>
 
 
 

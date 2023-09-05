@@ -24,4 +24,4 @@ YEAR('3/21/2023')
 
 Returns 2023.
 
-<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption><p>Year function</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (166) (1).png" alt=""><figcaption><p>Year function</p></figcaption></figure>
