@@ -76,7 +76,17 @@ In the below image, data input is allowed only if (2022 Actuals - 2022 Plan)% < 
 
 <figure><img src="../../.gitbook/assets/4.4.14(2) formula.png" alt=""><figcaption><p>Allow input based on formula</p></figcaption></figure>
 
-## 3. FAQs
+## 3. Access control
+
+Inforiver enterprise allows setting explicit read/write access on data input columns for specific users. To set user access control, open the Manage Columns menu and click on the user icon.
+
+<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption><p>Data input access</p></figcaption></figure>
+
+In the Data Input Access dialog box, you can assign access to users for each column or measure.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption><p>Setting user access for data input columns or measures</p></figcaption></figure>
+
+## 4. FAQs
 
 #### 1) Can multiple users enter data in a single published report?
 

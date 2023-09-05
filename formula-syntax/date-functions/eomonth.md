@@ -26,4 +26,4 @@ EOMONTH('8/15/2023', 3)
 
 Returns 30/11/2023.
 
-<figure><img src="../../.gitbook/assets/image (173) (1).png" alt=""><figcaption><p>EOMONTH</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption><p>EOMONTH</p></figcaption></figure>
