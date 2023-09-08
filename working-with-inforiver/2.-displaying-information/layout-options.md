@@ -60,6 +60,10 @@ When you change this to 'In rows', the measures are displayed as shown below.&#x
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-measures-in-rows.png" alt=""><figcaption><p>Measure in rows</p></figcaption></figure>
 
+To re-order rows while using Measure in rows layout, you can click on row gripper and drag the rows to be re-ordered. Another way to do this is via the ‘Manage rows’ popup screen. Click on the gripper and drag and drop the measures as desired.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Re-ordering rows using Manage Rows</p></figcaption></figure>
+
 ### b. In columns
 
 When you change this to 'In columns', the measures are displayed above the column hierarchy categories.&#x20;
