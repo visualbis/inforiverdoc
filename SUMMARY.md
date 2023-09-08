@@ -42,6 +42,7 @@
       * [Dropdown](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/dropdown.md)
       * [Text, checkbox & date](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/text-checkbox-and-date.md)
       * [Enterprise features](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/enterprise-features.md)
+    * [Insert image URLs](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-image-urls.md)
     * [Quick formula](working-with-inforiver/4.-adding-business-logic-and-formulae/quick-formula.md)
     * [Manage inserted rows & columns](working-with-inforiver/4.-adding-business-logic-and-formulae/manage-inserted-rows-and-columns.md)
   * [6. Working with charts](working-with-inforiver/6.-working-with-charts.md)
