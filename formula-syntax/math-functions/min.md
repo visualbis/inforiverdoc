@@ -4,9 +4,8 @@ The MIN function returns the smallest number in a set of values. Node references
 
 ## Syntax
 
-```javascript
-min (value1,[value2]....)
-```
+<pre class="language-javascript"><code class="lang-javascript"><strong>min (value1,[value2]....)
+</strong></code></pre>
 
 ## Arguments
 
