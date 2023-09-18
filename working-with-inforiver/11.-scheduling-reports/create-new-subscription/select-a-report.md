@@ -55,7 +55,7 @@ You can learn more about row-level security and how to define user roles and rul
 
 You can create subscriptions based on the Report+ categories.  In this report, we have two categories - Beverages and Water. The records corresponding to these categories can be sent to different email IDs.&#x20;
 
-You can learn more about Report+ [here](https://docs.inforiver.com/inforiver/working-with-inforiver/8.-paginated-reporting/report-layouts-report+).
+You can learn more about Report+ [here](../../8.-paginated-reporting/report-layouts-report+.md).
 
 <figure><img src="../../../.gitbook/assets/reportplus.png" alt=""><figcaption><p>Report plus view</p></figcaption></figure>
 
