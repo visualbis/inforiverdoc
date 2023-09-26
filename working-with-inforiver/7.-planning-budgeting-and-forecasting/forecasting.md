@@ -1,6 +1,6 @@
 # Forecasting
 
-With Inforiver, you can easily generate a rolling forecast using methods like period range, average of period range etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features as well.&#x20;
+With Inforiver, you can easily generate a rolling forecast and use methods like period range, average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features as well.&#x20;
 
 ## 1. Forecast settings
 
@@ -127,14 +127,76 @@ Once the actual monthly data is available for a particular forecasted month, the
 
 <figure><img src="../../.gitbook/assets/image (136) (1).png" alt=""><figcaption></figcaption></figure>
 
-To roll over the forecast start period from August to September, in the Insert ribbon, click on 'Manage Measures'. In the 'Inserted Columns' side pane, select the forecast measure and click on the edit icon.
+To roll over the forecast start period from August to September, in the Insert ribbon, click on _Manage Measures_. In the 'Inserted Columns' side pane, select the forecast measure and click on the edit icon.
 
 <figure><img src="../../.gitbook/assets/image (137) (1).png" alt=""><figcaption><p>Editing the forecast measure</p></figcaption></figure>
 
-In the Data Input side pane, select September from the dropdown.
+In the Data Input side pane, select September from the _Forecast Period_ dropdown and click on the Update button.
 
-<figure><img src="../../.gitbook/assets/image (138) (1).png" alt=""><figcaption><p>Month roll-over</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 Notice how the Sales and Revenue measures are now available for August and the forecast starts from September onwards.
 
 <figure><img src="../../.gitbook/assets/image (139) (1).png" alt=""><figcaption></figcaption></figure>
+
+## 5. Re-forecasting
+
+After creating a forecast, you can easily re-forecast your data using Inforiver. To edit the forecast, click on _Manage Measures_ in the Insert ribbon. In the 'Inserted Columns' side pane,  click on the edit icon against the forecast measure.
+
+<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption><p>Editing the forecast</p></figcaption></figure>
+
+Click on the Update link against the _Open Forecast Values_ option.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption><p>Update forecast</p></figcaption></figure>
+
+The Update Forecast dialog box opens - you can smoothly re-forecast your data from here.
+
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption><p>Re-forecast configuration</p></figcaption></figure>
+
+## 6. Extending the forecast period
+
+Consider that a forecast has been created from September to December 2023. If you need to extend the forecast to 2024, first, the time frame needs to be updated in _Forecast Settings_. Click on _Manage Measures_ in the Insert ribbon and navigate to the Settings tab. Click on the Manage link against _Forecast Settings._
+
+<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption><p>Extending the forecast period</p></figcaption></figure>
+
+After the forecast period has been extended, follow the steps outlined in the [Re-forecasting](forecasting.md#5.-re-forecasting) section to configure the forecast.
+
+<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+
+## 7. Forecast customizations
+
+Inforiver offers a variety of customizations that can be applied once the forecast is created.&#x20;
+
+#### 1. Forecast grand total
+
+If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the _Total Display_ section.
+
+<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption><p>Total Display</p></figcaption></figure>
+
+**a) All Periods:** The grand total forecast will be the aggregate of the forecasts for open and closed periods.
+
+<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption><p>All Periods</p></figcaption></figure>
+
+
+
+**b) Open Periods:** The grand total forecast will be the aggregate of the forecasts for open periods only.
+
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption><p>Open Periods</p></figcaption></figure>
+
+
+
+**c) Closed Periods:** The grand total forecast will be the aggregate of the forecasts for closed periods only.
+
+<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption><p>Closed Periods</p></figcaption></figure>
+
+#### 2. Show or hide closed periods
+
+You can choose whether to display the forecasts for closed periods. To mask the forecast for closed periods, click on any forecast that is generated for closed periods, click on the _Show/Hide_ icon, and choose _Hide closed periods._
+
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption><p>Show/Hide forecasts</p></figcaption></figure>
+
+The forecast for the closed period is hidden as shown in the image below.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption><p>Hide forecast for closed period</p></figcaption></figure>
+
+To un-hide the forecasts for closed periods, click on any measure belonging to the closed period, click on the _Show/Hide_ icon, and select _Show closed periods_.
