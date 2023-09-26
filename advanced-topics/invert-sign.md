@@ -68,6 +68,8 @@ c) You can also show positive signs and equals on other data source rows and tot
 
 ### 3. Measure level
 
+a) Create a new signed measure
+
 This feature is a single-click solution to creating signed measures. To invert a particular measure, select it and click on the 'Invert' button in the Insert ribbon.
 
 <figure><img src="../.gitbook/assets/InvertMEasure.webp" alt=""><figcaption><p>Invert measure</p></figcaption></figure>
@@ -76,9 +78,19 @@ Click on Create to insert the new calculated measure in the report.
 
 <figure><img src="../.gitbook/assets/InvertMEasure2.webp" alt=""><figcaption><p>Inverted measure created in the report</p></figcaption></figure>
 
+b) Invert sign for individual measures
+
+You can change the sign for a single measure at both child and parent levels. For a given row, select any cell and click on the ‘Invert’ button. Notice how the sign for the Discount measure has been flipped in the example below.&#x20;
+
+<figure><img src="../.gitbook/assets/3.1. Invert measure.png" alt=""><figcaption><p>Invert sign</p></figcaption></figure>
+
+When hierarchical data is involved, you can also change the sign for a particular measure at the parent level, this will be cascaded to all the child rows.
+
+<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption><p>Invert measure for parent rows</p></figcaption></figure>
+
 ### 4. Sign from a source table
 
-Instead of defining positive and negative signs at the report level, you can use the sign conventions from your data source tables. To do this, create a column which assigns values -1, +1 and 0 for negative, positive and totals respectively. A sample table is shown below.
+Instead of defining positive and negative signs at the report level, you can use the sign conventions from your data source tables. To do this, create a column that assigns values -1, +1, and 0 for negative, positive, and totals respectively. A sample table is shown below.
 
 <figure><img src="../.gitbook/assets/Sign table1 (1).png" alt=""><figcaption><p>Sign table</p></figcaption></figure>
 
@@ -86,7 +98,7 @@ a) Add this sign column in the 'Sign' field. You can see the change in the value
 
 <figure><img src="../.gitbook/assets/sign measure (1).png" alt=""><figcaption><p>Sign measure</p></figcaption></figure>
 
-b) On enabling the 'Sign in header' option, you can see the positive, negative and total rows with the signs in the header.
+b) On enabling the 'Sign in header' option, you can see the positive, negative, and total rows with the signs in the header.
 
 <figure><img src="../.gitbook/assets/invert sign.png" alt=""><figcaption><p>Sign in headers</p></figcaption></figure>
 
