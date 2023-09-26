@@ -6,12 +6,11 @@ description: Setting up writeback destinations in Inforiver Enterprise
 
 Inforiver supports fast writeback setup and execution for several types of data destinations
 
-* **Cloud data warehouses:** Azure SQL, Synapse Analytics Dedicated SQL Pool, Amazon Redshift, Snowflake, BigQuery, SingleStore
+* **Cloud data warehouses:** Azure SQL, Synapse Analytics Dedicated SQL Pool, Amazon Redshift, Snowflake, BigQuery, SingleStore, Dataverse&#x20;
 * **On-Prem data warehouses:** SQL Server, SAP HANA, Oracle, PostgreSQL, MySQL, Databricks
 * **Cloud data lakes:** Azure Data Lake Gen2
 * **File Destinations:** OneDrive, SharePoint
 * **Webhook URLs:** Can be used to trigger workflows in iPaaS such as Power Automate and Logic Apps)
-* Dataverse (Upcoming)
 
 Configuring writeback destination(s) is straightforward and involves the same procedure (picture below) for any destination.
 
@@ -21,9 +20,12 @@ A list of destinations will be displayed for the users to select from.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption><p>Inforiver supported writeback destinations.</p></figcaption></figure>
 
+Configuring destinations for writeback is a straightforward process that will be covered in the upcoming sections.
 
+After configuring the destination, you can choose whether the destination should be client-managed or inforiver-managed.  If you wish to restrict access to the database, opt for client-managed destinations.
 
-Configuring destinations for writeback is a straightforward process and will be covered in the following sections.
+* For Inforiver-managed destinations, creating the writeback table will be done automatically by Inforiver. Requisite permissions on the table need to be provided to Inforiver.
+* For client-managed destinations, Inforiver will generate the scripts. You can manually execute them against the database.
 
-
+<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption><p>Destination management</p></figcaption></figure>
 
