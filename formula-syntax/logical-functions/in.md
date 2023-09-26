@@ -1,18 +1,18 @@
 # IN
 
-The IN function returns TRUE if the list of values being searched is in the array.
+The IN function returns TRUE if the value being searched for is present in the input array.
 
 ## Syntax
 
 ```javascript
-in(value,[item1,item2...]
+in(value,[item1,item2...])
 ```
 
 ## Arguments
 
-value - The string which is being searched
+value - The string which is being searched for
 
-item1,item2 - The values which are being searched in the array
+\[item1,item2...] - The input array to searched
 
 ## **Return value**
 
