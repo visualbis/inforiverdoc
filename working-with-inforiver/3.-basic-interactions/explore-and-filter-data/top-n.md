@@ -1,6 +1,6 @@
 # Top N + others
 
-Top N answers questions such as _Customers_ contributing to the most revenue, _Spend Categories_ that consume most of the budget etc.&#x20;
+Top N answers questions such as _Customers_ contributing to the most revenue, _Spend Categories_ that consume most of the budget, etc.&#x20;
 
 {% embed url="https://lumel.wistia.com/medias/z9pzrtc9oy" %}
 Top N + Others - Overview
@@ -8,7 +8,7 @@ Top N + Others - Overview
 
 In this section, let us see how the Top N feature works in Inforiver.&#x20;
 
-Consider the example of displaying the Top 2 categories which generated maximum Revenue.
+Consider the example of displaying the Top 2 categories that generated maximum Revenue.
 
 a) Select the Revenue column.
 
@@ -27,14 +27,6 @@ c) You can see the top 2 categories with the remaining categories grouped under 
 d) Hover over the 'Others' row to see a preview of the items grouped under Others.  Click on the expand icon to view all the categories that have been classified as Others. This will display all the categories under 'Others' in a separate window.
 
 <figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p>Others category details</p></figcaption></figure>
-
-e) To remove a category from the Others group, right click on the category and select the 'Remove from others' options from the menu.
-
-<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption><p>Remove from others option</p></figcaption></figure>
-
-Notice how the selected category has been removed from the 'Others' group.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption><p>Remove from others result</p></figcaption></figure>
 
 ### 1. Nested rules
 
@@ -70,9 +62,40 @@ To delete a Top N condition, click on the 'Delete' icon. To clear all the Top N 
 
 <figure><img src="../../../.gitbook/assets/Reset,delete (1).png" alt=""><figcaption><p>Delete &#x26; reset</p></figcaption></figure>
 
-A warning message gets displayed when you try to apply Top N on more than one column/measure. You need to remove the existing filter and apply a new one to the selected column by clicking on 'Remove and proceed'.
+A warning message is displayed when you try to apply Top N on more than one column/measure. You need to remove the existing filter and apply a new one to the selected column by clicking on 'Remove and proceed'.
 
 <figure><img src="../../../.gitbook/assets/Warning.png" alt=""><figcaption><p>Applying top N filter on multiple columns throws a warning</p></figcaption></figure>
+
+
+
+### 4. Modifying the Others bucket
+
+Inforiver offers multiple options to add or remove items from the 'Others' bucket.
+
+1. To add or remove rows from the Others bucket, click on the row gripper and select the 'Add row to others' or 'Remove from others' option.&#x20;
+
+a) For data that is not hierarchical, select the 'current category' option.
+
+b) For data that is hierarchical and contains the same element at different levels, you have 2 options:
+
+* To add or remove a particular element from its immediate parent, select '**Current Category'.**
+* &#x20;To add or remove a particular element from all levels which contain that element, select '**All Category**'.
+
+<figure><img src="../../../.gitbook/assets/image (231).png" alt=""><figcaption><p>Removing rows from Others</p></figcaption></figure>
+
+2. You can also highlight rows that are manually added or removed from the Others bucket. You can enable the 'Highlight add/remove rows -TopN' from the Misc tab in display settings.&#x20;
+
+{% hint style="info" %}
+If you are adding rows to the Others bucket, Inforiver generates a notification that will direct you to the Highlight rows setting.&#x20;
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (232).png" alt=""><figcaption><p>Highlight rows option</p></figcaption></figure>
+
+You can also apply additional customizations such as setting a custom background and border color for rows that are removed or added to the Others bucket.
+
+<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption><p>Highlighted Others row</p></figcaption></figure>
+
+
 
 In the next section, we'll be covering [sorting & reordering data](../sort-and-reorder-data.md).
 
