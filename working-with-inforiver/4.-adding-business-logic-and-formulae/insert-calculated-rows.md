@@ -54,6 +54,10 @@ h) Finish typing the formula as shown below.
 
 <figure><img src="../../.gitbook/assets/4.1.11 Calculated row.png" alt=""><figcaption><p>Formula entered</p></figcaption></figure>
 
+{% hint style="info" %}
+To see the underlying logic for calculated data, you can simply click on the cell to preview the formulae applied in the formula bar.
+{% endhint %}
+
 ### 2. Include in total
 
 a) Check the 'Include in total' checkbox as we need the Specialty Beverages value to be included in the Beverages total and the grand total. Click 'Create'.&#x20;
@@ -107,6 +111,12 @@ Let's consider an example where we are inserting the relative variance between t
 When 'Evaluate columns before rows' is disabled, the grand total variance is calculated as the sum of Beverages and Water which is not the expected behaviour in this case.
 
 <figure><img src="../../.gitbook/assets/4.1.21 Calculated row.png" alt=""><figcaption><p>Total value calculated as sum of category values</p></figcaption></figure>
+
+### 5. Custom scaling
+
+In certain cases, the values in calculated rows may not conform to the number scaling set at the report level. You can apply a custom scaling factor based on the nature of the calculation applied.
+
+<figure><img src="../../.gitbook/assets/7.3. Custom scaling for calculated rows.png" alt=""><figcaption></figcaption></figure>
 
 #### Resources
 
