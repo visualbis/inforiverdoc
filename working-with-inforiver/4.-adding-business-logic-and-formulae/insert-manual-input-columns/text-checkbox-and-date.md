@@ -12,33 +12,45 @@ If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-in
 
 Text columns or measures can be inserted to capture text.&#x20;
 
-a) Click on 'Text' in the 'Data input' dropdown.
+a) Select 'Text' from the _Data Input_ dropdown.
 
-<figure><img src="../../../.gitbook/assets/4.4.3.2 Text.png" alt=""><figcaption><p>Data input column - Text</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (255).png" alt=""><figcaption><p>Data input - text</p></figcaption></figure>
 
-b) The text column side panel is shown in the below image.&#x20;
+b) The text column side panel is shown in the image below.&#x20;
 
-You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Text entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown.md#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
+You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Text entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown.md#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option. You can also set field validations which will be discussed later in this section.
 
 Click 'Create'.
 
-<figure><img src="../../../.gitbook/assets/4.4.3.3 Text.png" alt=""><figcaption><p>Text column properties</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
-c) The text column gets inserted. Double-click on any of the cells and start typing the text in the editor.
+c) The text column gets inserted. Double-click on any of the cells and start typing the text in the editor. Press Enter to commit the text entry.
 
-<figure><img src="../../../.gitbook/assets/4.4.3.4 Text.png" alt=""><figcaption><p>Enter the text</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
-d) Once you click 'Enter', the text gets saved. Notice that it is getting cut off. Inforiver provides an option to wrap text automatically.
+#### Word wrap
 
-<figure><img src="../../../.gitbook/assets/4.4.3.5 Text.png" alt=""><figcaption><p>Text captured</p></figcaption></figure>
+Inforiver provides an option to wrap the text for long entries that get truncated.
 
-e) In the 'Home' tab, click on the 'Auto fit' drop-down and turn the 'Auto wrap columns' toggle on.
+<figure><img src="../../../.gitbook/assets/image (258).png" alt=""><figcaption><p>Text entry truncated</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4.4.3.6 Text.png" alt=""><figcaption><p>Enabling auto wrap</p></figcaption></figure>
+Click on the word wrap icon in the Home ribbon to wrap text as per the width of the field.
 
-f) The text value automatically word-wraps depending on the column width.
+<figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption><p>Word wrap</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4.4.3.7 Text.png" alt=""><figcaption><p>Automatic word wrap</p></figcaption></figure>
+#### Text validations
+
+Inforiver provides the ability to add data validations for text inputs. You can add validations to check the length, and data type (numeric/text/alphanumeric).&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption><p>Text validations</p></figcaption></figure>
+
+You can also enforce that a text entry should be an email or URL or even provide a regular expression using the Custom option.
+
+<figure><img src="../../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+
+For example, if you choose email as _Field Validation_ and the data entered is not a valid email ID, Inforiver will generate a pop-up error notification.
+
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Checkbox
 
