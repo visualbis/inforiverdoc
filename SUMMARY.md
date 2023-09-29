@@ -124,6 +124,7 @@
       * [URL as destination](working-with-inforiver/12.-data-writeback/destinations/url-as-destination.md)
     * [Logs](working-with-inforiver/12.-data-writeback/logs.md)
     * [Reading mode](working-with-inforiver/12.-data-writeback/reading-mode.md)
+  * [13. Manage enterprise visuals in Power BI pipeline setup](working-with-inforiver/13.-manage-enterprise-visuals-in-power-bi-pipeline-setup.md)
 * [Display settings](display-settings/README.md)
   * [General settings](display-settings/general-settings.md)
   * [Hierarchy settings](display-settings/hierarchy-settings.md)
