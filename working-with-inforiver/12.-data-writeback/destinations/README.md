@@ -6,9 +6,7 @@ description: Setting up writeback destinations in Inforiver Enterprise
 
 Inforiver supports fast writeback setup and execution for several types of data destinations
 
-* **Cloud data warehouses:** Azure SQL, Synapse Analytics Dedicated SQL Pool, Amazon Redshift, Snowflake, BigQuery, SingleStore, Dataverse&#x20;
-* **On-Prem data warehouses:** SQL Server, SAP HANA, Oracle, PostgreSQL, MySQL, Databricks
-* **Cloud data lakes:** Azure Data Lake Gen2
+* **Database/ Data warehouses/ Data lake:** Azure SQL, SQL Server, Synapse Analytics Dedicated SQL Pool, Azure Data Lake, Fabric lakehouse, Fabric warehouse, Dataverse, Databricks, Snowflake, BigQuery, Amazon Redshift, SAP HANA, Oracle, SingleStore,  PostgreSQL, MySQL,
 * **File Destinations:** OneDrive, SharePoint
 * **Webhook URLs:** Can be used to trigger workflows in iPaaS such as Power Automate and Logic Apps)
 

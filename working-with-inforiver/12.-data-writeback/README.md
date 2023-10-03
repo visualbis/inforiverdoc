@@ -1,10 +1,8 @@
 # 12. Data writeback
 
-## 2. Configure Destination
+Inforiver writeback allows a user to export and save a report table to destinations of different types including file destinations, data warehouses, and data lake storage.&#x20;
 
-Inforiver writeback allows a user to export and save a report table to destinations of types including file destinations, data warehouses and data lake storage.&#x20;
-
-Inforiver unlike other BI tools does not require IT overhead in terms of database setup and defining structure of writeback tables in advance. Inforiver instead supports dynamic database configuration and table creation at the run time and performs semi-structured, on-the-fly writeback to more than one destination at a time.
+Inforiver, unlike other BI tools, does not require IT overhead in terms of database setup and defining the structure of writeback tables in advance. Inforiver instead supports dynamic database configuration and table creation at run time and performs semi-structured, on-the-fly writeback to more than one destination at a time.
 
 {% hint style="info" %}
 Data writeback is an enterprise feature; you need to have a valid Inforiver Enterprise subscription.
@@ -12,7 +10,7 @@ Data writeback is an enterprise feature; you need to have a valid Inforiver Ente
 
 ## 1. Overview
 
-Writeback screen is accessed by going to the Export tab in the toolbar. There are three buttons that give you access to writeback and related settings.&#x20;
+The Writeback screen is accessed by going to the Export tab in the toolbar. Three buttons give you access to writeback and related settings.&#x20;
 
 **Writeback** - Export report data to a destination.&#x20;
 
@@ -36,16 +34,7 @@ Selecting 'Writeback All' will open a dialogue box, which lets you choose which 
 
 ## 3. Configure Destination
 
-Inforiver supports fast writeback setup and execution for several types of data destinations.
-
-* **Cloud data warehouses:** Azure SQL, Synapse Analytics Dedicated SQL Pool, Amazon Redshift, Snowflake, BigQuery, SingleStore
-* **On-Prem data warehouses:** SQL Server, SAP HANA, Oracle, PostgreSQL, MySQL, Databricks
-* **Cloud data lakes:** Azure Data Lake Gen2
-* **File Destinations:** OneDrive, SharePoint
-* **Webhook URLs:** Can be used to trigger workflows in iPaaS such as Power Automate and Logic Apps)
-* **Dataverse** (Upcoming)
-
-Configuring writeback destination(s) is straightforward and involves the same procedure (picture below) for any destination.
+Inforiver supports fast writeback setup and execution for several types of data destinations. Configuring writeback destination(s) is straightforward and involves the same procedure (picture below) for any destination.
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Navigating to Inforiver writeback destination setup</p></figcaption></figure>
 

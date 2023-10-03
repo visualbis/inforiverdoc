@@ -104,6 +104,7 @@
       * [Data Settings](working-with-inforiver/12.-data-writeback/settings/data-settings.md)
       * [Destination Settings](working-with-inforiver/12.-data-writeback/settings/destination-settings.md)
       * [Writeback security settings](working-with-inforiver/12.-data-writeback/settings/writeback-security-settings.md)
+      * [Advanced Settings](working-with-inforiver/12.-data-writeback/settings/advanced-settings.md)
     * [Destinations](working-with-inforiver/12.-data-writeback/destinations/README.md)
       * [Azure SQL (Managed DB)](working-with-inforiver/12.-data-writeback/destinations/azure-sql-managed-db.md)
       * [Azure SQL](working-with-inforiver/12.-data-writeback/destinations/azure-sql.md)
