@@ -43,9 +43,27 @@ The list of values that gets created is shown below.
 
 <figure><img src="../../../.gitbook/assets/4.4.2.4 Select.png" alt=""><figcaption><p>List of values from presets</p></figcaption></figure>
 
+### c) Text columns
+
+Inforiver allows you to source dropdown values from [text data input columns](text-checkbox-and-date.md#1.-text) belonging to a different visual. The visual ID is required to reference a different visual. You can obtain the visual ID from the profile as shown in the image below.
+
+<figure><img src="../../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
+
+Follow the steps below to reference the values from one visual in another visual:
+
+1. Copy the visual ID from visual 1 (Regional Sales).
+2. Create a single-select or multi-select dropdown field in visual 2 (Product Sales).
+3. In the _Advanced_ section of the single select in visual 2 (Product Sales), enter the visual ID from step 1. Once the visual ID is entered, you will be able to select the text column(Region Entity) from the _Column_ dropdown under the _Advanced_ section.
+
+<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+
+Notice how the values in the single select are being populated from the Regional Sales visual.
+
+<figure><img src="../../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+
 ## ii) Editing the LOVs
 
-The names, order and colour of the options can be modified and they can be added or deleted as well. To edit the names, type over the existing names in the text boxes.
+The names, order, and color of the options can be modified and they can be added or deleted as well. To edit the names, type over the existing names in the text boxes.
 
 <figure><img src="../../../.gitbook/assets/4.4.2.2 Edit options.png" alt=""><figcaption><p>Editing the names</p></figcaption></figure>
 
