@@ -1,14 +1,12 @@
 # User management
 
-With the user management feature, you can manage all the users and members of your team/organization in an easy-to-use dashboard. You can add, or remove users, grant/revoke permissions and also manage the user roles in reports.
-
-<figure><img src="../../.gitbook/assets/user-management-screen.png" alt=""><figcaption><p>User management console</p></figcaption></figure>
+With the user management feature, you can manage all the users and members of your team/organization in an easy-to-use dashboard. You can add, or remove users, grant/revoke permissions, and manage the user roles in reports.
 
 ## 1. Overview&#x20;
 
 The left half of the page displays a list of all the users in the team. Whereas the right half displays a summary of the selected user. By default, the admin is displayed as the first member in the list.
 
-<figure><img src="../../.gitbook/assets/user-management-screen (1).png" alt=""><figcaption><p>User management dashboard screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (280).png" alt=""><figcaption><p>User management dashboard</p></figcaption></figure>
 
 {% hint style="info" %}
 The user management feature is available only for the workspace admins
@@ -32,25 +30,25 @@ The left half has the following options to filter the users' list:
 
 * **Search bar -** In the search bar, you can type any input and the users' list will get dynamically filtered based on the entered input. Click the 'x' to remove all the entered input.
 
-<figure><img src="../../.gitbook/assets/enter-input.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
 * **Filter icon -** Clicking on the filter icon will display the options to filter the users' list based on their roles. The list can be filtered to display 'All members', users with the 'Admin' role, or users with the 'Members' role. \
   \
   By default, the 'All members' option is selected. Only one option can be selected. The users' list gets dynamically updated based on the selected value.
 
-<figure><img src="../../.gitbook/assets/filters.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
-* **Filter drop-down -** With this drop-down, you can sort the users either by date or by name. The list gets filtered based on the drop-down option as well as the direction of the sort arrow.
+* **Filter drop-down -** With this drop-down, you can sort the users based on the Name/Last Login or Added At fields. The list is sorted based on the drop-down option as well as the direction of the sort arrow.
 
-<figure><img src="../../.gitbook/assets/date-filter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
-* **Sort arrow -** If the sort arrow points up, then the list is sorted in the 'Ascending' order for the filter chosen in the drop-down. If the sort arrow points down, then the list is sorted in the 'Descending' order. This option is set to descending by default.
+* **Sort arrow -** If the sort arrow points up, then the list is sorted in ascending order for the filter chosen in the drop-down. If the sort arrow points down, then the list is sorted in descending order. This option is set to descending by default.
 
-<figure><img src="../../.gitbook/assets/sort-arrow.png" alt=""><figcaption></figcaption></figure>
+In the following image, the users' list is sorted by Last Login in descending order.
 
-In the following image, the users' list is sorted 'By name' and in 'Ascending' order
+<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/sort-alphabetically.png" alt=""><figcaption></figcaption></figure>
+
 
 ## 2. Add member
 
@@ -140,9 +138,9 @@ Clicking on this button will open up a 'Delete group' confirmation modal. Click 
 
 <figure><img src="../../.gitbook/assets/delete-ad-group-confirmation.png" alt=""><figcaption></figcaption></figure>
 
-## 5. Delete user
+## 5. Delete user or group
 
-The delete option is available only for the users added who are manually added through the 'Add member' option and 'bulk uploaded' via CSV file.
+The delete option is available only for the users who are manually added through the 'Add member' option or 'bulk uploaded' via CSV file.
 
 Select the user from the list and click 'Delete User'.
 
@@ -168,7 +166,7 @@ If any changes/updates are made in the Active Directory AD group, click the 'Syn
 
 <figure><img src="../../.gitbook/assets/sync-data.png" alt=""><figcaption><p>Sync AD group data</p></figcaption></figure>
 
-You can delete the entire group by clicking 'Delete group' button.
+You can delete the entire group by clicking the 'Delete group' button.
 
 <figure><img src="../../.gitbook/assets/delete-group.png" alt=""><figcaption><p>Delete group option</p></figcaption></figure>
 

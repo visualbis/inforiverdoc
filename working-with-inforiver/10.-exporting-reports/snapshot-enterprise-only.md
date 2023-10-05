@@ -60,7 +60,7 @@ Click this icon to close the snapshot and return to the edit/reading mode view.
 
 The snapshot feature comes packaged with a built-in scheduler. Click on the _Schedule Snapshot_ button in the Export ribbon to open the Schedule Snapshot side pane. Click on _Setup snapshot schedule._ In the schedule configuration, you can set the start and end dates, the time and timezone, and the frequency for snapshots to be captured.
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Snapshot scheduler</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Snapshot scheduler</p></figcaption></figure>
 
 After saving the schedule settings, you will have options to initiate, reset, and pause the schedule and view logs.
 
