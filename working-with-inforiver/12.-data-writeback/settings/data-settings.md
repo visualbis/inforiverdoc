@@ -24,4 +24,10 @@ This option will be displayed only if you have created a scenario. You can read 
 
 <figure><img src="../../../.gitbook/assets/scenario-wb.png" alt=""><figcaption></figcaption></figure>
 
-Under this option, you will find a list of all the created scenarios. You can select the scenario you want to write back. Please note, if no scenario is created and autowriteback is ON, only the data input columns will be auto written back if changes are made from the base table. Native columns will not be auto written back when modified.
+Under this option, you will find a list of all the created scenarios. You can select the scenario you want to write back. Please note, that if no scenario is created and auto writeback is ON, only the data input columns will be auto-written back if changes are made from the base table. Native columns will not be auto-written back when modified.
+
+#### iv) Advanced settings
+
+You can set the time interval between consecutive auto-writebacks in the Advanced section. The default delay is set to 5 seconds. This time interval can be decreased, with a value of 0 resulting in the immediate triggering of writebacks.
+
+<figure><img src="../../../.gitbook/assets/image (276).png" alt=""><figcaption><p>Auto write back debounce time</p></figcaption></figure>
