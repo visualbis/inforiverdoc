@@ -43,7 +43,7 @@ The list of values that gets created is shown below.
 
 <figure><img src="../../../.gitbook/assets/4.4.2.4 Select.png" alt=""><figcaption><p>List of values from presets</p></figcaption></figure>
 
-### c) Text columns
+### c) Text columns(Enterprise only)
 
 Inforiver allows you to source dropdown values from [text data input columns](text-checkbox-and-date.md#1.-text) belonging to a different visual. The visual ID is required to reference a different visual. You can obtain the visual ID from the profile as shown in the image below.
 
