@@ -16,13 +16,13 @@ Yes. Inforiver can be used in small form factors just like a native Power BI tab
 
 #### 4. When I export to PDF, why does the font that I have chosen not persist? <a href="#headline-600-2838" id="headline-600-2838"></a>
 
-Because we are limited to the 3 MB custom visual size - we are not able to support all the fonts with the Export to PDF feature (each font family is 1MB in size). We were recently able to add "Times New Roman" as additional font for the Export to PDF feature.
+Inforiver is limited to the 3 MB custom visual size, hence, we are not able to support all the fonts with the Export to PDF feature (each font family is 1MB in size). We were recently able to add "Times New Roman" as an additional font for the Export to PDF feature.
 
-By August 2022 - we switched to the Inforiver font family from Antikor Mono as our default font. As the Inforiver Font family is like Segoe but monospaced for numbers – we think it will be a better default font option. Also, Enterprise Edition customers will be able to use any custom font in the subscription scheduler for the export to PDF feature as the enterprise edition has database storage where we could upload additional font styles including custom corporate fonts.
+By August 2022 - we switched to the Inforiver font family from Antikor Mono as our default font. As the Inforiver Font family is like Segoe but monospaced for numbers – we think it will be a better default font option. Also, Enterprise Edition customers will be able to use any custom font in the subscription scheduler for the export to PDF feature as the Enterprise Edition has database storage where we could upload additional font styles including custom corporate fonts.
 
 #### 5. Using Display, I can set or change preferences/settings for General, Hierarchy, or Numbers. Can I save my changes permanently or do I have to change settings for each new report? <a href="#headline-604-2838" id="headline-604-2838"></a>
 
-With our enterprise edition – you can save your theme, settings, etc., and it would automatically download them based on your user profile as corporate theme and default settings. This is possible only with the enterprise edition because we need a DB and server to store and retrieve this configuration.
+With our enterprise edition – you can save your theme, settings, etc., and it would automatically download them based on your user profile as a corporate theme and default settings. This is possible only with the enterprise edition because we need a DB and server to store and retrieve this configuration.
 
 #### 6. Can I use Inforiver for budgeting/forecasting? <a href="#headline-608-2838" id="headline-608-2838"></a>
 
@@ -37,48 +37,52 @@ Refer to\
 
 However, we suggest using Inforiver to gather your budgets, forecasts, plans, and variance comments using row-level security just like we gather them using Excel spreadsheets.[ ValQ](https://valq.com/) is our recommended advanced planning solution for enterprise use cases. We are working on modernizing ValQ and Integrating with Inforiver where you collect forecast and commentary inputs. ValQ is a separate offering and requires separate purchases for customers needing a full-blown XP\&A or FP\&A or Value Driver Planning solution.
 
-#### 7. What is the performance on large datasets? <a href="#headline-647-2838" id="headline-647-2838"></a>
+#### 7. Which edition supports export to Excel? <a href="#headline-647-2838" id="headline-647-2838"></a>
+
+All editions support formatted paginated export to Excel in WYSIWYG with structure, format, and notes as is. The Premium edition provides additional customization options for Export to Excel, and they support Export to PDF too. Note: Export to PDF and Excel is possible only in Power BI service. Once you publish your reports, the options should be enabled.
+
+#### 8. What is the performance on large datasets? <a href="#headline-647-2838" id="headline-647-2838"></a>
 
 Inforiver works best with summarized and aggregated data. Your Data model could contain billions of rows, but we recommend that using Power BI slicers you restrict the data assigned to Inforiver to be summarized in nature.
 
-We also recommend that you don’t compare the performance of Inforiver matrix vs Power BI Matrix, as Power BI only brings one hierarchy level of data at a time, and using the windowing technique, they only show what you can see. However, Inforiver brings all the hierarchy levels at once and we paginate them so that we can offer hundreds of additional features and visual-level formula capabilities like Excel. So, we are architecturally different from Power BI Matrix for a reason.&#x20;
+We also recommend that you don’t compare the performance of Inforiver matrix vs Power BI Matrix, as Power BI only brings one hierarchy level of data at a time, and using the windowing technique, they only show what you can see. However, Inforiver brings all the hierarchy levels at once and we paginate them to offer hundreds of additional features and visual-level formula capabilities like Excel. So, we are architecturally different from Power BI Matrix for a reason.&#x20;
 
-In the near future – we will offer a performance build where the Inforiver matrix will function like the Native Matrix by bringing only one hierarchy level at a time for performance reasons but compromising on features/functionalities which require all the hierarchy levels.
+In the near future – we will offer a performance build where the Inforiver matrix will function like the Native Matrix by bringing only one hierarchy level at a time for performance reasons but compromising on features/functionalities that require all the hierarchy levels.
 
-#### 8. Is there a limit to the number of pages that can be exported? <a href="#headline-652-2838" id="headline-652-2838"></a>
+#### 9. Is there a limit to the number of pages that can be exported? <a href="#headline-652-2838" id="headline-652-2838"></a>
 
 We offer a formatted and paginated export solution. So, there is a limit of 30k rows for Excel and 10MB for PDF for performance and fidelity reasons on the quality of the export.
 
-#### 9. What are the collaboration options available? <a href="#headline-612-2838" id="headline-612-2838"></a>
+#### 10. What are the collaboration options available? <a href="#headline-612-2838" id="headline-612-2838"></a>
 
-Inforiver supports [collaboration](https://inforiver.com/collaborate-powerbi/) with other users through real-time commenting, email notifications, scheduled excel & pdf reports, and commentary digests.
+Inforiver supports [collaboration](https://inforiver.com/collaborate-powerbi/) with other users through real-time commenting, email notifications, scheduled Excel and PDF reports, and commentary digests.
 
 Users can post, reply, and mention users; email notifications are sent on replies and mentions. Authors can restrict access to who can post comments in the visual. Comment digests can be scheduled at custom intervals that summarize all comments made between each run.
 
 However, these options are available only with [Inforiver Enterprise](https://inforiver.com/enterprise/).
 
-#### 10. Can I notify users using comments? <a href="#headline-632-2838" id="headline-632-2838"></a>
+#### 11. Can I notify users using comments? <a href="#headline-632-2838" id="headline-632-2838"></a>
 
-Yes, users can be notified using commenting. @ can be used to lookup the list of users from one’s organization. This feature is available only in [Inforiver Enterprise.](https://inforiver.com/enterprise/)
+Yes, users can be notified using commenting. @ can be used to look up the list of users from one’s organization. This feature is available only in [Inforiver Enterprise.](https://inforiver.com/enterprise/)
 
-#### 11. Can I write back the data from Inforiver to my data source? <a href="#headline-616-2838" id="headline-616-2838"></a>
+#### 12. Can I write back the data from Inforiver to my data source? <a href="#headline-616-2838" id="headline-616-2838"></a>
 
 Inforiver [writeback](https://inforiver.com/writeback-powerbi/) allows users to post the data and comments from the visual to a supported destination. Writeback is supported only in [Inforiver Enterprise](https://inforiver.com/enterprise/) and the following destinations are supported.
 
-Database – Azure SQL, Synapse Analytics Dedicated SQL Pool, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL server, SAP HANA, Oracle, <mark style="color:red;"></mark> Postgres, and MySQL.
+Database – Azure SQL, Synapse Analytics Dedicated SQL Pool, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL server, SAP HANA, Oracle, Postgres, and MySQL.
 
 OneDrive and SharePoint – Writeback file as a CSV to the selected folder&#x20;
 
 URL – HTTPS post with the CSV as payload to a configured endpoint&#x20;
 
-#### 12. Is it possible to schedule reports to email or other destinations like OneDrive? <a href="#headline-642-2838" id="headline-642-2838"></a>
+#### 13. Is it possible to schedule reports to email or other destinations like OneDrive? <a href="#headline-642-2838" id="headline-642-2838"></a>
 
 Inforiver [scheduler](https://inforiver.com/schedule-reports-powerbi/) supports custom scheduling of reports to email and other external destinations like OneDrive, SharePoint, and Teams. Burst and broadcast of paginated reports honoring row-level security (RLS) are also possible. This is supported only in [Inforiver Enterprise](https://inforiver.com/enterprise/).&#x20;
 
-#### 13. Can we build our own product incorporating Inforiver and sell it to our customers for a license or subscription free? (OEM licensing) <a href="#headline-656-4516" id="headline-656-4516"></a>
+#### 14. Can we build our own product incorporating Inforiver and sell it to our customers for a license or subscription free? (OEM licensing) <a href="#headline-656-4516" id="headline-656-4516"></a>
 
 Yes. For bundling (OEM) Inforiver fully or partially with your own products or services to your customers or any third party, a separate licensing plan is available on the [Inforiver website](https://inforiver.com/matrix/pricing/). This would be based on the number of developers or customers.&#x20;
 
-#### 14. Can we build Power BI reports which can be consumed by external organizations for a service fee? (Embedded licensing) <a href="#headline-673-4516" id="headline-673-4516"></a>
+#### 15. Can we build Power BI reports that can be consumed by external organizations for a service fee? (Embedded licensing) <a href="#headline-673-4516" id="headline-673-4516"></a>
 
 Yes. For embedding Inforiver fully or partially with your own products or services, a separate licensing plan is available on the [Inforiver website](https://inforiver.com/matrix/pricing/). This would be based on the number of developers.&#x20;
