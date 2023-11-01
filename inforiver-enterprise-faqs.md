@@ -28,35 +28,49 @@ Inforiver requires certain permissions to access resources in your organization 
 
 <figure><img src=".gitbook/assets/FAQ Enterprise permissions.png" alt=""><figcaption><p>Permissions for Inforiver Enterprise</p></figcaption></figure>
 
-#### 7. How to resolve the error showing that the app requires admin consent while login in? <a href="#headline-623-2838" id="headline-623-2838"></a>
+#### 7. How to resolve the error showing that the app requires admin consent while logging in? <a href="#headline-623-2838" id="headline-623-2838"></a>
 
-Your office 365 administrator has restricted you to use apps that have been consented to by one of the administrators. Follow the steps outlined [here](https://lumel.notion.site/Microsoft-Login-Admin-Consent-b3b8eea861ff4070ab0d586f0b5cc3d7) for your administrator to approve.&#x20;
+Your Office 365 administrator has restricted you from using apps that have been consented to by one of the administrators. Follow the steps outlined [here](https://lumel.notion.site/Microsoft-Login-Admin-Consent-b3b8eea861ff4070ab0d586f0b5cc3d7) for your administrator to approve.&#x20;
 
 #### 8. How to resolve the error that shows 'connection timed out' when trying to connect to databases? <a href="#headline-953-4237" id="headline-953-4237"></a>
 
 Your IT Team must whitelist _addons.inforiver.com_ to enable Inforiver to connect with various destinations from your server.
 
-#### 9. What does fair use policy mean? What is the impact?
+#### 9. What data do you encrypt in the Inforiver SAAS application?
+
+We encrypt sensitive data such as configuration, access tokens, and user inputs like comments and data inputs to ensure that it remains secure at rest. We also use HTTPS protocol to ensure that all data is transferred securely over the internet. Our encryption protocols meet industry standards and are regularly updated to ensure the highest level of security.
+
+#### 10. Can I choose where my data is stored?
+
+Yes, we offer an on-premise option for customers who require their data to be stored separately for compliance reasons. This allows you to keep your data in a dedicated, secure environment that you control, while still benefiting from the features and functionality of our SAAS platform.
+
+#### 11. What does fair use policy mean? What is the impact?
 
 When individual users or small teams on the SaaS edition exceed the business transaction value of their heavy usage – we recommend they move their workloads to their own Azure private tenants. Public tenant is for the benefit of SMB use cases, and we want to ensure that a small set of heavy users doesn’t impact the user experience for the rest of the SMB customers who use the shared public tenant and Azure services hosted by Inforiver.
+
+#### 12. Why are users unable to edit and save my report?
+
+The report creator has to sign in while creating the report. Without creators signing in, other users will view the report but will not be able to save any changes made to the report. Interactions with the report would mimic using a free version of Inforiver.&#x20;
+
+#### 13. Do I need to manually add enterprise users in the _User Management_ console?
+
+Once you have assigned the user a license from AppSource, when the user signs in for the first time, they will be automatically added to the Inforiver [User Management](advanced-topics/admin-console/user-management.md) page.
 
 ### B) Writeback
 
 #### 1. Do I have to bring my own database for the writeback? <a href="#headline-795-4237" id="headline-795-4237"></a>
 
-Yes, customers must bring their own destination database for writeback data to be saved for both SaaS as well as on-premise editions. Inforiver will writeback customers' processed data in their configured destination database or other destinations such as OneDrive and SharePoint for data security and data residency compliance purposes. &#x20;
+Yes, customers must bring their destination database for writeback data to be saved for both SaaS as well as on-premise editions. Inforiver will writeback customers' processed data in their configured destination database or other destinations such as OneDrive and SharePoint for data security and data residency compliance purposes. &#x20;
 
-We don't provide any writeback database or any other destinations like SharePoint, OneDrive, etc. for both SaaS and on-premise versions. This is done with the customer's data security considerations in mind as well as it provides maximum flexibility to our architecture where the writeback could be used with cloud data warehouses such as Snowflake, BigQuery, on-premise SQL servers, or SAP HANA.&#x20;
+We don't provide any writeback database or any other destinations like SharePoint, OneDrive, etc. for both SaaS and on-premise versions. This is done with the customer's data security considerations in mind as well and it provides maximum flexibility to our architecture where the writeback could be used with cloud data warehouses such as Snowflake, BigQuery, on-premise SQL servers, or SAP HANA.&#x20;
 
 #### 2. What are all the supported destinations for writeback? <a href="#headline-561-2838" id="headline-561-2838"></a>
 
 These are the destinations we support at the moment –&#x20;
 
-Database – Azure SQL, Synapse Analytics Dedicated SQL Pool, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL server, SAP HANA, Oracle, <mark style="color:red;"></mark> Postgres, and MySQL.
-
-OneDrive and SharePoint – Writeback file as a CSV to the selected folder&#x20;
-
-URL – HTTPS post with the CSV as payload to a configured endpoint&#x20;
+* Database – Azure SQL, Dedicated SQL Pool, Azure Data Lake Storage, Databricks, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL Server, SAP HANA, Oracle, Fabric Lakehouse, Fabric Warehouse, Dataverse, PostgreSQL and MySQL
+* OneDrive and SharePoint – Writeback file as a CSV to the selected folder
+* URL – HTTPS post with the CSV as payload to a configured endpoint
 
 #### 3. Does row-level security work with writeback? <a href="#headline-565-2838" id="headline-565-2838"></a>
 
@@ -79,6 +93,22 @@ Yes. For folder destinations, on creating a new version a new writeback version 
 #### 7. How much volume of data does writeback support? <a href="#headline-755-4237" id="headline-755-4237"></a>
 
 It is optimized for 30,000 rows, but it is subject to vary based on destination and mode of writeback (delta vs filter or collaborative). Writeback to Azure SQL and SQL Server can handle more data volume as we are utilizing a bulk insert approach. Writeback is optimized for up to 100K cells in the July 2022 release and we are looking to improve this further. &#x20;
+
+#### 8. How much volume of data does writeback support? <a href="#headline-755-4237" id="headline-755-4237"></a>
+
+It is optimized for 30,000 rows, but it is subject to vary based on destination and mode of writeback (delta vs filter or collaborative). Writeback to Azure SQL and SQL Server can handle more data volume as we are utilizing a bulk insert approach. Writeback is optimized for up to 100K cells in the July release and we are looking to improve this further. 
+
+#### 9. Can customers get access to view the backend data in SAAS? <a href="#headline-975-4237" id="headline-975-4237"></a>
+
+Access to your data is restricted to a limited number of authorized personnel at Inforiver who require it to provide technical support or perform maintenance on the system. We do not share or sell your data to any third parties.
+
+#### 10. Will the writeback table get created after setting the destination? <a href="#headline-980-4237" id="headline-980-4237"></a>
+
+No, this will be created on the first writeback execution.
+
+#### 11.  Is it possible to retain the history of the WB ? <a href="#headline-980-4237" id="headline-980-4237"></a>
+
+Yes, you can review all the writeback execution logs from the Inforiver console app.
 
 ### C) Commenting
 
@@ -104,7 +134,7 @@ Users receive email notifications when someone responds to their comments, menti
 
 Yes, you can write back notes and comments to databases, shared drives, or URLs. These are the destinations we support at the moment –&#x20;
 
-Database – Azure SQL, Synapse Analytics Dedicated SQL Pool, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL server, SAP HANA, Oracle, <mark style="color:red;"></mark> Postgres, and MySQL.
+Database – Azure SQL, Synapse Analytics Dedicated SQL Pool, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL server, SAP HANA, Oracle, Postgres, and MySQL.
 
 OneDrive and SharePoint – Writeback file as a CSV to the selected folder&#x20;
 
@@ -271,4 +301,4 @@ Pricing would be based on the estimation [here](https://azure.microsoft.com/en-u
 
 #### 20. How does product support work with Inforiver Enterprise (On-Premise)? <a href="#headline-905-4237" id="headline-905-4237"></a>
 
-You can purchase enterprise as a paid add-on, and it is meant for enterprises that require faster turnaround times and assurance. For more details, refer to [https://inforiver.com/support/](https://inforiverstage.wpengine.com/support/). &#x20;
+You can purchase Inforiver Enterprise as a paid add-on, and it is meant for enterprises that require faster turnaround times and assurance. For more details, refer to [https://inforiver.com/support/](https://inforiverstage.wpengine.com/support/). &#x20;

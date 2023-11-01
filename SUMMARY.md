@@ -128,7 +128,7 @@
       * [URL as destination](working-with-inforiver/12.-data-writeback/destinations/url-as-destination.md)
     * [Logs](working-with-inforiver/12.-data-writeback/logs.md)
     * [Reading mode](working-with-inforiver/12.-data-writeback/reading-mode.md)
-  * [13. Managing Inforiver visuals](working-with-inforiver/13.-managing-inforiver-visuals/README.md)
+  * [13. Managing Inforiver visuals](working-with-inforiver/13.-manage-enterprise-visuals-in-power-bi-pipeline-setup.md)
     * [Inforiver deployments in Power BI pipeline setup](working-with-inforiver/13.-managing-inforiver-visuals/inforiver-deployments-in-power-bi-pipeline-setup.md)
     * [Safe procedures for copying enterprise visuals](working-with-inforiver/13.-managing-inforiver-visuals/safe-procedures-for-copying-enterprise-visuals.md)
     * [Recommended practices while working with Power BI desktop](working-with-inforiver/13.-managing-inforiver-visuals/recommended-practices-while-working-with-power-bi-desktop.md)
