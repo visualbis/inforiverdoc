@@ -74,6 +74,10 @@ You can choose the 'role' for the added user as either 'member' or 'admin'.
 
 <figure><img src="../../.gitbook/assets/update-member-role.png" alt=""><figcaption><p>Update user role</p></figcaption></figure>
 
+{% hint style="info" %}
+Users with an enterprise license will get automatically added when they sign-in for the first time.
+{% endhint %}
+
 ## 3. Bulk upload from CSV
 
 You can choose the 'Bulk upload from CSV' option to add multiple users at a time by uploading the user details in a CSV file.&#x20;
