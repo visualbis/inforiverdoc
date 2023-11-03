@@ -12,9 +12,9 @@ Columns/measures such as running total, % contribution to parent/grand total etc
 
 The following configuration options are available for 'Running total'.&#x20;
 
-'Insert as' - Running total can be inserted as a [measure or column](insert-manual-input-columns.md#2.-measure-vs-column)
+'Insert as' - The running total can be inserted as a [measure or column](insert-manual-input-columns.md#2.-measure-vs-column).
 
-'Base value' - Column/measure based on which the running total needs to be calculated
+'Base value' - Column/measure based on which the running total needs to be calculated.
 
 <figure><img src="../../.gitbook/assets/4.5.3(2) Quick formula.png" alt=""><figcaption><p>Running total of 2022 Actuals as a measure</p></figcaption></figure>
 
@@ -32,7 +32,7 @@ Contribution to the grand total can be inserted as shown below. To insert % cont
 
 #### iv) Lead/lag
 
-You can perform a lead /lag calculation to shift any trend data by 'n' periods. This helps you quickly perform downstream variance calculations such as QoQ growth, YoY growth etc. for each period.
+You can perform a lead /lag calculation to shift any trend data by 'n' periods. This helps you quickly perform downstream variance calculations such as QoQ growth, YoY growth, etc. for each period.
 
 The offset value should be between -12 and 12.
 
@@ -49,6 +49,12 @@ Ranks can be added across different groups in a single click. Choose to insert a
 Ranks within groups can be added including ranks for subtotals as shown in the below image.
 
 <figure><img src="../../.gitbook/assets/4.5.8 Quick formula.png" alt=""><figcaption><p>Ranking within group</p></figcaption></figure>
+
+#### vii) Insert variance
+
+The default variance calculated by Inforiver is based on the first measure added to the AC/PY/PL/FC fields. _Insert Variance_ can be used to calculate the variance between any native measures or formula fields in your report.
+
+<figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption><p>Insert variance</p></figcaption></figure>
 
 ### 2. Smart analysis
 
