@@ -75,7 +75,7 @@ You can choose the 'role' for the added user as either 'member' or 'admin'.
 <figure><img src="../../.gitbook/assets/update-member-role.png" alt=""><figcaption><p>Update user role</p></figcaption></figure>
 
 {% hint style="info" %}
-Users with an enterprise license will get automatically added when they sign-in for the first time.
+Users assigned with an enterprise license from AppSource will get automatically added when they sign-in for the first time.
 {% endhint %}
 
 ## 3. Bulk upload from CSV
