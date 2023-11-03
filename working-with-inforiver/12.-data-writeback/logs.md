@@ -4,7 +4,11 @@ description: Comprehensive and Searchable Writeback Logs
 
 # Logs
 
-Inforiver offers milestone-based tracking as soon as the writeback button is clicked. To view a comprehensive log of an ongoing writeback instance or previous writeback instances, a user shall click "Logs" under the "Export" tab of the Inforiver toolbar. The user could also click "View Log" in the modal that would open upon clicking writeback in order to access the log page.
+Inforiver offers milestone-based tracking as soon as the writeback button is clicked. To view a comprehensive log of an ongoing writeback instance or previous writeback instances, a user can&#x20;
+
+* Click on _Logs_ under the Export tab of the Inforiver toolbar.&#x20;
+* Click "View Log" in the modal that opens upon completion of writeback.
+* Go to the _Writeback Logs_ tab under the Monitoring section of the Inforiver console.
 
 <figure><img src="../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +18,7 @@ The writeback logs page allows us to search through writeback logs using several
 
 #### a) Search bar&#x20;
 
-In the search bar, a user could search and filter writeback logs based on their ID, report, or environment.
+In the search bar, users could search and filter writeback logs based on their ID, report, or environment.
 
 <figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption><p>Search bar</p></figcaption></figure>
 
@@ -69,7 +73,7 @@ Clicking on this link will reset all the applied filters.
 
 In this section, let's explore the columns in the writeback logs portal.
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p>Writeback logs columns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 #### a) ID&#x20;
 
@@ -79,35 +83,33 @@ Clicking on the writeback ID will open up a page with a detailed summary of the 
 
 Clicking the 'General' tab will display a summary of the writeback along with the milestones and their status.
 
-<figure><img src="../../.gitbook/assets/image (19) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 
 The writeback log summarizes the following milestones:
 
 #### i) Data processing&#x20;
 
-This indicates the events and steps that occurred during data processing. Clicking on the 'View events' link you can view the data processing events in detail.
+This indicates the events and steps that occurred during data processing. Click on the 'View events' link to view the data processing events in detail.
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
 
-The data processing event logs the performed action, the date and time the event was last updated, and the status of the event.
+The data processing event, logs the performed action, the date and time the event was last updated, and the status of the event.
 
 #### ii) Deliver to destination
 
-This milestone displays the events that occurred while the writeback data was delivered to the destination.
+This milestone displays the events logged while the writeback data was delivered to the destination. You can click on the 'View destination events' link to view the summary of the writeback destination, the date and the time at which the destination was updated, and the status of the writeback.
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
-
-You can click on the 'View destination events' link to view the summary of the writeback destination, the date and the time the destination was updated, and the status of the writeback.
+<figure><img src="../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
 
 #### iii) Post processing
 
 The post processing milestone indicates the events that occurred after processing the writeback. You can click on the 'View events' link to view the post processing action, the date and time the action was updated, and the status of the action/event.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on the name of the destination will display the connection details about the configured writeback destination.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
 #### b) Report &#x20;
 
