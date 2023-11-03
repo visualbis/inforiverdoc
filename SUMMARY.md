@@ -45,6 +45,7 @@
     * [Insert image URLs](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-image-urls.md)
     * [Quick formula](working-with-inforiver/4.-adding-business-logic-and-formulae/quick-formula.md)
     * [Manage inserted rows & columns](working-with-inforiver/4.-adding-business-logic-and-formulae/manage-inserted-rows-and-columns.md)
+    * [Editing cells](working-with-inforiver/4.-adding-business-logic-and-formulae/editing-cells.md)
   * [6. Working with charts](working-with-inforiver/6.-working-with-charts.md)
     * [Sparkline charts](working-with-inforiver/6.-working-with-charts/sparkline-charts.md)
     * [Stacked charts](working-with-inforiver/6.-working-with-charts/stacked-charts.md)
