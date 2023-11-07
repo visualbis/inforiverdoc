@@ -1,6 +1,6 @@
 # Scenarios (Enterprise only)
 
-Inforiver Enterprise offers the ability to create new scenarios in edit and read modes based on an existing series for ad-hoc analysis. Once a scenario is created, you can either simulate or perform allocations on the native measures.
+,Inforiver Enterprise offers the ability to create new scenarios in edit and read modes based on an existing series for ad-hoc analysis. Once a scenario is created, you can either simulate or perform allocations on the native measures.
 
 Scenarios are interactive and can be edited unless it’s explicitly locked. They can be created in both reading and edit mode and can be shared with other users. You can writeback all or specific scenarios and enable automatic writeback if required.
 
@@ -130,9 +130,9 @@ c) **Value range** - In this field, you can configure the maximum value of the r
 
 ### vi) Copy to base scenario
 
-You may perform simulations on different scenarios before arriving at the most optimal option. Any simulations on Data Input measures in a scenario can be updated to the base scenario using the Copy to Base option.
+You may perform simulations on different scenarios before arriving at the most optimal option. Any simulations on Data Input measures/columns in a scenario can be updated to the base scenario using the _Copy to Base_ option.
 
-In the below scenario, the measure 2023 Forecast is created by[ adding a new measure](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#1.-create-a-column) to the report. The simulations on 2023 Forecast in Scenario2 will be reflected in report after selecting the Copy to Base option.
+In the below scenario, the measure 2023 Forecast is created by[ adding a new measure](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#1.-create-a-column) to the report. The simulations on the 2023 Forecast in Scenario2 will be reflected in the report after selecting the Copy to Base option.
 
 <figure><img src="../../.gitbook/assets/image (23) (3).png" alt=""><figcaption><p>Additional options</p></figcaption></figure>
 
@@ -148,7 +148,7 @@ On selecting Copy to Base, a dialog box opens up which contains the list of colu
 
 ### vii) Edit/duplicate/delete
 
-To edit, delete or duplicate a scenario - click on the additional options menu icon that appears on hovering over the name of the scenario and select the relevant option.
+To edit, delete, or duplicate a scenario - click on the additional options menu icon that appears on hovering over the name of the scenario and select the relevant option.
 
 <figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Copy to Base</p></figcaption></figure>
 

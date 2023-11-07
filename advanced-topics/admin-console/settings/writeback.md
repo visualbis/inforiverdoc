@@ -10,17 +10,17 @@ This page lists all the writeback destination connections. Inforiver provides co
 * The _Connection Type_ filter can be used to view all the connections to a particular type of destination.&#x20;
 * The _Updated By_ filter can be used to search for connections that a particular user has updated.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### i) Add a new connection
 
 To add a new connection, click the 'Add new connection' button to open the _Create Connection_ modal.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 In the _Create Connection_ modal, you can select the required writeback destination. Click Continue to open the _Add Connection_ page.
 
-<figure><img src="../../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 On the 'Add connection' page, enter all your connection-related details.
 
@@ -30,13 +30,13 @@ Enter the connection name and click 'Save connection' to complete the connection
 
 The created connection will be listed on the Connections page.
 
-<figure><img src="../../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### ii) Edit/Delete connection
 
 You can edit the available connections using the edit icon(pencil) available on the top right corner of each connection.
 
-<figure><img src="../../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Clicking the pencil icon will open the 'Edit connection' page where you can edit or make changes to the connection.
 
@@ -44,7 +44,7 @@ Clicking the pencil icon will open the 'Edit connection' page where you can edit
 
 To delete any created connection, click on the 'Trash' icon on the top-right corner of the connection.
 
-<figure><img src="../../../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 This will open up a 'Confirmation' modal. Click 'Confirm' to permanently delete the connection.
 
