@@ -171,4 +171,6 @@ Another way to share reports is by sending ad-hoc emails. To learn more, refer t
 
 #### Resources
 
+[Formatted Export to PDF in Power BI](https://inforiver.com/blog/general/formatted-export-to-pdf-in-power-bi/)
+
 [Formatted Export to Excel/Spreadsheets in Power BI](https://inforiver.com/blog/general/formatted-export-to-excel-spreadsheets-in-microsoft-power-bi/)

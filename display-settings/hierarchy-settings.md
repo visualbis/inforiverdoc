@@ -219,4 +219,8 @@ You can view the current column count by hovering over the 'i' icon and modify t
 
 Learn more about dynamically setting data chunk size using Power BI's [fetchMoreData API](https://learn.microsoft.com/en-us/power-bi/developer/visuals/fetch-more-data).
 
+**Resources**
+
+[Implementing tables with 100+ columns (wide tables) in Power BI](https://inforiver.com/blog/general/implementing-wide-tables-with-more-than-100-columns-in-power-bi/)
+
 In this section, we covered the hierarchy display settings. Navigate to the next section to learn more about [advanced number formatting](advanced-number-formatting.md).\

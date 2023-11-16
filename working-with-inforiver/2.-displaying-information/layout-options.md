@@ -74,6 +74,10 @@ In the next section, we'll look at the [one-click templates](templates.md) offer
 
 #### Resources:
 
+[Table and Matrix Layouts in Power BI](https://inforiver.com/blog/general/table-matrix-layout-powerbi/)
+
+[Measures in Rows vs. Columns vs. Nested Columns](https://inforiver.com/blog/general/measures-rows-columns-nested-columns/)
+
 [Pivot analysis using Inforiver](https://inforiver.com/excel-like-pivot-analysis-powerbi/)
 
 [Nesting Measures in Inforiver](https://inforiver.com/blog/general/nesting-measures-inforiver/)

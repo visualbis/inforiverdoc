@@ -114,3 +114,7 @@ To remove the row/column/section breaks, you can select the ‘None’ option fr
 {% endhint %}
 
 In the next section, we'll look at adding a [header and footer](header-and-footer.md) to the report.
+
+**Resources**
+
+[Paginated reporting in Power BI](https://inforiver.com/paginated-reports-powerbi/)
