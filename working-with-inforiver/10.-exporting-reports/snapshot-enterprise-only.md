@@ -2,9 +2,9 @@
 
 In the edit mode, the current state of the report can be saved as a snapshot. Snapshots are read-only versions that can be used to freeze the data at month-end accounting/financial closes for future comparisons that are not impacted by source data changes and dataset refreshes.&#x20;
 
-Data cannot be edited in a snapshot view. And the created snapshots are not available to the viewers of the report.
+Data cannot be edited in a snapshot view. Snapshots are not available to the viewers of the report either.
 
-Write back of snapshots will be supported with our next release (Inforiver Enterprise 2.1).
+Write back of snapshots will be supported in upcoming releases.
 
 ## 1. Create a snapshot
 
