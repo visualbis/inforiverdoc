@@ -2,25 +2,27 @@
 
 Inforiver allows you to easily edit the contents of a cell and apply calculations.
 
+### i) Overwriting values
+
+To overwrite an existing value, simply double-click on the cell and enter the new value. You can enter scaled values(250m, 5.6b, etc) or reference other cell values.
+
 Double-click on a cell as shown in the image. A formula bar is enabled below the toolbar. Type in a value and click 'Enter'. Note that Inforiver allows entry of scaled values (e.g. 45.3m instead of 45,300,000).
 
-<figure><img src="../../.gitbook/assets/4.3.4 Static rows.png" alt=""><figcaption><p>Entering a value</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption><p>Overwriting a value</p></figcaption></figure>
 
-The value gets updated and is highlighted in yellow. The totals and subtotals are also updated to include the value entered for the 'specialty beverages' category, which was created using the [static rows](insert-manual-input-rows.md) option.&#x20;
+The value gets updated and the manual update can be identified by the pencil icon in the cell. The totals and subtotals are also updated to include the value entered.&#x20;
 
-<figure><img src="../../.gitbook/assets/4.3.5 Static rows.png" alt=""><figcaption><p>Totals and subtotals get updated</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption><p>Updated value</p></figcaption></figure>
 
-Let's now enter a value at the total level. Double-click on the 2021 Actuals, Grand Total field, type in the value, and press 'Enter'.
 
-<figure><img src="../../.gitbook/assets/4.3.6 Static rows.png" alt=""><figcaption><p>Entering value at grand total level</p></figcaption></figure>
 
-As shown in the below image, the 250m gets distributed equally to the 'International' and 'United States' columns. The category totals and the row grand total are also updated.
+You can even reference other cells and apply formulas on them - using the cell editor, you can define simple mathematical operations such as A +/- B, etc.
 
-<figure><img src="../../.gitbook/assets/4.3.7 Static rows.png" alt=""><figcaption><p>Value distributed to the child levels</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
-### i) Mathematical operations using the cell editor
+### ii) Apply formulas
 
-&#x20;Using the cell editor, you can also define simple mathematical operations such as A +/- B, etc., or use the formulas and functions available in Inforiver. In the below example, we are using the 'Average' function. As you start typing, you can see the functions that match the entered text as a list. Click on 'Average'.
+&#x20; You can use the wide range of formulas and functions available in Inforiver while editing a cell. In the below example, we are using the 'Average' function. As you start typing, you can see the functions that match the entered text as a list. Click on 'Average'.
 
 <figure><img src="../../.gitbook/assets/4.3.9 Static rows.png" alt=""><figcaption><p>Using formulas in static rows</p></figcaption></figure>
 
@@ -40,7 +42,7 @@ d) You can see the result of the operation and it also gets distributed to the c
 
 <figure><img src="../../.gitbook/assets/4.3.13 Static rows.png" alt=""><figcaption><p>Data captured</p></figcaption></figure>
 
-### ii) Updating multiple cells
+### iii) Updating multiple cells
 
 You can also override the data in multiple cells with the same value, for instance, set a fixed budget. Select the cells and update the value in any cell, the updated value will get cascaded to all the selected cells.
 
