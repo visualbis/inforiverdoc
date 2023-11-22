@@ -8,5 +8,7 @@ Refer to the below sections for a detailed list of functions, operators, and ide
 * [Logical Functions](logical-functions/)
 * [Math Functions](math-functions/)
 * [Text Formatting Functions](text-formatting-functions/)
+* [Date functions](date-functions/)
+* [Time intelligence functions](time-intelligence-functions/)
 * [Identifiers](identifiers/)
 * [Other Operators](other-operators.md)
