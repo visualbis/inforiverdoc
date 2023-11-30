@@ -194,35 +194,7 @@ If these options do not satisfy your requirements, you can customize your cells 
 
 <figure><img src="../../.gitbook/assets/7.2.23 Trend.png" alt=""><figcaption><p>Options to edit period values</p></figcaption></figure>
 
-### i) Trend
-
-You can apply a trend based on the current cell value and apply it until the last row or column.&#x20;
-
-a) As you click on the '>', you can see a graphical slider where you can set a trend.
-
-<figure><img src="../../.gitbook/assets/7.2.24 Trend.png" alt=""><figcaption><p>Graphical slider</p></figcaption></figure>
-
-b) If you want to enter a percentage precisely, you can click on the 'Input custom value' option.
-
-<figure><img src="../../.gitbook/assets/7.2.26 Trend.png" alt=""><figcaption><p>Input custom value</p></figcaption></figure>
-
-c) Enter a percentage and click 'Apply'.&#x20;
-
-<figure><img src="../../.gitbook/assets/7.2.28 Trend.png" alt=""><figcaption><p>Custom value</p></figcaption></figure>
-
-d) The values for Soda and Tea & Coffee are updated as shown in the below image.
-
-<figure><img src="../../.gitbook/assets/7.2.29 Trend.png" alt=""><figcaption><p>Copy until last row with trend</p></figcaption></figure>
-
-e) You can use 'Copy with trend' in combination with 'Lock this cell' to achieve different business cases. Let's consider an example where the value for Q3 is fixed and the trend needs to be applied to the other quarters. Click on the 'Lock this cell' for the cell highlighted.
-
-<figure><img src="../../.gitbook/assets/7.2.30 Trend.png" alt=""><figcaption><p>Lock cells and copy to other columns</p></figcaption></figure>
-
-f) On applying a trend of 20% as shown in the image, Q2 and Q4 values are updated. Q3 is greyed out as it is locked.
-
-<figure><img src="../../.gitbook/assets/7.2.31 Trend.png" alt=""><figcaption><p>Trend applied to unlocked cells</p></figcaption></figure>
-
-### ii) Copy
+### i) Copy
 
 You can copy the current cell value and apply it to other cells using the following options:
 
@@ -251,6 +223,36 @@ b) If you only want to copy a particular value within the category, you can sele
 c) Value can be copied until the last column using the highlighted option.
 
 <figure><img src="../../.gitbook/assets/7.2.33 Copy last column.png" alt=""><figcaption><p>Copy until the last column</p></figcaption></figure>
+
+
+
+### ii) Trend
+
+You can apply a trend based on the current cell value and apply it until the last row or column.&#x20;
+
+a) As you click on the '>', you can see a graphical slider where you can set a trend.
+
+<figure><img src="../../.gitbook/assets/7.2.24 Trend.png" alt=""><figcaption><p>Graphical slider</p></figcaption></figure>
+
+b) If you want to enter a percentage precisely, you can click on the 'Input custom value' option.
+
+<figure><img src="../../.gitbook/assets/7.2.26 Trend.png" alt=""><figcaption><p>Input custom value</p></figcaption></figure>
+
+c) Enter a percentage and click 'Apply'.&#x20;
+
+<figure><img src="../../.gitbook/assets/7.2.28 Trend.png" alt=""><figcaption><p>Custom value</p></figcaption></figure>
+
+d) The values for Soda and Tea & Coffee are updated as shown in the below image.
+
+<figure><img src="../../.gitbook/assets/7.2.29 Trend.png" alt=""><figcaption><p>Copy until last row with trend</p></figcaption></figure>
+
+e) You can use 'Copy with trend' in combination with 'Lock this cell' to achieve different business cases. Let's consider an example where the value for Q3 is fixed and the trend needs to be applied to the other quarters. Click on the 'Lock this cell' for the cell highlighted.
+
+<figure><img src="../../.gitbook/assets/7.2.30 Trend.png" alt=""><figcaption><p>Lock cells and copy to other columns</p></figcaption></figure>
+
+f) On applying a trend of 20% as shown in the image, Q2 and Q4 values are updated. Q3 is greyed out as it is locked.
+
+<figure><img src="../../.gitbook/assets/7.2.31 Trend.png" alt=""><figcaption><p>Trend applied to unlocked cells</p></figcaption></figure>
 
 In the next section, we'll be covering [set version](set-version.md).
 
