@@ -116,7 +116,7 @@ Enabling this option will show a gripper and context menu (the menu that display
 
 In this image, the context menu appears on right-click when the report is in the reading view mode.
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Context menu on reading view mode</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Context menu on reading view mode</p></figcaption></figure>
 
 #### Show floating toolbar
 
@@ -136,13 +136,13 @@ When this option is enabled, then on selecting any report element you will find 
 
 If you enable this option, you can easily drag and drop the rows and columns for easy reordering in reading view mode.
 
-<figure><img src="../../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption><p>Reorder row/column option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption><p>Reorder row/column option</p></figcaption></figure>
 
 #### Show toast message
 
 Enabling this option will display the toast message in the reading view mode. In the image below, a 'Copied to clipboard' toast message is displayed in the reading mode when the 'Copy to clipboard' option is clicked.
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
 
 #### Sort on click
 
@@ -150,7 +150,7 @@ If this option is enabled, then clicking on the column header will sort the data
 
 In the below image, the up arrow on the column header is highlighted indicating that the column is sorted in descending order.
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Sort on click option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption><p>Sort on click option</p></figcaption></figure>
 
 #### Show search
 

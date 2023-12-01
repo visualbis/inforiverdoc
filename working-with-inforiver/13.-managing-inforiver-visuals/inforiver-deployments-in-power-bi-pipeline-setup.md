@@ -12,32 +12,32 @@ PowerBI Deployment pipelines enable creators to develop and test Power BI conten
 
 1. Assign workspaces to the Development/Test/Production stages of the deployment pipeline. [Learn more about assigning workspaces](https://learn.microsoft.com/en-us/fabric/cicd/deployment-pipelines/assign-pipeline).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Assign workspaces</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption><p>Assign workspaces</p></figcaption></figure>
 
 2. Create a report that uses Inforiver visuals. Publish it to the workspace mapped to the Development Stage of the pipeline. For this demonstration, we have created a report titled 'PipelineDeploy\_Sep28' under the 'Inforiver - Pipeline - Dev' workspace. Select the report to be deployed to the test environment. [Learn more about deploying reports.](https://learn.microsoft.com/en-us/fabric/cicd/deployment-pipelines/deploy-content)
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Select items for deployment</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Select items for deployment</p></figcaption></figure>
 
 3. Review the items that are being deployed and click on the Deploy button.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Start deployment</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Start deployment</p></figcaption></figure>
 
 4. After the deployment is complete, open the report from the Test environment. A notification is generated, prompting the user to open the report in edit mode.&#x20;
 5. After opening the report in edit mode, there will be a yellow icon on the top right indicating that the report is a duplicate of the report in the development environment.
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Indicator that report is a duplicate from dev region</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Indicator that report is a duplicate from dev region</p></figcaption></figure>
 
 6. Click on _Report Details_ under the user profile. This will open the report details pane.
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Click on the Create button to detach this visual.
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Click on the Proceed button to save the report.
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Repeat the above steps between the test and production stages to deploy the report to the production environment.
 

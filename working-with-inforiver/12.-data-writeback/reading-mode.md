@@ -56,4 +56,4 @@ Inforiver will only writeback rows that are applicable to the user performing th
 
 Inforiver performs writeback operations sequentially. For each operation, Inforiver writeback compares new writeback rows to existing DB rows and will overwrite only if all the dimension column names and its values match. However, if you would prefer Inforiver didn't overwrite rows during writeback commits, select Writeback only changes/Delta writeback as the writeback type. Under this mode, Inforiver retains previous values. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (2).png" alt=""><figcaption></figcaption></figure>

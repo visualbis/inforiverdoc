@@ -40,7 +40,7 @@ Inforiver supports fast writeback setup and execution for several types of data 
 On-premise database servers need to be directly reachable from the internet for writeback. For this, on-premise servers must have a public IP address with port forwarding.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Navigating to Inforiver writeback destination setup</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption><p>Navigating to Inforiver writeback destination setup</p></figcaption></figure>
 
 &#x20;A list of destinations will be displayed for the users to select from.&#x20;
 

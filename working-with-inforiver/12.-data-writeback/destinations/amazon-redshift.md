@@ -13,5 +13,5 @@ After navigating to the add destination page, following details will have to be 
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Configuring Amazon Redshift as a writeback destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43) (2).png" alt=""><figcaption><p>Configuring Amazon Redshift as a writeback destination</p></figcaption></figure>
 

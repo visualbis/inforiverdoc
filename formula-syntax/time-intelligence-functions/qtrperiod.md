@@ -29,6 +29,6 @@ QTRPERIOD(2023,4)
 //Returns data for the fourth quarter of 2023
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Quarter period without offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Quarter period without offset</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Quarter period with offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Quarter period with offset</p></figcaption></figure>

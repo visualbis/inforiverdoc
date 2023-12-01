@@ -23,6 +23,6 @@ The writeback creates a Parquet file in the data lake storage.&#x20;
 
 **Security:** Please note Inforiver leverages Azure Access Control Lists (ACLs) while configuring Azure Data Lake Storage as a writeback destination. That means, the user is only shown folders and directories that they have access to as per the defined ACL rules.
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Configuring Azure Data Lake Storage as a writeback destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40) (1).png" alt=""><figcaption><p>Configuring Azure Data Lake Storage as a writeback destination</p></figcaption></figure>
 
 ##

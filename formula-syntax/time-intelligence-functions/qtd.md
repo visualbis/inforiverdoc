@@ -27,6 +27,6 @@ QTD([Sales],5)
 //Returns data for the past 5 quarters and the current quarter
 ```
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>QTD without offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>QTD without offset</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>QTD with offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>QTD with offset</p></figcaption></figure>

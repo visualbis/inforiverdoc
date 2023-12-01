@@ -14,7 +14,7 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Configuring Snowflake as a writeback destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Configuring Snowflake as a writeback destination</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption><p>Steps to set up a writeback destination in Snowflake</p></figcaption></figure>
 

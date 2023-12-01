@@ -4,7 +4,7 @@ Here you can view all the previously configured writeback destinations
 
 You can find a Manage link next to every destination. Clicking on this manage link will open up the destinations page where you can add, edit, delete, or manage your existing destinations.
 
-<figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Manage Destinations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption><p>Manage Destinations</p></figcaption></figure>
 
 ### Reset Writeback
 
@@ -12,13 +12,13 @@ If the [writeback filter](general-settings.md#ii-filter) has been changed, a res
 
 For demonstration purposes, consider a SQL server destination to which the base and scenario data have been written back. The count of data populated in the database, region-wise and subregion-wise is as follows:
 
-<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Count of region-wise data after writeback</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption><p>Count of region-wise data after writeback</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (7) (5) (1).png" alt=""><figcaption><p>Count of subregion-wise data after writeback</p></figcaption></figure>
 
 The filter in writeback settings is changed from "None" to "Exclude Totals and Subtotals":
 
-<figure><img src="../../../.gitbook/assets/image (31) (2).png" alt=""><figcaption><p>Change writeback filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (2) (1).png" alt=""><figcaption><p>Change writeback filter</p></figcaption></figure>
 
 After changing the filter, a reset needs to be done to clean up data from the previous writeback. To achieve this, go to Writeback Settings -> Destinations tab and click on the Reset button.&#x20;
 
@@ -26,7 +26,7 @@ After changing the filter, a reset needs to be done to clean up data from the pr
 Reset will overwrite data in all configured destinations.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (22) (2).png" alt=""><figcaption><p>Writeback reset</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (2) (1).png" alt=""><figcaption><p>Writeback reset</p></figcaption></figure>
 
 Since the filter has been changed to "Exclude Totals and Subtotals", notice that the rows with  value "All" for Region and subRegion have been removed after Reset:
 
