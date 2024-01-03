@@ -1,10 +1,9 @@
 # Fabric lakehouse
 
-After navigating to the add destination page, the following details are required to add **Fabric Lakehouse** as a writeback destination:
+To add a Fabric Lakehouse destination, you need to sign in with Microsoft Office 365 credentials first. After signing in, you will be able to see the list of workspaces and lakehouses that you have access to.&#x20;
 
-* Storage Account
-* Account Key
-* File System
-* Directory
+{% hint style="info" %}
+The Lakehouse.ReadWrite.All permission needs to be provided to configure lakehouse destinations.
+{% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (289).png" alt=""><figcaption><p>Fabric Lakehouse destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>

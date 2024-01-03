@@ -16,14 +16,17 @@ Configuring writeback destination(s) is straightforward and involves the same pr
 
 A list of destinations will be displayed for the users to select from.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption><p>Inforiver supported writeback destinations.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
 
 Configuring destinations for writeback is a straightforward process that will be covered in the upcoming sections.
 
-After configuring the destination, you can choose whether the destination should be client-managed or inforiver-managed.  If you wish to restrict access to the database, opt for client-managed destinations.
+After configuring the destination, you can choose whether the destination should be **client-managed** or **inforiver-managed**.  If you wish to restrict access to the database, opt for client-managed destinations.
 
 * For Inforiver-managed destinations, creating the writeback table will be done automatically by Inforiver. Requisite permissions on the table need to be provided to Inforiver.
 * For client-managed destinations, Inforiver will generate the scripts. You can manually execute them against the database.
 
 <figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption><p>Destination management</p></figcaption></figure>
 
+You can also set the decimal precision i.e. the number of digits after the decimal point to be written back to the destination.
+
+<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>

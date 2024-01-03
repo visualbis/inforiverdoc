@@ -1,14 +1,12 @@
 # Destination Settings
 
-Here you can view all the previously configured writeback destinations
+You can add, view, delete, and manage destinations from this tab. Clicking on the manage link will navigate to the destinations page where you can configure and manage your existing destinations.
 
-You can find a Manage link next to every destination. Clicking on this manage link will open up the destinations page where you can add, edit, delete, or manage your existing destinations.
-
-<figure><img src="../../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption><p>Manage Destinations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption><p>Manage destinations</p></figcaption></figure>
 
 ### Reset Writeback
 
-If the [writeback filter](general-settings.md#ii-filter) has been changed, a reset is required to clean up the data existing in the destination(s) from previous writebacks. A reset will run a clean up for both base and scenario data that has been written back to a destination.
+If the [writeback filter](general-settings.md#ii-filter) has been changed, a reset is required to clean up the data existing in the destination(s) from previous writebacks. A reset will run a clean-up for both base and scenario data that has been written back to a destination.
 
 For demonstration purposes, consider a SQL server destination to which the base and scenario data have been written back. The count of data populated in the database, region-wise and subregion-wise is as follows:
 
@@ -28,7 +26,7 @@ Reset will overwrite data in all configured destinations.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (22) (2) (1).png" alt=""><figcaption><p>Writeback reset</p></figcaption></figure>
 
-Since the filter has been changed to "Exclude Totals and Subtotals", notice that the rows with  value "All" for Region and subRegion have been removed after Reset:
+Since the filter has been changed to "Exclude Totals and Subtotals", notice that the rows with the value "All" for Region and subRegion have been removed after Reset:
 
 <figure><img src="../../../.gitbook/assets/image (10) (4) (1).png" alt=""><figcaption><p>Count of region-wise data after reset</p></figcaption></figure>
 
