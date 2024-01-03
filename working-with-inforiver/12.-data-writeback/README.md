@@ -48,6 +48,10 @@ On-premise database servers need to be directly reachable from the internet for 
 
 To learn how to configure each destination in the above list, [navigate to this page](destinations/#overview).&#x20;
 
+{% hint style="info" %}
+The number of rows that can be written back is 200k rows for Excel and CSV and 250 rows for OneDrive and SharePoint
+{% endhint %}
+
 #### Resources
 
 [Writeback data and comments using Inforiver](https://inforiver.com/writeback-powerbi/)
