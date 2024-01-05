@@ -2,7 +2,7 @@
 
 Allows you to configure a writeback destination in Azure SQL Database that **exists inside & owned by Inforiver tenant**. Recommended for POC purposes only. Users who have difficulties in setting up a database within their tenant are welcome to use this feature to understand Inforiver's writeback functionalities and perform test writebacks for POC purposes.
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Terms of service while using Managed DB</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66) (1).png" alt=""><figcaption><p>Terms of service while using Managed DB</p></figcaption></figure>
 
 After navigating to the writeback destination, enter a name for the writeback table.&#x20;
 

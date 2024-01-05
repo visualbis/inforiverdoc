@@ -12,7 +12,7 @@ Inforiver supports fast writeback setup and execution for several types of data 
 
 Configuring writeback destination(s) is straightforward and involves the same procedure (picture below) for any destination.
 
-<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Navigating to Inforiver writeback destination setup</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68) (1).png" alt=""><figcaption><p>Navigating to Inforiver writeback destination setup</p></figcaption></figure>
 
 A list of destinations will be displayed for the users to select from.&#x20;
 

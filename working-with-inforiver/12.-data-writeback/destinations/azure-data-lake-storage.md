@@ -4,7 +4,7 @@ Allows you to configure Azure Data Lake Storage as a destination for Inforiver w
 
 After navigating to the add destination page, log-in using your O365 credentials.
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
 
 After successful log-in, following details will have to be entered,
 

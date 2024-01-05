@@ -16,4 +16,4 @@ If you are working with multiple writeback connections used by multiple reports 
 
 **Writeback -> Settings:** Allows Admin to enable/disable users from creating and configuring writeback destinations. Due to data security and confidentiality requirements, organizations would prefer users to export data to destinations created and configured by admins. This setting will allow the admin to achieve that by disabling users from creating destinations.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption><p>Navigation to security settings page in Inforiver console</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65) (1).png" alt=""><figcaption><p>Navigation to security settings page in Inforiver console</p></figcaption></figure>

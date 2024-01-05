@@ -7,7 +7,7 @@ After navigating to the add destination page enter,
 * Endpoint URL
 * Required headers and value
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
 <pre><code>{"headers":{"Connection":"close",
 <strong>"Accept-Encoding":"gzip,deflate",
