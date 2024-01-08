@@ -56,14 +56,22 @@ If the data is customized with different fonts, the font chosen in the Settings 
 
 g) You can '**Show header and footer**' either only on the First Page or on Every Page
 
-h) You can select the '**Include footnotes**' option to export the footnotes along with the table/matrix
+h) You can capture comments and replies **i**n the fully formatted PDF exports. Check the **'Include comment replies'** to export the replies in the comments column.
 
-i) You can set the '**Footnote position**' as
+<figure><img src="../../.gitbook/assets/image (378).png" alt=""><figcaption><p>Report that has comments and replies</p></figcaption></figure>
+
+After exporting the report to a PDF, you will be able to see formatted comments and replies in the file.
+
+<figure><img src="../../.gitbook/assets/6.1. Comments replies (1).png" alt=""><figcaption><p>Comments and replies</p></figcaption></figure>
+
+i)You can select the '**Include footnotes**' option to export the footnotes along with the table/matrix
+
+j) You can set the '**Footnote position**' as
 
 * Last Page: Footnotes get printed on the last page.
 * Dynamic: Based on the available space, footnotes get printed either on the same page where they are added or on the last page.
 
-j) Click on 'Update' to save your page setup selection. Click on 'Reset' to reset all your selections.&#x20;
+k) Click on 'Update' to save your page setup selection. Click on 'Reset' to reset all your selections.&#x20;
 
 ### ii) Exporting
 

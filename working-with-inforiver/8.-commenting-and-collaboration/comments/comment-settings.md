@@ -38,9 +38,9 @@ b) When private commenting is enabled, you have the option to provide users with
 
 #### ii) Public commenting
 
-With public commenting, you can log in using your LinkedIn/Google/Twitter accounts and collaborate with your social networks.&#x20;
+With public commenting, you can log in using your LinkedInGoogle accounts and collaborate with your social networks.&#x20;
 
-The below screenshot is from this [demo](https://inforiver.com/microsoft-social-collaboration-in-power-bi/) on public commenting hosted on the Inforiver website. When you click on 'Sign in', you get additional options such as LinkedIn, Google and Twitter.
+The below screenshot is from this [demo](https://inforiver.com/microsoft-social-collaboration-in-power-bi/) on public commenting hosted on the Inforiver website. When you click on 'Sign in', you get additional options such as LinkedInGoogle.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.7 Settings.png" alt=""><figcaption><p>Public commenting</p></figcaption></figure>
 

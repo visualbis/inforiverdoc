@@ -27,6 +27,10 @@ After configuring the destination, you can choose whether the destination should
 
 <figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption><p>Destination management</p></figcaption></figure>
 
-You can also set the decimal precision i.e. the number of digits after the decimal point to be written back to the destination.
+Inforiver rounds off all numeric values including percentages to a specified number of decimal points as per your configuration instructions. When you create the first connection, you can specify decimal precision for all connections in that report.
 
-<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.4.1.WB PErcentage values.png" alt=""><figcaption><p>Decimal precision</p></figcaption></figure>
+
+When you apply the decimal precision shown in the image above, Inforiver writes back values (in this example, to Snowflake) rounded off to 5 decimal places.
+
+<figure><img src="../../../.gitbook/assets/1.4.2.WB PErcentage values output.png" alt=""><figcaption><p>Writeback percentage values</p></figcaption></figure>

@@ -27,6 +27,6 @@ YEARPERIOD(2023)
 //Returns data from 2023
 ```
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Yearperiod without offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Yearperiod without offset</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Yearperiod with offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Yearperiod with offset</p></figcaption></figure>
