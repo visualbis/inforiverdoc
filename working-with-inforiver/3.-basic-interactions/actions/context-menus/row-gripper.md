@@ -10,7 +10,7 @@ If you have set a multi-page layout with scrolling,  use this option to ensure t
 
 #### ii) Expand/Collapse
 
-Inforiver makes it effortless for you to handle large hierarchical datasets. Instead of manually expanding or collapsing each level of the hierarchy, you have various options in the row gripper. [Learn more about managing hierarchies.](../../manage-hierarchies.md)
+Inforiver makes it effortless for you to handle large hierarchical datasets. Instead of manually expanding or collapsing each level of the hierarchy, you have various options in the row gripper. [Learn more about managing hierarchies.](../../manage-hierarchies/)
 
 <figure><img src="../../../../.gitbook/assets/image (39) (2).png" alt=""><figcaption></figcaption></figure>
 

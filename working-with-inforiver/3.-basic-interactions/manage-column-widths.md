@@ -77,4 +77,4 @@ Turn on the 'Auto wrap column' toggle. You can observe that the row headers for 
 Auto-wrap is applicable for row/column/measure headers and rows/columns/cells.
 {% endhint %}
 
-In the next section, we'll cover how to [manage hierarchies ](manage-hierarchies.md)using expand-collapse.
+In the next section, we'll cover how to [manage hierarchies ](manage-hierarchies/)using expand-collapse.
