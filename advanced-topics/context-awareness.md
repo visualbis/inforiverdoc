@@ -1,6 +1,6 @@
 # Context awareness
 
-Inforiver provides built-in [context-aware commenting](https://videos.inforiver.com/matrix/general/comments-with-filter-context) i.e., any comments, notes, or even headers that you add will be updated dynamically based on external filters or slicers. When users enter comments, the visual is unaware of the context, which can be set by a filter or a slicer in the report. In the example, notice how the comment entered for 'APAC' is still visible even after changing the filter to 'EMEA'.
+Inforiver provides built-in context awareness i.e., any comments, notes, or even headers that you add will be updated dynamically based on external filter or slicer selection. When users enter comments, the visual is unaware of the context, which can be set by a filter or a slicer in the report. In the example, notice how the comment entered for 'APAC' is still visible even after changing the filter to 'EMEA'.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Context unaware</p></figcaption></figure>
 
