@@ -2,7 +2,7 @@
 
 In Inforiver, you can change the font color, style, size, and text alignment in a cell, or apply formatting effects. These are available in the 'Home' tab of the toolbar in the 'Style' and 'Alignment' sections.
 
-<figure><img src="../../../.gitbook/assets/2.4.2.1 style and alignment.png" alt=""><figcaption><p>Style and alignment options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (380).png" alt=""><figcaption><p>Style and alignment sections</p></figcaption></figure>
 
 ## 1. Style options
 
@@ -81,6 +81,18 @@ Use the indentation icon from the toolbar to indent specific values. This featur
 #### d) Row size&#x20;
 
 You can increase or decrease row size manually. This is especially useful when inserting inline charts.&#x20;
+
+#### e) Word wrap
+
+If your measure headers are very long, you can enable the word wrap option to ensure that the entire header is displayed.
+
+**f) Fit Content**
+
+You can choose the fit mode that is best suited for your data.
+
+<figure><img src="../../../.gitbook/assets/image (381).png" alt=""><figcaption><p>Fit to header</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (382).png" alt=""><figcaption><p>Best fit</p></figcaption></figure>
 
 In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).
 
