@@ -64,6 +64,6 @@ The snapshot feature comes packaged with a built-in scheduler. Click on the _Sch
 
 After saving the schedule settings, you will have options to initiate, reset, and pause the schedule and view logs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduler options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduler options</p></figcaption></figure>
 
 In the next section, we'll look at [scheduling reports](../11.-scheduling-reports/).

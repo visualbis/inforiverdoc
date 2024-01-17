@@ -112,3 +112,5 @@ SETVISIBILITY([[Furniture], COLUMNS.[West > Sum of Profit]], FALSE) #Hides the c
 SETVISIBILITY([[Furniture], COLUMNS.[Central > Sum of Quantity]], TRUE) #Shows the column for a row category
 SETVISIBILITY([[Furniture], COLUMNS.[Central > Sum of Quantity]], THIS) #Use with a toggle variable to show or hide the Quantity for furniture
 ```
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Setvisibility row and column</p></figcaption></figure>
