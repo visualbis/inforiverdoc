@@ -2,21 +2,21 @@
 
 Inforiver provides built-in context awareness i.e., any comments, notes, or even headers that you add will be updated dynamically based on external filter or slicer selection. When users enter comments, the visual is unaware of the context, which can be set by a filter or a slicer in the report. In the example, notice how the comment entered for 'APAC' is still visible even after changing the filter to 'EMEA'.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Context unaware</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Context unaware</p></figcaption></figure>
 
 With Inforiver, you can configure filter context, which ensures that Inforiver visuals are aware of context changes and responsive to changes in filters i.e. the comments and notes are dynamically updated. Let's look at how to set up filter context.
 
 **Step 1**: Click on the **Filter Context** button in the Insert ribbon.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Filter context navigation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Filter context navigation</p></figcaption></figure>
 
 **Step 2**: In the popup window, enter the table and field name for which context awareness is being set up. You can enter multiple tables and categories using the Add new link. In this case, we are setting up filter context for Subregions.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Add table and category</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Add table and category</p></figcaption></figure>
 
 **Step 3**: Inforiver automatically generates the DAX code based on the tables and categories entered. Click on the Generate Dax button and copy the DAX.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Generate DAX</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Generate DAX</p></figcaption></figure>
 
 **Step 4**: Create a new measure in your data model using the DAX generated in Step 3.
 

@@ -58,7 +58,7 @@ g) You can '**Show header and footer**' either only on the First Page or on Ever
 
 h) You can capture comments and replies **i**n the fully formatted PDF exports. Check the **'Include comment replies'** to export the replies in the comments column.
 
-<figure><img src="../../.gitbook/assets/image (378).png" alt=""><figcaption><p>Report that has comments and replies</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (378) (1).png" alt=""><figcaption><p>Report that has comments and replies</p></figcaption></figure>
 
 After exporting the report to a PDF, you will be able to see formatted comments and replies in the file.
 

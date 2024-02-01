@@ -2,7 +2,7 @@
 
 In Inforiver, you can change the font color, style, size, and text alignment in a cell, or apply formatting effects. These are available in the 'Home' tab of the toolbar in the 'Style' and 'Alignment' sections.
 
-<figure><img src="../../../.gitbook/assets/image (380).png" alt=""><figcaption><p>Style and alignment sections</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (380) (1).png" alt=""><figcaption><p>Style and alignment sections</p></figcaption></figure>
 
 ## 1. Style options
 
@@ -90,7 +90,7 @@ If your measure headers are very long, you can enable the word wrap option to en
 
 You can choose the fit mode that is best suited for your data.
 
-<figure><img src="../../../.gitbook/assets/image (381).png" alt=""><figcaption><p>Fit to header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (381) (1).png" alt=""><figcaption><p>Fit to header</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (382).png" alt=""><figcaption><p>Best fit</p></figcaption></figure>
 
