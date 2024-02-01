@@ -113,4 +113,4 @@ SETVISIBILITY([[Furniture], COLUMNS.[Central > Sum of Quantity]], TRUE) #Shows t
 SETVISIBILITY([[Furniture], COLUMNS.[Central > Sum of Quantity]], THIS) #Use with a toggle variable to show or hide the Quantity for furniture
 ```
 
-<figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption><p>Setvisibility row and column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption><p>Setvisibility row and column</p></figcaption></figure>

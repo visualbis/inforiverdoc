@@ -12,7 +12,7 @@ This section will explore the basic concepts and factors to be aware of while du
 
 Every Inforiver visual is assigned to a specific visual ID. When a particular visual is duplicated, the new visual will also be tagged with the same visual ID as the original. Elements like forecasts, scenarios, and comments in the new visual will be a pointer to the original i.e., any changes made to these elements will be reflected in both the original and the copied visual.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Visual ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Visual ID</p></figcaption></figure>
 
 Inforiver elements that are shared between visuals include:
 
@@ -30,25 +30,30 @@ Other elements such as Formulas, Variance columns, Formatting changes, Show/Hide
 
 Inforiver generates a **notification** when a duplicate visual is detected.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Detaching visuals
 
 1. [Publish the report](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-upload-desktop-files) to the Power BI service. Open the report in edit mode in the Power BI service, after the report has been published. A yellow warning symbol near the profile indicates that the visual is a duplicate.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate report warning</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate report warning</p></figcaption></figure>
 
 2. Expand the Profile menu and navigate to **Report Details**.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the **Create** button in the Report Details side pane to detach the visual.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Click on **Proceed** to confirm that the visual can be detached.
+4. Choose whether to retain existing data or enter new values for data input fields.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* To copy data input values to the new visual select the _**Yes, I do**_ option
+* To enter new values, select _**No, I will start with blank cell values**_
+
+Select the confirmation checkbox and click on **Proceed** to confirm that the visual can be detached.
+
+<figure><img src="../../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
 
 5. The warning symbol will be removed after the visual is saved.
 
@@ -56,7 +61,7 @@ Inforiver generates a **notification** when a duplicate visual is detected.
 When a visual is detached, the duplicate warning symbol is removed. There will not be any other explicit changes to indicate that the visual has been detached from the original. Internally, the new visual is assigned to a separate visual ID. Any changes made in the new report will no longer affect elements from the original report.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>Detached visual</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>Detached visual</p></figcaption></figure>
 
 ### When to detach visuals
 

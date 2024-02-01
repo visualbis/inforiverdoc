@@ -18,7 +18,7 @@ Sets the layout option to hierarchy and displays the data in a hierarchical form
 LAYOUT.HIERARCHICAL
 ```
 
-<figure><img src="../../.gitbook/assets/image (383).png" alt=""><figcaption><p>Layout hierarchical</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (383) (1).png" alt=""><figcaption><p>Layout hierarchical</p></figcaption></figure>
 
 ## 2. LAYOUT.OUTLINE
 
@@ -30,7 +30,7 @@ Sets the layout option to outline.
 LAYOUT.OUTLINE
 ```
 
-<figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption><p>Setting the layout to outline</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (384) (1).png" alt=""><figcaption><p>Setting the layout to outline</p></figcaption></figure>
 
 ## 3. LAYOUT.TABLE
 
@@ -42,7 +42,7 @@ Sets the layout option to table.
 LAYOUT.TABLE
 ```
 
-<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption><p>Setting the layout to table</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (385) (1).png" alt=""><figcaption><p>Setting the layout to table</p></figcaption></figure>
 
 ## 4. LAYOUT.STEPPED
 

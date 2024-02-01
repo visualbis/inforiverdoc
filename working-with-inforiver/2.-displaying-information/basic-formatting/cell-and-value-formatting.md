@@ -92,7 +92,7 @@ You can choose the fit mode that is best suited for your data.
 
 <figure><img src="../../../.gitbook/assets/image (381) (1).png" alt=""><figcaption><p>Fit to header</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (382).png" alt=""><figcaption><p>Best fit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (382) (1).png" alt=""><figcaption><p>Best fit</p></figcaption></figure>
 
 In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).
 

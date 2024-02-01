@@ -59,4 +59,4 @@ Click 'Cancel' to close the modal.
 
 <figure><img src="../../.gitbook/assets/cancel-option.png" alt=""><figcaption><p>Cancel option</p></figcaption></figure>
 
-In the next section, we'll look at [snapshots](snapshot-enterprise-only/).
+In the next section, we'll look at [snapshots](snapshot-enterprise-only.md).
