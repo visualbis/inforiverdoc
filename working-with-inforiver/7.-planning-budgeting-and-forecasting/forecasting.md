@@ -1,127 +1,94 @@
 # Forecasting
 
-With Inforiver, you can easily generate a rolling forecast and use methods like period range, average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features as well.&#x20;
+With Inforiver, you can easily generate a rolling forecast and use methods like period range, an average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features to create half-yearly forecasts or fiscal period forecasts.
 
-## 1. Forecast settings
+## 1. Generating a forecast
 
-Inforiver allows you to generate a forecast for up to 5 years, starting from the current year.&#x20;
+To create a forecast, click on the Insert Forecast button in the Insert ribbon. The forecast dialog box has the options listed below
 
-<figure><img src="../../.gitbook/assets/image (117) (1).png" alt=""><figcaption><p>Choosing the forecast period</p></figcaption></figure>
+**1. Measure name:** By default, the forecast measure is named ‘Forecast’. This can be updated to a relevant column name.
 
-&#x20;
+**2. Forecast period:** The time frame for which the forecast is being generated. Inforiver's time intelligence sets the start date to the current month - you can update the range based on your requirements.
 
-<figure><img src="../../.gitbook/assets/image (132) (1).png" alt=""><figcaption><p>Forecast created for 5 years</p></figcaption></figure>
+**3. Linked actuals measure:** The new forecast measure will be created for past or closed periods as well. The _Linked actuals measure_ option allows you to select the series to be used as the data source. If Sales is selected, then the forecast measure for 2022 and 2023 will be populated from Sales. If Revenue is selected, then the forecast measure for 2022 and 2023 will be populated from Revenue.&#x20;
 
-#### Configuring the Forecast Time Range
+<figure><img src="../../.gitbook/assets/2024-02-02_10h27_04.png" alt=""><figcaption><p>Create forecast dialog box</p></figcaption></figure>
 
-In the Forecast settings dialog box, set the start and end periods. E.g. if we are creating a forecast from July 2023 onwards:
+## 2. Configuring the forecast
 
-1. To generate a forecast for the rest of the year, choose July 2023 to December 2023.&#x20;
-2. To generate a forecast for the next quarter, choose July 2023 to September 2023.
-3. &#x20;To generate a forecast for the next year, set the year dropdown to 2024.
-4. To generate a forecast for the next 5 years, set the year dropdown to 2028.
+Inforiver allows you to create rolling forecasts and choose different methods to populate the forecast values. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (119) (1).png" alt=""><figcaption><p>Forecast initialization</p></figcaption></figure>
+**1. Target period:** You can split the forecast period into shorter time frames or configure the forecast for the whole period. In this case, we have split the forecast period into 3 parts: January to March, April to June, and July to December.
 
-Click on the 'Next' button to configure the forecast.
+<figure><img src="../../.gitbook/assets/2024-02-02_10h41_55.png" alt=""><figcaption><p>Rolling forecast</p></figcaption></figure>
 
-## 2. Generating a forecast
+You can also configure for the entire period at one shot as shown below.
 
-The Forecast dialog box has the following configurations:
+<figure><img src="../../.gitbook/assets/2024-02-02_10h55_38.png" alt=""><figcaption><p>Configuration for entire period</p></figcaption></figure>
 
-**1. Title**: By default, the forecast measure is named ‘Forecast’. This can be updated to a relevant column name.
+**2. Select source:** You can choose the measure that will be used as the data source for the forecast. To manually enter the forecast values, select the 'Blank' option.
 
-**2. Select Forecast Period**: The starting period for which a forecast is being created. By default, this is set to the current month and year. It can be set to any month in the future.
+<figure><img src="../../.gitbook/assets/2024-02-02_10h30_44.png" alt=""><figcaption><p>Forecast data source</p></figcaption></figure>
 
-**3. Closed Period:** This is a static message that indicates the date range available in the input dataset. The dataset used in this example has data from January to December 2022.
+**3. Apply operation:** There are 3 different methods that you can use to generate a forecast:
 
-<figure><img src="../../.gitbook/assets/image (209) (1).png" alt=""><figcaption><p>Closed period</p></figcaption></figure>
+* **Period range**: The values from a  specific period range will be used to initialize the forecast. In this case, we have used the sales from Q4 2023 (Copy period range) to populate the forecast for Q1 2024 (Target period). The duration of the period range should match the duration of the target period. E.g., if the target period is 6 months, then you must select a period range spanning 6 months.
 
-**4. Copy from:** The new forecast measure will be created for past or closed periods as well.  The Copy From option allows you to select the series to be used as the data source. If Actuals is selected, then the forecast measure for 2022 will be populated from Actuals. If Plan is selected, then the forecast measure for 2022 will be populated from Plan.&#x20;
+<figure><img src="../../.gitbook/assets/2024-02-02_11h08_22.png" alt=""><figcaption><p>Period range</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (210) (1).png" alt=""><figcaption><p>Copy from option</p></figcaption></figure>
+* **Single period:** The values for a specific month will be used to initialize the forecast. In this case, we have used the revenue from December 2022 to populate the forecast for Apr to Jun 2024.
 
-Forecasts created for closed/past periods would be as shown in the image below. These are greyed out and cannot be edited.  When column subtotals are enabled, the forecast for subtotals will also be greyed out for closed periods.
+<figure><img src="../../.gitbook/assets/2024-02-02_11h13_05.png" alt=""><figcaption><p>Single period</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (118) (1).png" alt=""><figcaption><p>Static forecast for 2022 created from Actuals</p></figcaption></figure>
+* **Average of period range**: The average of a custom time period will be used to initialize the forecast. In this case, we have used the average revenue from Jan 2022 to Dec 2023 to initialize the forecast.
 
-**5. Period:** The time frame of the forecast. In this example, we are creating a forecast for a year - from August 2023 to August 2024.
+<figure><img src="../../.gitbook/assets/2024-02-02_11h17_28.png" alt=""><figcaption><p>Average of period range</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (120) (1).png" alt=""><figcaption><p>Forecast period range</p></figcaption></figure>
+**4. Copy period range:** The time frame for which to copy data from the source measure.
 
-You can also split the forecast period into multiple time frames and use different options for each period. To create a rolling forecast, you need to define the settings for the entire forecast period.&#x20;
+<div>
 
-To demonstrate this feature, let us consider an example wherein:
+<figure><img src="../../.gitbook/assets/2024-02-02_11h22_11.png" alt=""><figcaption><p>Period range</p></figcaption></figure>
 
-* The forecast from August to September 2023 should be based on the Actuals from the previous year i.e. August to September 2022.   &#x20;
-* The forecast from October to December 2023 should be based on the average of Actuals from the previous year i.e. January to December 2022.      &#x20;
-* The forecast for the next year, 2024(January to August) should be based on the Plan from December 2022.                                                                                                                                                                                                                                                                                  &#x20;
+ 
 
-This can be achieved using the configuration shown below.
+<figure><img src="../../.gitbook/assets/Period range (1).png" alt=""><figcaption><p>Single month</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (121) (1).png" alt=""><figcaption><p>Rolling forecast created using multiple period ranges</p></figcaption></figure>
+ 
 
-The forecast created is shown in the images below.
+<figure><img src="../../.gitbook/assets/period range 2 (1).png" alt=""><figcaption><p>Custom time frame</p></figcaption></figure>
 
-* The forecast for August to September 2023 has been created from the Actuals from the previous year i.e. August to September 2022.
+</div>
 
-<figure><img src="../../.gitbook/assets/image (122) (1).png" alt=""><figcaption><p>First period of rolling forecast with period range as copy method</p></figcaption></figure>
+## 3. Analysing the forecast
 
-* The forecast from October to December 2023 has been created from the average of Actuals from the previous year i.e. average from January to December 2022.      &#x20;
+Let's look at the forecast generated with the configurations in the earlier sections.
 
-<figure><img src="../../.gitbook/assets/image (124) (1).png" alt=""><figcaption><p>Second period of rolling forecast with average of period range as copy method</p></figcaption></figure>
+* **Closed period forecasts**
 
-* The forecast for the next year, 2024(January to August) has been created from the Plan from December 2022.  &#x20;
+The forecast measure generated for previous or closed periods will be greyed out and cannot be edited. In section 1, we had assigned the Sales measure to populate the forecasts for past periods.
 
-<figure><img src="../../.gitbook/assets/image (126) (1).png" alt=""><figcaption><p>Third period of rolling forecast with single period as copy method</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-02-02_11h35_56.png" alt=""><figcaption><p>Forecasts for closed periods</p></figcaption></figure>
 
+* **Forecast using period range**&#x20;
 
+We used the Sales measure from Oct to Dec 2023, to populate for forecast from Jan to Mar 2024. For clarity, in this image, we have displayed only Sales and Forecast measures.
 
-**6. Source series:** Choose the measure which will be the data source for the forecast. To manually enter all the forecasts, select the Blank option.
+<figure><img src="../../.gitbook/assets/2024-02-02_11h42_02.png" alt=""><figcaption><p>Period range</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (212) (1).png" alt=""><figcaption><p>Selecting the data source</p></figcaption></figure>
+* **Forecast using single period**
 
-**7. Copy Method:** Method used to initialize the forecast. There are 3 methods that can be used to populate the forecast:
+We used the revenue from December 2022 to create the forecast from April to June 2024. For clarity, in this image, we have displayed only Revenue and Forecast measures.
 
-&#x20;**a) Period Range:** A range of months will be used to populate the forecast. Consider creating a forecast for the next quarter i.e. October 2023 to December 2023. Any period range of 3 months can be used to initialize the forecast, in this case, we will use data from Q1, 2022 as shown in the images below.
+<figure><img src="../../.gitbook/assets/2024-02-02_11h53_58.png" alt=""><figcaption><p>Forecast using single period</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (127) (1).png" alt=""><figcaption><p>Period range as copy method</p></figcaption></figure>
+* **Forecast using average of period range**
 
-<figure><img src="../../.gitbook/assets/image (128) (1).png" alt=""><figcaption><p>Forecast created using period range</p></figcaption></figure>
+We used the average revenue from Jan 2022 to Dec 2023 to create the forecast from July to December 2024.
 
+<figure><img src="../../.gitbook/assets/2024-02-02_12h07_45.png" alt=""><figcaption><p>Average of period range</p></figcaption></figure>
 
-
-**b) Single Period:** The data for any particular period will be used to initialize the forecast. In this case, the Plan from December 2022 is used to initialize the data for the entire forecast from  August 2023 to August 2024.
-
-<figure><img src="../../.gitbook/assets/image (129) (1).png" alt=""><figcaption><p>Single period as copy method</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (130) (1).png" alt=""><figcaption><p>Forecast created using single period</p></figcaption></figure>
-
-**c) Average of Period Range:** The average value of a measure, over a user-defined range of time is calculated and used to initialize the forecast. In this case, the average of Actuals from October to December 2022 will be used to create the entire forecast.
-
-<figure><img src="../../.gitbook/assets/image (134) (1).png" alt=""><figcaption><p>Average of period range as copy method</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (135) (1).png" alt=""><figcaption><p>Forecast created using average of period range</p></figcaption></figure>
-
-**8. Period Selection:** This is used to create rolling forecasts and split the forecast period into multiple time frames.&#x20;
-
-## 3. Time intelligence settings
-
-Inforiver's built-in time intelligence automatically detects date formats when the data source does not contain Power BI date formats. In the image below, notice how Inforiver identifies the formats when the quarter is denoted in numbers and months are denoted as short names.
-
-<figure><img src="../../.gitbook/assets/Forecast2 (2).png" alt=""><figcaption></figcaption></figure>
-
-To view the date format or to override it, in the Insert ribbon, click on 'Manage Columns'. In the 'Inserted Columns' side pane, navigate to the Settings tab -> 'Time Interval Mapping'.
-
-{% hint style="info" %}
-Hover over the bulb icon near Format to view the format models supported by Inforiver.
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/Forecast001.png" alt=""><figcaption><p>Time intelligence settings</p></figcaption></figure>
-
-
-
-## 4. Month-end date rollover
+## 4. Date rollover
 
 Once the actual monthly data is available for a particular forecasted month, the report needs to reflect the actuals instead of the forecast. Consider the case below, wherein a forecast has been created from August to year-end.
 

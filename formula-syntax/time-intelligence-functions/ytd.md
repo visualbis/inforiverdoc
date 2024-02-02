@@ -27,6 +27,6 @@ YTD([Sales,2)
 //Returns data for the past 2 years and for the current year
 ```
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>YTD with offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>YTD with offset</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>YTD without offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption><p>YTD without offset</p></figcaption></figure>

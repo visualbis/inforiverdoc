@@ -68,7 +68,7 @@ Snapshots can be scheduled only from the Power BI service, not from the desktop.
 
 After saving the schedule settings, you will have options to initiate, reset, and pause the schedule and view logs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduler options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduler options</p></figcaption></figure>
 
 Click on **View jobs** to see all the snapshot jobs and to view logs. The logs will show details such as the total time taken to run the job, the time taken for each milestone and the steps under each milestone.
 
@@ -82,11 +82,11 @@ Report viewers can also view, export, and [compare](snapshot-enterprise-only/com
 Users who have access to a snapshot have elevated access. They can view all the data irrespective of RLS settings.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Snapshot permissions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (377).png" alt=""><figcaption><p>Snapshot permissions</p></figcaption></figure>
 
 After adding users, you can assign permissions to view/compare/export snapshots from the Allowed User Controls settings.
 
-<figure><img src="../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (377) (1).png" alt=""><figcaption></figcaption></figure>
 
 Users who have permissions will have the Snapshot ribbon enabled in reading view and will be able to access snapshots.
 
