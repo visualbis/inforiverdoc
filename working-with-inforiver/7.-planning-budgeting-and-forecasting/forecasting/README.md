@@ -1,6 +1,6 @@
 # Forecasting
 
-With Inforiver, you can easily generate a rolling forecast and use methods like period range, an average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features to create half-yearly forecasts or fiscal period forecasts.
+With Inforiver, you can easily generate a rolling forecast and use methods like period range, an average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features to create half-yearly forecasts or fiscal period forecasts. With Inforiver, you can close the forecast once actuals are available, update the forecast, and extend forecasts.
 
 ## 1. Generating a forecast
 

@@ -1,8 +1,10 @@
-# Date rollover
+# Date rollover and re-forecasting
+
+## 1. Date rollover
 
 Once the actual data is available for a particular forecasted period, the report needs to reflect the actuals and the forecast should be closed. In the previous section, we created a forecast for 2024 based on the data from 2023 and 2022. In the image below, notice how January has an open forecast and data for Sales and Revenue (actuals), whereas the rest of 2024 only has the forecast measure.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Open forecasts and closed forecasts</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (414).png" alt=""><figcaption><p>Closing a forecast</p></figcaption></figure>
 
 Let's see how we can close forecasts and roll over the date in Inforiver. To close a forecast period, click on the Close Period button in the Forecast ribbon. The Close Period dialog box has the following options:
 
@@ -48,3 +50,12 @@ When you save, the selected forecast period is closed. Notice that the January f
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Forecast period closed</p></figcaption></figure>
 
+## 2. Re-forecasting
+
+You can easily update an existing forecast using the Reforecast button. You can configure the forecast the same way we did in the [configuring the forecast](./#id-2.-configuring-the-forecast) section.
+
+<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption><p>Reforecasting</p></figcaption></figure>
+
+Notice how the open forecast measures have been updated based on the re-forecast configuration.
+
+<figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption><p>Re-forecasted data</p></figcaption></figure>
