@@ -68,7 +68,7 @@ Snapshots can be scheduled only from the Power BI service, not from the desktop.
 
 After saving the schedule settings, you will have options to initiate, reset, and pause the schedule and view logs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduler options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduler options</p></figcaption></figure>
 
 Click on **View jobs** to see all the snapshot jobs and to view logs. The logs will show details such as the total time taken to run the job, the time taken for each milestone and the steps under each milestone.
 

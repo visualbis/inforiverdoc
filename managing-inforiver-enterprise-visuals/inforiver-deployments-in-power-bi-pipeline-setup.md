@@ -20,7 +20,7 @@ To prevent consumers from using the visual with the lower environment’s visual
 
 1. Assign workspaces to each stage i.e. the Development/Test/Production stages of the deployment pipeline. [Learn more about assigning workspaces](https://learn.microsoft.com/en-us/fabric/cicd/deployment-pipelines/assign-pipeline).&#x20;
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assign workspaces</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assign workspaces</p></figcaption></figure>
 
 2. Create a report that uses Inforiver visuals. Publish it to the workspace mapped to the first(development) stage of the pipeline. For this demonstration, we have created a report titled 'PD\_Dec19\_2023' under the 'Inforiver - Pipeline - Dev' workspace.&#x20;
 3. Navigate to the Deployment Pipelines tab, and select the required pipeline. Select the report to be deployed to the test environment. [Learn more about deploying reports.](https://learn.microsoft.com/en-us/fabric/cicd/deployment-pipelines/deploy-content)

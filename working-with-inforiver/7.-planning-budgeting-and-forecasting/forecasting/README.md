@@ -1,6 +1,6 @@
 # Forecasting
 
-With Inforiver, you can easily generate a rolling forecast and use methods like period range, an average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features to create half-yearly forecasts or fiscal period forecasts. With Inforiver, you can close the forecast once actuals are available, update the forecast, and extend forecasts.
+With Inforiver, you can easily generate a rolling forecast and use methods like period range, average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features to create half-yearly forecasts or fiscal period forecasts. With Inforiver, you can close the forecast once actuals are available, update the forecast, distribute deficits, and extend forecasts.
 
 ## 1. Generating a forecast
 
@@ -22,7 +22,7 @@ Inforiver allows you to create rolling forecasts and choose different methods to
 
 <figure><img src="../../../.gitbook/assets/2024-02-02_10h41_55.png" alt=""><figcaption><p>Rolling forecast</p></figcaption></figure>
 
-You can also configure for the entire period at one shot as shown below.
+You can also configure for the entire period in one shot as shown below.
 
 <figure><img src="../../../.gitbook/assets/2024-02-02_10h55_38.png" alt=""><figcaption><p>Configuration for entire period</p></figcaption></figure>
 
@@ -32,7 +32,7 @@ You can also configure for the entire period at one shot as shown below.
 
 **3. Apply operation:** There are 3 different methods that you can use to generate a forecast:
 
-* **Period range**: The values from a  specific period range will be used to initialize the forecast. In this case, we have used the sales from Q4 2023 (Copy period range) to populate the forecast for Q1 2024 (Target period). The duration of the period range should match the duration of the target period. E.g., if the target period is 6 months, then you must select a period range spanning 6 months.
+* **Period range**: The values from a specific period range will be used to initialize the forecast. In this case, we have used the sales from Q4 2023 (Copy period range) to populate the forecast for Q1 2024 (Target period). The duration of the period range should match the duration of the target period. E.g., if the target period is 6 months, then you must select a period range spanning 6 months.
 
 <figure><img src="../../../.gitbook/assets/2024-02-02_11h08_22.png" alt=""><figcaption><p>Period range</p></figcaption></figure>
 
@@ -88,51 +88,27 @@ We used the average revenue from Jan 2022 to Dec 2023 to create the forecast fro
 
 <figure><img src="../../../.gitbook/assets/2024-02-02_12h07_45.png" alt=""><figcaption><p>Average of period range</p></figcaption></figure>
 
-##
+## 3. Forecast customizations
 
+Inforiver offers customizations that can be applied once the forecast is created.&#x20;
 
+#### 1. Values display
 
-To roll over the forecast start period from August to September, in the Insert ribbon, click on _Manage Measures_. In the 'Inserted Columns' side pane, select the forecast measure and click on the edit icon.
+You have the flexibility to retain the forecasted values or use the actuals after closing a forecast. Click on the Values Display button to open the Set Value Display window.
 
-<figure><img src="../../../.gitbook/assets/image (137) (1).png" alt=""><figcaption><p>Editing the forecast measure</p></figcaption></figure>
+i) Show Values - Forecast
 
-In the Data Input side pane, select September from the _Forecast Period_ dropdown and click on the Update button.
+The forecast value is retained even after the actuals are available. This setting enables you to compare the actuals against the predicted values.
 
-<figure><img src="../../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Retain forecast values</p></figcaption></figure>
 
-Notice how the Sales and Revenue measures are now available for August and the forecast starts from September onwards.
+ii) Show Values - Actuals
 
-<figure><img src="../../../.gitbook/assets/image (139) (1).png" alt=""><figcaption></figcaption></figure>
+The forecasted values are overwritten when the period is closed and the actuals become available. The forecast values are highlighted in blue indicating that they are linked to an actuals value - any updates made to the actuals will be reflected in the forecast. To view the underlying actuals measure, navigate to edit forecast > Linked Actuals Measure.
 
-## 5. Re-forecasting
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Overwrite forecast with actuals</p></figcaption></figure>
 
-After creating a forecast, you can easily re-forecast your data using Inforiver. To edit the forecast, click on _Manage Measures_ in the Insert ribbon. In the 'Inserted Columns' side pane,  click on the edit icon against the forecast measure.
-
-<figure><img src="../../../.gitbook/assets/image (250).png" alt=""><figcaption><p>Editing the forecast</p></figcaption></figure>
-
-Click on the Update link against the _Open Forecast Values_ option.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption><p>Update forecast</p></figcaption></figure>
-
-The Update Forecast dialog box opens - you can smoothly re-forecast your data from here.
-
-<figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption><p>Re-forecast configuration</p></figcaption></figure>
-
-## 6. Extending the forecast period
-
-Consider that a forecast has been created from September to December 2023. If you need to extend the forecast to 2024, first, the time frame needs to be updated in _Forecast Settings_. Click on _Manage Measures_ in the Insert ribbon and navigate to the Settings tab. Click on the Manage link against _Forecast Settings._
-
-<figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption><p>Extending the forecast period</p></figcaption></figure>
-
-After the forecast period has been extended, follow the steps outlined in the [Re-forecasting](./#5.-re-forecasting) section to configure the forecast.
-
-<figure><img src="../../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
-
-## 7. Forecast customizations
-
-Inforiver offers a variety of customizations that can be applied once the forecast is created.&#x20;
-
-#### 1. Forecast grand total
+#### 2. Forecast grand total
 
 If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the _Total Display_ section.
 
@@ -154,7 +130,7 @@ If the column grand total is enabled, you can choose whether the grand total for
 
 <figure><img src="../../../.gitbook/assets/image (244).png" alt=""><figcaption><p>Closed Periods</p></figcaption></figure>
 
-#### 2. Show or hide closed periods
+#### 3. Show or hide closed periods
 
 You can choose whether to display the forecasts for closed periods. To mask the forecast for closed periods, click on any forecast that is generated for closed periods, click on the _Show/Hide_ icon, and choose _Hide closed periods._
 
