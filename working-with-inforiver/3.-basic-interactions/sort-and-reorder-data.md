@@ -86,7 +86,11 @@ e) In the manage columns settings panel, hover over the six dots and use it to d
 
 <figure><img src="../../.gitbook/assets/3.2.17 reorder.png" alt=""><figcaption><p>Reordering in manage columns settings panel</p></figcaption></figure>
 
-In the next section, we'll cover how to [show/hide values, rows and columns](show-or-hide-values-rows-and-columns.md).
+{% hint style="info" %}
+Unlike visual measures, visual columns cannot be re-ordered.
+{% endhint %}
+
+In the next section, we'll cover how to [show/hide values, rows, and columns](show-or-hide-values-rows-and-columns.md).
 
 #### References
 
