@@ -4,27 +4,27 @@
 
 Inforiver allows you to edit a forecast that was configured previously. To edit, click on the Manage button to open the Forecast Measures side pane and click on the edit icon near the forecast that needs to be edited.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Editing a forecast</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Editing a forecast</p></figcaption></figure>
 
 #### i) Forecast period
 
 You can update the forecast time frame. You may have forecasted for the entire year, then decided to extend the forecast to the next year or reduce the forecast duration to 6 months.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Changing the forecast period</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Changing the forecast period</p></figcaption></figure>
 
 Notice how the forecast has been reduced to 6 months after updating the forecast period.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Reducing the forecast time period</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Reducing the forecast time period</p></figcaption></figure>
 
 #### ii) Update closed period range
 
 The forecasted periods that have been closed after actuals become available can be reset using this option. Consider that the forecast for January 2024 has been closed as shown below.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Closed period for January</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Closed period for January</p></figcaption></figure>
 
 When we click on the 'Reset closed period link', all the closed forecasts within the 'Closed Period Range' will be reopened. You can specify the end date of the closed period range - in this case, Jan 2024.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Reset closed period</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Reset closed period</p></figcaption></figure>
 
 Notice how the Closed Period Range has been updated.
 
