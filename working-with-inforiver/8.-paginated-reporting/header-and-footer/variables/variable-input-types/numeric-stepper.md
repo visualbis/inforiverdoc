@@ -14,7 +14,7 @@ This section outlines configurations specific to stepper variables.
 
 **iii) Steps:** The increment between two consecutive values. For example, if Steps is 2 and the existing value is 4, then the next value in the stepper will be 6.
 
-**iv) Scaling factor:** Based on your data, you can [set the scaling factor](simulation-slider.md#iv-scaling-factor). Setting an appropriate scaling factor enables you to easily filter and navigate your data.
+**iv) Scaling factor:** You can set the scaling factor based on your data. Setting an appropriate scaling factor enables you to filter and navigate your data easily.
 
 **v)  Select style:** Inforiver provides the flexibility to change the look and feel of a component with several built-in styles.
 
@@ -22,12 +22,26 @@ This section outlines configurations specific to stepper variables.
 
 ### 2. Use cases
 
-#### &#x20;a) Traversing hierarchies using a stepper
+#### &#x20;2.1. Traversing hierarchies using a stepper
 
-* Create a stepper variable and configure the min/max range and the number of steps to increment with each click. Set up the script for navigating to a particular level of the hierarchy.
+**Step 1:** Create a stepper variable and configure the min/max range and the number of steps to increment with each click. Set up the script for navigating to a particular level of the hierarchy.
 
 <figure><img src="../../../../../.gitbook/assets/image (426).png" alt=""><figcaption><p>Configuring a stepper variable</p></figcaption></figure>
 
-* Expand and collapse the hierarchy using the stepper. In the example, notice how the hierarchy has been expanded to 4 levels('0' refers to the highest level of the hierarchy).&#x20;
+**Step** **2**: Expand and collapse the hierarchy using the stepper. In the example, notice how the hierarchy has been expanded to 4 levels('0' refers to the highest level of the hierarchy).&#x20;
 
 <figure><img src="../../../../../.gitbook/assets/image (427).png" alt=""><figcaption><p>Traversing the hierarchy using a stepper</p></figcaption></figure>
+
+#### 2.2. Ranking using a stepper
+
+You can display the top or bottom-performing categories using a stepper control.&#x20;
+
+{% hint style="info" %}
+Select the Ranking > TopN/BottomN/Both options from the Insert variable dropdown to directly create a stepper for TopN.
+{% endhint %}
+
+**Step 1:** Create a stepper variable and configure the min/max range and the number of steps to increment with each click. Set up the script for applying topN ranking based on the stepper value.
+
+
+
+**Step 2:** Increment or decrement the stepper to rank the categories.
