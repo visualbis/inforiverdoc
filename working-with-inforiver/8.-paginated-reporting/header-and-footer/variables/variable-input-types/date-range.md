@@ -1,0 +1,30 @@
+# Date Range
+
+You can use the date range variable to choose a time frame or pick a single date.
+
+### 1. Configuration
+
+This section outlines configurations specific to date range variables.
+
+**i) Format:** Inforiver supports a range of date formats which you can select from the dropdown. You can also set a custom format.
+
+<figure><img src="../../../../../.gitbook/assets/image (445).png" alt=""><figcaption><p>Date format options</p></figcaption></figure>
+
+**ii) Orientation:** You can choose whether to display the from date and to date in a single line(horizontal) or one below the other(vertical). The example shows date range variables arranged in horizontal and vertical orientations.
+
+<figure><img src="../../../../../.gitbook/assets/image (446).png" alt=""><figcaption><p>Date range orientation</p></figcaption></figure>
+
+**iii) Date label:** You can key in the name in the From and To textboxes to set custom labels.&#x20;
+
+<figure><img src="../../../../../.gitbook/assets/image (447).png" alt=""><figcaption><p>Custom date label</p></figcaption></figure>
+
+**iv) From date and To date:** Set the minimum and maximum date values that can be set  - the user will be able to select values that fall within the specified range.
+
+**v) Disable Range:** Enable this option if you only need a single date picker and do not require a date range.&#x20;
+
+<figure><img src="../../../../../.gitbook/assets/image (448).png" alt=""><figcaption><p>Disable range</p></figcaption></figure>
+
+**vi) Select style:** Inforiver provides the flexibility to change the look and feel of a component with several built-in styles.
+
+<figure><img src="../../../../../.gitbook/assets/image (449).png" alt=""><figcaption><p>Date range styles</p></figcaption></figure>
+

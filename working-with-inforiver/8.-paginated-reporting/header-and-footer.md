@@ -1,8 +1,8 @@
 # Header & footer
 
-The header and footer in business reports provide a consistent way to identify the content, promote the company's brand and ensure that important information is easily accessible. Inforiver offers powerful header & footer customization capabilities and can be used to show charts, KPIs, images and text.
+The header and footer in business reports provide a consistent way to identify the content, promote the company's brand, and ensure that important information is easily accessible. Inforiver offers powerful header & footer customization capabilities and can be used to show charts, KPIs, images, and text.
 
-Below is a sample report created using Inforiver. You can see a header with a KPI card, report title and a donut chart. The footer contains the company logo and page number.
+Below is a sample report created using Inforiver. You can see a header with a KPI card, report title, and a donut chart. The footer contains the company logo and page number.
 
 <figure><img src="../../.gitbook/assets/8.2.1 Header &#x26; footer.png" alt=""><figcaption><p>Customized header and footer</p></figcaption></figure>
 
@@ -16,7 +16,7 @@ The header & footer module is organized as follows:
 
 ## 1. Interface
 
-Let's first take a look at the header/footer interface. In the edit mode, you have the 'Header & footer' tab in the toolbar and options to edit the header elements. In the read mode, you have a context menu using which you can show/hide the header/footer, turn off pagination, reset changes and access the edit mode.
+Let's first take a look at the header/footer interface. In the edit mode, you have the 'Header & footer' tab in the toolbar and options to edit the header elements. In the read mode, you have a context menu using which you can show/hide the header/footer, turn off pagination, reset changes, and access the edit mode.
 
 ### i) Edit mode
 
@@ -28,7 +28,7 @@ b) The 'Header & footer' tab gets enabled. You can see that there is a default h
 
 <figure><img src="../../.gitbook/assets/8.2.3 Header.png" alt=""><figcaption><p>Default header</p></figcaption></figure>
 
-c) The blue box is called the 'container'. Currently, there is only one 'cell' in the container with the default fields and scaling. But containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text.md), [Image](header-and-footer/images.md), [Chart](header-and-footer/charts.md) and [KPI](header-and-footer/kpi-cards.md). We'll be covering [cell](header-and-footer.md#i-cell) and [container](header-and-footer.md#ii-container) customization in a later section.
+c) The blue box is called the 'container'. Currently, there is only one 'cell' in the container with the default fields and scaling. But containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text.md), [Image](header-and-footer/images.md), [Chart](header-and-footer/charts.md), [KPI](header-and-footer/kpi-cards.md), and [Variables](header-and-footer/variables/). We'll be covering [cell](header-and-footer.md#i-cell) and [container](header-and-footer.md#ii-container) customization in a later section.
 
 <figure><img src="../../.gitbook/assets/8.2.24 Context menu.png" alt=""><figcaption><p>Container</p></figcaption></figure>
 
@@ -67,7 +67,7 @@ a) Go to the edit mode by clicking on 'Edit' in the context menu. You can also e
 <figure><img src="../../.gitbook/assets/image (123) (1).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 {% hint style="info" %}
-In the Basic interactions section, we have used the example of headers but all of these properties are applicable to footers as well.&#x20;
+In the basic interactions section, we have used the example of headers but all of these properties apply to footers as well.&#x20;
 {% endhint %}
 
 b) Notice that there are two controls - one on the side and one at the top of the container.&#x20;

@@ -36,7 +36,7 @@ The January forecast has been re-opened.
 
 ## 2. Re-forecasting
 
-You can update the forecast for a specific period using the reforecast option. For instance, if you need to change the forecast for Q2 to the average sales of previous years, you can reforecast for that period alone, without affecting the other forecasts. You can configure the forecast the same way we did in the [configuring the forecast](./#id-2.-configuring-the-forecast) section.
+You can update the forecast for a specific period using the reforecast option. For instance, if you need to change the forecast for Q2 to the average sales of previous years, you can reforecast for that period alone, without affecting the other forecasts. You can configure the forecast the same way we did in the [configuring the forecast](../forecasting.md#id-2.-configuring-the-forecast) section.
 
 <figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption><p>Reforecasting</p></figcaption></figure>
 
