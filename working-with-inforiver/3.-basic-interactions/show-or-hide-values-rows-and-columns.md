@@ -74,4 +74,16 @@ c) To show a measure, check the corresponding checkbox.
 
 <figure><img src="../../.gitbook/assets/3.3.12 Unhide measure.png" alt=""><figcaption><p>Unhiding a measure</p></figcaption></figure>
 
+## 5. Measure headers and category headers
+
+You can select the measure header and click on the hide icon if you do not want to display headers in your reports. Repeat the procedure to display a hidden measure/category header again.
+
+<figure><img src="../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Hiding measure headers</p></figcaption></figure>
+
+## 6. Displaying hidden/skipped rows
+
+To enable hidden or skipped rows, navigate to the Show/hide dropdown > Rows section and click on the respective icon to display the row again in your report.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Displaying hidden rows</p></figcaption></figure>
+
 In the next section, we'll cover how to [manage column widths](manage-column-widths.md).&#x20;

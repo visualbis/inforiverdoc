@@ -16,7 +16,7 @@ Provide a custom name for the groups in the textbox.&#x20;
 
 You can add a custom icon to identify each group. Enable the icon selection toggle to be able to select an icon.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Display icons for each group</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Display icons for each group</p></figcaption></figure>
 
 #### iii) Show label
 

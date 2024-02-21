@@ -64,4 +64,4 @@ You can create a calculated measure that references the value set in a variable.
 
 Inforiver has pre-built variables that you can instantly add to your reports. You can choose the variable from the Insert variable dropdown and Inforiver will internally configure them based on the categories or measures in your dataset. For instance, if you add a "Go to Level - Rows" variable, Inforiver will create a dropdown listing the row categories. When you select a particular category from the dropdown, only that level of the hierarchy will be displayed.
 
-<figure><img src="../../../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Using pre-configured variable options</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled Project (1).gif" alt=""><figcaption><p>Using pre-configured variable options</p></figcaption></figure>
