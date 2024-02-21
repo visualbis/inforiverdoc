@@ -4,7 +4,7 @@
 
 Inforiver allows you to edit a forecast that was configured previously. To edit, click on the Manage button to open the Forecast Measures side pane and click on the edit icon near the forecast that needs to be edited.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Editing a forecast</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (2).png" alt=""><figcaption><p>Editing a forecast</p></figcaption></figure>
 
 #### i) Forecast period
 

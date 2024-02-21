@@ -54,8 +54,8 @@ You can instantly create button variables for export to Excel/PDF/Clipboard by n
 
 **STEP 1:**  Create a button variable and use the EXPORT function to generate extracts to Excel/PDF or the clipboard.
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Create a button variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Create a button variable</p></figcaption></figure>
 
 **STEP 2:** Use the button variables to export your report.
 
-<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Use button variables for exports</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Use button variables for exports</p></figcaption></figure>

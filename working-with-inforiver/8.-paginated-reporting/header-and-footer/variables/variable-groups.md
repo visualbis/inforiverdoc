@@ -6,7 +6,7 @@ Inforiver allows you to retain any filters applied or changes made to the report
 
 To create variable configuration groups, navigate to Manage Variables > Groups tab and check the 'Enable Groups' box. A variable group is created in the header when the checkbox is selected.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Creating variable groups</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Creating variable groups</p></figcaption></figure>
 
 #### i) Group name:&#x20;
 
@@ -16,13 +16,13 @@ Provide a custom name for the groups in the textbox.&#x20;
 
 You can add a custom icon to identify each group. Enable the icon selection toggle to be able to select an icon.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Display icons for each group</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Display icons for each group</p></figcaption></figure>
 
 #### iii) Show label
 
 Disable the show label toggle if you do not need to display the group names and can identify the groups based on the icon alone.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Display group names</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Display group names</p></figcaption></figure>
 
 #### iv) Add option
 
