@@ -54,9 +54,27 @@ This option can be used in calculations involving percentages E.g., use a slider
 
 ### 2. Examples
 
-#### a) Ranking with TopN/BottomN a numeric simulation slider
+#### 2.1. Pass values dynamically to formulae
 
-* Create a slider variable, and assign the min and max values for ranking. Create a script to accept the slider input to display the TopN categories.
+{% hint style="info" %}
+To instantly create a measure that uses slider variable values, navigate to Insert Measure > Slider.  Select the measure to use in the formula.
+{% endhint %}
+
+**STEP 1:** Create a slider variable, and assign the min and max values to pass to the formula.&#x20;
+
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Creating a slider variable</p></figcaption></figure>
+
+**STEP 2:** Create a calculated measure and use the slider variable value in the formula.
+
+<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Create a measure referencing the variable</p></figcaption></figure>
+
+**STEP 3:** Calibrate the slider to view the interest paid at varying interest rates.
+
+<figure><img src="../../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Using the slider to dynamically calculate values</p></figcaption></figure>
+
+#### 2.2. Ranking with TopN/BottomN using a numeric simulation slider
+
+**STEP 1:** Create a slider variable, and assign the min and max values for ranking. Create a script to accept the slider input to display the TopN categories.
 
 {% hint style="info" %}
 You can use a numeric stepper as well in this scenario.
@@ -64,6 +82,6 @@ You can use a numeric stepper as well in this scenario.
 
 <figure><img src="../../../../../.gitbook/assets/image (424).png" alt=""><figcaption><p>Simulation slider configuration for ranking</p></figcaption></figure>
 
-* The value set in the slider will be used to display the top-performing or bottom-performing categories. In the example, we have used the slider variable to display the top 3 categories with the highest profit.&#x20;
+**STEP 2:** The value set in the slider will be used to display the top-performing or bottom-performing categories. In the example, we have used the slider variable to display the top 3 categories with the highest profit.&#x20;
 
 <figure><img src="../../../../../.gitbook/assets/image (425).png" alt=""><figcaption><p>Using a slider to set TopN</p></figcaption></figure>

@@ -56,16 +56,16 @@ Inforiver provides the flexibility to change the look and feel of a component wi
 
 ### 2. Examples
 
-#### a)  Filtering data using single select
+#### 2.1. Filtering data using single select
 
-* Create single select variables from the dataset for year and quarter - values from the dataset will be used to populate the options.
+STEP 1: Create single select variables from the dataset for year and quarter - values from the dataset will be used to populate the options.
 
 <figure><img src="../../../../../.gitbook/assets/image (434).png" alt=""><figcaption><p>Creating single select for quarter</p></figcaption></figure>
 
-* Create filters on year and quarter using the single select variables.
+STEP 2: Create filters on year and quarter using the single select variables.
 
 <figure><img src="../../../../../.gitbook/assets/image (435).png" alt=""><figcaption><p>Creating filters based on single select variables</p></figcaption></figure>
 
-* The data is dynamically filtered based on the options selected.
+STEP 3: The data is dynamically filtered based on the options selected.
 
 <figure><img src="../../../../../.gitbook/assets/image (436).png" alt=""><figcaption><p>Single select variables for data filtering</p></figcaption></figure>
