@@ -36,7 +36,7 @@ If you have created filters in your report, you can instantly create a button va
 
 <figure><img src="../../../../../.gitbook/assets/image (493).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
 
-**STEP 2:** Create a variable button that contains a script referencing the filter defined in Step 1.
+**STEP 2:** Create a variable button that contains a script referencing the filter defined in Step 1. You can also create a button to clear any applied filter using the [clear filter script](../../../../../formula-syntax/scripting-functions/setfilter.md#clearfilter).
 
 <figure><img src="../../../../../.gitbook/assets/image (494).png" alt=""><figcaption><p>Create a button variable</p></figcaption></figure>
 
