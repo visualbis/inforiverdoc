@@ -57,7 +57,7 @@ This option can be used in calculations involving percentages E.g., use a slider
 #### 2.1. Pass values dynamically to formulae
 
 {% hint style="info" %}
-To instantly create a measure that uses slider variable values, navigate to Insert Measure > Slider.  Select the measure to use in the formula.
+To instantly create a measure that uses slider variable values, navigate to Insert Variable> Slider.  Select the measure to use in the formula.
 {% endhint %}
 
 **STEP 1:** Create a slider variable, and assign the min and max values to pass to the formula.&#x20;
