@@ -92,6 +92,7 @@
           * [Toggle](working-with-inforiver/8.-paginated-reporting/header-and-footer/variables/variable-input-types/toggle.md)
           * [Button](working-with-inforiver/8.-paginated-reporting/header-and-footer/variables/variable-input-types/button.md)
           * [Textarea](working-with-inforiver/8.-paginated-reporting/header-and-footer/variables/variable-input-types/textarea.md)
+        * [Variable groups](working-with-inforiver/8.-paginated-reporting/header-and-footer/variables/variable-groups.md)
     * [Report layouts (Report+)](working-with-inforiver/8.-paginated-reporting/report-layouts-report+.md)
     * [Display and themes](working-with-inforiver/8.-paginated-reporting/display-and-themes.md)
   * [9. Commenting and collaboration](working-with-inforiver/8.-commenting-and-collaboration/README.md)

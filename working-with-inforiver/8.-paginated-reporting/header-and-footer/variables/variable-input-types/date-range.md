@@ -34,8 +34,8 @@ This section outlines configurations specific to date range variables.
 
 **STEP 1:** Create a date range variable and add a script to show the data between the specified start and end dates.
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Create a date range variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Create a date range variable</p></figcaption></figure>
 
 **STEP 2:** Use the date range variable to display data between the selected period.
 
-<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
