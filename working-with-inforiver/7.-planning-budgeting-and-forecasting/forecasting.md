@@ -100,13 +100,13 @@ i) Show Values - Forecast
 
 The forecast value is retained even after the actuals are available. This setting enables you to compare the actuals against the predicted values.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Retain forecast values</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Retain forecast values</p></figcaption></figure>
 
 ii) Show Values - Actuals
 
 The forecasted values are overwritten when the period is closed and the actuals become available. The forecast values are highlighted in blue indicating that they are linked to an actuals value - any updates made to the actuals will be reflected in the forecast. To view the underlying actuals measure, navigate to edit forecast > Linked Actuals Measure.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (2).png" alt=""><figcaption><p>Overwrite forecast with actuals</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Overwrite forecast with actuals</p></figcaption></figure>
 
 #### 2. Forecast grand total
 

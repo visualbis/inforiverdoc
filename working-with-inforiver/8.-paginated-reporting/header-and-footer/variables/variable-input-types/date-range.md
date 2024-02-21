@@ -38,4 +38,4 @@ This section outlines configurations specific to date range variables.
 
 **STEP 2:** Use the date range variable to display data between the selected period.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>

@@ -43,3 +43,19 @@ If you have created filters in your report, you can instantly create a button va
 **STEP 3:** Use the buttons to apply filters on your data.
 
 <figure><img src="../../../../../.gitbook/assets/image (495).png" alt=""><figcaption><p>Use buttons to apply filters</p></figcaption></figure>
+
+#### &#x20;2.3. Export reports to PDF/Excel/Clipboard
+
+You can create scripts to export reports using button controls.
+
+{% hint style="info" %}
+You can instantly create button variables for export to Excel/PDF/Clipboard by navigating to Insert Variable > Export.
+{% endhint %}
+
+**STEP 1:**  Create a button variable and use the EXPORT function to generate extracts to Excel/PDF or the clipboard.
+
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Create a button variable</p></figcaption></figure>
+
+**STEP 2:** Use the button variables to export your report.
+
+<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Use button variables for exports</p></figcaption></figure>
