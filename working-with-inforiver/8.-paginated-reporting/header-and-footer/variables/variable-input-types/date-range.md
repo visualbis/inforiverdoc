@@ -28,3 +28,14 @@ This section outlines configurations specific to date range variables.
 
 <figure><img src="../../../../../.gitbook/assets/image (449).png" alt=""><figcaption><p>Date range styles</p></figcaption></figure>
 
+### 2. Examples
+
+#### 2.1. Filter date values using date range
+
+**STEP 1:** Create a date range variable and add a script to show the data between the specified start and end dates.
+
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Create a date range variable</p></figcaption></figure>
+
+**STEP 2:** Use the date range variable to display data between the selected period.
+
+<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
