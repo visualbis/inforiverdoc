@@ -34,8 +34,6 @@ Contribution to the grand total can be inserted as shown below. To insert % cont
 
 You can perform a lead /lag calculation to shift any trend data by 'n' periods. This helps you quickly perform downstream variance calculations such as QoQ growth, YoY growth, etc. for each period.
 
-The offset value should be between -12 and 12.
-
 <figure><img src="../../.gitbook/assets/4.5.6 Quick formula.png" alt=""><figcaption><p>Lead/lag calculations</p></figcaption></figure>
 
 #### v) Overall ranking
