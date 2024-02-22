@@ -52,8 +52,6 @@ e) The date filter slider gets enabled. The explorer toolbar consists of the fol
 
 <figure><img src="../../../.gitbook/assets/3.1.2.30 Explorer.png" alt=""><figcaption><p>Row, column, measure and date filters</p></figcaption></figure>
 
-### 3. Filtering
-
 Let's take a look at filtering by the row and column hierarchies.&#x20;
 
 a) Use the date filter slider to define a date range. Select a region and category. In the table, you can now see only International and Beverages for Q3 2020 to Q2 2021.
