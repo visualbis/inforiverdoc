@@ -68,7 +68,7 @@ You can see the 'Allowed user controls' modal.
 
 In this modal you can enable/disable the following options:
 
-#### Toolbar
+#### 1. Toolbar
 
 Using this option you can specify how you want the toolbar to be displayed in reading view mode.
 
@@ -78,7 +78,7 @@ Using this option you can specify how you want the toolbar to be displayed in re
 * **Minimal with tabs -** This option displays the [minimal toolbar with tabs](toolbar-options.md#3.-minimal-with-tabs)
 * **Off -** This option [unpins the toolbar](toolbar-options.md#5.-unpin-toolbar)
 
-#### Home tab
+#### 2. Home tab
 
 Enabling this option will display the 'Home' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Home' tab to expand it. This will display additional sub-options.&#x20;
 
@@ -86,7 +86,13 @@ You can enable/disable the following options to show/hide in the toolbar under t
 
 <figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Home tab options</p></figcaption></figure>
 
-#### Export tab
+#### 3. Insert tab
+
+Toolbar items in the _Insert_ tab, such as Data input, Simulations, Aggregations, Forecasts, Scenarios, etc, can be leveraged in reading mode. You can control the features that will be available in the reading view from the _Allowed User Controls_ window.
+
+<figure><img src="../../../.gitbook/assets/image (497).png" alt=""><figcaption><p>Insert tab</p></figcaption></figure>
+
+#### 4. Export tab
 
 Enabling this option will display the 'Export' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Export' tab to expand it. This will display additional sub-options.&#x20;
 
@@ -94,7 +100,7 @@ You can enable/disable the following options to show/hide in the toolbar under t
 
 <figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption><p>Export tab options</p></figcaption></figure>
 
-#### Scenario tab
+#### 5. Scenario tab
 
 Enabling this option will display the 'Scenario' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Scenario' tab to expand it. This will display additional sub-options. To learn more about scenarios click [here](../../7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md).
 
@@ -102,7 +108,7 @@ You can enable/disable the following options to show/hide in the toolbar under t
 
 <figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Scenario tab options</p></figcaption></figure>
 
-#### Writeback tab
+#### 6. Writeback tab
 
 Enabling this option will display the 'Writeback' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Writeback' tab to expand it. This will display additional sub-options. To learn more about writeback click [here.](../../12.-data-writeback/)
 
@@ -110,7 +116,7 @@ You can enable/disable the following options to show/hide in the toolbar under t
 
 <figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Writeback tab</p></figcaption></figure>
 
-#### Show gripper
+#### 7. Show gripper
 
 Enabling this option will show a gripper and context menu (the menu that displays on the right-click of the mouse) for rows and columns.&#x20;
 
@@ -118,7 +124,7 @@ In this image, the context menu appears on right-click when the report is in the
 
 <figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Context menu on reading view mode</p></figcaption></figure>
 
-#### Show floating toolbar
+#### 8. Show floating toolbar
 
 Inforiver now offers Excel-like floating toolbar in the reading view mode on the selected report elements (row, column, or cell) for improved discoverability of features and improved user experience.
 
@@ -132,19 +138,19 @@ When this option is enabled, then on selecting any report element you will find 
 
 <figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-#### Reorder row/column
+#### 9. Reorder row/column
 
 If you enable this option, you can easily drag and drop the rows and columns for easy reordering in reading view mode.
 
 <figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption><p>Reorder row/column option</p></figcaption></figure>
 
-#### Show toast message
+#### 10. Show toast message
 
 Enabling this option will display the toast message in the reading view mode. In the image below, a 'Copied to clipboard' toast message is displayed in the reading mode when the 'Copy to clipboard' option is clicked.
 
 <figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Show toast message option</p></figcaption></figure>
 
-#### Sort on click
+#### 11. Sort on click
 
 If this option is enabled, then clicking on the column header will sort the data in the column in ascending/descending order in the reading view mode.
 
@@ -152,7 +158,7 @@ In the below image, the up arrow on the column header is highlighted indicating 
 
 <figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption><p>Sort on click option</p></figcaption></figure>
 
-#### Show search
+#### 12. Show search
 
 Enabling this option will display the search icon and search bar at the top of the report in the reading view mode.
 
@@ -161,6 +167,12 @@ The 'Show search' option is available only if the 'Toolbar' option is set to 'Of
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
+
+#### 13. View All Notes
+
+Report users can view all the notes added to a report in a single, consolidated window. The _View All Notes_ option in the Allowed user controls setting displays the notes side pane by default in reading view.
+
+<figure><img src="../../../.gitbook/assets/3.2. View all notes in reading view.png" alt=""><figcaption><p>View all notes option</p></figcaption></figure>
 
 ## 7. Quick access
 
