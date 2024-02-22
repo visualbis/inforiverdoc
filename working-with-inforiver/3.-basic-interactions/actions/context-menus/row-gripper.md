@@ -130,5 +130,10 @@ g) Set Subtotal below
 
 This option will position the parent sub-total rows below the child rows. In the animation below, notice how the subtotal rows have been moved to the bottom, below all the child rows.
 
-<figure><img src="../../../../.gitbook/assets/Setsubtotalbelow.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Setsubtotalbelow.gif" alt=""><figcaption><p>Set subtotal below</p></figcaption></figure>
 
+h) Hide ruler
+
+In the Table and Stepped layout, [rails ](../rails.md)are displayed in the report by default. If you do not require rails for formatting, a Hide ruler option has been added to the row gripper under the Actions section. This is primarily intended for report authors who are unaware of the rails option on the toolbar.
+
+<figure><img src="../../../../.gitbook/assets/8.1. Hide ruler.png" alt=""><figcaption><p>Hide ruler</p></figcaption></figure>
