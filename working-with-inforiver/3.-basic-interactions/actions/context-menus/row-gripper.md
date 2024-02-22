@@ -114,8 +114,6 @@ The 'Bookcases' row has been masked using this option. Use the _Show All Rows_ o
 
 e) Skip row
 
-The _Skip row_ option performs a soft delete - the row is removed from the report and excluded from total and sub-total calculations.
-
 <figure><img src="../../../../.gitbook/assets/image (18) (4).png" alt=""><figcaption></figcaption></figure>
 
 The 'Furnishings' row has been removed using the _Skip row_ option and the totals and sub-totals have been adjusted accordingly.
@@ -127,8 +125,6 @@ f) Disable Subtotal
 Use this option to remove all the sub-total aggregations for parent nodes in the hierarchy. This option is available in the row gripper for parent nodes only. In the animation below, notice how all the subtotal calculations have been removed using this option.
 
 <figure><img src="../../../../.gitbook/assets/Disable subtotal (1).gif" alt=""><figcaption></figcaption></figure>
-
-
 
 g) Set Subtotal below
 
