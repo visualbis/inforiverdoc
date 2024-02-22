@@ -23,16 +23,20 @@ In reports with large number of hierarchies, you can see notes rolled up at the 
 <figure><img src="../../.gitbook/assets/Roll up notes (1).png" alt=""><figcaption><p>Roll-up notes</p></figcaption></figure>
 
 {% hint style="info" %}
-You can [export](../10.-exporting-reports/export.md) notes along with the report as Excel and PDF. You can also [write back](../12.-data-writeback/) to databases, shared drives or URLs.
+You can [export](../10.-exporting-reports/export.md) notes along with the report in Excel and PDF. You can also [write back](../12.-data-writeback/) to databases, shared drives, or URLs.
 {% endhint %}
 
-Note: With Inforiver Enterprise 2.0, there are few changes in the notes configuration options. The updated UI/UX is shown below.
+Note: With Inforiver Enterprise 2.0, there are a few changes in the notes configuration options. The updated UI/UX is shown below.
 
 <figure><img src="../../.gitbook/assets/New UI.png" alt=""><figcaption><p>Inforiver Enterprise version 2.0</p></figcaption></figure>
 
 ## 1. Cell-level notes
 
-a) Let's see how to add notes. Click on a cell, click on 'Notes' and then 'Add new note'.
+a) Let's see how to add notes. Click on a cell, click 'Notes', and then 'Add new note'.
+
+{% hint style="info" %}
+To add the same note for multiple cells, Ctrl + click to select each cell, then add a note.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/8.1.3 Notes.png" alt=""><figcaption><p>Adding a new note</p></figcaption></figure>
 
@@ -48,9 +52,13 @@ d) You can see an indicator and as you hover over it, you can see the note.
 
 <figure><img src="../../.gitbook/assets/8.1.6 Notes.png" alt=""><figcaption><p>Notes is visible on hover</p></figcaption></figure>
 
-e) All the notes added to the report can be seen in one place. Click on 'Notes' and 'View all notes' from the dropdown. In the 'All' tab, the cell level note that was added can be seen.
+e) All the notes added to the report can be seen in one place. Click  'Notes' and 'View all notes' from the dropdown. The cell-level notes can be seen in the 'All' tab,.
 
 <figure><img src="../../.gitbook/assets/8.1.6(2) Notes.png" alt=""><figcaption><p>Cell level note in the notes panel</p></figcaption></figure>
+
+f) You may need to enter a note that applies to multiple cells, for example, a particular marketing strategy may have contributed to the increase in sales for specific regions and quarters. You can select a series of cells and add a single note that applies to all of them.
+
+<figure><img src="../../.gitbook/assets/3.1. Single note gif.gif" alt=""><figcaption><p>Single note for multiple cells</p></figcaption></figure>
 
 ## 2. Header-level notes
 
