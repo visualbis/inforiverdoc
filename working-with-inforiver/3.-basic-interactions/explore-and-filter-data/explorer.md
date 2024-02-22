@@ -22,7 +22,7 @@ Before taking a detailed look, let's quickly look at some important features in 
 
 <figure><img src="../../../.gitbook/assets/3.1.2.34(2) Explorer.png" alt=""><figcaption><p>Customizations</p></figcaption></figure>
 
-Let's now take a detailed look.
+Let's take a detailed look.
 
 ### 2. Interface
 
@@ -44,13 +44,15 @@ d) The KPI Explorer full view is shown below. Let's minimize the toolbar to maxi
 
 <figure><img src="../../../.gitbook/assets/3.1.2.28 Explorer.png" alt=""><figcaption><p>KPI Explorer full view</p></figcaption></figure>
 
-d) The toolbar gets unpinned. Turn the 'Filter by date' toggle on.
+e) The toolbar gets unpinned. Turn the 'Filter by date' toggle on.
 
 <figure><img src="../../../.gitbook/assets/3.1.2.29 Explorer.png" alt=""><figcaption><p>KPI Explorer</p></figcaption></figure>
 
-e) The date filter slider gets enabled. The explorer toolbar consists of the following filters.&#x20;
+f) The date filter slider gets enabled. The explorer toolbar consists of the following filters.&#x20;
 
 <figure><img src="../../../.gitbook/assets/3.1.2.30 Explorer.png" alt=""><figcaption><p>Row, column, measure and date filters</p></figcaption></figure>
+
+### 3. Filtering
 
 Let's take a look at filtering by the row and column hierarchies.&#x20;
 
@@ -100,7 +102,7 @@ j) As you expand the sub-regions to reveal the categories, you can see that sum 
 
 <figure><img src="../../../.gitbook/assets/3.1.2.36 Explorer.png" alt=""><figcaption><p>Values for categories</p></figcaption></figure>
 
-g) The date filter slider toggle can be turned off to list the date hierarchy as filters.&#x20;
+k) The date filter slider toggle can be turned off to list the date hierarchy as filters.&#x20;
 
 <figure><img src="../../../.gitbook/assets/3.1.2.15 Explorer.png" alt=""><figcaption><p>Date filter</p></figcaption></figure>
 
@@ -145,6 +147,12 @@ i) Ranges based on numeric values are shown below.
 j) To apply highlights based on rules, select the 'Rules' option. Apply a rule as shown and click 'Apply'. The values are highlighted as shown.
 
 <figure><img src="../../../.gitbook/assets/3.1.2.25 Explorer.png" alt=""><figcaption><p>Highlights based on rules</p></figcaption></figure>
+
+### 5. KPI header presets
+
+Inforiver provides plug-and-play [header presets](../../8.-paginated-reporting/header-and-footer.md#i-header-preset) to design your headers easily. If you have chosen the KPI preset, any selections made in the KPI explorer will be reflected in the header.
+
+<figure><img src="../../../.gitbook/assets/Header - KPI explorer (1).png" alt=""><figcaption><p>KPI explorer filters reflected in KPI header preset</p></figcaption></figure>
 
 In the next section, we'll cover [Top N](top-n.md) analysis.
 
