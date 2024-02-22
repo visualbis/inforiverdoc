@@ -34,7 +34,7 @@ When you close a period, you can choose to extend the forecast. In this case, we
 
 If you select the _Extend Forecast Range_ checkbox_,_ the duration dropdown becomes active. In this case, you can choose to extend the forecast till January 2025 (1 month) or Q1 2025 (1 quarter).
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Duration by which to extned the forecast</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption><p>Duration by which to extned the forecast</p></figcaption></figure>
 
 #### 6. Discard
 
@@ -44,8 +44,8 @@ If you do not wish to close the period, you can cancel by clicking on the discar
 
 Click on the preview button to open the confirmation dialog box. You can review the period that is being closed as well as the open forecast period.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (2).png" alt=""><figcaption><p>Preview forecast</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Preview forecast</p></figcaption></figure>
 
 When you save, the selected forecast period is closed. Notice that the January forecast is greyed out and has been closed.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Forecast period closed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (2).png" alt=""><figcaption><p>Forecast period closed</p></figcaption></figure>
