@@ -56,7 +56,15 @@ If the data is customized with different fonts, the font chosen in the Settings 
 
 g) You can '**Show header and footer**' either only on the First Page or on Every Page
 
-h) You can capture comments and replies **i**n the fully formatted PDF exports. Check the **'Include comment replies'** to export the replies in the comments column.
+h) You can create a cover page for your report by **First page image** toggle. Select a custom image to use as the cover page.
+
+<figure><img src="../../.gitbook/assets/image (502).png" alt=""><figcaption><p>Cover image</p></figcaption></figure>
+
+&#x20;i) If you want the image to fill the entire cover page, select the **Use as background image** checkbox**.**
+
+<figure><img src="../../.gitbook/assets/image (503).png" alt=""><figcaption><p>Use as background image for PDF extracts</p></figcaption></figure>
+
+j) You can capture comments and replies **i**n the fully formatted PDF exports. Check the **'Include comment replies'** to export the replies in the comments column.
 
 <figure><img src="../../.gitbook/assets/image (378) (1).png" alt=""><figcaption><p>Report that has comments and replies</p></figcaption></figure>
 
@@ -64,14 +72,14 @@ After exporting the report to a PDF, you will be able to see formatted comments 
 
 <figure><img src="../../.gitbook/assets/6.1. Comments replies (1).png" alt=""><figcaption><p>Comments and replies</p></figcaption></figure>
 
-i)You can select the '**Include footnotes**' option to export the footnotes along with the table/matrix
+k)You can select the '**Include footnotes**' option to export the footnotes along with the table/matrix
 
-j) You can set the '**Footnote position**' as
+l) You can set the '**Footnote position**' as
 
 * Last Page: Footnotes get printed on the last page.
 * Dynamic: Based on the available space, footnotes get printed either on the same page where they are added or on the last page.
 
-k) Click on 'Update' to save your page setup selection. Click on 'Reset' to reset all your selections.&#x20;
+m) Click on 'Update' to save your page setup selection. Click on 'Reset' to reset all your selections.&#x20;
 
 ### ii) Exporting
 
