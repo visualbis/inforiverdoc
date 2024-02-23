@@ -22,37 +22,43 @@ If you want to calculate the running total for all leaf nodes,  irrespective of 
 
 <figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption><p>Continuous running total for hierarchical datasets</p></figcaption></figure>
 
-#### ii) % Contribution to parent
+#### ii) Percentage running total
+
+This formula is a variant of the running total quick formula . The running total at each level of the hierarchy is expressed as a percentage of the total/subtotal.
+
+<figure><img src="../../.gitbook/assets/image (500).png" alt=""><figcaption><p>Percentage running total formula</p></figcaption></figure>
+
+#### iii) % Contribution to parent
 
 In addition to choosing to insert as a visual measure/column and the base value, a progress bar can be enabled along with percentage and/or value to display.&#x20;
 
 <figure><img src="../../.gitbook/assets/4.5.4(2) Quick formula.png" alt=""><figcaption><p>% Contribution of 2022 Actuals to parent</p></figcaption></figure>
 
-#### iii) % Contribution to grand total
+#### iv) % Contribution to grand total
 
 Contribution to the grand total can be inserted as shown below. To insert % contribution only for a selected category instead of all the categories or only for the column grand total, choose the 'Visual column' option and the corresponding column.&#x20;
 
 <figure><img src="../../.gitbook/assets/4.5.5(2) Quick formula.png" alt=""><figcaption><p>% Contribution to grand total as visual column</p></figcaption></figure>
 
-#### iv) Lead/lag
+#### v) Lead/lag
 
 You can perform a lead /lag calculation to shift any trend data by 'n' periods. This helps you quickly perform downstream variance calculations such as QoQ growth, YoY growth, etc. for each period.
 
 <figure><img src="../../.gitbook/assets/4.5.6 Quick formula.png" alt=""><figcaption><p>Lead/lag calculations</p></figcaption></figure>
 
-#### v) Overall ranking
+#### vi) Overall ranking
 
 Ranks can be added across different groups in a single click. Choose to insert as a measure or column and the base measure. Note that there are no ranks applied for the subtotals.&#x20;
 
 <figure><img src="../../.gitbook/assets/4.5.7 Quick formula.png" alt=""><figcaption><p>Overall ranking</p></figcaption></figure>
 
-#### vi) Ranking within a group
+#### vii) Ranking within a group
 
 Ranks within groups can be added including ranks for subtotals as shown in the below image.
 
 <figure><img src="../../.gitbook/assets/4.5.8 Quick formula.png" alt=""><figcaption><p>Ranking within group</p></figcaption></figure>
 
-#### vii) Insert variance
+#### viii) Insert variance
 
 The default variance calculated by Inforiver is based on the first measure added to the AC/PY/PL/FC fields. _Insert Variance_ can be used to calculate the variance between any native measures or formula fields in your report.
 
