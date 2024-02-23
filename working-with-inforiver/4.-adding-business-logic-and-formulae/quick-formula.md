@@ -12,11 +12,15 @@ Columns/measures such as running total, % contribution to parent/grand total etc
 
 The following configuration options are available for 'Running total'.&#x20;
 
-'Insert as' - The running total can be inserted as a [measure or column](insert-manual-input-columns.md#2.-measure-vs-column).
+Insert as - The running total can be inserted as a [measure or column](insert-manual-input-columns.md#2.-measure-vs-column).
 
-'Base value' - Column/measure based on which the running total needs to be calculated.
+Based on Measure - Column/measure based on which the running total needs to be calculated.
 
-<figure><img src="../../.gitbook/assets/4.5.3(2) Quick formula.png" alt=""><figcaption><p>Running total of 2022 Actuals as a measure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (498).png" alt=""><figcaption><p>Running total for Actuals </p></figcaption></figure>
+
+If you want to calculate the running total for all leaf nodes,  irrespective of the level of the hierarchy they belong to, select the 'Continuous Total'  checkbox.
+
+<figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption><p>Continuous running total for hierarchical datasets</p></figcaption></figure>
 
 #### ii) % Contribution to parent
 

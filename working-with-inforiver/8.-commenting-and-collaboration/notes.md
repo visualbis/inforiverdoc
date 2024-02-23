@@ -154,6 +154,10 @@ c) There are a number of indicator types such as numbered, lettered, arrow etc. 
 
 <figure><img src="../../.gitbook/assets/8.1.22 Settings.png" alt=""><figcaption><p>Changes made to the indicators and footnotes</p></figcaption></figure>
 
+The notes indicator can be set at the report level (as shown above), in which case all notes in a report would have the same indicator. You can set individual indicators for each note as well.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Notes indicator</p></figcaption></figure>
+
 ## 9. Marker mode
 
 ‘Marker Mode’ can be used to highlight important observations during presentations. Markings are temporary and can be cleared.&#x20;
