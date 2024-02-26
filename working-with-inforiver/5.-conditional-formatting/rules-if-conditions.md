@@ -125,4 +125,18 @@ e) Click on a value in any of the variance columns. You can see flag icons in th
 
 <figure><img src="../../.gitbook/assets/5.2.34 User selection.png" alt=""><figcaption><p>Conditional formatting based on user selection</p></figcaption></figure>
 
+### 6. Dates
+
+With Inforiver, you can compare date dimensions in rows and columns and automatically format cells based on the comparison. Let's add date dimensions in the row and column parameters. To compare two date dimensions, select the **Compare Date** option. In the example below, we used conditional formatting to highlight the cells where the order date exceeds the ship date.
+
+<figure><img src="../../.gitbook/assets/image (504).png" alt=""><figcaption><p>Compare date dimensions</p></figcaption></figure>
+
+In the example above, we compared each ship date against each order date and highlighted the cells with the order date greater than the ship date. Instead of comparing each cell, you can also compare a date dimension with the minimum or maximum value of another date dimension. To demonstrate this, let's highlight the cells with the order date greater than the minimum ship date.
+
+<figure><img src="../../.gitbook/assets/image (506).png" alt=""><figcaption><p>Highlight cells with order date greater than minimum of ship date</p></figcaption></figure>
+
+You can compare date dimensions against static dates using the Selected Date option and specify the date to be compared against.
+
+<figure><img src="../../.gitbook/assets/image (505).png" alt=""><figcaption><p>Compare against static dates</p></figcaption></figure>
+
 In the next section, we'll be covering [Color scale](color-scale.md).
