@@ -72,4 +72,16 @@ b) Data bars get added as shown in the image making it easy to spot the highest 
 
 To learn more about customizing data bars, visit [this section](color-scale.md#2.-data-bars).
 
-You can use the side panel to further customize your rules. In the next section, we'll look at the [advanced options](create-rule-basic-settings.md).
+### 5. Bubble charts
+
+You can use bubble charts to gauge the magnitude of a measure instantly and for quick comparative analysis.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (508).png" alt=""><figcaption><p>Bubble chart conditional formatting</p></figcaption></figure>
+
+The bubble size can be determined by comparing values in the same column or within the same row. You can also use a different measure to determine the size of the bubble.
+
+<figure><img src="../../.gitbook/assets/image (509).png" alt=""><figcaption><p>Bubble charts</p></figcaption></figure>
+
+
+
+You can use the side panel to customize your rules. In the next section, we'll look at the [advanced options](create-rule-basic-settings.md).
