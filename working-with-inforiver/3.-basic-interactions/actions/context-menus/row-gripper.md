@@ -114,6 +114,12 @@ The 'Bookcases' row has been masked using this option. Use the _Show All Rows_ o
 
 e) Skip row
 
+The skip rows option can be used when you need to effectively perform a soft delete on a row - the row will be excluded from totals and exports.
+
+{% hint style="info" %}
+Use the Alt + G shortcut to select multiple rows and skip all of them.
+{% endhint %}
+
 <figure><img src="../../../../.gitbook/assets/image (18) (4).png" alt=""><figcaption></figcaption></figure>
 
 The 'Furnishings' row has been removed using the _Skip row_ option and the totals and sub-totals have been adjusted accordingly.
