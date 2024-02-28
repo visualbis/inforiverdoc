@@ -100,6 +100,10 @@ If your dataset contains hierarchies with multiple levels, you can choose to exp
 
 You can display a chosen field as a separate column similar to the stepped layout. By default, it is set to 'None'. In the below image, the 'Sub Category' field has been selected and it gets displayed as a separate column in the visual.
 
+{% hint style="info" %}
+This option is available only in the Hierarchy layout when there are 3 or more levels in the row dimensions.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Mixed layout</p></figcaption></figure>
 
 ## 4. Child
