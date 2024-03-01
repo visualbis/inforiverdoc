@@ -16,7 +16,7 @@ You can specify a particular day of the month when forecasts should be closed.
 The forecasts will be closed irrespective of whether the designated day is a weekend or a holiday.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Admin console auto close setup</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Admin console auto close setup</p></figcaption></figure>
 
 Open forecasts are closed automatically on the calendar day specified in the admin console. This setting can be viewed in the edit forecast settings as well.
 

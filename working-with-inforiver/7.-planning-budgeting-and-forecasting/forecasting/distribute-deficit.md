@@ -8,7 +8,7 @@ To demonstrate this feature, we have created a forecast for Q1 2024 and allocate
 
 From the Measures Compared dropdowns, you can select the measures for which the deficit is being calculated. In this case, we have calculated the deficit between forecast and sales. The calculated deficit is 47, 018.27.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Distribute deficit window</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Distribute deficit window</p></figcaption></figure>
 
 #### 2. Select the forecast measure and distribution range
 
@@ -28,12 +28,12 @@ There are two methods for distribution, we'll look at an example for each of the
 
 Let's consider a scenario where the forecasts for Feb and Mar have different values.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Different forecast values</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (2).png" alt=""><figcaption><p>Different forecast values</p></figcaption></figure>
 
 a) Distribute equally:
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Distribute equally</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Distribute equally</p></figcaption></figure>
 
 b) Distribute by weights:
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Distribute by weights</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Distribute by weights</p></figcaption></figure>

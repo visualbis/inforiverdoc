@@ -2,7 +2,12 @@
 
 * [Introduction to Inforiver](README.md)
   * [Why Inforiver](introduction-to-inforiver/why-inforiver.md)
-  * [Get Started](introduction-to-inforiver/get-started.md)
+  * [Get Started](readme/get-started/README.md)
+    * [Installing Inforiver for yourself](readme/get-started/installing-inforiver-for-yourself.md)
+    * [Installing Inforiver for your organization (Org visual)](readme/get-started/installing-inforiver-for-your-organization-org-visual.md)
+    * [Inforiver Enterprise pre-requisites](readme/get-started/inforiver-enterprise-pre-requisites/README.md)
+      * [Whitelist Inforiver IPs](readme/get-started/inforiver-enterprise-pre-requisites/whitelist-inforiver-ips.md)
+      * [Admin consent for Inforiver's entra ID](readme/get-started/inforiver-enterprise-pre-requisites/admin-consent-for-inforivers-entra-id.md)
 * [Working with Inforiver](working-with-inforiver/README.md)
   * [1. Build your first Inforiver report](working-with-inforiver/1.-build-your-first-inforiver-report.md)
   * [2. Displaying information](working-with-inforiver/2.-displaying-information/README.md)
