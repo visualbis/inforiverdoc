@@ -16,7 +16,7 @@ We successfully used filters, KPI explorer, manage columns, expand/collapse hier
 
 #### Resources
 
-[Visual calculations using Inforiver](https://inforiver.com/visual-calculations-powerbi/)
+[Visual calculations using Inforiver](https://inforiver.com/webinars/visual-level-formula-calculations-powerbi/)
 
 [Excel-like MoM, QoQ, YoY % calculations in rows ](https://inforiver.com/blog/general/excel-like-mom-qoq-yoy-calculations-power-bi/)
 

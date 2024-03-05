@@ -122,7 +122,7 @@ In certain cases, the values in calculated rows may not conform to the number sc
 
 [Insert Formulas, Columns and Aggregation](https://www.youtube.com/watch?v=hjPAbuYJUSc)
 
-[Visual calculations using Inforiver](https://inforiver.com/visual-calculations-powerbi/)
+[Visual calculations using Inforiver](https://inforiver.com/webinars/visual-level-formula-calculations-powerbi/)
 
 [Implement SUM measure totals in Power BI (without using DAX)](https://inforiver.com/blog/general/sum-measure-totals-powerbi-no-dax/)
 
