@@ -22,6 +22,12 @@ By default, the 'Native' option is applied which follows the native summarizatio
 
 <figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption><p>Native aggregation at report level</p></figcaption></figure>
 
+#### None
+
+Choosing 'None' performs no aggregations for the selected measure or hierarchy. In the example below, the 'Discount' measure is not aggregated.
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Aggregation is 'None'</p></figcaption></figure>
+
 #### Sum
 
 'Sum' aggregation displays the sum of the immediate child nodes as the aggregate. In the highlighted example, the 'Computers' category is the sum of its immediate child nodes.

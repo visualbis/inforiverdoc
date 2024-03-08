@@ -48,6 +48,19 @@ You can also override the data in multiple cells with the same value, for instan
 
 <figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
+### iv) Renaming Row Categories
+
+You can also rename row categories by double-clicking on them.&#x20;
+
+For hierarchical datasets, the same row category may be repeated at each level of the hierarchy. When you try to rename such categories at one level, Inforiver displays a prompt to confirm whether the category should be renamed across all levels or only at that level.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
+
 {% hint style="info" %}
 You can also edit cells by using the 'Edit cell' icon in the toolbar. You can access it in the 'Insert' tab, 'Cell' section.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+* Inforiver allows you to edit values (both number and text measures) in the assigned native data fields (AC, PY, PL, FC, and **Others**) as well as the inserted custom fields.
+* You can also edit the **date** measures assigned in the AC/PY/PL/FC/ Others fields. Editing of both hierarchical and non-hierarchical dates is supported.
 {% endhint %}

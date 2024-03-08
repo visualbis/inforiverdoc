@@ -42,7 +42,7 @@ e) To insert a particular row, you can simply click on it when the cursor is pla
 
 <figure><img src="../../.gitbook/assets/4.1.8 Calculated row.png" alt=""><figcaption><p>Inserting references by clicking a row</p></figcaption></figure>
 
-f) The other way is to use the 'References' tab. To access Soda, you can need to type Beverages.Soda. As you start typing, the references get narrowed down. Select 'Beverages'.
+f) The other way is to use the 'References' tab. To access Soda, you need to type Beverages.Soda. As you start typing, the references get narrowed down. Select 'Beverages'.
 
 <figure><img src="../../.gitbook/assets/4.1.9 Calculated row.png" alt=""><figcaption><p>Inserting a reference from the dropdown</p></figcaption></figure>
 
@@ -55,8 +55,20 @@ h) Finish typing the formula as shown below.
 <figure><img src="../../.gitbook/assets/4.1.11 Calculated row.png" alt=""><figcaption><p>Formula entered</p></figcaption></figure>
 
 {% hint style="info" %}
-To see the underlying logic for calculated data, you can simply click on the cell to preview the formulae applied in the formula bar.
+To see the underlying logic for calculated data, you can click on the cell to preview the formulae applied in the formula bar.
 {% endhint %}
+
+**Note:** While you can use the [SUM](../../formula-syntax/math-functions/sum.md) and [AVERAGE](../../formula-syntax/math-functions/average.md) functions to calculate the sum and average of rows respectively, you can also use the **Insert Sum of rows** and **Insert Avg of rows** options from the 'Insert Row' menu for the same.
+
+Select the desired rows first holding down the Ctrl key and then select **Insert Sum of rows.**
+
+<figure><img src="../../.gitbook/assets/image (517).png" alt=""><figcaption><p>Choose <strong>Insert Sum of rows</strong></p></figcaption></figure>
+
+A new row containing the sum of the selected rows is created as shown below. You can use the side panel to make any additional changes. Observe how the formula editor has been automatically populated with the selected rows.
+
+<figure><img src="../../.gitbook/assets/image (518).png" alt=""><figcaption><p>New Calculated Row - Sum</p></figcaption></figure>
+
+Similarly, for calculating and inserting the average of rows, use **Insert Avg of rows.**
 
 ### 2. Include in total
 
@@ -116,7 +128,21 @@ When 'Evaluate columns before rows' is disabled, the grand total variance is cal
 
 In certain cases, the values in calculated rows may not conform to the number scaling set at the report level. You can apply a custom scaling factor based on the nature of the calculation applied.
 
-<figure><img src="../../.gitbook/assets/7.3. Custom scaling for calculated rows.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7.3. Custom scaling for calculated rows.png" alt=""><figcaption><p>Scaling Factor</p></figcaption></figure>
+
+### 6. Bind for Cross filter/RLS
+
+Select this option to enable RLS (Row-level Security) to the inserted rows. You can bind the inserted row to any existing row or a dimension member for secure bi-directional cross filtering.&#x20;
+
+For example, the image below shows the newly inserted row being bound to the member _'Technology'_ in the dimension _'Category'._ This is done by choosing 'Dimension Member' in the Selection Type and then selecting the required dimension and member.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Binding for Cross filtering/RLS</p></figcaption></figure>
+
+Note: You can also choose 'Row' as the Selection Type and select any existing row in the report.
+
+Only the users with permission to access the 'Technology' category can view the newly added row as shown below. This way, you can bind the inserted rows to their respective categories.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>RLS added to the new row</p></figcaption></figure>
 
 #### Resources
 

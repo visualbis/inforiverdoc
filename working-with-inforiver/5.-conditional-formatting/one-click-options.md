@@ -72,7 +72,37 @@ b) Data bars get added as shown in the image making it easy to spot the highest 
 
 To learn more about customizing data bars, visit [this section](color-scale.md#2.-data-bars).
 
-### 5. Bubble charts
+### 5. Action Analysis
+
+#### a) Action dot
+
+Action dots represent the degree to which the cell values deviate from the desired range/value in the measure. Adding them to the cells helps you assess how the quantities compare to the middle value or any desired value in the measure.&#x20;
+
+1. Select any measure to which you want to add them. Click **Conditional Formatting -> Action Analysis -> Action Dot.**
+
+<figure><img src="../../.gitbook/assets/image (511).png" alt=""><figcaption><p>Action Dot</p></figcaption></figure>
+
+2. By default, Inforiver provides custom color ranges based on values or percentages. Click **Apply.** Find below a sample report with action dots applied to the _Profit_ measure.
+
+<figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption><p>Action dots applied to <em>Profit</em></p></figcaption></figure>
+
+The color scale indicates a positive or negative deviation, and the number of dots represents the magnitude of the difference, with which you can focus on the values that diverge the most.
+
+#### b) Action Color
+
+Action colors are a variation of action dots in which the degree of divergence of cell values from the target value is expressed by color gradients. The color scale denotes a positive or negative deviation, while the gradient intensity indicates the magnitude of the deviation.
+
+1. Select any measure to which you want to add them. Click **Conditional Formatting -> Action Analysis -> Action Color.**
+
+<figure><img src="../../.gitbook/assets/image (513).png" alt=""><figcaption><p>Action Color</p></figcaption></figure>
+
+2. By default, Inforiver provides custom color ranges based on values or percentages. Click **Apply.** Find below a sample report with action colors applied to the _Profit_ measure.
+
+<figure><img src="../../.gitbook/assets/image (514).png" alt=""><figcaption><p>Action Colors applied to the <em>Profit</em></p></figcaption></figure>
+
+The conditional formatting side panel provides options to customize the action dots and action colors. The options are similar to the color scale, data bars, and classification which are explained [here](color-scale.md#c-custom-color-scale) and [here](classification.md#classification-ranges). The **middle percentage** option is used to set the desired median percentage value from which the spread is calculated.
+
+### 6. Bubble charts
 
 You can use bubble charts to gauge the magnitude of a measure instantly and for quick comparative analysis.&#x20;
 

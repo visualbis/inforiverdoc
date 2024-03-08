@@ -186,7 +186,29 @@ You can add comparison bands by clicking on the 'Comparison bands**'** icon. The
 
 * **Number of bands** - Here you can set the number of bands required.
 
-### **vi) Data label config**&#x20;
+### **vi) Outliers**
+
+In the case of lollipop/pin charts, you can indicate the outliers that exceed the specified threshold values.&#x20;
+
+You can do this while creating a pin chart, or add them after creating a pin chart through the **Customize** tab.
+
+1. Select the measure and then select the 'Pin Chart' drop-down menu to add any of the pin chart options available. You can also select the measure that already has one.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (519).png" alt=""><figcaption><p>Click on <strong>Pin Charts</strong> drop-down menu</p></figcaption></figure>
+
+2. In the customization menu, click on the **Outliers** option.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Click <strong>Outliers</strong></p></figcaption></figure>
+
+3. In the Outliers pop-up window, check **Enable Outlier.** If you wish to hide the values, select the option **Disable Label.** Enter the required positive and negative threshold values as shown below and Click **Apply**.
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Custom Outliers</p></figcaption></figure>
+
+4. After applying outliers, the report shows below, highlighting the profit values exceeding 15k.
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Outliers</p></figcaption></figure>
+
+### **vii) Data label config**&#x20;
 
 This option lets you configure the properties related to the data label. You can configure the following properties:
 
@@ -203,19 +225,19 @@ This option lets you configure the properties related to the data label. You can
 
 <figure><img src="../../.gitbook/assets/percentage-scaling.png" alt=""><figcaption><p>Percentage scaling options</p></figcaption></figure>
 
-### **vii) Padding**&#x20;
+### **viii) Padding**&#x20;
 
 You can configure the inner padding (the space between the bar and the top/bottom border of a cell) with this option. Increasing the padding value will increase the spacing.
 
 <figure><img src="../../.gitbook/assets/padding-option.png" alt=""><figcaption><p>Padding options</p></figcaption></figure>
 
-### **viii) Fill pattern**&#x20;
+### **ix) Fill pattern**&#x20;
 
 You can customize the fill pattern to any of these IBCS notations: _Solid, Outlined,_ or _Hatched_.
 
 <figure><img src="../../.gitbook/assets/bar-chart-fill-pattern.png" alt=""><figcaption><p>Fill pattern options</p></figcaption></figure>
 
-### ix) Appearance
+### x) Appearance
 
 Appearance has two sub-options - Color and Series display.&#x20;
 

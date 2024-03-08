@@ -22,8 +22,8 @@ Azure SQL destinations have firewall rules that block connections originating fr
 
 Follow the steps in the image below to whitelist the 5 Inforiver outbound IP addresses.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Creating firewall rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (7).png" alt=""><figcaption><p>Creating firewall rules</p></figcaption></figure>
 
 The screengrab below shows the firewall rules configured for Inforiver would.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Inforiver firewall rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (8).png" alt=""><figcaption><p>Inforiver firewall rules</p></figcaption></figure>

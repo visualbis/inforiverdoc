@@ -16,17 +16,17 @@ You can specify a particular day of the month when forecasts should be closed.
 The forecasts will be closed irrespective of whether the designated day is a weekend or a holiday.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Admin console auto close setup</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption><p>Admin console auto close setup</p></figcaption></figure>
 
 Open forecasts are closed automatically on the calendar day specified in the admin console. This setting can be viewed in the edit forecast settings as well.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Auto close settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Auto close settings</p></figcaption></figure>
 
 ### ii) Workday
 
 The workday option excludes weekends and holidays and will close the forecast on the specified working day. You can select the holiday calendar(s) to refer to when the workday option is chosen.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Auto close using workdays</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Auto close using workdays</p></figcaption></figure>
 
 This setting can be viewed in the edit forecast settings as well.
 

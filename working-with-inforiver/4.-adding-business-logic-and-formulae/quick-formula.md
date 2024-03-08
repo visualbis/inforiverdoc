@@ -24,7 +24,7 @@ If you want to calculate the running total for all leaf nodes,  irrespective of 
 
 #### ii) Percentage running total
 
-This formula is a variant of the running total quick formula . The running total at each level of the hierarchy is expressed as a percentage of the total/subtotal.
+This formula is a variant of the running total quick formula. The running total is first calculated in the background at each level of the hierarchy after which it is displayed as a percentage of the total/subtotal.
 
 <figure><img src="../../.gitbook/assets/image (500).png" alt=""><figcaption><p>Percentage running total formula</p></figcaption></figure>
 

@@ -78,6 +78,10 @@ Columns containing null values will be suppressed if this option is enabled.
 
 Columns with blank labels will be suppressed if this option is enabled.
 
+* **Hide blank dimensions in column hierarchy**
+
+Enabling this hides the entire column hierarchy assigned in the **Columns** field, provided it is completely blank or empty.
+
 #### v) Row hierarchy icon
 
 You can select custom icon styles to represent the row hierarchy i.e. choose the expand/collapse icons for hierarchical categories. If 'None' is selected, an icon will not be displayed.&#x20;
@@ -215,7 +219,31 @@ The value that you specify here will override the default height of the grand to
 The minimum and maximum values for grand total height are 5 and 45 respectively.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>Grand Total Height</p></figcaption></figure>
+
+## 7. Total API
+
+Inforiver pre-calculates the totals and subtotals for your data while loading the report. If your dataset is large and you do not require totals in your reports, you can substantially reduce the loading time of your report and boost its performance with the Total API option.&#x20;
+
+You can disable the total and sub-total calculations for rows and columns separately.
+
+<figure><img src="../.gitbook/assets/image (515).png" alt=""><figcaption><p>Total API</p></figcaption></figure>
+
+#### i) Row Total/Subtotal
+
+Disable this to stop row-level total and sub-total calculations while loading your report.
+
+#### ii) Column Total/Subtotal
+
+Disable this to stop column-level total and sub-total calculations while loading your report.
+
+Notice the time taken when Inforiver pre-calculates the totals and subtotals:&#x20;
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>When Totals are pre-calculated</p></figcaption></figure>
+
+When the total calculation is disabled, even large datasets can be fetched in milliseconds as shown in the screengrab below.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
 
 **Resources**
 
