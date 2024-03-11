@@ -174,12 +174,18 @@ In the example, Solid vertical gridlines are inserted and their colors are set t
 
 ### 6. Table padding
 
-This option allows you to insert spacing/padding for the table from the top, bottom, left, and right.&#x20;
+This option allows you to insert spacing/padding for the table from the top, bottom, left, and right. Any padding applied will reflect in PDF exports.
 
 {% hint style="info" %}
 The minimum and maximum padding values are 0 and 100 respectively.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Table padding</p></figcaption></figure>
+
+### 7. Custom date format
+
+You can set a specific date format for hierarchical date dimensions in rows or columns. Enable the Custom Date Format option to select the format from the Date category dropdown. This option can be used for flat date hierarchies and Power BI date hierarchies.
+
+<figure><img src="../.gitbook/assets/image (520).png" alt=""><figcaption><p>Custom date format</p></figcaption></figure>
 
 In this section, we covered the general display settings. Navigate to the next section to learn more about [hierarchy settings](hierarchy-settings.md).
