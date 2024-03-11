@@ -20,7 +20,7 @@ Let us explore the steps to add the future periods from Oct 2023 to Dec 2023 per
 
 2. You will be shown a new popup window. Here we can mention how we want to populate the forecast for future periods.
 
-<figure><img src="../../../../.gitbook/assets/forecast.png" alt=""><figcaption><p>Forecast</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/forecast.png" alt=""><figcaption><p>Forecast window</p></figcaption></figure>
 
 **Title:** By default, the forecast measure is named ‘Forecast’. &#x20;
 
@@ -49,4 +49,40 @@ Note that it is also possible to add another line in **Period** and state that w
 
 5. Let us start entering our forecasts now. Double-click the value for Oct for the _ALL_ region. A formula bar appears above the table. Type in ‘105m’ in the formula bar.
 
-<figure><img src="../../../../.gitbook/assets/oct forecast.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/oct forecast.png" alt=""><figcaption><p>Enter Values</p></figcaption></figure>
+
+By default, the values are distributed equally across all the regions and sub-regions as shown below.
+
+<figure><img src="../../../../.gitbook/assets/oct forecast equal dis.png" alt=""><figcaption><p>Oct Forecast - Equal Distribution</p></figcaption></figure>
+
+6. In our case, we need to allocate the budget amount of 105M proportionally across geographies based on their performance in Sep. To do this, click on the context menu appearing on the Oct cell with the value 105.00 and choose **Distribute by weights of Actuals -> 2023, Sep.**
+
+<figure><img src="../../../../.gitbook/assets/oct forecast with weight dis of sep.png" alt=""><figcaption><p>Oct Forecast - Weight Distributed from Sep</p></figcaption></figure>
+
+This will distribute Oct forecast data based on Sep actuals as shown below.
+
+<figure><img src="../../../../.gitbook/assets/oct forecast final.png" alt=""><figcaption><p>October Forecast</p></figcaption></figure>
+
+7. Similarly, we can add values and distribute the forecast for Nov and Dec 2023.
+
+<figure><img src="../../../../.gitbook/assets/scenario4_fc1.png" alt=""><figcaption><p>Forecasted Data</p></figcaption></figure>
+
+8. Once we move into October, the Power BI query and data model may start showing actuals for Oct. As a result, you will see both the columns.
+
+<figure><img src="../../../../.gitbook/assets/scenario4_fc2.png" alt=""><figcaption><p>October - Actuals and Forecast</p></figcaption></figure>
+
+9. Once the October period elapses, you want to ensure that the Oct Forecast is replaced with Oct Actuals, so that your full-year forecast is accurate. To do this, click on the **Insert -> Manage Measures -> Measures.**
+
+<figure><img src="../../../../.gitbook/assets/manage measures.png" alt=""><figcaption><p>Manage Measures</p></figcaption></figure>
+
+10. Click on the edit icon next to the forecast measure. You will be taken to the Data Input pane. Change the Forecasting Period value from Oct 2023 to Nov 2023. Click on **Update** as shown below.
+
+<figure><img src="../../../../.gitbook/assets/scenario4_fc3.png" alt=""><figcaption><p>Update forecast period to start from November</p></figcaption></figure>
+
+This tells Inforiver that it must retain forecast values only from November. As a result, the October forecast values will be automatically updated with the actual data.
+
+<figure><img src="../../../../.gitbook/assets/scenario4_fc4.png" alt=""><figcaption><p>Update October forecast values with actuals</p></figcaption></figure>
+
+This ensures that your full-year forecast stays updated.
+
+Using this simple technique, Inforiver ensures that you can add future forecast periods even if they are not available in your data model. It also ensures that you can update this forecast data with actuals as future periods elapse.

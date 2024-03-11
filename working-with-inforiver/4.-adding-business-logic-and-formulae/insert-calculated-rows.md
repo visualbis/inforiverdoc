@@ -55,10 +55,10 @@ h) Finish typing the formula as shown below.
 <figure><img src="../../.gitbook/assets/4.1.11 Calculated row.png" alt=""><figcaption><p>Formula entered</p></figcaption></figure>
 
 {% hint style="info" %}
-To see the underlying logic for calculated data, you can click on the cell to preview the formulae applied in the formula bar.
+To see the underlying logic for calculated data, click on the cell to preview the formulae applied in the formula bar.
 {% endhint %}
 
-**Note:** While you can use the [SUM](../../formula-syntax/math-functions/sum.md) and [AVERAGE](../../formula-syntax/math-functions/average.md) functions to calculate the sum and average of rows respectively, you can also use the **Insert Sum of rows** and **Insert Avg of rows** options from the 'Insert Row' menu for the same.
+While you can use the [SUM](../../formula-syntax/math-functions/sum.md) and [AVERAGE](../../formula-syntax/math-functions/average.md) functions to calculate the sum and average of rows respectively, you can also use the **Insert Sum of rows** and **Insert Avg of rows** options from the 'Insert Row' menu for the same.
 
 Select the desired rows first holding down the Ctrl key and then select **Insert Sum of rows.**
 

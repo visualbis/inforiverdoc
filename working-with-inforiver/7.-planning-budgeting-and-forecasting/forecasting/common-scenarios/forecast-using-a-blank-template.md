@@ -12,7 +12,7 @@ In our case, ACME Inc. wants to create sales forecasts for all four quarters of 
 
 2. Assign _Region_ & _Sub Region_ categories to rows and _Quarters_ to columns. You will have a blank table structure.
 
-<figure><img src="../../../../.gitbook/assets/create-blank-table-structure.png" alt=""><figcaption><p>Creating a blank report</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/create-blank-table-structure.png" alt=""><figcaption><p>Create a blank report</p></figcaption></figure>
 
 3. We will now create a data input field (a forecast measure) so that users can type in their values. To do this, click on **Insert -> Data Input -> Number** (since it is a numeric field type) **-> Insert a new empty series.**&#x20;
 
@@ -48,6 +48,6 @@ In our case, ACME Inc. wants to create sales forecasts for all four quarters of 
 
 Just like we entered the values, other users in the organization also can enter the values for their respective regions.&#x20;
 
-This is how a sales forecast can be done using Inforiver with a blank template in Power BI.
+This is how a sales forecast can be done using Inforiver with a blank template in Power BI. In the [next section](forecast-using-existing-data.md), we'll learn to forecast using the existing data.
 
 &#x20;

@@ -18,7 +18,7 @@ The steps involved in creating a new forecast based on existing data are as foll
 
 <figure><img src="../../../../.gitbook/assets/2023 fc v2.png" alt=""><figcaption><p>Insert Copy of Series 'Forecast V1'</p></figcaption></figure>
 
-3. This creates a copy of the original series. Let us name this new forecast as _Forecast v2_. Click on **Create**.
+3. This creates a copy of the original series. Let us name this new forecast as _Forecast V2_. Click on **Create**.
 
 <figure><img src="../../../../.gitbook/assets/2023 fc v2_1.png" alt=""><figcaption><p>Forecast V2</p></figcaption></figure>
 
@@ -33,5 +33,7 @@ The steps involved in creating a new forecast based on existing data are as foll
 You can continue to make further changes like this to arrive at your finalized forecast version. Retaining the older version of the forecast is helpful to run variance analysis and comparisons as needed. &#x20;
 
 The newer version of the forecast can also be written back to a database destination of your choice.&#x20;
+
+Now that we have seen how to forecast using the existing data, in the [next section](adding-forecasts-for-periods-unavailable-in-the-model.md) we'll learn to add forecasts for the periods that are not available in your data model.
 
 &#x20;
