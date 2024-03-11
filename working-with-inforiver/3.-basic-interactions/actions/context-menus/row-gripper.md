@@ -48,6 +48,12 @@ g) Empty row
 
 Financial statements and reports often require options to add white spaces for formatting. Inforiver provides the insert 'empty row' option to achieve this in a single click.  [Learn more about empty rows](../../../2.-displaying-information/basic-formatting/insert-blank-rows.md).
 
+h) Sum/Avg row
+
+Select rows and choose the **Insert sum of row** or **Insert average of row** options from the row gripper to create a new row with the sum/avg of the selected rows.  [Learn more about calculated rows](../../../4.-adding-business-logic-and-formulae/insert-calculated-rows.md).
+
+<figure><img src="../../../../.gitbook/assets/9.3. Insert sum avg from row gripper.png" alt=""><figcaption><p>Inserting sum and average</p></figcaption></figure>
+
 #### iv) Aggregation
 
 Inforiver enables you to set custom aggregation to calculate the sub-totals at the parent node level for hierarchical data. This option is available in the row gripper for parent nodes only.
