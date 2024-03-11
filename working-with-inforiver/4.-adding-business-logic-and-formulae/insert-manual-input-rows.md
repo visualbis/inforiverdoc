@@ -40,6 +40,10 @@ When the 'Include in total' option is enabled, any values that we type in for th
 
 The 'Distribute parent value to children' option ensures that if a value is entered at a total level, it gets distributed to the levels below it.
 
+### **iv. Bind for cross filter/RLS**
+
+You can enable the Bind for Cross filter/RLS option – this ensures that cross-filter selections and RLS settings apply to calculated/manual input rows that reference other rows. For example, if this option is not enabled, a manager handling Canada accounts can view a manually inserted row that references US data or an inserted region that is manually created at the visual level. [Learn more about binding rows.](insert-calculated-rows.md#id-6.-bind-for-cross-filter-rls)
+
 ## 3. **Delete a static row**
 
 To delete a static row, hover over the row and click on the row gripper. Select the 'Delete Row' option.
@@ -54,7 +58,7 @@ a) You can leverage the **Multiple Static Row** option to bulk insert multiple c
 
 <figure><img src="../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
-b) You can also create placeholders for hierarchical data that is not available in your datasets using this option. Click on the parent level above which you want to insert additional levels. Use tab space to indent the child rows according to the structure of the hierarchy.
+b) You can also create placeholders for hierarchical data that is not available in your datasets with this option. Click on the parent level above which you want to insert additional levels. Use tab space to indent the child rows according to the structure of the hierarchy.
 
 <figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption><p>Multiple static rows - hierarchical data</p></figcaption></figure>
 
@@ -71,10 +75,6 @@ This option can be used to insert a single user-defined level for hierarchical d
 After creating a custom hierarchy level, you can insert static rows, calculated rows, aggregated rows, etc as demonstrated in the example below.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 In the next section, we'll be looking at [inserting manual input columns](insert-manual-input-columns.md).
 

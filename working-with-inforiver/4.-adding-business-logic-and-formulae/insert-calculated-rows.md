@@ -22,7 +22,7 @@ b) A blank row gets inserted and a side panel opens up as shown.
 
 ### 1. Formula editor
 
-a) Rename the title and click on the formula editor. In the 'Functions' tab, you can see a list of available functions.
+a) Rename the title and click on the formula editor. You can see a list of available functions in the 'Functions' tab.
 
 <figure><img src="../../.gitbook/assets/4.1.4 Calculated row.png" alt=""><figcaption><p>Using functions</p></figcaption></figure>
 
@@ -58,7 +58,7 @@ h) Finish typing the formula as shown below.
 To see the underlying logic for calculated data, click on the cell to preview the formulae applied in the formula bar.
 {% endhint %}
 
-While you can use the [SUM](../../formula-syntax/math-functions/sum.md) and [AVERAGE](../../formula-syntax/math-functions/average.md) functions to calculate the sum and average of rows respectively, you can also use the **Insert Sum of rows** and **Insert Avg of rows** options from the 'Insert Row' menu for the same.
+While you can use the [SUM](../../formula-syntax/math-functions/sum.md) and [AVERAGE](../../formula-syntax/math-functions/average.md) functions to calculate the sum and average of rows respectively, you can also use the **Insert Sum of rows** and **Insert Avg of rows** options from the 'Insert Row' menu.
 
 Select the desired rows first holding down the Ctrl key and then select **Insert Sum of rows.**
 
@@ -114,13 +114,13 @@ d) On unchecking the 'Include in charts' checkbox and clicking 'Update', you can
 
 ### 4. Evaluate column before rows
 
-When inserting calculated rows, in some cases you might want the total to be the sum of the child columns whereas in other cases, it needs to follow the defined formula. This behaviour can be configured using the 'Evaluate column before rows' option.&#x20;
+When inserting calculated rows, in some cases you might want the total to be the sum of the child columns whereas in other cases, it needs to follow the defined formula. This behavior can be configured using the 'Evaluate column before rows' option.&#x20;
 
-Let's consider an example where we are inserting the relative variance between two of the rows. In the below image, with 'Evaluate columns before rows' enabled, you can see that the variance for the grand total is calculated based on the grand total values of Pacific and Central.
+Let's consider an example where we are inserting the relative variance between two  rows. In the below image, with 'Evaluate columns before rows' enabled, you can see that the variance for the grand total is calculated based on the grand total values of Pacific and Central.
 
 <figure><img src="../../.gitbook/assets/4.1.20 Calculated row.png" alt=""><figcaption><p>Total value calculated based on formula</p></figcaption></figure>
 
-When 'Evaluate columns before rows' is disabled, the grand total variance is calculated as the sum of Beverages and Water which is not the expected behaviour in this case.
+When 'Evaluate columns before rows' is disabled, the grand total variance is calculated as the sum of Beverages and Water which is not the expected behavior in this case.
 
 <figure><img src="../../.gitbook/assets/4.1.21 Calculated row.png" alt=""><figcaption><p>Total value calculated as sum of category values</p></figcaption></figure>
 
@@ -132,17 +132,29 @@ In certain cases, the values in calculated rows may not conform to the number sc
 
 ### 6. Bind for Cross filter/RLS
 
-Select this option to enable RLS (Row-level Security) to the inserted rows. You can bind the inserted row to any existing row or a dimension member for secure bi-directional cross filtering.&#x20;
+You can enable the Bind for Cross filter/RLS option – this ensures that cross-filter selections and RLS settings apply to calculated/manual input rows that reference other rows. For example, if this option is not enabled, a manager handling Canada accounts can view a manually inserted row that references US data or an inserted region that is manually created at the visual level.&#x20;
 
-For example, the image below shows the newly inserted row being bound to the member _'Technology'_ in the dimension _'Category'._ This is done by choosing 'Dimension Member' in the Selection Type and then selecting the required dimension and member.&#x20;
+You can bind inserted rows by selecting a reference row or a dimension category.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Binding for Cross filtering/RLS</p></figcaption></figure>
+* **Binding by selecting a row**&#x20;
 
-Note: You can also choose 'Row' as the Selection Type and select any existing row in the report.
+To select a particular reference row, choose _Row_ from the **SelectionType** dropdown. The Alaska>Inforiver hierarchy references the Canada row in the example below. &#x20;
 
-Only the users with permission to access the 'Technology' category can view the newly added row as shown below. This way, you can bind the inserted rows to their respective categories.
+<figure><img src="../../.gitbook/assets/6.1.1. Bind row.png" alt=""><figcaption><p>Bind by row selection</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>RLS added to the new row</p></figcaption></figure>
+The Alaska hierarchy is displayed for users with RLS access to Canada data.
+
+<figure><img src="../../.gitbook/assets/6.1.2 Bind rows output.png" alt=""><figcaption><p>Row binding for RLS</p></figcaption></figure>
+
+* **Dimension category**&#x20;
+
+To bind the inserted row to a particular dimension category, choose _Dimension member_ from the **SelectionType** dropdown. In the example below, the Paseo adjustment row references the Paseo product.&#x20;
+
+<figure><img src="../../.gitbook/assets/6.1.3. Bind dimension.png" alt=""><figcaption><p>Bind to dimension category</p></figcaption></figure>
+
+Notice how the adjustment row is displayed for users with access to Paseo products.
+
+<figure><img src="../../.gitbook/assets/6.1.4. Bind dimension output.png" alt=""><figcaption><p>Adjustment row dispayed for Paseo products</p></figcaption></figure>
 
 #### Resources
 
