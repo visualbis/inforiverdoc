@@ -80,7 +80,13 @@ Columns with blank labels will be suppressed if this option is enabled.
 
 * **Hide blank dimensions in column hierarchy**
 
-Enabling this hides the entire column hierarchy assigned in the **Columns** field, provided it is completely blank or empty.
+When you have hierarchical column dimensions, there may be cases where the entire dimension category is blank as shown in the report below.
+
+<figure><img src="../.gitbook/assets/5.1.1. Hide blank category.png" alt=""><figcaption><p>Blank categories in the column dimension</p></figcaption></figure>
+
+Since these categories do not add value to the report, you can suppress them by enabling the **Hide blank dimensions in column hierarchy** option.
+
+<figure><img src="../.gitbook/assets/5.1.2. Hidden blank category.png" alt=""><figcaption><p>Suppress blank categories in the column dimension</p></figcaption></figure>
 
 #### v) Row hierarchy icon
 
@@ -92,7 +98,7 @@ You can select custom icon styles to represent the row hierarchy i.e. choose the
 
 You can select custom icon styles to represent the column hierarchy as well.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Change the expand and collapse icons</p></figcaption></figure>
 
 ## 2. Expand to level
 
