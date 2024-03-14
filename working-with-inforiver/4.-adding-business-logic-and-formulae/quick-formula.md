@@ -8,6 +8,10 @@ Columns/measures such as running total, % contribution to parent/grand total etc
 
 <figure><img src="../../.gitbook/assets/4.5.1 Quick formula.png" alt=""><figcaption><p>Quick formula columns</p></figcaption></figure>
 
+When you write custom formulas, you can also reference quick formula measures.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 #### i) Running total
 
 The following configuration options are available for 'Running total'.&#x20;
