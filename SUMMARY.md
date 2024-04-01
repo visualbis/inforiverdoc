@@ -4,6 +4,7 @@
   * [Why Inforiver](introduction-to-inforiver/why-inforiver.md)
   * [Get Started](readme/get-started/README.md)
     * [Installing Inforiver for yourself](readme/get-started/installing-inforiver-for-yourself.md)
+    * [Installing from AppSource](readme/get-started/installing-from-appsource.md)
     * [Installing Inforiver for your organization (Org visual)](readme/get-started/installing-inforiver-for-your-organization-org-visual.md)
     * [Inforiver Enterprise pre-requisites](readme/get-started/inforiver-enterprise-pre-requisites/README.md)
       * [Whitelist Inforiver IPs](readme/get-started/inforiver-enterprise-pre-requisites/whitelist-inforiver-ips.md)
