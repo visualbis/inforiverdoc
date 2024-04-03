@@ -36,4 +36,4 @@ Inforiver is certified by International Business Communication Standards (IBCS)
 
 <figure><img src="../.gitbook/assets/why-inforiver-ibcs-standards-best-practices.png" alt=""><figcaption></figcaption></figure>
 
-In the next section, we'll be looking at how to [get started with Inforiver](../readme/get-started/).
+In the next section, we'll be looking at how to [get started with Inforiver](get-started/).
