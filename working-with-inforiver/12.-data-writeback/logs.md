@@ -4,7 +4,7 @@ description: Comprehensive and Searchable Writeback Logs
 
 # Logs
 
-Inforiver offers milestone-based tracking as soon as the writeback button is clicked. To view a comprehensive log of an ongoing writeback instance or previous writeback instances, a user can&#x20;
+Inforiver offers milestone-based tracking as soon as the writeback button is clicked. There are multiple ways to view a comprehensive log of an ongoing writeback instance or previous writeback instances:
 
 * Click on Logs under the Export tab of the Inforiver toolbar.&#x20;
 * Click View Log in the modal that opens upon completion of writeback.
@@ -12,7 +12,7 @@ Inforiver offers milestone-based tracking as soon as the writeback button is cli
 
 <figure><img src="../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 
-### i) Writeback log filters
+### 1. Writeback log filters
 
 The writeback logs page allows us to search through writeback logs using several filter criteria. Let's explore each of these filters.
 
@@ -69,7 +69,7 @@ Enable the **Start Time** option under the _More_ section - this will add anothe
 
 Clicking on this link will reset all the applied filters.
 
-### ii) Writeback log columns
+### 2. Writeback log columns
 
 In this section, let's explore the columns in the writeback logs portal.
 
@@ -144,3 +144,26 @@ The data and time at which the writeback was started. You can sort the started d
 The status of the writeback. You can sort the status alphabetically in ascending or descending order using the up/down arrows respectively.
 
 Navigate to the next chapter, to learn more about display settings.
+
+### 3. Exporting logs
+
+You can easily export the logs for a specified period by following the steps outlined below.
+
+**Step 1:** Click on the export button at the top right corner to open the export dialog box.
+
+* Choose the format: CSV or Excel
+* Choose the period range: the default range is 30 days or you can set a custom range
+
+<figure><img src="../../.gitbook/assets/image (523).png" alt=""><figcaption><p>Writeback logs export settings</p></figcaption></figure>
+
+If you choose a custom range, you can select the start and end dates from the calendar widget.
+
+<figure><img src="../../.gitbook/assets/image (524).png" alt=""><figcaption><p>Choosing a custom date range</p></figcaption></figure>
+
+**Step 2:** Click Export. The status of the export will be displayed in the top right corner. After the export is complete, you can click the Download link to save the file to your system.
+
+<figure><img src="../../.gitbook/assets/image (525).png" alt=""><figcaption><p>Download logs</p></figcaption></figure>
+
+**Step 3:** Open the file to analyze the logs. You can quickly root cause and debug writeback failures with the Failure Reason column in the writeback log export.
+
+<figure><img src="../../.gitbook/assets/image (526).png" alt=""><figcaption><p>Writeback export </p></figcaption></figure>
