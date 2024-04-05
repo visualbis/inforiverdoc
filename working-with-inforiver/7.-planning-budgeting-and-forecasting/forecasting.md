@@ -32,7 +32,7 @@ You can also configure for the entire period in one shot as shown below.
 
 You can also upload Excel sheets containing predicted values using the **Import from file** option. Inforiver will generate a template Excel sheet that mimics the structure of the report. All you need to do is fill in the forecast values in the template file and upload it.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Import from file</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (522).png" alt=""><figcaption><p>Import from file</p></figcaption></figure>
 
 
 

@@ -62,19 +62,7 @@ m) To delete all comments, in the 'Comments' dropdown, select 'Settings'. In the
 
 <figure><img src="../../../.gitbook/assets/8.2.52 delete all comments.png" alt=""><figcaption><p>Delete all comments</p></figcaption></figure>
 
-## 2. Roll-up comments
-
-In reports with large number of hierarchies, you can see comments rolled up at the subtotal and grand total level even if the hierarchies are collapsed. This enables executives to see collapsed and summarized reports but still see exception comments rolled up at the parent levels.
-
-In the below image, comments are added at the product category and sub category levels which are consolidated and shown at the region level.
-
-<figure><img src="../../../.gitbook/assets/Roll up comments.png" alt=""><figcaption><p>Roll-up comments</p></figcaption></figure>
-
-To turn on roll-up comments, turn on the 'Rollup indicator' toggle in the 'Comments' dropdown.
-
-<figure><img src="../../../.gitbook/assets/Roll up comments 2.png" alt=""><figcaption><p>Roll-up indicator</p></figcaption></figure>
-
-## 3. Mention other users
+## 2. Mention other users
 
 You can use @ symbol to tag other stakeholders and draw their attention​.
 
@@ -90,7 +78,7 @@ c) The comment gets posted successfully.
 
 <figure><img src="../../../.gitbook/assets/8.2.17 mention users.png" alt=""><figcaption><p>Comment posted successfully</p></figcaption></figure>
 
-## 4. Reply to comments
+## 3. Reply to comments
 
 Users can reply to comments posted by others and have interactive conversations.​​
 
@@ -106,9 +94,7 @@ c) The comment reply gets added as a thread.
 
 <figure><img src="../../../.gitbook/assets/8.2.21 reply.png" alt=""><figcaption><p>Threaded comments</p></figcaption></figure>
 
-
-
-## 5. Comments column
+## 4. Comments column
 
 You can add a dedicated comments column to capture row-level comments.
 
@@ -139,6 +125,22 @@ f) The number of replies is also shown along with the comment.
 g) To hide the comments column, turn off the toggle.
 
 <figure><img src="../../../.gitbook/assets/8.2.41(2) comments column.png" alt=""><figcaption><p>Hide comments column</p></figcaption></figure>
+
+## 5. Roll-up comments
+
+In reports with large number of hierarchies, you can see comments rolled up at the subtotal and grand total level even if the hierarchies are collapsed. This enables executives to see collapsed and summarized reports but still see exception comments rolled up at the parent levels.
+
+In the below image, comments are added at the product category and sub category levels which are consolidated and shown at the region level.
+
+<figure><img src="../../../.gitbook/assets/Roll up comments.png" alt=""><figcaption><p>Roll-up comments in parent level cells</p></figcaption></figure>
+
+Roll-up comments work in the Comments column too. In the image below, comments are added at the product category, sub category and sub-region levels which are consolidated and shown at the region level.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Roll-up comments in Comments Column</p></figcaption></figure>
+
+To turn on roll-up comments, turn on the 'Rollup indicator' toggle in the 'Comments' dropdown.
+
+<figure><img src="../../../.gitbook/assets/Roll up comments 2.png" alt=""><figcaption><p>Roll-up indicator</p></figcaption></figure>
 
 ## 6. Email notifications
 
