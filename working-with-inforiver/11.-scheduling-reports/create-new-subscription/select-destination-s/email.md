@@ -2,11 +2,11 @@
 
 The configurations listed below can be used to setup an email destination.&#x20;
 
-### **a) Recipients**&#x20;
+### **1. Recipients**&#x20;
 
 Here you can specify the recipient's email address to which the report should be sent. AD groups can also be used.&#x20;
 
-### **b) Filter/bookmark**&#x20;
+### **2. Filter/bookmark**&#x20;
 
 You can specify whether you want to apply any filter or bookmark to the report for the selected recipients, before exporting it. This value is set to 'None' by default.&#x20;
 
@@ -20,13 +20,13 @@ Click the 'Clear all' link to clear or reset all the entered filter/bookmarks an
 
 &#x20;                                                                                                                            &#x20;
 
-### **c) Bulk upload**&#x20;
+### **3. Bulk upload**&#x20;
 
 You can also [bulk upload](./#bulk-upload) a CSV file of filters and bookmarks based on recipients' emails by clicking on the 'Bulk upload' option.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption><p>Bulk Upload</p></figcaption></figure>
 
-### **d) Download filters bookmark**
+### **4. Download filters bookmark**
 
 Clicking on this option will download the entered recipient's email address and filter/bookmark selection as a CSV file.
 
@@ -38,7 +38,7 @@ The downloaded CSV file looks as shown in the below image.
 
 
 
-### **e) Report preview**&#x20;
+### **5. Report preview**&#x20;
 
 This option shows a preview of the report with the applied filter/bookmark. You can preview the report in PDF or Excel formats.
 
@@ -62,17 +62,21 @@ The report preview will be displayed as shown in the image below. You can also d
 
 Click the 'Trash' icon to delete the applied filter/bookmark.
 
-### **f) Subject**&#x20;
+### **6. Subject**&#x20;
 
 Enter the subject line of the email. Clicking the 'Insert variable' link will open up a 'Suggested variables' modal from which you can select the pre-declared variables to be inserted into the subject line.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/insert-variable (1).png" alt=""><figcaption><p>Insert variables option</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (545).png" alt=""><figcaption><p>Insert variables option</p></figcaption></figure>
 
-### **g) Body**&#x20;
+### **7. Body**&#x20;
 
 Enter the body/content of the email. Pre-configured variables can be included in the email body as well.&#x20;
 
-### h) Send report as&#x20;
+### **8. File Name**
+
+The report will be attached to the email. You can use the built-in variables for the attachment name as well.
+
+### 9. Send report as&#x20;
 
 You can select the format in which you want the report to be sent.&#x20;
 
