@@ -105,6 +105,10 @@ You can use the dropdown filter to display job metrics for time ranges such as t
 
 <figure><img src="../../.gitbook/assets/image (543).png" alt=""><figcaption><p>Filtering metrics</p></figcaption></figure>
 
+Click any of the metrics to navigate to the subscription jobs window where you can see all the subscription runs. For instance, clicking the **Failed Jobs** button will display the details of all the failed jobs.
+
+<figure><img src="../../.gitbook/assets/image (544).png" alt=""><figcaption><p>Failed jobs</p></figcaption></figure>
+
 ### b) All reports
 
 &#x20;You can see a list of all the report subscription runs in the 'All reports' tab,
