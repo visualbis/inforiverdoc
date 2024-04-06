@@ -91,23 +91,23 @@ Clicking on this option will reset all the applied filters.
 
 ## 2. Insights
 
-This view displays all the insights about the subscriptions
+This tab displays insights about the subscription job runs like the number of failures and availability of services like emails and message queues.
 
 ### a) Metrics&#x20;
 
-Dashboard with details about the number of completed, queued, running, and failed jobs.
+Dashboard with details about the number of completed, queued, running, skipped, and failed jobs.
 
-Clicking on either of the job types will take you back to the subscription jobs page of the monitoring section with the corresponding status filter applied
+Clicking on either of the job types will take you back to the subscription jobs page of the monitoring section with the corresponding status filter applied.
 
-<figure><img src="../../.gitbook/assets/metrics-page.png" alt=""><figcaption><p>Insights page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (542).png" alt=""><figcaption><p>Metrics</p></figcaption></figure>
 
-You can also filter the job metrics for today, the last 7 days, or the last 30 days using the drop-down filter as highlighted
+You can use the dropdown filter to display job metrics for time ranges such as the current day, the past week, or the last 30 days.
 
-<figure><img src="../../.gitbook/assets/metrics-more-option.png" alt=""><figcaption><p>Metrics page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (543).png" alt=""><figcaption><p>Filtering metrics</p></figcaption></figure>
 
 ### b) All reports
 
-In the 'All reports' tab, you can see a list of all the reports.&#x20;
+&#x20;You can see a list of all the report subscription runs in the 'All reports' tab,
 
 <figure><img src="../../.gitbook/assets/all-reports-page.png" alt=""><figcaption><p>All reports page</p></figcaption></figure>
 
