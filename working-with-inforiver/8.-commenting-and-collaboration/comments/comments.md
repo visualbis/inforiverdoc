@@ -136,7 +136,7 @@ In the below image, comments are added at the product category and sub category 
 
 Roll-up comments work in the Comments column too. In the image below, comments are added at the product category, sub category and sub-region levels which are consolidated and shown at the region level.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Roll-up comments in Comments Column</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (523).png" alt=""><figcaption><p>Roll-up comments in Comments Column</p></figcaption></figure>
 
 To turn on roll-up comments, turn on the 'Rollup indicator' toggle in the 'Comments' dropdown.
 

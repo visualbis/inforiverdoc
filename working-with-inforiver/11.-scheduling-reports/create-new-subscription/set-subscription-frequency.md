@@ -24,11 +24,21 @@ The frequency at which the scheduler should run. You can select from the followi
 
 <figure><img src="../../../.gitbook/assets/once-frequency.png" alt=""><figcaption><p>Once frequency option</p></figcaption></figure>
 
+* **Hourly -** On-prem users can get reports delivered multiple times a day. Users can schedule report subscriptions by the hour with the ‘Hourly’ frequency. You can set the interval in hours between runs in the textbox.
+
+<figure><img src="../../../.gitbook/assets/2024-04-06_11h46_08.png" alt=""><figcaption></figcaption></figure>
+
 ## 2. Start date - End date&#x20;
 
 This option lets you select the starting and ending date of the schedule using a date picker. You can also select from the preconfigured options such as 'Next month', 'Next 6 months' etc.&#x20;
 
 <figure><img src="../../../.gitbook/assets/frequency-date.png" alt=""><figcaption><p>Start and end date range</p></figcaption></figure>
+
+### Skip Holidays
+
+You can skip subscription jobs based on a specific holiday calendar. Choose a predefined holiday calendar from the dropdown. [Learn more about setting up holiday calendars in the admin console.](../../../advanced-topics/admin-console/settings/holidays.md)
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Scheduled time&#x20;
 

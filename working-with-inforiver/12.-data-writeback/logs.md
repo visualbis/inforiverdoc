@@ -154,7 +154,7 @@ You can easily export the logs for a specified period by following the steps out
 * Choose the format: CSV or Excel
 * Choose the period range: the default range is 30 days or you can set a custom range
 
-<figure><img src="../../.gitbook/assets/image (523).png" alt=""><figcaption><p>Writeback logs export settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (523) (1).png" alt=""><figcaption><p>Writeback logs export settings</p></figcaption></figure>
 
 If you choose a custom range, you can select the start and end dates from the calendar widget.
 
