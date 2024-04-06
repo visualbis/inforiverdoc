@@ -27,7 +27,13 @@ Here you can select the pages of the report to schedule.&#x20;
 
 <figure><img src="../../../.gitbook/assets/select-pages.png" alt=""><figcaption><p>Select pages option</p></figcaption></figure>
 
-### iii) Row-level security
+### iii) Include hidden pages&#x20;
+
+You can publish reports which contain hidden pages as well. While setting up the subscription, you will have an option to include hidden pages.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (527).png" alt=""><figcaption><p>Include hidden pages</p></figcaption></figure>
+
+### iv) Row-level security
 
 Enabling this option will export the report based on the row-level security applied. If this option is enabled, initially a consent email will be sent to the selected recipients and only after the approval of the consent email, the scheduled reports will be sent to the recipients.
 
@@ -51,7 +57,7 @@ As seen below, members with the 'Report viewer' member role would be able to see
 
 You can learn more about row-level security and how to define user roles and rules [here](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-rls).
 
-### iv) Report plus layout
+### v) Report plus layout
 
 You can create subscriptions based on the Report+ categories.  In this report, we have two categories - Beverages and Water. The records corresponding to these categories can be sent to different email IDs.&#x20;
 
