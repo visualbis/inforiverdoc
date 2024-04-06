@@ -76,6 +76,10 @@ Enter the body/content of the email. Pre-configured variables can be included in
 
 The report will be attached to the email. You can use the built-in variables for the attachment name as well.
 
+Notice how prebuilt variables have been dynamically populated in the email subscription.
+
+<figure><img src="../../../../.gitbook/assets/image (546).png" alt=""><figcaption><p>Email subscription sample</p></figcaption></figure>
+
 ### 9. Send report as&#x20;
 
 You can select the format in which you want the report to be sent.&#x20;
