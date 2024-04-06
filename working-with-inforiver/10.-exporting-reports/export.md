@@ -40,7 +40,7 @@ When the '**Column first**' option is chosen, the remaining columns for the firs
 
 <figure><img src="../../.gitbook/assets/6.1.35 Export Column first.png" alt=""><figcaption><p>Column-first export</p></figcaption></figure>
 
-b) Select the '**Page size**' from the drop-down - Available sizes are Letter, A3, A4, A5 and Legal.
+b) Select the '**Page size**' from the drop-down - Available sizes are Letter, A3, A4, A5. Tabloid and Legal.
 
 c) You can select either Landscape or Portrait as page '**Orientation**'.
 
