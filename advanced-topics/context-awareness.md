@@ -1,14 +1,16 @@
 # Context awareness
 
-Inforiver provides built-in context awareness i.e., any comments, notes, or even headers that you add will be updated dynamically based on external filter or slicer selection. When users enter comments, the visual is unaware of the context, which can be set by a filter or a slicer in the report. In the example, notice how the comment entered for 'APAC' is still visible even after changing the filter to 'EMEA'.
+Inforiver provides built-in context awareness i.e., any comments, notes, data input, or even headers that you add will be updated dynamically based on external filter or slicer selection. You can even select writeback payload with Power BI filters.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Context unaware</p></figcaption></figure>
+When users enter comments or manually input data, the visual is unaware of the context, which can be set by a filter or a slicer in the report. In the example, notice how the comment entered for 'APAC' is still visible even after changing the filter to 'EMEA'.
 
-With Inforiver, you can configure filter context, which ensures that Inforiver visuals are aware of context changes and responsive to changes in filters i.e. the comments and notes are dynamically updated. Let's look at how to set up filter context.
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Context unaware</p></figcaption></figure>
+
+With Inforiver, you can configure filter context, which ensures that Inforiver visuals are aware of context changes and responsive to changes in filters i.e. the comments, data input, writeback payload, etc are dynamically updated. Let's look at how to set up filter context.
 
 **Step 1**: Click on the **Filter Context** button in the Insert ribbon.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filter context navigation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filter context navigation</p></figcaption></figure>
 
 **Step 2**: In the popup window, enter the table and field name for which context awareness is being set up. You can enter multiple tables and categories using the Add new link. In this case, we are setting up filter context for Subregions.
 
@@ -38,6 +40,20 @@ Notice how the note is removed when we change the filter from APAC to EMEA.
 
 <figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Filter context in action</p></figcaption></figure>
 
+
+
+### 1. Context awareness in report headers
+
 Slicer selections will be reflected in header presets as well, if your report has been configured for filter context.
 
 <figure><img src="../.gitbook/assets/7.1. Filter context header preset.png" alt=""><figcaption><p>Filter context for header presets</p></figcaption></figure>
+
+### 2. Context awareness in writeback
+
+The filter selections are captured in the writeback table as separate columns. In the example below, the Segment and Region selections are captured as part of the writeback.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Writeback for Home Office + West selection</p></figcaption></figure>
+
+When the Segment and Region selection is changed to Corporate + Central, the notes and comments are inserted as separate rows in the snowflake destination and tagged against the changed categories.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Writeback for Corporate + Central selection</p></figcaption></figure>

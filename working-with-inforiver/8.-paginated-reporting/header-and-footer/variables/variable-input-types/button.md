@@ -58,4 +58,4 @@ You can instantly create button variables for export to Excel/PDF/Clipboard by n
 
 **STEP 2:** Use the button variables to export your report.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Use button variables for exports</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Use button variables for exports</p></figcaption></figure>

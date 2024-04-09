@@ -62,11 +62,11 @@ To instantly create a measure that uses slider variable values, navigate to Inse
 
 **STEP 1:** Create a slider variable, and assign the min and max values to pass to the formula.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating a slider variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating a slider variable</p></figcaption></figure>
 
 **STEP 2:** Create a calculated measure and use the slider variable value in the formula.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Create a measure referencing the variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Create a measure referencing the variable</p></figcaption></figure>
 
 **STEP 3:** Calibrate the slider to view the interest paid at varying interest rates.
 
