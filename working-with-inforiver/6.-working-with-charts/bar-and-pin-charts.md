@@ -198,7 +198,7 @@ You can do this while creating a pin chart, or add them after creating a pin cha
 
 2. In the customization menu, click on the **Outliers** option.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Click <strong>Outliers</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Click <strong>Outliers</strong></p></figcaption></figure>
 
 3. In the Outliers pop-up window, check **Enable Outlier.** If you wish to hide the values, select the option **Disable Label.** Enter the required positive and negative threshold values as shown below and Click **Apply**.
 

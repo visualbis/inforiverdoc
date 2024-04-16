@@ -34,11 +34,11 @@ This section outlines configurations specific to date range variables.
 
 **STEP 1:** Create a date range variable and add a script to show the data between the specified start and end dates.
 
-<figure><img src="../../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Create a date range variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Create a date range variable</p></figcaption></figure>
 
 **STEP 2:** Use the date range variable to display data between the selected period.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
 
 #### 2.2. Relative date range filtering
 
@@ -46,12 +46,12 @@ You choose from predefined options like "last 7 days," "last month," "next quart
 
 **STEP 1:** Create a date range variable and choose the relative date range template from the style selection section.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Date range variable</p></figcaption></figure>
 
 **STEP 2:** Create an Inforiver filter and use the variable created in the previous step as the filter parameter.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
 
 **STEP 3:** Use the variable date range filter to display data for periods relative to the current date.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Relative date filters</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Relative date filters</p></figcaption></figure>

@@ -4,7 +4,7 @@ The general display settings are used to customize the appearance of the report.
 
 In the Inforiver toolbar, navigate to the Home ribbon. The _Display_ option is available in the 'Actions' section. Clicking on this option will open up the Display side panel.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Display settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p>Display settings</p></figcaption></figure>
 
 ### 1. Toolbar
 

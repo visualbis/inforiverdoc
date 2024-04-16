@@ -1,39 +1,94 @@
 # Why Inforiver
 
-Inforiver offers the **fastest** way to build Power BI reports, using a comprehensive set of **features** enabled by cutting-edge **user experience**.
+Inforiver offers the **fastest** way to build Power BI reports, using a comprehensive set of **features** that enable a cutting-edge **user experience**.
 
-## 5 reasons to get started with Inforiver
+## 8 reasons to choose Inforiver
 
-### **1. Your productivity suite for data**
+### 1. Consolidate all data & analytics needs in Power BI
 
-The Inforiver matrix & charts together constitute a **productivity suite for your data**. Just as products like Excel and PowerPoint help you stay highly productive when dealing with offline data, Inforiver Matrix and Charts get you to become highly productive while working with data right inside Microsoft Power BI. These capabilities help you build reports in a matter of minutes, instead of hours or days.&#x20;
+Inforiver for Power BI helps you retire legacy tools and deliver all analytics needs from Power BI:
 
-<figure><img src="../.gitbook/assets/why-inforiver-business-productivity-suite-data.png" alt=""><figcaption></figcaption></figure>
+* Retire visualization software like Tableau, Spotfire, and Qlik&#x20;
+* Migrate from reporting tools like Cognos, WebFocus, SAP and more
+* Avoid spending on add-ons for PowerPoint reports such as ThinkCell and Mekko Graphics
+* Eliminate Excel-based worksheets used for maintaining forecasts, budgets, master data, pivot reports, and more
 
-### **2. Frequently asked features**
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Get access to dozens of highly voted features in Power BI idea place and community forums. Inforiver delivers capabilities available in other BI & visualization software (such as Tableau, Spotfire, Qlik, Cognos and SAP BusinessObjects) but not in Power BI. This helps organizations consolidate their assets in Power BI.
+### 2. End-to-end Security and Governance
 
-<figure><img src="../.gitbook/assets/why-inforiver-frequently-asked-features.png" alt=""><figcaption></figcaption></figure>
+Inforiver visuals are [certified](https://learn.microsoft.com/en-us/power-bi/developer/visuals/power-bi-custom-visuals-certified) by Microsoft. In addition, the product enables three levels of security inside your Power BI reports:
 
-### **3. Rich user experience**
+1. Security provided by your tenant / Power BI at the workspace and data levels (including RLS or row-level security)
+2. Inforiver-level security - e.g., administrators can decide whether Inforiver users can write to Snowflake
+3. Report-level security - e.g., report creators can authorize specific users to perform specific actions in the report, such as who can comment, enter data, create scenarios, etc.
 
-With Inforiver, report creators and consumers can perform a wide variety of user actions unlike what they have experienced in traditional BI & visualization software. Just utilize the toolbar and shortcut keys for a variety of configuration and customization options, instead of having to navigate through a complex property sheet or lines and lines of code.
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/why-inforiver-user-centric-design.png" alt=""><figcaption></figcaption></figure>
+### 3. Built for business users with no coding experience
 
-### **4. Accelerate your digital transformation**
+Inforiver is a no-code product built to support business users and casual users with zero coding skills. It automates a lot of activities for you that require you to write DAX or PowerQuery scripts or create applications using Microsoft PowerApps.
 
-Automate your Excel-based processes by consolidating legacy BI reports and dashboards into Power BI, and eliminating data silos with governed datasets. With capabilities such as formula engine & calculations, [runtime manual data entry](https://inforiver.com/blog/writeback/5-types-manual-data-entry-powerbi-table-matrix/), [forecasting](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/), [writeback](https://inforiver.com/writeback-powerbi/), audit trail, [commenting and collaboration](https://inforiver.com/collaborate-powerbi/), Inforiver ensures the success of your change management & digital transformation efforts.
+You can create the following without writing a single line of code:
 
-<figure><img src="../.gitbook/assets/why-inforiver-digital-transformation.png" alt=""><figcaption></figcaption></figure>
+* Forecast templates
+* Financial statements
+* Commenting & collaboration
+* Data writeback&#x20;
+* ... and more
 
-### **5. Best practices and standards**
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Inforiver adopts a business-responsive design, that can help users deliver [IBCS-compliant](https://inforiver.com/ibcs-reports-powerbi/) business, management, variance, and performance reports in a single click. Inforiver offers a wide variety of [charts](https://inforiver.com/ibcs-reports-powerbi/ibcs-charts-powerbi/) and [table](https://inforiver.com/ibcs-reports-powerbi/ibcs-tables-powerbi/) templates, advanced[ small multiples](https://inforiver.com/advanced-small-multiples-powerbi/), data-level comments, top N + others, pixel-perfect Export to PDF and many more.
+### 4. Get features 'highly voted' by industry peers
 
-Inforiver is certified by International Business Communication Standards (IBCS)
+Inforiver delivers a variety of features that have repeatedly been [requested in Power BI idea place and community forums](https://inforiverstage.wpengine.com/blog/category/feature-highlights/).
 
-<figure><img src="../.gitbook/assets/why-inforiver-ibcs-standards-best-practices.png" alt=""><figcaption></figcaption></figure>
+In essence, these features are not available in Power BI today. While some can be implemented using workarounds, many of these are simply not achievable even with DAX and PowerQuery scripting.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### 5. Deliver functionality missing in Power BI
+
+Using Inforiver, you can implement key features available in other BI tools but not seen in Power BI yet, such as:​
+
+1. Visual PivotTable for your hierarchical data on all three axes (x,y,z) like Spotfire​
+2. Small multiple for all charts like Tableau and Spotfire ​
+3. Split and group measures into small multiple panels like Tableau ​
+4. Flexible chart combinations in small multiples like Tableau​
+5. Lasso and reverse lasso selections like Qlik and Tableau​
+6. Small-multiple tables with Excel-like formatting ​
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+### 6. The best no-code writeback in the industry
+
+Inforiver offers the best solution for writeback across all BI platforms (and not just Power BI). The no-code writeback capability enables use cases such as the following:
+
+* Persisting data that is edited, cleansed, or updated
+* Creating forecasts and budgets
+* Track comments and data-level conversations
+* Create scenarios and snapshots
+* ... and more
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+### **7. Best practices and standards**
+
+Inforiver adopts a business-responsive design that can help users deliver [IBCS-compliant](https://inforiver.com/ibcs-reports-powerbi/) business, management, variance, and performance reports in a single click. Inforiver offers a wide variety of [charts](https://inforiver.com/ibcs-reports-powerbi/ibcs-charts-powerbi/) and [table](https://inforiver.com/ibcs-reports-powerbi/ibcs-tables-powerbi/) templates, advanced[ small multiples](https://inforiver.com/advanced-small-multiples-powerbi/), data-level comments, top N + others, pixel-perfect Export to PDF, and many more.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+### 8. One-stop shop for all your needs
+
+Procure visuals from one provider for all your requirements, ensuring standardization and ease of maintenance
+
+* Analytics+ with 50+ charts, cards & tables
+* Matrix for reporting and scheduling
+* Forecasting, planning, budgeting with writeback&#x20;
+* Table editor with governance, workflow and audit
+* Project management / Gantt visual (xViz)
+* Performance flow for creating trees, process & network diagrams (xViz)
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 In the next section, we'll be looking at how to [get started with Inforiver](get-started/).

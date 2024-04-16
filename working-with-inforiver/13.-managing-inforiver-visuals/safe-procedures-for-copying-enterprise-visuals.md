@@ -12,7 +12,7 @@ This section will explore the basic concepts and factors to be aware of while du
 
 Every Inforiver visual is assigned to a specific visual ID. When a particular visual is duplicated, the new visual will also be tagged with the same visual ID as the original. Elements like forecasts, scenarios, and comments in the new visual will be a pointer to the original i.e., any changes made to these elements will be reflected in both the original and the copied visual.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Visual ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Visual ID</p></figcaption></figure>
 
 Inforiver elements that are shared between visuals include:
 
@@ -36,11 +36,11 @@ Inforiver generates a **notification** when a duplicate visual is detected.
 
 1. [Publish the report](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-upload-desktop-files) to the Power BI service. Open the report in edit mode in the Power BI service, after the report has been published. A yellow warning symbol near the profile indicates that the visual is a duplicate.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate report warning</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate report warning</p></figcaption></figure>
 
 2. Expand the Profile menu and navigate to **Report Details**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the **Create** button in the Report Details side pane to detach the visual.
 

@@ -4,17 +4,17 @@ Inforiver provides built-in context awareness i.e., any comments, notes, data in
 
 When users enter comments or manually input data, the visual is unaware of the context, which can be set by a filter or a slicer in the report. In the example, notice how the comment entered for 'APAC' is still visible even after changing the filter to 'EMEA'.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Context unaware</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Context unaware</p></figcaption></figure>
 
 With Inforiver, you can configure filter context, which ensures that Inforiver visuals are aware of context changes and responsive to changes in filters i.e. the comments, data input, writeback payload, etc are dynamically updated. Let's look at how to set up filter context.
 
 **Step 1**: Click on the **Filter Context** button in the Insert ribbon.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filter context navigation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filter context navigation</p></figcaption></figure>
 
 **Step 2**: In the popup window, enter the table and field name for which context awareness is being set up. You can enter multiple tables and categories using the Add new link. In this case, we are setting up filter context for Subregions.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add table and category</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add table and category</p></figcaption></figure>
 
 **Step 3**: Inforiver automatically generates the DAX code based on the tables and categories entered. Click on the Generate Dax button and copy the DAX.
 
@@ -34,7 +34,7 @@ With Inforiver, you can configure filter context, which ensures that Inforiver v
 
 Let's see the context awareness feature in action by adding a notes column and setting a filter on APAC subregions.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Add notes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Add notes</p></figcaption></figure>
 
 Notice how the note is removed when we change the filter from APAC to EMEA.
 
@@ -52,8 +52,8 @@ Slicer selections will be reflected in header presets as well, if your report ha
 
 The filter selections are captured in the writeback table as separate columns. In the example below, the Segment and Region selections are captured as part of the writeback.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Writeback for Home Office + West selection</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Writeback for Home Office + West selection</p></figcaption></figure>
 
 When the Segment and Region selection is changed to Corporate + Central, the notes and comments are inserted as separate rows in the snowflake destination and tagged against the changed categories.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Writeback for Corporate + Central selection</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Writeback for Corporate + Central selection</p></figcaption></figure>
