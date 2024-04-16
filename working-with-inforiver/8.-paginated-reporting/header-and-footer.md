@@ -28,7 +28,7 @@ b) The 'Header & footer' tab gets enabled. You can see that there is a default h
 
 <figure><img src="../../.gitbook/assets/8.2.3 Header.png" alt=""><figcaption><p>Default header</p></figcaption></figure>
 
-c) The blue box is called the 'container'. Currently, there is only one 'cell' in the container with the default fields and scaling. But containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text.md), [Image](header-and-footer/images.md), [Chart](header-and-footer/charts.md), [KPI](header-and-footer/kpi-cards.md), and [Variables](header-and-footer/variables/). We'll be covering [cell](header-and-footer.md#i-cell) and [container](header-and-footer.md#ii-container) customization in a later section.
+c) The blue box is called the 'container'. Currently, there is only one 'cell' in the container with the default fields and scaling. But containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text.md), [Image](header-and-footer/images.md), [Chart](header-and-footer/charts.md), [KPI](header-and-footer/kpi-cards.md), and [Variables](broken-reference). We'll be covering [cell](header-and-footer.md#i-cell) and [container](header-and-footer.md#ii-container) customization in a later section.
 
 <figure><img src="../../.gitbook/assets/8.2.24 Context menu.png" alt=""><figcaption><p>Container</p></figcaption></figure>
 
