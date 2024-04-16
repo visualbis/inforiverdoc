@@ -16,56 +16,62 @@ Inforiver offers milestone-based tracking as soon as the writeback button is cli
 
 The writeback logs page allows us to search through writeback logs using several filter criteria. Let's explore each of these filters.
 
-#### a) Search bar&#x20;
+#### 1.1. Search bar&#x20;
 
 In the search bar, users could search and filter writeback logs based on their ID, report, or environment.
 
-<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption><p>Search bar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (555).png" alt=""><figcaption><p>Search bar</p></figcaption></figure>
 
-#### b) Report
+#### 1.2. Report
 
-The drop-down menu can be used to select a particular report name.
+You can use the dropdown to select a particular report name.
 
-<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption><p>Report filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (556).png" alt=""><figcaption><p>Report filter</p></figcaption></figure>
 
-#### c) Environment&#x20;
+#### 1.3. Started by
 
-Use drop-down to filter the writeback log based on the environment.
+You can use this filter to view logs based on the person who triggered the writeback. Select the person(s) from the list of users.
 
-<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption><p>Environment filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (557).png" alt=""><figcaption><p>Started by filter</p></figcaption></figure>
 
-**d) Destination**&#x20;
+#### 1.4. Environment&#x20;
 
-Use the below drop-down to filter the writeback logs based on the writeback destination.
+Use the drop-down to filter the writeback logs based on the environment from which writeback was triggered.
 
-<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption><p>Destination filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (559).png" alt=""><figcaption><p>Filter based on writeback environment</p></figcaption></figure>
 
-#### e) Status
+**1.5. Destination**
 
-Use the below drop-down to filter the log based on the writeback status.&#x20;
+Use the drop-down to filter the writeback logs based on the writeback destination.
 
-<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption><p>Status filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (558).png" alt=""><figcaption><p>Destination filter</p></figcaption></figure>
 
-#### f) More - Event source
+#### 1.6. More - Status
 
-&#x20;Enable the **Event source** option under the _More_ section - this will add another dropdown that can be used to filter logs based on the writeback mode i.e. Writeback, Auto Writeback, or Reset.
+Click on More and select Status to enable the dropdown. Use the below drop-down to filter the log based on the writeback status.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption><p>Event source filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (560).png" alt=""><figcaption><p>Status filter</p></figcaption></figure>
 
-#### g) More  - Start time&#x20;
+#### 1.7. More - Event source
 
-Enable the **Start Time** option under the _More_ section - this will add another dropdown that can be used to filter logs based on the writeback start time.
+Select the **Event source** option under the More section - this will enable another dropdown that can be used to filter logs based on the writeback mode i.e. Writeback, Auto Writeback, or Reset.
 
-<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption><p>Start time filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (561).png" alt=""><figcaption><p>Event source filter</p></figcaption></figure>
+
+#### 1.8. More  - Create time&#x20;
+
+Select the **Start Time** option under the More section - this will enable another dropdown that can be used to filter logs based on the writeback start time.
+
+<figure><img src="../../.gitbook/assets/image (562).png" alt=""><figcaption><p>Create time filter</p></figcaption></figure>
 
 * **Within the last** - If you select this option, you can specify the number of hours, minutes, or seconds. The logs will be fetched if the writeback start time falls within this period.
 * **Last 7 days** - Selecting this option will filter the logs within the last 7 days&#x20;
 * **Last 30 days** - This option will filter the logs that were created in the last 30 days.
 * **Between** - If you select this option, then you can specify the starting and ending date within which you can filter your writeback logs.
 
-<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption><p>Between start and end date</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (563).png" alt=""><figcaption><p>Specifying a time range</p></figcaption></figure>
 
-#### f) Reset all
+#### 1.9. Reset all
 
 Clicking on this link will reset all the applied filters.
 
@@ -73,9 +79,9 @@ Clicking on this link will reset all the applied filters.
 
 In this section, let's explore the columns in the writeback logs portal.
 
-<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (564).png" alt=""><figcaption><p>Writeback log console</p></figcaption></figure>
 
-#### a) ID&#x20;
+#### 2.1. ID&#x20;
 
 This column displays a unique log ID that is used to identify the writeback log. You can sort the ID in ascending or descending order using the up/down arrows respectively.
 
@@ -83,7 +89,7 @@ Clicking on the writeback ID will open up a page with a detailed summary of the 
 
 Clicking the 'General' tab will display a summary of the writeback along with the milestones and their status.
 
-<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption><p>Writeback summary</p></figcaption></figure>
 
 The writeback log summarizes the following milestones:
 
@@ -111,39 +117,49 @@ Clicking on the name of the destination will display the connection details abou
 
 <figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
-#### b) Report &#x20;
+#### 2.2. Report &#x20;
 
 This specifies the report the writeback belongs to. You can sort the reports alphabetically in ascending or descending order using the up/down arrows respectively.
 
-#### c) Page
+#### 2.3. Destination&#x20;
 
-This specifies the page of the report the writeback belongs to.
+Destination(s) the data was written back to.
 
-#### d) Environment
-
-The environment of the writeback. You can sort the environments in ascending or descending order using the up/down arrows respectively.
-
-#### e) Destination&#x20;
-
-Destination the data was written back to.
-
-#### f) Duration&#x20;
+#### 2.4.Duration&#x20;
 
 The total duration of the writeback.
 
-#### g) Started by
+#### 2.5. Status&#x20;
 
-Name of the user who started the writeback. You can sort the started by date in ascending or descending order using the up/down arrows respectively.
+Shows whether the writeback succeeded or failed. You can sort the status alphabetically in ascending or descending order using the up/down arrows respectively.
 
-#### h) Started at&#x20;
+#### 2.6. Created at&#x20;
 
-The data and time at which the writeback was started. You can sort the started date in ascending or descending order using the up/down arrows respectively.
+The data and time at which the writeback was started. You can sort the created date in ascending or descending order using the up/down arrows respectively.
 
-#### i) Status&#x20;
+#### 2.7. Started by
 
-The status of the writeback. You can sort the status alphabetically in ascending or descending order using the up/down arrows respectively.
+Name of the user who started the writeback. You can sort the user name in ascending or descending order using the up/down arrows respectively.
 
-Navigate to the next chapter, to learn more about display settings.
+#### 2.8. Scenario
+
+Lists any scenarios that were written back. If there are no scenarios for writeback, the console will display 'Base'.
+
+#### 2.9.  Writeback type
+
+Specifies whether the writeback was in Long, Wide, Long with Changes, or Wide with Changes format.
+
+#### 2.10.  Incoming cell count
+
+Specifies the number of cells in your report that were written back.
+
+#### 2.11. Environment
+
+The environment of the writeback. You can sort the environments in ascending or descending order using the up/down arrows respectively.
+
+#### 2.12. Event
+
+Use this field to identify whether the log is for a regular writeback, auto writeback, or a reset operation.
 
 ### 3. Exporting logs
 
