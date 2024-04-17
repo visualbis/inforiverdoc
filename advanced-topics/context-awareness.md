@@ -57,3 +57,19 @@ The filter selections are captured in the writeback table as separate columns. I
 When the Segment and Region selection is changed to Corporate + Central, the notes and comments are inserted as separate rows in the snowflake destination and tagged against the changed categories.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Writeback for Corporate + Central selection</p></figcaption></figure>
+
+### 3. Context awareness for data input fields
+
+With Inforiver, manual data entry fields like textboxes, dropdowns, or numeric input will also be responsive to slicer selections. Notice how the data inputs change according to the filter selections in the gif below.
+
+{% hint style="info" %}
+When working with context awareness, you need to select a category(ies) in the external filters for writeback and data input to be enabled.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/2.1. Filter Context - data input gif.gif" alt=""><figcaption><p>Data inputs changing in response to filter selections</p></figcaption></figure>
+
+### 4. Context awareness for writing back data input fields
+
+The data input cells that are written back will also be determined based on filter selections.  In the screenshot below, the report has 3 data input columns:  shows the data inpu written back to the snowflake destination for the Consumer + January + First Class selection.
+
+<figure><img src="../.gitbook/assets/image (565).png" alt=""><figcaption><p>Writeback</p></figcaption></figure>
