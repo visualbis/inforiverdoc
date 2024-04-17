@@ -74,6 +74,6 @@ The data input cells that are written back will also be determined based on filt
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Writeback for data input columns based on external filter selection</p></figcaption></figure>
 
-When the selection is changed to Home Office + October + Standard Class, the data inputs corresponding to the selection are written back as shown below.
+When the selection is changed to Home Office + October + Standard Class, the data inputs corresponding to the selection are written back as shown below. The data input fields for each filter selection are captured as separate rows in the destination.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Writeback for data input fields after changing the selection</p></figcaption></figure>
