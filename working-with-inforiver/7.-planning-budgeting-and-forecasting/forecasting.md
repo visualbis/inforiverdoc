@@ -30,12 +30,6 @@ You can also configure for the entire period in one shot as shown below.
 
 <figure><img src="../../.gitbook/assets/2024-02-02_10h30_44.png" alt=""><figcaption><p>Forecast data source</p></figcaption></figure>
 
-You can also upload Excel sheets containing predicted values using the **Import from file** option. Inforiver will generate a template Excel sheet that mimics the structure of the report. All you need to do is fill in the forecast values in the template file and upload it.
-
-<figure><img src="../../.gitbook/assets/image (522).png" alt=""><figcaption><p>Import from file</p></figcaption></figure>
-
-
-
 **3. Apply operation:** There are 3 different methods that you can use to generate a forecast:
 
 * **Period range**: The values from a specific period range will be used to initialize the forecast. In this case, we have used the sales from Q4 2023 (Copy period range) to populate the forecast for Q1 2024 (Target period). The duration of the period range should match the duration of the target period. E.g., if the target period is 6 months, then you must select a period range spanning 6 months.
