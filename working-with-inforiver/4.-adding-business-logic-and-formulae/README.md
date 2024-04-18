@@ -10,9 +10,15 @@ We successfully used filters, KPI explorer, manage columns, expand/collapse hier
 
 **4. Insert manual input columns** - Inforiver provides six (6) different options to manually enter data in your Power BI report such as date, text, single/multi-select etc. To learn more, refer to [insert manual input columns](insert-manual-input-columns.md).
 
-**5. Quick formula** - Inforiver provides several one-click calculations for inserting columns and rows. To learn more, refer to [quick formulas](quick-formula.md).
+**5. Invert sign** - Using the invert sign feature you can change the signs for cells or rows right within the report. To learn more, refer to [Invert sign.](invert-sign.md)
 
-**6. Manage inserted rows & columns** - Rows or columns inserted in the visual such as calculations, static rows, or data input columns can be managed using the 'Manage' options. To learn more, refer to [manage inserted rows & columns](manage-inserted-rows-and-columns.md).
+**6. Editing cells** - Edit native measures and apply calculations at visual level. [Learn more about editing cells.](editing-cells.md)
+
+**7. Quick formula** - Inforiver provides several one-click calculations for inserting columns and rows. To learn more, refer to [quick formulas](quick-formula.md).
+
+**8. Manage inserted rows & columns** - Rows or columns inserted in the visual such as calculations, static rows, or data input columns can be managed using the 'Manage' options. To learn more, refer to [Manage inserted rows & columns.](manage-inserted-rows-and-columns.md)
+
+**9. Insert image URLs** - Rows or columns inserted in the visual such as calculations, static rows, or data input columns can be&#x20;
 
 #### Resources
 

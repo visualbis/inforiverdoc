@@ -1,8 +1,8 @@
 # Editing cells
 
-Inforiver allows you to easily edit the contents of a cell and apply calculations.
+Inforiver allows you to edit the contents of a cell and apply calculations. These are visual level updates and will not impact the source dataset.
 
-### i) Overwriting values
+### i) Overwriting value
 
 To overwrite an existing value, simply double-click on the cell and enter the new value. You can enter scaled values(250m, 5.6b, etc) or reference other cell values.
 
@@ -16,7 +16,7 @@ The value gets updated and the manual update can be identified by the pencil ico
 
 
 
-You can even reference other cells and apply formulas on them - using the cell editor, you can define simple mathematical operations such as A +/- B, etc.
+You can even reference other cells and apply formulas to them - using the cell editor, you can define simple mathematical operations such as A +/- B, etc.
 
 <figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ You can also override the data in multiple cells with the same value, for instan
 
 You can also rename row categories by double-clicking on them.&#x20;
 
-For hierarchical datasets, the same row category may be repeated at each level of the hierarchy. When you try to rename such categories at one level, Inforiver displays a prompt to confirm whether the category should be renamed across all levels or only at that level.
+The same row category may be repeated at each hierarchy level for hierarchical datasets. When you try to rename such categories at one level, Inforiver displays a prompt to confirm whether the category should be renamed across all levels or only at that level.
 
 <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
 

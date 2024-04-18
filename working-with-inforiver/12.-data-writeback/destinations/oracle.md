@@ -11,4 +11,4 @@ After navigating to the add destination page, the following details will have to
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Configuring Oracle destinations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Configuring Oracle destinations</p></figcaption></figure>

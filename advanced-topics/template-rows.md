@@ -62,4 +62,4 @@ m) You can edit/delete the inserted template row by clicking on the row gripper 
 
 <figure><img src="../.gitbook/assets/Edit.png" alt=""><figcaption><p>Edit &#x26; delete template row</p></figcaption></figure>
 
-In the next section, we'll be covering the[ ](invert-sign.md)[Backup & restore report config](export-and-import-reports-backup.md) feature.
+In the next section, we'll be covering the[ ](../working-with-inforiver/4.-adding-business-logic-and-formulae/invert-sign.md)[Backup & restore report config](export-and-import-reports-backup.md) feature.

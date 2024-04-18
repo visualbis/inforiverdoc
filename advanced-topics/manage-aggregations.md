@@ -128,7 +128,7 @@ The specified aggregation method is set for a specific level of the hierarchy.
 
 
 
-In the next section, we'll be covering the[ Invert sign](invert-sign.md) feature.
+In the next section, we'll be covering the[ Invert sign](../working-with-inforiver/4.-adding-business-logic-and-formulae/invert-sign.md) feature.
 
 #### Resources
 
