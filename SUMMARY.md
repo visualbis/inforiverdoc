@@ -272,6 +272,7 @@
     * [TOPN](formula-syntax/scripting-functions/topn.md)
 * [Advanced topics](advanced-topics/README.md)
   * [Manage aggregation](advanced-topics/manage-aggregations.md)
+  * [Manage column aggregation](advanced-topics/manage-column-aggregation.md)
   * [Audit log](advanced-topics/audit-log.md)
   * [Template rows](advanced-topics/template-rows.md)
   * [Backup & restore report config](advanced-topics/export-and-import-reports-backup.md)

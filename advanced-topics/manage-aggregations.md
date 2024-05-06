@@ -1,8 +1,14 @@
 # Manage aggregation
 
-While working with Power BI table/matrix reports, we would sometimes like to apply custom measure aggregations in a specific report (e.g., average quantity sold) instead of using the default aggregation used in a data model (e.g., the sum of quantity sold).&#x20;
+While working with Power BI table/matrix reports, we would sometimes like to apply custom row aggregations for the measures in a specific report (e.g., average quantity sold) instead of using the default aggregation used in a data model (e.g., the sum of quantity sold).&#x20;
 
 Inforiver’s aggregation feature allows you to override the native Power BI aggregation for measures without having to make extensive model-level changes.&#x20;
+
+In this section, we will see how to set row aggregations for all the measures globally or specific measures per our needs. You can set them in the following ways:
+
+1. [Report level:](manage-aggregations.md#id-1.-report-level) One way is using the 'Aggregation' button under the 'Insert' tab. Using this option, you can set an aggregation method globally to all the measures in the report or choose the specific measure/column whose rows have to be aggregated differently by clicking on the dropdown menu beside it.
+2. [Column level:](manage-aggregations.md#id-2.-column-level) The second way is using the 'Manage Columns' dropdown at the top. With this, you can directly set aggregations to specific measures/columns in the report. You can also click on the corresponding column gripper and then click on 'Aggregations' in the context menu to set the aggregation for that column.
+3. [Hierarchy level:](manage-aggregations.md#id-3.-hierarchy-level) Another way to set global level aggregation to all the measures is through the 'Hierarchy' tab in the 'Manage Aggregation' dialog box. If your data is hierarchical, Inforiver offers the flexibility to apply a specific row aggregation method for a selected hierarchical level. This way you can apply different aggregation methods for different levels simultaneously. For example, the 'Sub-category' dimension can have 'Minimum' aggregation while the 'Category' dimension can have 'Average' aggregation.
 
 ### 1. Report level
 
@@ -86,39 +92,43 @@ In the example below, the product cost is calculated as the weighted average of 
 
 ### 2. Column level
 
-The 'Manage aggregation' option allows you to manage aggregations for specific measures.
+Another way to access 'Manage Aggregation' is by clicking on 'Manage columns' and then the 'Settings' icon. This allows you to manage aggregations for specific measures.
 
-a) In the 'Insert' tab of the toolbar, click on the 'Aggregation' button to open the 'Manage Aggregation' dialog box.
+<figure><img src="../.gitbook/assets/image (651).png" alt=""><figcaption><p>Settings in 'Manage Columns' dropdown</p></figcaption></figure>
 
-{% hint style="info" %}
-Another way to access 'Manage Aggregation' is by clicking on 'Manage columns' and then the 'Settings' icon.
-
-Alternatively, click on the column gripper and select 'Manage Aggregation' from the Aggregation section of the context menu.
-{% endhint %}
-
-b) A pop-up opens showing a list of measures under the 'Display' section. You can change the aggregation type of multiple measures here.
+A pop-up displays a list of measures under the 'Display' section. You can change the aggregation type of multiple measures here.
 
 <figure><img src="../.gitbook/assets/Display (2).png" alt=""><figcaption><p>Manage columns pop-up</p></figcaption></figure>
 
-c) Let's change the aggregation for '2020 Actuals' from 'Sum' to 'Maximum'. Select 'Maximum' aggregation from the dropdown.&#x20;
+Let's change the aggregation for '2020 Actuals' from 'Sum' to 'Maximum'. Select 'Maximum' aggregation from the dropdown.&#x20;
 
 <figure><img src="../.gitbook/assets/Change agg.png" alt=""><figcaption><p>Column aggregation</p></figcaption></figure>
 
-d) In the below image, you can see that East -> 2020 Actuals shows 40.18 which is the maximum of Beverages and Water, whereas East -> 2020 Plan shows 45.03 which is the sum of the two categories. &#x20;
+In the image below, you can see that East -> 2020 Actuals shows 40.18 which is the maximum of Beverages and Water, whereas East -> 2020 Plan shows 45.03 which is the sum of the two categories. &#x20;
 
 <figure><img src="../.gitbook/assets/Sum &#x26; maximum aggregation.png" alt=""><figcaption><p>Sum &#x26; maximum aggregation</p></figcaption></figure>
 
 {% hint style="info" %}
-Report-level and column-level aggregations are applicable only for the data source rows.
+You cannot set aggregation for a simulation measure. In the below image, you can see that the aggregation field is disabled for the simulation column.
 {% endhint %}
 
-e) In the below image, you can see that the aggregation field is disabled for the simulation column. Note that the [row aggregation type](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type) for calculated columns and manual data input columns can be defined here in the 'Manage columns' dialog box in addition to the 'Insert formula' and 'Data input' side panels. &#x20;
+Note that the [row aggregation type](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type) for calculated columns and manual data input columns can also be defined here in the 'Manage columns' dialog box in addition to the 'Insert formula' and 'Data input' [side panels](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#id-3.-properties). &#x20;
 
-<figure><img src="../.gitbook/assets/For.png" alt=""><figcaption><p>Simulation column </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/For.png" alt=""><figcaption><p>Simulation column disabled</p></figcaption></figure>
+
+To set aggregation for a specific measure, you can also click on that column's gripper and choose 'Aggregation' from the context menu as shown below. Click on the required aggregation type to apply it to that measure.
+
+<figure><img src="../.gitbook/assets/image (627).png" alt=""><figcaption><p>Set aggregation using the column gripper</p></figcaption></figure>
+
+In the example below, the 'Forecast' measure has been aggregated to display the maximum value of the child rows using the aggregation method 'Maximum'.
+
+<figure><img src="../.gitbook/assets/image (628).png" alt=""><figcaption><p>'Maximum' aggregation method in 'Forecast'</p></figcaption></figure>
+
+In the same example, note how the category 'Games and Toys' is aggregated by adding the child values. This is because this hierarchical level has been configured as a 'Sum' aggregation. We'll see how to do this in the following section.
 
 ### 3. Hierarchy level
 
-If your data is hierarchical, Inforiver offers the flexibility to apply row aggregations on a selected branch of the hierarchy, for an entire hierarchy level and different aggregation methods for different levels simultaneously.
+If your data is hierarchical, Inforiver offers the flexibility to apply row aggregations for all branches on a selected level of the hierarchy. You can set different aggregation methods for different levels simultaneously.
 
 #### i) Selected parent row of a hierarchy
 
@@ -132,7 +142,7 @@ Row level aggregation has been set to Minimum for the 'TV and Video' category wh
 
 #### ii) Particular level of a hierarchy
 
-To apply a uniform aggregation method to a given level of the hierarchy, from the Insert ribbon, select the 'Aggregation' option from the 'Customize' section. Navigate to the 'Category' tab of the Manage Aggregation dialog box . Notice that we can assign different aggregation methods for different levels of the hierarchy.
+To apply a uniform aggregation method to a given level of the hierarchy, select the **Aggregation** button from the **Insert** tab. Navigate to the 'Hierarchy' tab in the Manage Aggregation dialog box. Notice that we can assign different aggregation methods for different levels of the hierarchy.
 
 <figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption><p>Aggregation types for different levels of the hierarchy</p></figcaption></figure>
 
@@ -142,7 +152,7 @@ The specified aggregation method is set for a specific level of the hierarchy.
 
 
 
-In the next section, we'll be covering the[ Invert sign](../working-with-inforiver/4.-adding-business-logic-and-formulae/invert-sign.md) feature.
+In the next section, we will learn how to manage column aggregations.
 
 #### Resources
 
