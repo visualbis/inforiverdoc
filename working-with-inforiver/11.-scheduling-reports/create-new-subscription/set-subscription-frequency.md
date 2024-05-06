@@ -24,6 +24,10 @@ The frequency at which the scheduler should run. You can select from the followi
 
 <figure><img src="../../../.gitbook/assets/once-frequency.png" alt=""><figcaption><p>Once frequency option</p></figcaption></figure>
 
+* **Hourly** - On-prem users can get reports delivered multiple times a day. Users can schedule report subscriptions by the hour with the ‘Hourly’ frequency. You can set the interval in hours between runs in the textbox.
+
+<figure><img src="../../../.gitbook/assets/image (664).png" alt=""><figcaption><p>Hourly refreshes</p></figcaption></figure>
+
 ## 2. Start date - End date&#x20;
 
 This option lets you select the starting and ending date of the schedule using a date picker. You can also select from the preconfigured options such as 'Next month', 'Next 6 months' etc.&#x20;
