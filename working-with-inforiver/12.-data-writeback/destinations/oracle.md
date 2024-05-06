@@ -1,14 +1,16 @@
 # Oracle
 
-Allows you to configure Oracle as a destination for Inforiver writeback.&#x20;
+Allows you to configure Oracle as a destination for Inforiver writeback. You can writeback to a specific instance of an Oracle database using the SID and Service name.
 
-After navigating to the add destination page, the following details will have to be entered.&#x20;
+After navigating to the add destination page, enter the following details.&#x20;
 
 * Server
+* Service name
+* SID
 * Port
 * Username
 * Password
 * Encrypted Connection (Y/N)
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Configuring Oracle destinations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (667).png" alt=""><figcaption><p>Configuring Oracle destinations</p></figcaption></figure>
