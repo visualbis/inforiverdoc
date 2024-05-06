@@ -81,6 +81,7 @@
       * [Editing forecasts and reforecasting](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/editing-forecasts-and-reforecasting.md)
       * [Autoclose forecasts](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/autoclose-forecasts.md)
       * [Distribute deficit](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/distribute-deficit.md)
+      * [User Access Control](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/user-access-control.md)
       * [Common Scenarios](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/common-scenarios/README.md)
         * [Forecast using a Blank Template](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/common-scenarios/forecast-using-a-blank-template.md)
         * [Forecast using Existing Data](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/common-scenarios/forecast-using-existing-data.md)

@@ -40,4 +40,4 @@ You can specify a particular day on which to close forecasts, which is set at th
 
 When you auto-close forecasts, Inforiver can automatically extend the forecast period as well. Select the **Auto-extend period range by 1 month** checkbox to enable this feature.
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Auto-extend Period Range</p></figcaption></figure>
