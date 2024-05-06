@@ -270,6 +270,8 @@
     * [SHOWBETWEENPERIOD](formula-syntax/scripting-functions/showbetweenperiod.md)
     * [SHOWCLOSEDFORECAST](formula-syntax/scripting-functions/showclosedforecast.md)
     * [TOPN](formula-syntax/scripting-functions/topn.md)
+  * [Miscellaneous functions](formula-syntax/miscellaneous-functions/README.md)
+    * [FETCH](formula-syntax/miscellaneous-functions/fetch.md)
 * [Advanced topics](advanced-topics/README.md)
   * [Manage aggregation](advanced-topics/manage-aggregations.md)
   * [Manage column aggregation](advanced-topics/manage-column-aggregation.md)
