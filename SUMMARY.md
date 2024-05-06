@@ -290,6 +290,7 @@
       * [Assets](advanced-topics/admin-console/settings/assets.md)
     * [Onboard actions](advanced-topics/admin-console/onboard-actions.md)
   * [Enterprise themes](advanced-topics/enterprise-themes.md)
+  * [PowerPoint integration](advanced-topics/powerpoint-integration.md)
 * [Managing Inforiver enterprise visuals](working-with-inforiver/13.-manage-enterprise-visuals-in-power-bi-pipeline-setup.md)
   * [Inforiver deployments in Power BI pipeline setup](managing-inforiver-enterprise-visuals/inforiver-deployments-in-power-bi-pipeline-setup.md)
   * [Safe procedures for copying enterprise visuals](working-with-inforiver/13.-managing-inforiver-visuals/safe-procedures-for-copying-enterprise-visuals.md)
