@@ -38,6 +38,10 @@ There are two ways to allocate a value entered in a **total or subtotal** - [equ
 The equal and weight options are not shown when you click on a cell at the child level. &#x20;
 {% endhint %}
 
+{% hint style="info" %}
+[**Sum** ](../../advanced-topics/manage-aggregations.md#sum)and **Weighted Average** are the only [row aggregation types](insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type) that allow allocations/distributions from total cells to the child rows.
+{% endhint %}
+
 ### i) Equal
 
 a) After entering the value in the formula bar, press 'Enter'. By default, the values get distributed equally across all the categories and subcategories. Inforiver automatically highlights the updated values.

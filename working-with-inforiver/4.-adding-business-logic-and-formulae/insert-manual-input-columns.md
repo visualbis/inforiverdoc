@@ -1,6 +1,6 @@
 # Insert manual input columns
 
-Inforiver provides six (6) different options to manually enter data in your Power BI report which are listed below. Data can be entered in a single cell or in several cells at the same time and they can be formatted in a variety of ways. And, there are several settings that you can adjust to make data entry easier for you.
+Inforiver provides six (6) different options to manually enter data in your Power BI report which are listed below. Data can be entered in a single cell or several cells at the same time and they can be formatted in a variety of ways. And, there are several settings that you can adjust to make data entry easier for you.
 
 <table><thead><tr><th width="178">Input type</th><th>Description</th></tr></thead><tbody><tr><td><a href="insert-manual-input-columns/insert-manual-input-columns.md">Number</a></td><td>Double-click and start typing values in directly into a cell</td></tr><tr><td><a href="../../formula-syntax/text-formatting-functions/text.md">Text</a></td><td>Enter text with multi-line support and word wrap</td></tr><tr><td><a href="insert-manual-input-columns/dropdown.md">Dropdown</a></td><td>Use the available presets or create your own list of values; supports both single-select and multi-select</td></tr><tr><td><a href="insert-manual-input-columns/text-checkbox-and-date.md">Date</a></td><td>Add a date from the calendar/date picker</td></tr><tr><td><a href="insert-manual-input-columns/text-checkbox-and-date.md">Checkbox</a></td><td>Used in case of binary selections</td></tr><tr><td><a href="insert-manual-input-columns/enterprise-features.md">Person</a></td><td>Input users from your organization (only available in Inforiver Enterprise)</td></tr></tbody></table>
 
@@ -17,7 +17,7 @@ In this video, we discuss the data input functionality in the reading and editin
 a) If you are using the Enterprise version, you need to sign in as shown below.
 
 {% hint style="info" %}
-Sign-in is optional. Unless specified, all these features are available in Inforiver Matrix as well.
+Sign-in is optional. Unless specified, all these features are available in the Inforiver Matrix as well.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/4.4.0 Login.png" alt=""><figcaption><p>Sign in with Office 365 account</p></figcaption></figure>

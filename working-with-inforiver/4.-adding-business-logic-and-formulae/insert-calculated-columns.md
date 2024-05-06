@@ -33,7 +33,7 @@ c) Once you place the cursor inside the formula editor, you will see a context a
 d) Let us go ahead and start typing in values. As you key in a formula, the _References_ list automatically refreshes to show a narrower set of options.&#x20;
 
 {% hint style="info" %}
-You can directly select a column from the table to insert in the formula editor. Note that measures can not be referred by using this way. To insert a measure in your formula, you need to use the 'References' tab in the context assistant.
+You can directly select a column from the table to insert in the formula editor. Note that measures can not be referred to by using this way. To insert a visual measure or a visual column in your formula, you need to use the 'References' tab in the context assistant.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/4.2.6 Measure.png" alt=""><figcaption><p>Reference list</p></figcaption></figure>
