@@ -179,3 +179,7 @@ If you choose a custom range, you can select the start and end dates from the ca
 **Step 2:** Click Export. The status of the export will be displayed in the top right corner. After the export is complete, you can click the Download link to save the file to your system.
 
 <figure><img src="../../.gitbook/assets/image (525).png" alt=""><figcaption><p>Download logs</p></figcaption></figure>
+
+**Step 3:** Open the file to analyze the logs. You can quickly root cause and debug writeback failures with the Failure Reason column in the writeback log export.
+
+<figure><img src="../../.gitbook/assets/image (668).png" alt=""><figcaption><p>Writeback logs export</p></figcaption></figure>
