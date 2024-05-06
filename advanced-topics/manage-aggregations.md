@@ -70,6 +70,20 @@ Choosing 'None' performs no aggregations for the selected measure or hierarchy. 
 
 <figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption><p>Visible Rounding as aggregation type at report level</p></figcaption></figure>
 
+#### Weighted Average
+
+In weighted average aggregation, each child value in a row category is multiplied with weights taken from another measure which are then summed and divided by the total weight.&#x20;
+
+This type of averaging is sometimes more accurate than simple averaging as it considers the varying importance of the data points. This also smoothens any price point fluctuations and is commonly used for inventory accounting, portfolio analysis, statistical research, planning, and forecasting.&#x20;
+
+In the example below, the product cost is calculated as the weighted average of the costs in each region with weights taken from the quantity of respective regions. Note that weighted average is a row aggregation method – only the total and subtotal rows will reflect the calculation.
+
+<figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption><p>Weighted Average as the row aggregation type for data input measure</p></figcaption></figure>
+
+{% hint style="info" %}
+'Weighted Average' aggregation can be applied only to data input, formula, and forecast measures.&#x20;
+{% endhint %}
+
 ### 2. Column level
 
 The 'Manage aggregation' option allows you to manage aggregations for specific measures.
