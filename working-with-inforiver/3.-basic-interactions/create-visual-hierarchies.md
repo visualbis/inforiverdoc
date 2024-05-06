@@ -28,9 +28,17 @@ d) The other groups can be created and formatted as shown.
 
 <figure><img src="../../.gitbook/assets/3.7.5 Column groups.png" alt=""><figcaption><p>Three column groups created</p></figcaption></figure>
 
+e) You can expand and collapse column groups by clicking the <img src="../../.gitbook/assets/image (669).png" alt="" data-size="line">icon.
+
+<figure><img src="../../.gitbook/assets/image (670).png" alt=""><figcaption><p>Expanded column groups</p></figcaption></figure>
+
+The values in the grouped measures will not be displayed when a group is collapsed.
+
+<figure><img src="../../.gitbook/assets/image (671).png" alt=""><figcaption><p>Collapsed column group</p></figcaption></figure>
+
 ## 2. Group rows
 
-### i) Manual grouping
+### 2.1. Manual grouping
 
 a) On selecting a column or multiple columns, the 'Group' icon gets enabled. Select the rows to be grouped and click on '**Group**' in the 'Insert' tab. A popup opens.
 
@@ -48,7 +56,7 @@ d) The row groups can be expanded/collapsed using the expand/collapse button.
 
 <figure><img src="../../.gitbook/assets/3.7.10 Row groups.png" alt=""><figcaption><p>Expand/collapse enabled row grouping</p></figcaption></figure>
 
-### ii) Auto grouping
+### 2.2. Auto grouping
 
 Conditional formatting has been covered in detail in [section 5](../5.-conditional-formatting.md). For the purposes of exploring auto grouping of rows based on classification, we'll just look at the settings in brief.
 
@@ -64,15 +72,15 @@ b) Rows are automatically grouped as shown below.
 
 <figure><img src="../../.gitbook/assets/3.7.13 Auto Row groups.png" alt=""><figcaption><p>Row groups created</p></figcaption></figure>
 
-## 3) Ungroup&#x20;
+## 3. Ungroup&#x20;
 
-### i) Columns
+### 3.1. Columns
 
 To remove a column group, click on the column group label, the '**Remove group**' icon, and the 'Remove group' option.
 
 <figure><img src="../../.gitbook/assets/3.7.16 Remove column groups.png" alt=""><figcaption><p>Removing column group</p></figcaption></figure>
 
-### ii) Rows&#x20;
+### 3.2. Rows&#x20;
 
 a) In case of manually grouped rows, select the group and click on the '**Remove group**' icon in the 'Insert' tab.&#x20;
 
