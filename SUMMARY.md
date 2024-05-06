@@ -282,6 +282,7 @@
     * [User management](advanced-topics/admin-console/user-management.md)
     * [Settings](advanced-topics/admin-console/settings/README.md)
       * [General](advanced-topics/admin-console/settings/general.md)
+      * [Generate builds - on prem](advanced-topics/admin-console/settings/generate-builds-on-prem.md)
       * [Holidays](advanced-topics/admin-console/settings/holidays.md)
       * [Writeback](advanced-topics/admin-console/settings/writeback.md)
       * [Managed DB](advanced-topics/admin-console/settings/managed-db.md)
