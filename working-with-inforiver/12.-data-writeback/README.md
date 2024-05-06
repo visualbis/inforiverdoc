@@ -52,6 +52,40 @@ To learn how to configure each destination in the above list, [navigate to this 
 The number of rows that can be written back is 200k rows for Excel and CSV and 250 rows for OneDrive and SharePoint
 {% endhint %}
 
+## 4. Overview of writeback steps
+
+**STEP 1:** Navigate to the Export ribbon and click the Settings button to open the writeback settings side pane.
+
+<figure><img src="../../.gitbook/assets/image (676).png" alt=""><figcaption><p>Writeback settings</p></figcaption></figure>
+
+**STEP 2:** In the general tab, set the writeback type, and optionally add filters and permissions. [Learn more about General writeback options.](settings/general-settings.md)
+
+<figure><img src="../../.gitbook/assets/image (677).png" alt=""><figcaption><p>General settings for writeback</p></figcaption></figure>
+
+**STEP 3:** In the data tab, determine the scenarios and series to be written back and enable automatic writeback if applicable. [Learn more about Data settings for writeback.](settings/data-settings.md)
+
+<figure><img src="../../.gitbook/assets/image (678).png" alt=""><figcaption><p>Data settings tab for writeback</p></figcaption></figure>
+
+**STEP 4:** Configure writeback destinations from the Destinations tab. [Learn more about configuring destinations. ](settings/destination-settings.md)
+
+<figure><img src="../../.gitbook/assets/image (679).png" alt=""><figcaption><p>Destinations tab in writeback settings</p></figcaption></figure>
+
+**STEP 5:** In the advanced tab, you can prevent writing back if a specific column that should not be empty contains null values. You can also rename native fields and specify a different column name to be written back. [Learn more about advanced writeback settings.](settings/advanced-settings.md)
+
+<figure><img src="../../.gitbook/assets/image (681).png" alt=""><figcaption><p>Advanced writeback settings</p></figcaption></figure>
+
+**STEP 6:** After configuring writeback settings, close the side panel and click the Writeback button. A notification window will display the progress and status of the writeback.
+
+<figure><img src="../../.gitbook/assets/image (682).png" alt=""><figcaption><p>Writeback initiated</p></figcaption></figure>
+
+After performing an initial writeback, you may need to add or remove visual parameters as you build your report. Any table structure changes required in the destination due to adding or removing visual parameters will be displayed in a notification window. You can choose whether to drop the existing table and re-create it with the new structure before writing back.
+
+<figure><img src="../../.gitbook/assets/1.5. Writeback table mismatch.png" alt=""><figcaption><p>Table mismatch notification</p></figcaption></figure>
+
+**STEP 7:** Click the logs button to navigate to the writeback log console and view details like the milestones, payload size, duration of the writeback, etc. [Learn more about writeback logs.](logs.md)
+
+<figure><img src="../../.gitbook/assets/image (683).png" alt=""><figcaption><p>Writeback logs</p></figcaption></figure>
+
 #### Resources
 
 [Writeback data and comments using Inforiver](https://inforiver.com/writeback-powerbi/)
