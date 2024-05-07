@@ -80,9 +80,23 @@ Choosing 'None' performs no aggregations for the selected measure or hierarchy. 
 
 In weighted average aggregation, each child value in a row category is multiplied with weights taken from another measure which are then summed and divided by the total weight.&#x20;
 
+Weighted moving average = (w1\*a1 + w2\*a2 +...+wn\*an) / (w1+w2+...+wn),
+
+where
+
+n= number of child rows in the row category
+
+w1,w2,w3,....wn = weights (data from measure 1)
+
+a1,a2,a3,........an = data from measure 2
+
 This type of averaging is sometimes more accurate than simple averaging as it considers the varying importance of the data points. This also smoothens any price point fluctuations and is commonly used for inventory accounting, portfolio analysis, statistical research, planning, and forecasting.&#x20;
 
-In the example below, the product cost is calculated as the weighted average of the costs in each region with weights taken from the quantity of respective regions. Note that weighted average is a row aggregation method – only the total and subtotal rows will reflect the calculation.
+In the example below, the product cost is calculated as the weighted average of the costs in each region with weights taken from the quantity of respective regions.&#x20;
+
+Product Cost for _**Paseo**_ = \[(Quantity\*Cost) _in Canada_  + (Quantity\*Cost) _in_ _France_ + (Quantity\*Cost) _in United States_ + (Quantity\*Cost) _in Mexico_ + (Quantity\*Cost) _in Germany_ ] / Total Cost in all regions
+
+Note that weighted average is a row aggregation method – only the total and subtotal rows will reflect the calculation.
 
 <figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption><p>Weighted Average as the row aggregation type for data input measure</p></figcaption></figure>
 

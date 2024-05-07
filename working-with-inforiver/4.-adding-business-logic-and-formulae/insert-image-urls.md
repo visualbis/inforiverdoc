@@ -6,11 +6,11 @@ Inforiver Enterprise supports the usage of image URLs. Users can customize repor
 The Power BI data category type should be ‘Image URL’ to embed images in reports.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Image URL data category</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Image URL data category</p></figcaption></figure>
 
 Row-level images are inserted in the report as shown below.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Image URLs in the report</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Image URLs in the report</p></figcaption></figure>
 
 You can use images as row or column dimensions as well. Assign the image URL field in your dataset to the Rows or Columns visual parameter to display images. In the example, notice how we have used images for column categories.
 

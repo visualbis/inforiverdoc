@@ -10,7 +10,11 @@ To set it, click on the **Manage** button in the **Forecast** tab. This opens th
 
 **Read+Write:** Users with both read and write access can modify and distribute the forecast data to leaf levels.
 
-**Close Period Actions:** Users added here will have read/write access along with the permission to perform critical forecast actions like closing the actuals, re-forecasting, and distributing the deficit.
+**Close Period Actions:** Users added here will have read/write access as well as permission to perform critical forecast actions like closing the actuals, re-forecasting, and distributing the deficit.
+
+{% hint style="info" %}
+Users having read+write access without 'Close Period Actions' permission cannot close actuals, re-forecast, or distribute deficit.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (568).png" alt=""><figcaption><p>Read/Write and Close Period Actions</p></figcaption></figure>
 
