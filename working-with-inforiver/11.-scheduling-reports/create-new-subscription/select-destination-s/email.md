@@ -86,3 +86,9 @@ If you have selected either the 'All pages' option or more than one page in the 
 
 <figure><img src="../../../../.gitbook/assets/send-report-as.png" alt=""><figcaption><p>Send report as option</p></figcaption></figure>
 
+### 10. Sample e-mail report
+
+Let's look at how an email report will be generated based on the configuration shown below:
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Email subscription configuration</p></figcaption></figure>
+
