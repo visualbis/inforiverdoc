@@ -181,7 +181,7 @@ The 'Error details' section has a 'Download logs' button at the top right corner
 
 Here is a sample of a downloaded error log
 
-<figure><img src="../../.gitbook/assets/error-log.png" alt=""><figcaption><p>Downloaded error log message</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (684).png" alt=""><figcaption><p>Downloaded error log</p></figcaption></figure>
 
 Clicking on the 'Email' tab will display a list of all the recipients to which the scheduled job email was sent along with the delivery date, time, and delivery status.
 
