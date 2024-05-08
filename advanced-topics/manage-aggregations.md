@@ -92,9 +92,9 @@ a1,a2,a3,........an = data from measure 2
 
 This type of averaging is sometimes more accurate than simple averaging as it considers the varying importance of the data points. This also smoothens any price point fluctuations and is commonly used for inventory accounting, portfolio analysis, statistical research, planning, and forecasting.&#x20;
 
-In the example below, the product cost is calculated as the weighted average of the costs in each region with weights taken from the quantity of respective regions.&#x20;
+The example below calculates the weighted average using the costs and quantities in each region.
 
-Product Cost for _**Paseo**_ = \[(Quantity\*Cost) _in Canada_  + (Quantity\*Cost) _in_ _France_ + (Quantity\*Cost) _in United States_ + (Quantity\*Cost) _in Mexico_ + (Quantity\*Cost) _in Germany_ ] / Total Cost in all regions
+i.e., Average Cost for _**Paseo**_ = \[(Quantity\*Cost) _in Canada_  + (Quantity\*Cost) _in_ _France_ + (Quantity\*Cost) _in United States_ + (Quantity\*Cost) _in Mexico_ + (Quantity\*Cost) _in Germany_ ] / Total Quantity&#x20;
 
 Note that weighted average is a row aggregation method – only the total and subtotal rows will reflect the calculation.
 
