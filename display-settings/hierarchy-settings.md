@@ -12,13 +12,13 @@ Let's explore the options to customize hierarchies in your reports.
 
 ## 1. Header and Column
 
-#### i) Category highlight&#x20;
+#### 1.1. Category highlight&#x20;
 
 This drop-down lets you show or hide the category highlight. This option is set to 'Off' by default. When this option is enabled, a color picker is displayed. You can select a color to highlight the category hierarchy.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Cateory highlight</p></figcaption></figure>
 
-#### ii) Responsive columns&#x20;
+#### 1.2. Responsive columns&#x20;
 
 If this option is enabled, when the report canvas is resized to a small size, only columns that fit into the canvas will be displayed and others will be hidden.
 
@@ -28,7 +28,21 @@ In the image below, after resizing the canvas to a much smaller size, out of the
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Report with responsive columns enabled</p></figcaption></figure>
 
-#### iii) Combine column headers&#x20;
+#### 1.3. Show totals/subtotals values for non-numeric measures
+
+You can add non-numeric measures like dates and text fields to the Others(OM) and display them in your reports. The first value is displayed in the total/subtotal cell by default, which may be irrelevant in an aggregated row. You can choose to leave the totals and subtotals blank for non-numeric fields by enabling this property.
+
+<div>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Non-numeric fields displayed as totals/subtotals</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/numeric non-numeric.png" alt=""><figcaption><p>Totals/subtotals left blank for non-numeric fields</p></figcaption></figure>
+
+</div>
+
+#### 1.4. Combine column headers&#x20;
 
 Enabling this option will combine the column headers and measure labels to display compact headers. As you can see from the below image, when this option is turned off, the column headers and measure labels are displayed separately.
 
@@ -46,7 +60,7 @@ If the 'Combine column headers' option is enabled, you won't be able to reorder 
 
 This option lets you specify the separator that will get inserted between the column header and the measure label.
 
-#### iv) Ragged hierarchy&#x20;
+#### 1.5. Ragged hierarchy&#x20;
 
 In the case of ragged/unbalanced hierarchies where the number of levels is uneven, you can hide the blank category rows.&#x20;
 
@@ -88,13 +102,13 @@ Since these categories do not add value to the report, you can suppress them by 
 
 <figure><img src="../.gitbook/assets/5.1.2. Hidden blank category.png" alt=""><figcaption><p>Suppress blank categories in the column dimension</p></figcaption></figure>
 
-#### v) Row hierarchy icon
+#### 1.6. Row hierarchy icon
 
 You can select custom icon styles to represent the row hierarchy i.e. choose the expand/collapse icons for hierarchical categories. If 'None' is selected, an icon will not be displayed.&#x20;
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Row hierarchy icon</p></figcaption></figure>
 
-#### vi) Column hierarchy icon
+#### 1.7. Column hierarchy icon
 
 You can select custom icon styles to represent the column hierarchy as well.
 
@@ -118,7 +132,7 @@ This option is available only in the Hierarchy layout when there are 3 or more l
 
 ## 4. Child
 
-#### i) Indent from parent&#x20;
+#### 4.1. Indent from parent&#x20;
 
 This option lets you set the amount of indentation that has to be applied to the child rows from the parent row.
 
@@ -130,7 +144,7 @@ In the image below, every child row has been indented from its parent row by the
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>Indent from parent</p></figcaption></figure>
 
-#### ii) Single child&#x20;
+#### 4.2. Single child&#x20;
 
 Using this option you can select which nodes to display when a parent hierarchy has only one child. In this example, we have a multi-level account hierarchy with several single-child rows and blank rows.&#x20;
 
@@ -164,7 +178,7 @@ On selecting S_ingle Child Level As Parent_, you can see that the level 6 blank 
 
 ## 5. Data window
 
-#### i) Max columns&#x20;
+#### 5.1. Max columns&#x20;
 
 Inforiver supports wide table use cases through the dynamic columns feature. You can fetch up to 1000 columns, however, the performance would be compromised. &#x20;
 
@@ -180,19 +194,19 @@ Learn more about dynamically setting data chunk size using Power BI's [fetchMore
 
 You can customize the totals and subtotals by adding child count, padding, border, editing titles, and more. The available options are explained below.
 
-#### i) Show child count&#x20;
+#### 6.1. Show child count&#x20;
 
 Enabling this option will display the count of child rows next to the name of the parent row in brackets.
 
 <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p>Show child count</p></figcaption></figure>
 
-#### ii) Top padding&#x20;
+#### 6.2. Top padding&#x20;
 
 Using this option, you can configure the spacing/padding between row hierarchies.
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Top padding</p></figcaption></figure>
 
-#### iii) Expand/collapse&#x20;
+#### 6.3. Expand/collapse&#x20;
 
 This option lets you specify when the expand/collapse icons for the hierarchies have to be displayed.
 
@@ -201,13 +215,13 @@ This option lets you specify when the expand/collapse icons for the hierarchies 
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>Expand/Collapse icons</p></figcaption></figure>
 
-#### iv) Hide hierarchy icon
+#### 6.4. Hide hierarchy icon
 
 With this option, you can specify the fields for which you want to hide the hierarchy icon. All the fields are selected by default, and unselecting any field will hide the hierarchy icon for that field. In the below image, the 'Sub Category' field has been unselected, therefore the hierarchy icon for that field has been hidden.
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Hide hierarchy icon</p></figcaption></figure>
 
-#### v) Grand total title&#x20;
+#### 6.5. Grand total title&#x20;
 
 {% hint style="info" %}
 The options related to Grand total can be seen only if the Row/Column Grand Total value has not been set to ‘Off’ under the ‘Totals’ option.&#x20;
@@ -217,7 +231,7 @@ You can set a custom title for the grand total in the textbox.
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>Grand total title</p></figcaption></figure>
 
-#### vi) Grand total height&#x20;
+#### 6.6. Grand total height&#x20;
 
 The value that you specify here will override the default height of the grand total row.
 
@@ -235,11 +249,11 @@ You can disable the total and sub-total calculations for rows and columns separa
 
 <figure><img src="../.gitbook/assets/image (515).png" alt=""><figcaption><p>Total API</p></figcaption></figure>
 
-#### i) Row Total/Subtotal
+#### 7.1. Row Total/Subtotal
 
 Disable this to stop row-level total and sub-total calculations while loading your report.
 
-#### ii) Column Total/Subtotal
+#### 7.2. Column Total/Subtotal
 
 Disable this to stop column-level total and sub-total calculations while loading your report.
 
@@ -249,7 +263,7 @@ Notice the time taken when Inforiver pre-calculates the totals and subtotals:&#x
 
 When the total calculation is disabled, even large datasets can be fetched in milliseconds as shown in the screengrab below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
 
 **Resources**
 
