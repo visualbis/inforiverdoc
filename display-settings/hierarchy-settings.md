@@ -30,7 +30,7 @@ In the image below, after resizing the canvas to a much smaller size, out of the
 
 #### 1.3. Show totals/subtotals values for non-numeric measures
 
-You can add non-numeric measures like dates and text fields to the Others(OM) and display them in your reports. The first value is displayed in the total/subtotal cell by default, which may be irrelevant in an aggregated row. You can choose to leave the totals and subtotals blank for non-numeric fields by enabling this property.
+You can add non-numeric measures like dates and text fields and display them in your reports. The first value is displayed in the total/subtotal cell by default, which may be irrelevant in an aggregated row. You can choose to leave the totals and subtotals blank for non-numeric fields by enabling this property.
 
 <div>
 
