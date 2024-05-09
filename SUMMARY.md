@@ -262,6 +262,7 @@
     * [ROW.PARENT](formula-syntax/identifiers/row.parent.md)
     * [ROW.LABEL](formula-syntax/identifiers/row.label.md)
   * [Scripting functions](formula-syntax/scripting-functions/README.md)
+    * [DISPLAYTOAST](formula-syntax/scripting-functions/displaytoast.md)
     * [EXPORT](formula-syntax/scripting-functions/export.md)
     * [LAYOUT](formula-syntax/scripting-functions/layout.md)
     * [SETCFRULE](formula-syntax/scripting-functions/setcfrule.md)
