@@ -4,7 +4,7 @@ Inforiver can automatically close forecasts, provided that you are aware of when
 
 ## 1. Inforiver console
 
-To close the forecast measures in all the reports on a particular tenant, you can set up auto close from the [Inforiver console](../../../advanced-topics/admin-console/).  This feature is useful in scenarios where you have multiple reports and multiple forecast measures.
+To close the forecast measures in all the reports on a particular tenant, you can set up auto close from the [Inforiver console](../../../admin-console/).  This feature is useful in scenarios where you have multiple reports and multiple forecast measures.
 
 In the admin console, navigate to Settings > Forecast. In the Auto Close Forecast section, you can set the calendar day or work day on which all forecasts should be closed. Select the _Disabled_ option if you do not want to close forecasts automatically.&#x20;
 

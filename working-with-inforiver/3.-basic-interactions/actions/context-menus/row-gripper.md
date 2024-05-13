@@ -22,7 +22,7 @@ You can easily insert rows from the row gripper menu. Let's explore the differen
 
 a) Calculated row
 
-You can create a new row using Inforiver's built-in formulas or write a custom calculation. [Learn more about calculated rows](../../../4.-adding-business-logic-and-formulae/insert-calculated-rows.md).
+You can create a new row using Inforiver's built-in formulas or write a custom calculation. [Learn more about calculated rows](../../../4.-adding-business-logic-and-formulae/insert-calculated-rows/).
 
 b) Static row
 
@@ -42,7 +42,7 @@ _Contribution rows_ can be used to calculate the contribution of a particular ro
 
 f) Template row
 
-Use template rows to insert a calculated row in every level of the hierarchy. Rather than repeatedly creating a calculated row for each level, you can use the _Template row_ option to insert rows in a single shot. [Learn more about template rows.](../../../../advanced-topics/template-rows.md)
+Use template rows to insert a calculated row in every level of the hierarchy. Rather than repeatedly creating a calculated row for each level, you can use the _Template row_ option to insert rows in a single shot. [Learn more about template rows.](../../../4.-adding-business-logic-and-formulae/insert-calculated-rows/template-rows.md)
 
 g) Empty row
 
@@ -50,7 +50,7 @@ Financial statements and reports often require options to add white spaces for f
 
 h) Sum/Avg row
 
-Select rows and choose the **Insert sum of row** or **Insert average of row** options from the row gripper to create a new row with the sum/avg of the selected rows.  [Learn more about calculated rows](../../../4.-adding-business-logic-and-formulae/insert-calculated-rows.md).
+Select rows and choose the **Insert sum of row** or **Insert average of row** options from the row gripper to create a new row with the sum/avg of the selected rows.  [Learn more about calculated rows](../../../4.-adding-business-logic-and-formulae/insert-calculated-rows/).
 
 <figure><img src="../../../../.gitbook/assets/9.3. Insert sum avg from row gripper.png" alt=""><figcaption><p>Inserting sum and average</p></figcaption></figure>
 
@@ -60,7 +60,7 @@ Inforiver enables you to set custom aggregation to calculate the sub-totals at t
 
 <figure><img src="../../../../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
 
-In the report below, the 'Technology' category has an aggregation of **sum**, the 'Furniture' category has an aggregation of **minimum**, and the 'Office Supplies' category has an aggregation of **average**. [Learn more about managing aggregation in Inforiver.](../../../../advanced-topics/manage-aggregations.md)
+In the report below, the 'Technology' category has an aggregation of **sum**, the 'Furniture' category has an aggregation of **minimum**, and the 'Office Supplies' category has an aggregation of **average**. [Learn more about managing aggregation in Inforiver.](../../../manage-aggregations/)
 
 <figure><img src="../../../../.gitbook/assets/image (5) (7).png" alt=""><figcaption></figcaption></figure>
 

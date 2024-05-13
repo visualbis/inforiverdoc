@@ -104,4 +104,4 @@ b) Click on 'Reset all' to reset all the audit logs. Note that this does not res
 
 <figure><img src="../.gitbook/assets/Delete (5).png" alt=""><figcaption><p>Reset logs</p></figcaption></figure>
 
-In the next section, we'll be covering [template rows](template-rows.md).
+In the next section, we'll be covering [template rows](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-calculated-rows/template-rows.md).

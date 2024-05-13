@@ -20,16 +20,16 @@ To prevent consumers from using the visual with the lower environment’s visual
 
 1. Assign workspaces to each stage i.e. the Development/Test/Production stages of the deployment pipeline. [Learn more about assigning workspaces](https://learn.microsoft.com/en-us/fabric/cicd/deployment-pipelines/assign-pipeline).&#x20;
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assign workspaces</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assign workspaces</p></figcaption></figure>
 
 2. Create a report that uses Inforiver visuals. Publish it to the workspace mapped to the first(development) stage of the pipeline. For this demonstration, we have created a report titled 'PD\_Dec19\_2023' under the 'Inforiver - Pipeline - Dev' workspace.&#x20;
 3. Navigate to the Deployment Pipelines tab, and select the required pipeline. Select the report to be deployed to the test environment. [Learn more about deploying reports.](https://learn.microsoft.com/en-us/fabric/cicd/deployment-pipelines/deploy-content)
 
-<figure><img src="../.gitbook/assets/image (333) (1).png" alt=""><figcaption><p>Select items for deployment</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (333) (1).png" alt=""><figcaption><p>Select items for deployment</p></figcaption></figure>
 
 2. Review the items that are being deployed and click on the Deploy button.
 
-<figure><img src="../.gitbook/assets/image (334) (1).png" alt=""><figcaption><p>Start deployment</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (334) (1).png" alt=""><figcaption><p>Start deployment</p></figcaption></figure>
 
 2. After the deployment is complete, you will be able to see the report in the next stage, in this case, the Inforiver - Pipeline - Test workspace.
 
@@ -39,19 +39,19 @@ When a visual is deployed for the first time in an environment, we need to follo
 
 1. After the deployment is complete, open the report from the target environment, in this case, the Inforiver - Pipeline - Test workspace. A notification is generated, indicating that the visual is a duplicate.
 
-<figure><img src="../.gitbook/assets/image (337) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (337) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Switch to edit mode and sign in. After signing in, there will be a yellow icon on the top right indicating that the report is a duplicate of the report in the development environment.
 
-<figure><img src="../.gitbook/assets/image (338) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (338) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on _Report Details_ under the user profile. This will open the report details pane.
 
-<figure><img src="../.gitbook/assets/image (339) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (339) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Click on the Create button to detach this visual and create a new visual ID. A dialog box will pop up.&#x20;
 
-<figure><img src="../.gitbook/assets/image (340) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (340) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. The dialog box gives two options to populate data input values in the visual:
 
@@ -60,11 +60,11 @@ When a visual is deployed for the first time in an environment, we need to follo
 
 Tick the confirmation checkbox and click on the Proceed button to save the report.
 
-<figure><img src="../.gitbook/assets/image (341) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (341) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Save the visual to commit the changes.
 
-<figure><img src="../.gitbook/assets/image (342) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (342) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Repeat these steps when deploying a report to an environment for the first time.
 
@@ -74,11 +74,11 @@ This section outlines the steps to set up a pipeline recovery configuration. Thi
 
 1. Click on _Pipeline Recovery Config_ from the user profile menu. This will navigate to the configuration URL.
 
-<figure><img src="../.gitbook/assets/image (343) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (343) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the Add Pipeline button or link in the pipeline recovery webpage.
 
-<figure><img src="../.gitbook/assets/image (344) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (344) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Enter the configuration details:
 
@@ -88,11 +88,11 @@ This section outlines the steps to set up a pipeline recovery configuration. Thi
 
 4\. Get the visual IDs for the reports in lower and higher environments from the user profile menu.
 
-<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
 5. After completing the configurations, click on Save.&#x20;
 
-<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
 
 5. In this example, we are deploying from Dev to Test, so we have created two stages. Click on the Add Stage button to configure additional stages like QA and Prod.
 
@@ -100,7 +100,7 @@ This section outlines the steps to set up a pipeline recovery configuration. Thi
 
 &#x20;After deploying a report, when you open the report in a higher environment, you will see a popup saying "Pipeline Deployment Detected".  Please note that Inforiver will detect deployments only if the visual has been detached(step 2) and pipeline recovery(step 3) has been configured.
 
-<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
 Open the report in edit mode to complete pipeline recovery. You will see a notification for successful pipeline recovery after switching to edit mode.
 

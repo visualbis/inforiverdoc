@@ -54,7 +54,7 @@ The report creator has to sign in while creating the report. Without creators si
 
 #### 13. Do I need to manually add enterprise users in the _User Management_ console?
 
-Once you have assigned the user a license from AppSource, when the user signs in for the first time, they will be automatically added to the Inforiver [User Management](advanced-topics/admin-console/user-management.md) page.
+Once you have assigned the user a license from AppSource, when the user signs in for the first time, they will be automatically added to the Inforiver [User Management](admin-console/user-management.md) page.
 
 ### B) Writeback
 

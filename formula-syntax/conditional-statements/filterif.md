@@ -1,6 +1,6 @@
 # FILTERIF
 
-The FILTERIF function can be used to filter an array of values based on a given condition. It returns an array, hence it has to be used in conjunction with an aggregate function like SUM or AVERAGE. It can be used to populate a [calculated row](../../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-calculated-rows.md).
+The FILTERIF function can be used to filter an array of values based on a given condition. It returns an array, hence it has to be used in conjunction with an aggregate function like SUM or AVERAGE. It can be used to populate a [calculated row](../../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-calculated-rows/).
 
 ## Syntax
 

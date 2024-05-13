@@ -39,7 +39,7 @@ The equal and weight options are not shown when you click on a cell at the child
 {% endhint %}
 
 {% hint style="info" %}
-[**Sum** ](../../advanced-topics/manage-aggregations.md#sum)and [**Weighted Average**](../../advanced-topics/manage-aggregations.md#weighted-average) are the only [row aggregation types](insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type) that allow allocations/distributions from total cells to the child rows.
+[**Sum** ](../manage-aggregations/#sum)and [**Weighted Average**](../manage-aggregations/#weighted-average) are the only [row aggregation types](insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type) that allow allocations/distributions from total cells to the child rows.
 {% endhint %}
 
 ### i) Equal

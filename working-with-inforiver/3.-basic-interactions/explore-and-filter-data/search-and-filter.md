@@ -43,7 +43,7 @@ b) Click 'Add Filter'. You can filter by row or column hierarchies, or by measur
 c) The data has been filtered to show only the rows corresponding to the category 'Water' as shown in the image.
 
 {% hint style="info" %}
-You can apply filters on manual input rows like calculated rows/static rows/template rows etc. Learn more about [manual input rows](../../4.-adding-business-logic-and-formulae/insert-manual-input-rows.md) and [calculated rows](../../4.-adding-business-logic-and-formulae/insert-calculated-rows.md).
+You can apply filters on manual input rows like calculated rows/static rows/template rows etc. Learn more about [manual input rows](../../4.-adding-business-logic-and-formulae/insert-manual-input-rows.md) and [calculated rows](../../4.-adding-business-logic-and-formulae/insert-calculated-rows/).
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/FilterResult (2).png" alt=""><figcaption><p>Filter result</p></figcaption></figure>

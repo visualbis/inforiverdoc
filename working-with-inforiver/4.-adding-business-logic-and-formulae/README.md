@@ -2,7 +2,7 @@
 
 We successfully used filters, KPI explorer, manage columns, expand/collapse hierarchies, group & pin rows and columns, and many other features in the [previous section](../3.-basic-interactions/). In this section, we'll cover the following:
 
-**1. Insert calculated rows** - Inforiver provides an option to insert calculated rows using an Excel-like formula engine. To learn more, refer to [insert calculated rows](insert-calculated-rows.md).
+**1. Insert calculated rows** - Inforiver provides an option to insert calculated rows using an Excel-like formula engine. To learn more, refer to [insert calculated rows](insert-calculated-rows/).
 
 **2. Insert calculated columns** - With Inforiver, it is possible to insert a new calculated column or measure at the visual level. To learn more, refer to [insert calculated columns](insert-calculated-columns.md).
 

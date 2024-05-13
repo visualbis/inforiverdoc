@@ -42,7 +42,7 @@ The 'Distribute parent value to children' option ensures that if a value is ente
 
 ### **iv. Bind for cross filter/RLS**
 
-You can enable the Bind for Cross filter/RLS option – this ensures that cross-filter selections and RLS settings apply to calculated/manual input rows that reference other rows. For example, if this option is not enabled, a manager handling Canada accounts can view a manually inserted row that references US data or an inserted region that is manually created at the visual level. [Learn more about binding rows.](insert-calculated-rows.md#id-6.-bind-for-cross-filter-rls)
+You can enable the Bind for Cross filter/RLS option – this ensures that cross-filter selections and RLS settings apply to calculated/manual input rows that reference other rows. For example, if this option is not enabled, a manager handling Canada accounts can view a manually inserted row that references US data or an inserted region that is manually created at the visual level. [Learn more about binding rows.](insert-calculated-rows/#id-6.-bind-for-cross-filter-rls)
 
 ## 3. **Delete a static row**
 

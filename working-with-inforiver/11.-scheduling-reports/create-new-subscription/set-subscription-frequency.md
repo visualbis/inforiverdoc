@@ -36,7 +36,7 @@ This option lets you select the starting and ending date of the schedule using a
 
 ### Skip Holidays
 
-You can skip subscription jobs based on a specific holiday calendar. Choose a predefined holiday calendar from the dropdown. [Learn more about setting up holiday calendars in the admin console.](../../../advanced-topics/admin-console/settings/holidays.md)
+You can skip subscription jobs based on a specific holiday calendar. Choose a predefined holiday calendar from the dropdown. [Learn more about setting up holiday calendars in the admin console.](../../../admin-console/settings/holidays.md)
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -30,7 +30,7 @@ If you select this option, a visual measure gets inserted as shown below. There 
 
 * **Insert as**: A [column or measure](../insert-manual-input-columns.md#a-insert-as) can be inserted. If there is a column hierarchy, the input column is inserted for each category. In case of no column hierarchy, a single column is inserted.
 * **Input type**: The type of [data input column](../insert-manual-input-columns.md); can be changed from the initial selection before creating the column by clicking on 'Create'.&#x20;
-* **Row aggregation type**: By default, totals, and subtotals are defined as the sum of child rows. There are several other options such as average, minimum, maximum, etc. that are explained in detail [here](../../../advanced-topics/manage-aggregations.md).
+* **Row aggregation type**: By default, totals, and subtotals are defined as the sum of child rows. There are several other options such as average, minimum, maximum, etc. that are explained in detail [here](../../manage-aggregations/).
 * **Distribute parent value to children**: The values entered at a parent level are distributed to the child rows [when enabled](insert-manual-input-columns.md#ii-distribute-parent-value-to-children). This is very useful when creating budgets or forecasts.&#x20;
 * **Minimum Value**: You can optionally [specify the minimum threshold value](insert-manual-input-columns.md#iii-min-and-max-range) for the leaf-level cells, which can be a static number or value from the selected measure. When set, Inforiver ensures that both user input and the allocations to these cells are always more than this value.
 * **Maximum Value**: You can optionally [specify the maximum threshold value](insert-manual-input-columns.md#iii-min-and-max-range) for the leaf-level cells, which can be a static number or value from the selected measure. When set, Inforiver ensures that both user input and the allocations to these cells are always less than this value.
@@ -153,7 +153,7 @@ To change the aggregation method, click the **Row aggregation type** dropdown in
 <figure><img src="../../../.gitbook/assets/image (602).png" alt=""><figcaption><p>Available row aggregation types</p></figcaption></figure>
 
 {% hint style="info" %}
-To understand the different aggregations, you can refer to [this section.](../../../advanced-topics/manage-aggregations.md)
+To understand the different aggregations, you can refer to [this section.](../../manage-aggregations/)
 {% endhint %}
 
 In the below image, 'Maximum' has been chosen. The highlighted cells, which are the row subtotals, get updated.

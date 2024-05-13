@@ -56,7 +56,7 @@ You can use the _Show All Columns_ option to display hidden columns again.
 
 #### vii) Aggregation
 
-Using this option, you can directly set the aggregation method used to calculate the totals and subtotals for a particular column. Learn more about [managing aggregation](../../../../advanced-topics/manage-aggregations.md).
+Using this option, you can directly set the aggregation method used to calculate the totals and subtotals for a particular column. Learn more about [managing aggregation](../../../manage-aggregations/).
 
 <figure><img src="../../../../.gitbook/assets/image (46) (3).png" alt=""><figcaption></figcaption></figure>
 
