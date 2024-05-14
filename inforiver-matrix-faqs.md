@@ -18,7 +18,7 @@ Yes. Inforiver can be used in small form factors just like a native Power BI tab
 
 Inforiver is limited to the 3 MB custom visual size, hence, we are not able to support all the fonts with the Export to PDF feature (each font family is 1MB in size). We were recently able to add "Times New Roman" as an additional font for the Export to PDF feature.
 
-By August 2022 - we switched to the Inforiver font family from Antikor Mono as our default font. As the Inforiver Font family is like Segoe but monospaced for numbers – we think it will be a better default font option. Also, Enterprise Edition customers will be able to use any custom font in the subscription scheduler for the export to PDF feature as the Enterprise Edition has database storage where we could upload additional font styles including custom corporate fonts.
+By August 2022 - we switched to the Inforiver font family from Antikor Mono as our default font. As the Inforiver Font family is like Segoe but monospaced for numbers – we think it will be a better default font option. Also, Writeback Matrix customers will be able to use any custom font in the subscription scheduler for the export to PDF feature. This is because the Writeback Matrix has database storage where we could upload additional font styles including custom corporate fonts.
 
 #### 5. Using Display, I can set or change preferences/settings for General, Hierarchy, or Numbers. Can I save my changes permanently or do I have to change settings for each new report? <a href="#headline-604-2838" id="headline-604-2838"></a>
 
@@ -28,7 +28,7 @@ With our enterprise edition – you can save your theme, settings, etc., and it 
 
 Yes. With Inforiver Premium Matrix and Enterprise, you can input and create new budgets or forecasts in seconds. Specifically, you can (a) Create forecasts based on past sales data, (b) Create forecasts from a blank template, (c) Allocate forecasts across countries or product categories proportional to past performance, (d) Perform dynamic what-if simulations to adjust forecasts using a slider interface (e) Comment and annotate on budgets, forecasts, plan, or variance data points, and (f) writeback forecast data along with notes & comments.
 
-Note: Points e and f are supported only in Inforiver Enterprise
+Note: Points e and f are supported only in Inforiver Writeback Matrix
 
 Refer to\
 1\. Manual Input for Budgets - [Data input, simulations, commenting, and writeback](https://inforiver.com/webinars/data-writeback-in-power-bi-a-deep-dive-and-key-considerations/)\
@@ -43,15 +43,13 @@ All editions support formatted paginated export to Excel in WYSIWYG with structu
 
 #### 8. What is the performance on large datasets? <a href="#headline-647-2838" id="headline-647-2838"></a>
 
-Inforiver works best with summarized and aggregated data. Your Data model could contain billions of rows, but we recommend that using Power BI slicers you restrict the data assigned to Inforiver to be summarized in nature.
+Inforiver works best with summarized and aggregated data. Your Data model could contain billions of rows, but to leverage the full capabilities of Inforiver, we recommend that you restrict the data assigned to Inforiver using Power BI slicers.
 
-We also recommend that you don’t compare the performance of Inforiver matrix vs Power BI Matrix, as Power BI only brings one hierarchy level of data at a time, and using the windowing technique, they only show what you can see. However, Inforiver brings all the hierarchy levels at once and we paginate them to offer hundreds of additional features and visual-level formula capabilities like Excel. So, we are architecturally different from Power BI Matrix for a reason.&#x20;
-
-In the near future – we will offer a performance build where the Inforiver matrix will function like the Native Matrix by bringing only one hierarchy level at a time for performance reasons but compromising on features/functionalities that require all the hierarchy levels.
+We also offer a performance build where the Inforiver Reporting matrix will function like the native Power BI Matrix by bringing only one hierarchy level at a time for performance reasons but compromising on features/functionalities that require all the hierarchy levels. [Learn more about working with performance mode.](advanced-topics/drill-down-and-roll-up-in-performance-mode.md)
 
 #### 9. Is there a limit to the number of pages that can be exported? <a href="#headline-652-2838" id="headline-652-2838"></a>
 
-We offer a formatted and paginated export solution. So, there is a limit of 30k rows for Excel and 10MB for PDF for performance and fidelity reasons on the quality of the export.
+We offer a formatted and paginated export solution. There is a limit of 30k rows for Excel and 10MB for PDF for performance and fidelity reasons on the quality of the export.
 
 #### 10. What are the collaboration options available? <a href="#headline-612-2838" id="headline-612-2838"></a>
 

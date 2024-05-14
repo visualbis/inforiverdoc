@@ -10,7 +10,7 @@ We successfully used layouts/templates, applied formatting and added charts and 
 
 **4. Manage column widths** - Learn more about the ways to quickly adjust column width, especially when you have a lot of columns in the section [manage column widths](manage-column-widths.md).
 
-**5. Manage hierarchies** - Inforiver provides several options such as expanding or collapsing row/column hierarchies to specified levels, descendants and more. To learn more, refer to [manage hierarchies](manage-hierarchies/).
+**5. Manage hierarchies** - Inforiver provides several options such as expanding or collapsing row/column hierarchies to specified levels, descendants and more. To learn more, refer to [manage hierarchies](manage-hierarchies.md).
 
 **6. Create visual hierarchies** - With Inforiver, visual hierarchies in rows & columns can be created by selecting multiple items and grouping them. To learn more, refer to [create visual hierarchies](create-visual-hierarchies.md).&#x20;
 

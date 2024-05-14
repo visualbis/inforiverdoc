@@ -4,9 +4,9 @@ In this guide, we'll be covering Inforiver Matrix and Enterprise. A quick introd
 
 ## Overview
 
-[Inforiver Matrix](https://inforiver.com/matrix/) - For management, financial, IBCS and paginated reporting, data exploration, excel-like pivot analysis, visual-level formula calculations, what-if analysis, simulations, forecasting, and formatted export to PDF/Excel. The premium matrix is a Microsoft-certified visual.
+[Inforiver Reporting Matrix](https://inforiver.com/reporting-matrix/) - For management, financial, IBCS, and paginated reporting, data exploration, excel-like pivot analysis, visual-level formula calculations, what-if analysis, simulations, forecasting, and formatted export to PDF/Excel. The reporting matrix is a Microsoft-certified visual.
 
-[Inforiver Enterprise](https://inforiver.com/enterprise/) - For advanced data input (forecasts, text, drop-down lists, etc.), writeback, commenting & collaboration, report scheduling & bursting. Highly useful for use cases such as what-if analysis, simulations, sales forecasting, planning, forecasting, budgeting, and more. Comes in two editions – SaaS and On-Premise.
+[Inforiver Writeback Matrix](https://inforiver.com/writeback-matrix/) - For advanced data input (forecasts, text, drop-down lists, etc.), writeback, commenting & collaboration, report scheduling & bursting. Highly useful for use cases such as what-if analysis, simulations, sales forecasting, planning, forecasting, budgeting, and more. Comes in two editions – SaaS and On-Premise.
 
 You can try Inforiver for free or purchase licenses through the two ways listed below:
 
@@ -29,7 +29,7 @@ The latest features and hotfixes are available on the Inforiver website before t
 
 ### STEP 1: Download Inforiver
 
-If you have registered for a trial of [Inforiver Matrix](https://inforiver.com/trial/) or [Enterprise ](https://inforiver.com/enterprise/trial/)from the Inforiver website or have a [paid subscription to Inforiver](https://inforiver.com/login/), you will receive an email with a link to download the visual as a .pbiviz file.
+You will receive an email with a link to download the visual as a .pbiviz file if you have registered for a trial of the [Inforiver Reporting Matrix](https://inforiver.com/trial/) or [Writeback Matrix](https://inforiver.com/writeback-matrix/trial/) from the Inforiver website or have a [paid subscription to Inforiver](https://inforiver.com/login/),&#x20;
 
 The visual is already embedded with a unique dynamically generated license key for paid subscriptions - you do not have to enter any license key in the visual.
 

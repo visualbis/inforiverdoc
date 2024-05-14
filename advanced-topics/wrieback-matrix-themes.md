@@ -1,9 +1,9 @@
-# Enterprise themes
+# Wrieback Matrix themes
 
-With Inforiver's Enterprise themes feature, you can create and upload custom themes to the repository which can be accessed by others in the organization.&#x20;
+With Inforiver's themes feature, you can create and upload custom themes to the repository which others in the organization can access.
 
 {% hint style="info" %}
-The enterprise themes feature is available only in Inforiver Enterprise.
+The themes feature is available only in Inforiver Writeback Matrix.
 {% endhint %}
 
 ## 1. View & apply a theme

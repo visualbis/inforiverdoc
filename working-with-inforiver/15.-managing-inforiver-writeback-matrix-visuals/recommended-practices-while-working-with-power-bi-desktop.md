@@ -2,7 +2,7 @@
 
 This section outlines the best practices to be followed while editing Inforiver visuals from Power BI desktop as well as from the Power BI service.&#x20;
 
-In the previous section, we discussed [visual IDs and shared elements](safe-procedures-for-copying-enterprise-visuals.md#visual-ids) in Inforiver that get synced between visuals. After you develop a report in Power BI desktop, when you subsequently publish it to the Power BI service; the desktop and the web versions will share the same Inforiver visual ID. If you directly make changes to the web version of the report after publishing it, you will need to be mindful of certain considerations:
+In the previous section, we discussed [visual IDs and shared elements](safe-procedures-for-copying-writeback-matrix-visuals.md#visual-ids) in Inforiver that get synced between visuals. After you develop a report in Power BI desktop, when you subsequently publish it to the Power BI service; the desktop and the web versions will share the same Inforiver visual ID. If you directly make changes to the web version of the report after publishing it, you will need to be mindful of certain considerations:
 
 * Any changes made from the Power BI service to **non-shared** elements like formulas will not be synced with the desktop version of the report.&#x20;
 * Any changes made to **shared** elements, like comments or writeback configurations, will be synced across the desktop as well as the web versions of the report.

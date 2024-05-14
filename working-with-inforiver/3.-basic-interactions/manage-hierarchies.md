@@ -8,13 +8,13 @@ Currently, in a native Power BI matrix, you cannot expand or collapse columns fr
 
 In this example, the hierarchy in rows is Region -> Sub Region -> Category -> Sub Category.
 
-You can expand/collapse **individual rows** using the expand/collapse icons![](<../../../.gitbook/assets/image (2) (3) (1).png>). In the image below, you can see that International is fully expanded to the last level, while EMEA and United States remain collapsed.&#x20;
+You can expand/collapse **individual rows** using the expand/collapse icons![](<../../.gitbook/assets/image (2) (3) (1).png>). In the image below, you can see that International is fully expanded to the last level, while EMEA and United States remain collapsed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/RowHierarchy.png" alt=""><figcaption><p>Row hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/RowHierarchy.png" alt=""><figcaption><p>Row hierarchy</p></figcaption></figure>
 
 Inforiver also provides a number of options for expanding/collapsing all branches, expanding/collapsing to a specific level etc. To access these options, mouse over any row, and click on the hamburger menu.&#x20;
 
-<figure><img src="../../../.gitbook/assets/List of Options.png" alt=""><figcaption><p>Available actions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/List of Options.png" alt=""><figcaption><p>Available actions</p></figcaption></figure>
 
 ### a) Expand
 
@@ -74,45 +74,45 @@ You can add a layer of abstraction to the report by choosing whether to display 
 
 To hide all the child rows contributing to a parent row, click on the row gripper for the parent row and select the 'Hide icon & children for current row' option from the 'Show/Hide Expand icon' section.
 
-<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Hide child nodes in a hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Hide child nodes in a hierarchy</p></figcaption></figure>
 
 The child rows under the 'TV and Video' level have been hidden.
 
-<figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Hiding child rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Hiding child rows</p></figcaption></figure>
 
 To reinstate the hidden child rows, select the 'Show icon & children for current row' option from the row gripper context menu.
 
-<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Reinstating hidden rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Reinstating hidden rows</p></figcaption></figure>
 
 #### ii. Disabling expand/collapse for levels in the hierarchy
 
 You can also prevent users from expanding and collapsing the hierarchy by hiding the expand icon. This can be achieved by clicking on the row gripper for the parent node and selecting the 'Hide icon for level' option from the 'Show/Hide Expand icon' section.
 
-<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Hide icon for level</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Hide icon for level</p></figcaption></figure>
 
 Notice how the expand icon has been removed for the hierarchy.
 
-<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Hierarchy in expanded state</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Hierarchy in expanded state</p></figcaption></figure>
 
 To reinstate the icon, select the 'Show icon for level' option from the row gripper context menu.
 
-<figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Expand icon is enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Expand icon is enabled</p></figcaption></figure>
 
 ## 2. Column hierarchies
 
 In this example, the hierarchy in columns is Region -> Sub Region -> Quarter.
 
-You can expand/collapse **individual columns** using the expand/collapse icons <img src="../../../.gitbook/assets/image (17) (2) (1).png" alt="" data-size="line"> . In the image below, you can see that International -> APAC is fully expanded to show the Quarters, while EMEA and United States remain collapsed.&#x20;
+You can expand/collapse **individual columns** using the expand/collapse icons <img src="../../.gitbook/assets/image (17) (2) (1).png" alt="" data-size="line"> . In the image below, you can see that International -> APAC is fully expanded to show the Quarters, while EMEA and United States remain collapsed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/ColumnHierarchy.png" alt=""><figcaption><p>Column hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ColumnHierarchy.png" alt=""><figcaption><p>Column hierarchy</p></figcaption></figure>
 
 To access the other expand/collapse options, mouse over the category names on the top-left of the table (Region, Sub Region, and Quarter), as highlighted.
 
-<figure><img src="../../../.gitbook/assets/Hamburger MenuC.png" alt=""><figcaption><p>Hamburger menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Hamburger MenuC.png" alt=""><figcaption><p>Hamburger menu</p></figcaption></figure>
 
 On clicking the hamburger menu, you can see a list of options.
 
-<figure><img src="../../../.gitbook/assets/List of OptionsC.png" alt=""><figcaption><p>List of options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/List of OptionsC.png" alt=""><figcaption><p>List of options</p></figcaption></figure>
 
 From this menu, you can perform the following actions:
 
@@ -128,7 +128,7 @@ Collapse all the categories in the columns to show only the Regions
 
 This option is useful when there are more than 2 hierarchy levels. Here you can expand all branches to Sub Region, for example
 
-In the next section, we'll be [creating visual hierarchies](../create-visual-hierarchies.md) using the Group feature.
+In the next section, we'll be [creating visual hierarchies](create-visual-hierarchies.md) using the Group feature.
 
 #### Resources
 

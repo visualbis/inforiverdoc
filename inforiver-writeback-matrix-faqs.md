@@ -1,4 +1,4 @@
-# Inforiver Enterprise FAQs
+# Inforiver Writeback Matrix FAQs
 
 ### A) General
 
@@ -8,11 +8,11 @@ For the SaaS version, there is no installation required. Learn more about the Sa
 
 #### 2. How can I log in to Inforiver? <a href="#headline-437-2838" id="headline-437-2838"></a>
 
-All Power BI users with a valid Inforiver Enterprise subscription would be able to log in using their Microsoft O365 account.
+All Power BI users with a valid Inforiver Writeback Matrix subscription would be able to log in using their Microsoft O365 account.
 
 #### 3. How does the login process work for the admin app/console? <a href="#headline-442-2838" id="headline-442-2838"></a>
 
-You can log in to the admin console by visiting [https://addons.inforiver.com/](https://addons.inforiver.com/). [Admin console](broken-reference) provides options to manage users, schedules, writeback connections, assets for header/footers, and more. &#x20;
+You can log in to the admin console by visiting [https://addons.inforiver.com/](https://addons.inforiver.com/). [Admin console](admin-console/) provides options to manage users, schedules, writeback connections, assets for header/footers, and more. &#x20;
 
 #### 4. How frequently would Inforiver be updated? <a href="#headline-447-2838" id="headline-447-2838"></a>
 
@@ -20,11 +20,11 @@ We are currently on monthly release cycles; we might be shifting to quarterly re
 
 #### 5. Do I need to be on a Power BI Premium workspace for the enterprise functionality to work? <a href="#headline-452-2838" id="headline-452-2838"></a>
 
-We don't have any requirements on Power BI capacity ​for the enterprise features. One limitation that shared capacity customers might have is if they use the scheduler and want to perform a refresh dataset more than the allowed limit (8 times a day), it wouldn't work.&#x20;
+We don't have any requirements on Power BI capacity ​for the Writeback Matrix features. One limitation that shared capacity customers might have is if they use the scheduler and want to perform a refresh dataset more than the allowed limit (8 times a day), it wouldn't work.
 
-#### 6. What are all the permissions that we need to provide for the Inforiver? <a href="#headline-457-2838" id="headline-457-2838"></a>
+#### 6. What are the permissions we need to provide for Inforiver? <a href="#headline-457-2838" id="headline-457-2838"></a>
 
-Inforiver requires certain permissions to access resources in your organization which must be granted by the O365 admin. Inforiver requires certain permissions to access resources in your organization which must be granted by the O365 admin. &#x20;
+Inforiver requires certain permissions to access resources in your organization which must be granted by the O365 admin.
 
 <figure><img src=".gitbook/assets/FAQ Enterprise permissions.png" alt=""><figcaption><p>Permissions for Inforiver Enterprise</p></figcaption></figure>
 
@@ -64,7 +64,7 @@ Yes, customers must bring their destination database for writeback data to be sa
 
 We don't provide any writeback database or any other destinations like SharePoint, OneDrive, etc. for both SaaS and on-premise versions. This is done with the customer's data security considerations in mind as well and it provides maximum flexibility to our architecture where the writeback could be used with cloud data warehouses such as Snowflake, BigQuery, on-premise SQL servers, or SAP HANA.&#x20;
 
-#### 2. What are all the supported destinations for writeback? <a href="#headline-561-2838" id="headline-561-2838"></a>
+#### 2. What are the supported destinations for writeback? <a href="#headline-561-2838" id="headline-561-2838"></a>
 
 These are the destinations we support at the moment –&#x20;
 
@@ -94,19 +94,15 @@ Yes. For folder destinations, on creating a new version a new writeback version 
 
 It is optimized for 30,000 rows, but it is subject to vary based on destination and mode of writeback (delta vs filter or collaborative). Writeback to Azure SQL and SQL Server can handle more data volume as we are utilizing a bulk insert approach. Writeback is optimized for up to 100K cells in the July 2022 release and we are looking to improve this further. &#x20;
 
-#### 8. How much volume of data does writeback support? <a href="#headline-755-4237" id="headline-755-4237"></a>
-
-It is optimized for 30,000 rows, but it is subject to vary based on destination and mode of writeback (delta vs filter or collaborative). Writeback to Azure SQL and SQL Server can handle more data volume as we are utilizing a bulk insert approach. Writeback is optimized for up to 100K cells in the July release and we are looking to improve this further. 
-
-#### 9. Can customers get access to view the backend data in SAAS? <a href="#headline-975-4237" id="headline-975-4237"></a>
+#### 8. Can customers get access to view the backend data in SAAS? <a href="#headline-975-4237" id="headline-975-4237"></a>
 
 Access to your data is restricted to a limited number of authorized personnel at Inforiver who require it to provide technical support or perform maintenance on the system. We do not share or sell your data to any third parties.
 
-#### 10. Will the writeback table get created after setting the destination? <a href="#headline-980-4237" id="headline-980-4237"></a>
+#### 9. Will the writeback table get created after setting the destination? <a href="#headline-980-4237" id="headline-980-4237"></a>
 
 No, this will be created on the first writeback execution.
 
-#### 11.  Is it possible to retain the history of the WB ? <a href="#headline-980-4237" id="headline-980-4237"></a>
+#### 10.  Is it possible to retain the history of the WB? <a href="#headline-980-4237" id="headline-980-4237"></a>
 
 Yes, you can review all the writeback execution logs from the Inforiver console app.
 
@@ -166,21 +162,21 @@ Yes. With Inforiver Enterprise Edition (either as SaaS or On-Premise) – you ca
 
 Yes, they can specify any email address in the subscription.&#x20;
 
-#### 4. Should the scheduler be set by the report admin, or by the end user? <a href="#headline-537-2838" id="headline-537-2838"></a>
+#### 4. Should the scheduler be set by the report admin or the end user? <a href="#headline-537-2838" id="headline-537-2838"></a>
 
 Both the admin and the end user can schedule reports.&#x20;
 
 #### 5. Can we have other Power BI visuals included in the scheduler? <a href="#headline-541-2838" id="headline-541-2838"></a>
 
-No. It is currently limited to Inforiver Matrix, Enterprise, and Charts visuals.&#x20;
+No. It is currently limited to Inforiver Reporting Matrix, Writeback Matrix, and Analytics+ visuals.&#x20;
 
-#### 6. Can I export all tabs of a Power BI report into excel as a workbook with multiple tabs? <a href="#headline-545-2838" id="headline-545-2838"></a>
+#### 6. Can I export all tabs of a Power BI report into Excel as a workbook with multiple tabs? <a href="#headline-545-2838" id="headline-545-2838"></a>
 
 Multiple tabs of a Power BI report with Inforiver visuals can be exported as a merged PDF and merged Excel workbook.
 
 #### 7. Can we set up filter rules for the paginated reports? <a href="#headline-549-2838" id="headline-549-2838"></a>
 
-Yes. With the built-in page break feature in Inforiver – the scheduler can handle this feature differently so that the same report could be sent to different individuals based on the page break criteria.&#x20;
+Yes. With the built-in page break feature in Inforiver – the scheduler can handle this feature differently so that the same report can be sent to different individuals based on the page break criteria.&#x20;
 
 #### 8. Is there a way to call/reference the filter on the Email subject or body? <a href="#headline-746-4237" id="headline-746-4237"></a>
 

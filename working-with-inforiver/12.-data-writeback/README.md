@@ -5,7 +5,7 @@ Inforiver writeback allows a user to export and save a report table to destinati
 Inforiver, unlike other BI tools, does not require IT overhead in terms of database setup and defining the structure of writeback tables in advance. Inforiver instead supports dynamic database configuration and table creation at run time and performs semi-structured, on-the-fly writeback to more than one destination at a time.
 
 {% hint style="info" %}
-Data writeback is an enterprise feature; you need to have a valid Inforiver Enterprise subscription.
+Data writeback is a Writeback Matrix feature; you need to have a valid Inforiver Writeback Matrix subscription.
 {% endhint %}
 
 ## 1. Overview
