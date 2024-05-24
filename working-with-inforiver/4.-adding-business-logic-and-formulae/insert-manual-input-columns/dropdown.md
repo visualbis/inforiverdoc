@@ -2,6 +2,10 @@
 
 Inforiver provides options to create single-select or multi-select lists on your own, use one of the preset options or create from your Power BI datasets.&#x20;
 
+{% embed url="https://vimeo.com/897085316" %}
+Dropdowns - overview
+{% endembed %}
+
 The single-select and multi-select columns have two main differences:
 
 1. The obvious one is that a single-select column accepts only one option as input whereas, the multi-select column doesn't have that restriction.

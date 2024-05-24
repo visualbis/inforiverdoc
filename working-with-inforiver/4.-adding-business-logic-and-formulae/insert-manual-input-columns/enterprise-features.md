@@ -52,52 +52,72 @@ These are enabled once you add a data input column and can be found in the data 
 
 ## 3. List of values (LOV)
 
-For the 'Single select' and 'Multi select' columns, a list of values (LOV) can be created from your Power BI datasets or from other dimensions like Master Data reference fields as shown in the below video.
+For the Single select and Multi-select columns, a list of values (LOV) can be created from your Power BI semantic models or other dimensions like Master Data reference fields. The options are dynamically updated as the source data changes.
+
+Note: The video is from an older version, the interface and options have changed in the later versions.
 
 {% embed url="https://lumel.wistia.com/medias/bppuqp940h" %}
 List of values from Power BI datasets
 {% endembed %}
 
-Let's create a LOV from the datasets for a multi-select column.
+Let's create a LOV from the dataset for a multi-select column. We'll create a multi-select field to assign a subregion.
 
-a) In the multi-select column side panel, click on 'Datasets'.
+**STEP 1:** In the multi-select column side panel, click on Semantic model to open the **Add options from semantic model** dialog box.
 
-<figure><img src="../../../.gitbook/assets/4.4.4.9 LOV.png" alt=""><figcaption><p>Datasets option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (712).png" alt=""><figcaption><p>Semantic model option</p></figcaption></figure>
 
-b) You can see a dialog box as shown below.&#x20;
+**STEP 2:** Select the Power BI workspace from the 'Workspace' dropdown. You can also search for a specific workspace.
 
-<figure><img src="../../../.gitbook/assets/4.4.4.10 LOV.png" alt=""><figcaption><p>Add options from datasets window</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (713).png" alt=""><figcaption><p>Select the workspace</p></figcaption></figure>
 
-c) You can select the Power BI workspace from the 'Workspace' dropdown.
+**STEP 3:** Select the semantic model and the table from the respective dropdowns. Click Next.&#x20;
 
-<figure><img src="../../../.gitbook/assets/4.4.4.11 LOV.png" alt=""><figcaption><p>Workspace selection</p></figcaption></figure>
+<div>
 
-d) The datasets available in the selected workspace are auto populated. You can select the desired dataset from the dropdown.&#x20;
+<figure><img src="../../../.gitbook/assets/image (710).png" alt=""><figcaption><p>Select the semantic model </p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4.4.4.12 LOV.png" alt=""><figcaption><p>Dataset selection</p></figcaption></figure>
+ 
 
-e) Select the table from the 'Table' dropdown.
+<figure><img src="../../../.gitbook/assets/2024-04-03_15h03_16.png" alt=""><figcaption><p>Select the table - Acme Region Master</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4.4.4.13 LOV.png" alt=""><figcaption><p>Table selection</p></figcaption></figure>
+</div>
 
-f) All the columns available in the table are listed. You can select the column based on which the LOV is to be created.
+**STEP 4:** From the **Label Column** dropdown, you can choose the column from the table (selected in Step 3) which will be used to populate the multi-select options.&#x20;
 
-<figure><img src="../../../.gitbook/assets/4.4.4.14 LOV.png" alt=""><figcaption><p>Column selection</p></figcaption></figure>
+You can associate the options with an ID by selecting the **ID Column**. For example, if the multi-select shows a list of product names, you can tag them to a product ID field (if available in the data model). The multi-select options will not be impacted even if the product name changes, as the Product ID field remains constant.
 
-g) The unique elements in the selected column are listed as options. You can select all of them or unselect those that are not required. Click 'Apply'.&#x20;
+{% hint style="info" %}
+If an ID field is not available in your dataset, use the Label Column as the ID column.
+{% endhint %}
 
-<figure><img src="../../../.gitbook/assets/4.4.4.15 LOV.png" alt=""><figcaption><p>LOV created</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (715).png" alt=""><figcaption><p>Selecting the column to source the multi-select options</p></figcaption></figure>
 
-h) The selected options are displayed in the side panel as shown below. Click 'Create'.
+You can assign regions from the multi-select dropdown after completing the steps discussed above.
 
-<figure><img src="../../../.gitbook/assets/4.4.4.16 LOV.png" alt=""><figcaption><p>LOV created</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (716).png" alt=""><figcaption><p>Multi-select dropdown sourced from the dataset</p></figcaption></figure>
 
-i) Double-click on a cell in the multi-select column. Select the options as required and press 'Enter'.
+#### Applying filters on dropdown options
 
-<figure><img src="../../../.gitbook/assets/4.4.4.17 LOV (1).png" alt=""><figcaption><p>Using the dropdown</p></figcaption></figure>
+There are many scenarios wherein the options in the dropdown need to change based on the row dimension category. For example, consider that we have regional data in our rows. We need to use a dropdown to assign a manager for each region. The person that we assign must also be tagged to that specific region i.e. the dropdown options for the Central region should only show the people under that region. We can use filters in such scenarios, let's see how.
 
-j) The selections are displayed as shown in the below image.
+**STEP 1:** Select the workspace, semantic model, and table as discussed in the earlier section.
 
-<figure><img src="../../../.gitbook/assets/4.4.4.18 LOV.png" alt=""><figcaption><p>Multi-select column</p></figcaption></figure>
+**STEP 2:** You can fetch the data from another table by checking the **Join Table** checkbox. After ticking the checkbox, you will be able to specify the table to join with.
+
+The base table used to populate rows and columns in the report is Retail - Orders. We need to fetch the person data from the Retail - People table. The Retail -Orders and Retail-People are connected by the Region field (foreign key).
+
+<figure><img src="../../../.gitbook/assets/image (714).png" alt=""><figcaption><p>Joining Retail-Orders with Retail-People</p></figcaption></figure>
+
+**STEP 3:** Let's assign the field to source the multi-select options - in this case, Retail - People.Person. Since the Retail - People table does not have a unique ID column for each person, let's use the Person field as the option and the ID.
+
+<figure><img src="../../../.gitbook/assets/image (717).png" alt=""><figcaption><p>Soucing options from the Person in the dataset</p></figcaption></figure>
+
+**STEP 4:** We need to filter the people based on the region they are assigned to. In the **Columns** dropdown**,** select the field based on which you need to filter the options. In this case, it is the Retail - People.Region which can be used to identify the people tagged to a region. Select the corresponding field from the visual from the **Visual Column** dropdown.
+
+<figure><img src="../../../.gitbook/assets/image (718).png" alt=""><figcaption><p>Setting a filter for dropdown options</p></figcaption></figure>
+
+The dropdown options for people data have been fetched from the Retail - People table. Notice how all the people are displayed in the options for the grand total row. For each region, only the person assigned to that region is displayed in the dropdown.
+
+<figure><img src="../../../.gitbook/assets/Untitled Project (2).gif" alt=""><figcaption><p>Fetching options</p></figcaption></figure>
 
 In the next section, we'll be covering [quick formulas](../quick-formula.md).
