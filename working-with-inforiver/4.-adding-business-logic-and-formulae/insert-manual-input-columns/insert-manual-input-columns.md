@@ -228,4 +228,4 @@ The values get updated and are also distributed or rolled up to the child and pa
 
 <figure><img src="../../../.gitbook/assets/4.4.32 Number.png" alt=""><figcaption><p>Value gets updated</p></figcaption></figure>
 
-In the next section, we'll be looking at [dropdown input columns](dropdown.md).
+In the next section, we'll be looking at [dropdown input columns](dropdown/).

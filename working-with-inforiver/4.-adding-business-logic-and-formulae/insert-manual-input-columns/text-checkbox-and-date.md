@@ -1,6 +1,6 @@
 # Text, checkbox & date
 
-In addition to [number](insert-manual-input-columns.md) and [dropdown](dropdown.md) input columns, you can also use columns of types text, checkbox and date to capture manual data.
+In addition to [number](insert-manual-input-columns.md) and [dropdown](dropdown/) input columns, you can also use columns of types text, checkbox and date to capture manual data.
 
 Let's cover them one by one.
 
@@ -18,7 +18,7 @@ a) Select 'Text' from the _Data Input_ dropdown.
 
 b) The text column side panel is shown in the image below.&#x20;
 
-You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Text entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown.md#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option. You can also set field validations which will be discussed later in this section.
+You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Text entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown/#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option. You can also set field validations which will be discussed later in this section.
 
 Click 'Create'.
 
@@ -60,7 +60,7 @@ Checkbox columns or measures can be inserted to capture binary inputs. Click on 
 
 The checkbox column side panel is shown in the below image.&#x20;
 
-You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown.md#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
+You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown/#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
 
 Click 'Create'.
 
@@ -78,7 +78,7 @@ a) Date columns or measures can be inserted by clicking on 'Checkbox' in the 'Da
 
 b) The date column side panel is shown in the below image.&#x20;
 
-You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown.md#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
+You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown/#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
 
 <figure><img src="../../../.gitbook/assets/4.4.3.12 Date (1).png" alt=""><figcaption><p>Date column type properties</p></figcaption></figure>
 
