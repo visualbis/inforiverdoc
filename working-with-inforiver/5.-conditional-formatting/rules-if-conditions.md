@@ -1,8 +1,8 @@
 # Rules (If conditions)
 
-You can apply conditional formatting using font color, style, icons or background based on one or more IF conditions.
+You can apply conditional formatting using font color, style, icons, or background based on one or more IF conditions.
 
-Refer to [create rule](create-rule-basic-settings.md) to get started. Once the rule is created and you can see the 'Conditional formatting' side panel, follow the below steps.
+Refer to the [Create Rule](create-rule-basic-settings.md) section to get started. Once the rule is created and you can see the 'Conditional formatting' side panel, follow the below steps.
 
 a) Choose 'Rules (If conditions)' in the 'Format by' dropdown. You can see two sections - Style and Conditions.
 
@@ -14,7 +14,51 @@ c) In the 'Conditions' section, you can define conditions using options such as 
 
 <figure><img src="../../.gitbook/assets/FormatByRules.png" alt=""><figcaption><p>Format by rules</p></figcaption></figure>
 
-Let's look at an example for each of these options.
+Let's look at examples for each of these options.
+
+## Style
+
+* **Font style: bold, italic, underline**
+
+Set the font style based on conditional formatting rules. Notice how we've applied Bold, Italics, and Underlined the values that satisfy the condition. Click on the <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">icon to apply a color for the underline.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Font style</p></figcaption></figure>
+
+* **Cell background**
+
+Highlight the cells that match a conditional formatting rule by applying a background color.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Cell background</p></figcaption></figure>
+
+* **Font color**
+
+Apply a custom font color when a conditional formatting rule is met.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Font color</p></figcaption></figure>
+
+* **Cell borders**
+
+Highlight cells that satisfy the conditional formatting rule by setting a custom border. You can choose the border color by clicking the<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> icon.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Applying borders</p></figcaption></figure>
+
+* **Adding icons or text**
+
+Display icons to apply conditional formatting on your data. You can also use custom icons by clicking the Upload Icon link.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Applying icons</p></figcaption></figure>
+
+You can position the text/icons with respect to the cell values. You can also choose to display only the icons or text and hide the cell values.
+
+<figure><img src="../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Using icons and text</p></figcaption></figure>
+
+* **Hiding values**
+
+Business reporting may require withholding certain information to protect strategic interests. You can use conditional formatting rules to mask values based on specific criteria.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Hiding values</p></figcaption></figure>
+
+## Conditions
 
 ### 1. Number
 
@@ -26,7 +70,7 @@ In this example, we are highlighting the subcategories where 2021 Actuals are gr
 
 You can also use a cell value in the condition.&#x20;
 
-a) Select 'Data selection', click on the 'Set value' field and select a cell in the report.
+2.1. Select 'Data selection', click on the 'Set value' field and select a cell in the report.
 
 <figure><img src="../../.gitbook/assets/5.2.8 Data selection.png" alt=""><figcaption><p>Applying background color to values and totals</p></figcaption></figure>
 
@@ -35,11 +79,11 @@ Note:&#x20;
 * In this example, we have used 'Values and Totals' as the 'Row hierarchy levels'. You can see a new field where you can choose whether conditional formatting needs to be applied to the row grand total or not.&#x20;
 * We are also using a background color for the formatting.
 
-b) Click on the 'select value from' field and click on a cell in the report. The value gets populated automatically. Click 'Apply'.
+2.2. Click on the 'select value from' field and click on a cell in the report. The value gets populated automatically. Click 'Apply'.
 
 <figure><img src="../../.gitbook/assets/5.2.10 Data selection.png" alt=""><figcaption><p>Selecting data from the report </p></figcaption></figure>
 
-c) The formatting gets applied to all the hierarchy levels where 2021 Actuals are greater than the selected value.
+2.3. The formatting is applied to all the hierarchy levels where 2021 Actuals are greater than the selected value.
 
 <figure><img src="../../.gitbook/assets/5.2.11 Data selection.png" alt=""><figcaption><p>Conditional formatting based on data selection</p></figcaption></figure>
 
@@ -51,11 +95,11 @@ You can apply conditional formatting based on another measure in the visual. Let
 Measures that were added from the data source, auto-calculated variances, columns/measures created using calculations, data input and simulations can all be used in the IF condition.
 {% endhint %}
 
-a) Click on the highlighted dropdown and select 2021 Plan. Click 'Apply'.
+3.1. Click on the highlighted dropdown and select 2021 Plan. Click 'Apply'.
 
 <figure><img src="../../.gitbook/assets/5.2.12 Value.png" alt=""><figcaption><p>Conditional formatting based on another measure </p></figcaption></figure>
 
-b) Note that conditional formatting is applied only to the totals - Categories, Regions and Subregions since we have chosen 'Row hierarchy levels' as 'Totals' and included 'Row grand total'.
+3.2. Note that conditional formatting is applied only to the totals - Categories, Regions, and Subregions since we have chosen 'Row hierarchy levels' as 'Totals' and included 'Row grand total'.
 
 <figure><img src="../../.gitbook/assets/5.2.13 Value.png" alt=""><figcaption><p>Conditional formatting when 2021 Actuals > 2021 Plan</p></figcaption></figure>
 
@@ -69,35 +113,35 @@ Tea & coffee in the East subregion is the only record that matches the given con
 
 <figure><img src="../../.gitbook/assets/5.2.15 Formula.png" alt=""><figcaption><p>Conditional formatting based on formula</p></figcaption></figure>
 
-As you can see in the side panel, there is a '**Add condition**' option, which lets you create nested AND/OR conditions.&#x20;
+The '**Add condition**' option lets you create nested AND/OR conditions.&#x20;
 
 Let's consider another example where the conditions are Q4 2021 Actuals greater than 10m, the Category is Beverages and the Sub-regions are Pacific and East.
 
-a) Configure the settings as shown below for the first condition. Click on 'Add condition'.
+**STEP 1:** Configure the settings as shown below for the first condition. Click on 'Add condition'.
 
 <figure><img src="../../.gitbook/assets/5.2.16 Formula.png" alt=""><figcaption><p>Nested conditions</p></figcaption></figure>
 
-b) You can see another condition with default selections and an option to select AND/OR. Let's select 'AND' and 'Category' from the highlighted dropdown.
+**STEP 2:** You can see another condition with default selections and an option to select AND/OR. Let's select 'AND' and 'Category' from the highlighted dropdown.
 
 <figure><img src="../../.gitbook/assets/5.2.23 Formula.png" alt=""><figcaption><p>Adding an AND condition</p></figcaption></figure>
 
-c) You can see several options as shown in the below image. Let's go with the default option.
+**STEP 3:** You can see several options as shown in the below image. Let's go with the default option.
 
 <figure><img src="../../.gitbook/assets/5.2.24 Formula.png" alt=""><figcaption><p>Options for category</p></figcaption></figure>
 
-d) In the 'Choose members' dropdown, select 'Beverages'.
+**STEP 4:** In the 'Choose members' dropdown, select 'Beverages'.
 
 <figure><img src="../../.gitbook/assets/5.2.25 Formula.png" alt=""><figcaption><p>Selecting a category</p></figcaption></figure>
 
-e) Let's now add the third condition. Click on 'Add condition'. In the highlighted dropdown (2021 Plan), select 'Sub Region'.
+**STEP 5:** Let's now add the third condition. Click on 'Add condition'. In the highlighted dropdown (2021 Plan), select 'Sub Region'.
 
 <figure><img src="../../.gitbook/assets/5.2.26 Formula.png" alt=""><figcaption><p>Adding a third condition</p></figcaption></figure>
 
-f) Select Pacific and East in the dropdown as shown below. Click 'Apply'.
+**STEP 6:** Select Pacific and East in the dropdown as shown below. Click 'Apply'.
 
 <figure><img src="../../.gitbook/assets/5.2.27 Formula.png" alt=""><figcaption><p>Selecting multiple regions</p></figcaption></figure>
 
-g) You can see that the rows for Juices and Soda for East and Pacific are highlighted based on the three conditions.
+**STEP 7:** You can see that the rows for Juices and Soda for East and Pacific are highlighted based on the three conditions.
 
 <figure><img src="../../.gitbook/assets/5.2.28 Formula.png" alt=""><figcaption><p>Conditional formatting based on nested conditions</p></figcaption></figure>
 
@@ -105,23 +149,23 @@ g) You can see that the rows for Juices and Soda for East and Pacific are highli
 
 You can apply conditional formatting based on a selection during runtime ie. in the reading view. Let's consider a case where we want conditional formatting to be applied to 2021 Actuals based on a Variance value selected during runtime.
 
-a) Configure as shown in the below image. Note that 2021 Actuals is set in the 'Apply to' field and 'Variance' in the IF condition. Click on the dropdown and select 'Variance'.&#x20;
+**STEP 1:** Configure as shown in the below image. Note that 2021 Actuals is set in the 'Apply to' field and 'Variance' in the IF condition. Click on the dropdown and select 'Variance'.&#x20;
 
 <figure><img src="../../.gitbook/assets/5.2.30 User selection.png" alt=""><figcaption><p>Conditional formatting based on user selection</p></figcaption></figure>
 
-b) Let's also add an icon. Click on the 'Icon' checkbox. There are several customization options.
+**STEP 2:** Let's also add an icon. Click on the 'Icon' checkbox. There are several customization options.
 
 <figure><img src="../../.gitbook/assets/5.2.31 User selection.png" alt=""><figcaption><p>Adding an icon</p></figcaption></figure>
 
-c) Click on the icon dropdown and choose the flag icon.
+**STEP 3:** Click on the icon dropdown and choose the flag icon.
 
 <figure><img src="../../.gitbook/assets/5.2.32 User selection.png" alt=""><figcaption><p>Customizing the icon</p></figcaption></figure>
 
-d) Change the flag color to green and the font color to black. Click 'Apply'.
+**STEP 4:** Change the flag color to green and the font color to black. Click 'Apply'.
 
 <figure><img src="../../.gitbook/assets/5.2.33 User selection.png" alt=""><figcaption><p>Customizing the icon color</p></figcaption></figure>
 
-e) Click on a value in any of the variance columns. You can see flag icons in the 2021 Actuals column where the variance is greater than the selected variance.
+**STEP 5:** Click on a value in any of the variance columns. You can see flag icons in the 2021 Actuals column where the variance is greater than the selected variance.
 
 <figure><img src="../../.gitbook/assets/5.2.34 User selection.png" alt=""><figcaption><p>Conditional formatting based on user selection</p></figcaption></figure>
 

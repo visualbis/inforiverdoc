@@ -26,4 +26,4 @@ Follow the steps in the image below to whitelist the 5 Inforiver outbound IP add
 
 The screengrab below shows the firewall rules configured for Inforiver would.
 
-<figure><img src="../../../.gitbook/assets/image (8) (8).png" alt=""><figcaption><p>Inforiver firewall rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (8) (1).png" alt=""><figcaption><p>Inforiver firewall rules</p></figcaption></figure>

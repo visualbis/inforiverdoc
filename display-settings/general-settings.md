@@ -190,6 +190,6 @@ You can set a specific date format for hierarchical date dimensions in rows or c
 
 You can specify individual formats for year, quarter, month, and day. Expand the Valid formats information box to browse through the list of date formats supported in Inforiver.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Custom date formats</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Custom date formats</p></figcaption></figure>
 
 In this section, we covered the general display settings. Navigate to the next section to learn more about [hierarchy settings](hierarchy-settings.md).

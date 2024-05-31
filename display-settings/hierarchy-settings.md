@@ -34,7 +34,7 @@ You can add non-numeric measures like dates and text fields and display them in 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Non-numeric fields displayed as totals/subtotals</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Non-numeric fields displayed as totals/subtotals</p></figcaption></figure>
 
  
 

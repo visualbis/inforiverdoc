@@ -54,23 +54,23 @@ When row dimensions are renamed/changed, we might lose these visual elements add
 
 In the example below, we’ve applied formatting, added notes, and comments, and added data inputs to the products, _Juices_ and _Tea & Coffee_.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
 
 The visual elements were lost after the product names were renamed to _Fruit Juices_ and _Chai & Coffee_ respectively.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
 
 To avoid this, let us map the dimension IDs to a constant dimension, such as the _Product ID_ instead of the _Product Name_. To do so, navigate to **Insert -> Manage Measures -> Settings -> Row ID mapping   -> Manage**.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Manage Row ID Mapping</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Manage Row ID Mapping</p></figcaption></figure>
 
 The image below shows the default row dimension ID mapping.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Default row ID mapping</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Default row ID mapping</p></figcaption></figure>
 
 Let us map the 'Product Name' to the constant dimension, 'Product ID' as shown below. Click **Apply**.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>row dimesion ID mapped manually</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>row dimesion ID mapped manually</p></figcaption></figure>
 
 Note that changing the mapping removes all the initial formatting and visual elements associated with it.
 

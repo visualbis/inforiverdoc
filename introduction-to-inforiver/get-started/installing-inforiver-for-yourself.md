@@ -30,6 +30,6 @@ This section outlines the steps involved in installing the Inforiver visual for 
 
 9. The visual gets pinned.
 
-<figure><img src="../../.gitbook/assets/image (7) (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the next section, we'll look at how an admin can install Inforiver for the organization.

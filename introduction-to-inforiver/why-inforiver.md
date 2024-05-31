@@ -13,7 +13,7 @@ Inforiver for Power BI helps you retire legacy tools and deliver all analytics n
 * Avoid spending on add-ons for PowerPoint reports such as ThinkCell and Mekko Graphics
 * Eliminate Excel-based worksheets used for maintaining forecasts, budgets, master data, pivot reports, and more
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. End-to-end Security and Governance
 
@@ -23,7 +23,7 @@ Inforiver visuals are [certified](https://learn.microsoft.com/en-us/power-bi/dev
 2. Inforiver-level security - e.g., administrators can decide whether Inforiver users can write to Snowflake
 3. Report-level security - e.g., report creators can authorize specific users to perform specific actions in the report, such as who can comment, enter data, create scenarios, etc.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Built for business users with no coding experience
 
@@ -37,7 +37,7 @@ You can create the following without writing a single line of code:
 * Data writeback&#x20;
 * ... and more
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Get features 'highly voted' by industry peers
 
@@ -45,7 +45,7 @@ Inforiver delivers a variety of features that have repeatedly been [requested in
 
 In essence, these features are not available in Power BI today. While some can be implemented using workarounds, many of these are simply not achievable even with DAX and PowerQuery scripting.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Deliver functionality missing in Power BI
 
@@ -58,7 +58,7 @@ Using Inforiver, you can implement key features available in other BI tools but 
 5. Lasso and reverse lasso selections like Qlik and Tableau​
 6. Small-multiple tables with Excel-like formatting ​
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 6. The best no-code writeback in the industry
 
@@ -70,13 +70,13 @@ Inforiver offers the best solution for writeback across all BI platforms (and no
 * Create scenarios and snapshots
 * ... and more
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **7. Best practices and standards**
 
 Inforiver adopts a business-responsive design that can help users deliver [IBCS-compliant](https://inforiver.com/ibcs-reports-powerbi/) business, management, variance, and performance reports in a single click. Inforiver offers a wide variety of [charts](https://inforiver.com/ibcs-reports-powerbi/ibcs-charts-powerbi/) and [table](https://inforiver.com/ibcs-reports-powerbi/ibcs-tables-powerbi/) templates, advanced[ small multiples](https://inforiver.com/advanced-small-multiples-powerbi/), data-level comments, top N + others, pixel-perfect Export to PDF, and many more.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 8. One-stop shop for all your needs
 
@@ -89,6 +89,6 @@ Procure visuals from one provider for all your requirements, ensuring standardiz
 * Project management / Gantt visual (xViz)
 * Performance flow for creating trees, process & network diagrams (xViz)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (9).png" alt=""><figcaption></figcaption></figure>
 
 In the next section, we'll be looking at how to [get started with Inforiver](get-started/).

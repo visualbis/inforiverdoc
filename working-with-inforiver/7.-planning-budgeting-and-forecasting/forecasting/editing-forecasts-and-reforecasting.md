@@ -32,7 +32,7 @@ Notice how the Closed Period Range has been updated.
 
 The January forecast has been re-opened.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Reset closed forecast</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption><p>Reset closed forecast</p></figcaption></figure>
 
 ## 2. Re-forecasting
 

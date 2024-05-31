@@ -78,7 +78,7 @@ c) To show a measure, check the corresponding checkbox.
 
 You can select the measure header and click on the hide icon if you do not want to display headers in your reports. Repeat the procedure to display a hidden measure/category header again.
 
-<figure><img src="../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Hiding measure headers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled Project (1).gif" alt=""><figcaption><p>Hiding measure headers</p></figcaption></figure>
 
 ## 6. Displaying hidden/skipped rows
 
