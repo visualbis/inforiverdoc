@@ -34,7 +34,7 @@ If you select this option, a visual measure gets inserted as shown below. There 
 * **Distribute parent value to children**: The values entered at a parent level are distributed to the child rows [when enabled](insert-manual-input-columns.md#ii-distribute-parent-value-to-children). This is very useful when creating budgets or forecasts.&#x20;
 * **Minimum Value**: You can optionally [specify the minimum threshold value](insert-manual-input-columns.md#iii-min-and-max-range) for the leaf-level cells, which can be a static number or value from the selected measure. When set, Inforiver ensures that both user input and the allocations to these cells are always more than this value.
 * **Maximum Value**: You can optionally [specify the maximum threshold value](insert-manual-input-columns.md#iii-min-and-max-range) for the leaf-level cells, which can be a static number or value from the selected measure. When set, Inforiver ensures that both user input and the allocations to these cells are always less than this value.
-* **Default Value**: Choose to set default values for empty measures with values from any of the available measures. Only measures with the relevant year are updated, while others remain empty.
+* **Default Value**: Instead of displaying empty cells, you can choose to set a default value from any native or formula measure. If the native measure is updated or the formula is changed, the default value will reflect the latest value.
 * **Allow input**: By default, inputs are enabled in both read and edit modes. But, based on your requirement, you can [allow inputs](../insert-manual-input-columns.md#b-allow-input) only in edit mode or based on a formula.&#x20;
 * **Description**: Option to add a note for reference.
 
@@ -50,7 +50,7 @@ To learn to enter a value in an empty numeric column in the [Enter a value](inse
 
 ### ii) Copy from another series
 
-If you select this option, you will see a sub-option with all the measures/forecasts present in the report. You can select any series to create a numeric column with all the data copied from the chosen series.
+If you select this option, you will see a sub-option with all the measures/forecasts present in the report. You can select any series to create a numeric column with all the data copied from the chosen series. The values from the measure chosen as the source will serve as initial values only. If there are changes to the source measure, these changes will not be reflected in the data input field.
 
 <figure><img src="../../../.gitbook/assets/image (619).png" alt=""><figcaption><p>Copy from another series</p></figcaption></figure>
 
@@ -212,7 +212,7 @@ Values within the defined range are captured as shown in the below image.
 
 There might be cases where you want to create a budget for the current year based on the prior year's budget and then make finer adjustments. In such cases, Inforiver provides the 'Copy as data input' option.
 
-Click on the column gripper corresponding to the measure you want to use as the base. Select 'Copy as data input' from the 'Insert' option. &#x20;
+Click on the column gripper corresponding to the measure you want to use as the base. Select 'Copy as data input' from the 'Insert' option. You need to be mindful that the values from the measure chosen as the source will serve as initial values. If there are changes in the source measure, these changes will not be reflected in the data input field.
 
 <figure><img src="../../../.gitbook/assets/4.4.29 Number.png" alt=""><figcaption><p>Copy as data input</p></figcaption></figure>
 
