@@ -284,6 +284,7 @@
     * [RELATIVE\_COLUMN](formula-syntax/identifiers/relative\_column.md)
     * [ROW.PARENT](formula-syntax/identifiers/row.parent.md)
     * [ROW.LABEL](formula-syntax/identifiers/row.label.md)
+    * [COLUMN.PARENT](formula-syntax/identifiers/column.parent.md)
   * [Scripting functions](formula-syntax/scripting-functions/README.md)
     * [DISPLAYTOAST](formula-syntax/scripting-functions/displaytoast.md)
     * [EXPORT](formula-syntax/scripting-functions/export.md)

@@ -77,3 +77,15 @@ Note that changing the mapping removes all the initial formatting and visual ele
 Any formatting, notes, comments, and data inputs added after mapping with the constant dimension ID are retained as shown below, including during the writeback.
 
 <figure><img src="../../.gitbook/assets/row-dimension-id-mapping.png" alt=""><figcaption><p>After manually mapping row ID dimensions</p></figcaption></figure>
+
+**Updates due to skipped row ID dimensions reflected in writeback data**
+
+After mapping the row IDs to a constant dimension, not only the visual formatting, data changes, notes, comments, etc., are retained in the report but also captured in the writeback data promptly.
+
+The report below shows the default mapping, followed by the results of the writeback data.
+
+<figure><img src="../../.gitbook/assets/1.5.1..png" alt=""><figcaption><p>Writeback data before the change</p></figcaption></figure>
+
+After manually mapping the row dimension to a constant ID like the Product ID, any changes made in the report are also effectively captured in the writeback. In the image below, you can see the updated records in the report that are also reflected in the writeback data.
+
+<figure><img src="../../.gitbook/assets/1.5.2. rowID-2.png" alt=""><figcaption><p>Writeback data after row ID mapping and data changes</p></figcaption></figure>

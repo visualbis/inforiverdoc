@@ -29,20 +29,21 @@ Now, for the desired _**revenue**_ to be achieved through Goal Seek, we will cho
 <figure><img src="../../.gitbook/assets/image (574).png" alt=""><figcaption><p>Click 'Goal Seek'</p></figcaption></figure>
 
 {% hint style="info" %}
-Goal Seek option gets enabled only when you click on a cell that has a formula or aggregation like sum, product, etc.
+The goal seek option gets enabled only when you click on a cell containing a formula or aggregation like sum, product, etc.
 {% endhint %}
 
 4. In the pop-up window, enter the desired goal value of 400m.
 
-<figure><img src="../../.gitbook/assets/image (575).png" alt=""><figcaption><p>Enter the goal value for revenue</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption><p>Enter the goal value for revenue</p></figcaption></figure>
 
-5. Verify the target cell and its underlying formula. Then choose which of its drivers need to changed from the drop-down as shown below. We will choose _Units Sold_ since we want to adjust the quantity sold to reach the desired revenue_._&#x20;
+5. Verify the target cell and its underlying formula. Then choose which of its drivers needs to be changed from the drop-down as shown below. We will choose _Units Sold_ since we want to adjust the quantity sold to reach the desired revenue_._&#x20;
 
-<figure><img src="../../.gitbook/assets/image (576).png" alt=""><figcaption><p>Select the driver to be changed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (722).png" alt=""><figcaption><p>Select the driver to be changed</p></figcaption></figure>
 
-6. Click **Run**. You can check the preview of the results and click **Apply.**
+6. You can either apply the changes to all input rows and columns or [choose which rows and column measures should be changed](goal-seek.md#applying-goal-seek-results-to-specific-rows-and-columns) to meet the desired goal value. Let us first apply changes to all the input rows and columns.
+7. Click **Run** and then **Apply** to make the changes.
 
-<figure><img src="../../.gitbook/assets/image (577).png" alt=""><figcaption><p>Click 'Apply'</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (724).png" alt=""><figcaption><p>Apply Goal Seek</p></figcaption></figure>
 
 A new set of values is updated for the _Units Sold_ to meet the specified revenue. The new values of both measures - the units sold and the revenue are distributed to the child rows automatically.
 
@@ -52,6 +53,28 @@ If you expand the column hierarchy, you can see that Inforiver also distributes 
 
 <figure><img src="../../.gitbook/assets/image (579).png" alt=""><figcaption><p>Period-wise Distribution of the results of Goal Seek</p></figcaption></figure>
 
-Goal Seek can also be applied to measures in rows.
+**Note:** Goal Seek can also be applied to measures in rows.
 
 <figure><img src="../../.gitbook/assets/image (582).png" alt=""><figcaption><p>Goal Seek applied on measures in rows</p></figcaption></figure>
+
+### Applying Goal Seek Results to Specific Rows and Columns
+
+Assume you want to meet the goal value by modifying the values of specific products or business units during a particular time of the year. In such cases, you can choose which input rows and columns should be changed to achieve the desired result.
+
+In the example below, we set the same desired revenue of 400 million for the _Canada_ region. However, this time we intend to achieve this goal by increasing the sales of only the following products - _Amarilla_, _Carretera_, and _Montana_. We also want to change these values for the third and fourth quarters, excluding the rest.
+
+This can be done by selecting the above-specified rows and columns as below.
+
+<figure><img src="../../.gitbook/assets/4.1.1. filtering in goal seek.png" alt=""><figcaption><p>Applying Goal Seek to selected rows and columns</p></figcaption></figure>
+
+In the result below, only the selected rows and columns have been modified to meet the goal.
+
+<figure><img src="../../.gitbook/assets/4.1.2. filtering in goal seek-2.png" alt=""><figcaption><p>Results of Goal Seek</p></figcaption></figure>
+
+
+
+**Note:** The goal seek function can also be used on formula cells referencing a column in their formulas - such as COLUMN.PARENT, COLUMN.TOTAL, etc.
+
+In the example below, goal-seek is applied on the target cell which uses a formula with a column referencing function, [COLUMN.PARENT](../../formula-syntax/identifiers/column.parent.md).&#x20;
+
+<figure><img src="../../.gitbook/assets/4.2.2..png" alt=""><figcaption><p>Goal Seek is applied on a target cell referencing a column</p></figcaption></figure>
