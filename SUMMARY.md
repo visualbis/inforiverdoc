@@ -171,6 +171,7 @@
     * [General](admin-console/settings/general.md)
     * [Generate builds - on prem](admin-console/settings/generate-builds-on-prem.md)
     * [Holidays](admin-console/settings/holidays.md)
+    * [API token](admin-console/settings/api-token.md)
     * [Writeback](admin-console/settings/writeback.md)
     * [Managed DB](admin-console/settings/managed-db.md)
     * [Assets](admin-console/settings/assets.md)
