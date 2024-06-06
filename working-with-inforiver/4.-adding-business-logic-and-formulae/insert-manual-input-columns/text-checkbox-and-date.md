@@ -72,38 +72,64 @@ Click on any of the cells to check the checkbox.
 
 ## 3. Date
 
-a) Date columns or measures can be inserted by clicking on 'Checkbox' in the 'Data input' dropdown.&#x20;
+Date columns or measures can be inserted by clicking on 'Date' in the 'Data input' dropdown. You can insert an empty column or copy the dates from the rows in the report.
 
-<figure><img src="../../../.gitbook/assets/4.4.3.11 Date.png" alt=""><figcaption><p>Data input column - Date</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (727).png" alt=""><figcaption><p>Data input column - Date</p></figcaption></figure>
 
-b) The date column side panel is shown in the below image.&#x20;
+### i) Create an empty series&#x20;
 
-You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown/#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
+When you select this option, an empty date column is created and the side panel opens as shown in the image.
 
-<figure><img src="../../../.gitbook/assets/4.4.3.12 Date (1).png" alt=""><figcaption><p>Date column type properties</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (728).png" alt=""><figcaption><p>Date column type properties</p></figcaption></figure>
 
-c) The date format can be changed by clicking on the 'Format' dropdown. Choose the desired format.
+You can choose to [insert it as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown/#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
 
-<figure><img src="../../../.gitbook/assets/4.4.3.13 Date.png" alt=""><figcaption><p>Date format</p></figcaption></figure>
+You can also configure other optional fields as below:
 
-d) You can also define minimum and maximum date ranges for the date input. Click on the calendar icon and choose a date.
+The date format can be changed by clicking the 'Format' dropdown. Choose the desired format.
 
-<figure><img src="../../../.gitbook/assets/4.4.3.14 Date.png" alt=""><figcaption><p>Minimum and maximum date ranges</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (729).png" alt=""><figcaption><p>Date format</p></figcaption></figure>
 
-e) After selecting the date ranges (these are optional fields), click 'Create'.
+You can define the minimum and maximum date ranges for the date input. You can enter both dates to specify a range or select only the minimum or the maximum date. Click on the calendar icon and choose a date.&#x20;
 
-<figure><img src="../../../.gitbook/assets/4.4.3.15 Date.png" alt=""><figcaption><p>Minimum and maximum date ranges</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (730).png" alt=""><figcaption><p>Minimum and maximum date ranges</p></figcaption></figure>
 
-f) The date column gets inserted. To enter data, double-click on a cell. Select a date from the calendar/date picker.&#x20;
+After selecting the date ranges, click 'Create'.&#x20;
 
-<figure><img src="../../../.gitbook/assets/4.4.3.16 Date.png" alt=""><figcaption><p>Choosing a date as input</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (731).png" alt=""><figcaption><p>Create date column</p></figcaption></figure>
 
-g) The date gets captured in the chosen format.
+The date column gets inserted. To enter data, double-click on a cell. Select a date from the calendar/date picker.&#x20;
 
-<figure><img src="../../../.gitbook/assets/4.4.3.17 Date.png" alt=""><figcaption><p>Date gets captured</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (732).png" alt=""><figcaption><p>Choosing a date as input</p></figcaption></figure>
 
-h) A date can also be entered in the fields directly instead of navigating using the calendar.
+The date gets captured in the chosen format.
 
-<figure><img src="../../../.gitbook/assets/4.4.3.18 Date.png" alt=""><figcaption><p>Entering a date</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (733).png" alt=""><figcaption><p>Date gets captured</p></figcaption></figure>
 
-In the next section, we'll be covering the [data input features available only in Inforiver Enterprise](enterprise-features.md).
+### ii) Copy from rows
+
+If your report has a list of calendar dates in the row dimension, and you want to replicate the same dates in an input column, you can use the **‘copy from rows’** option, instead of manually entering it for each record.
+
+<figure><img src="../../../.gitbook/assets/image (736).png" alt=""><figcaption><p>Copy from rows </p></figcaption></figure>
+
+Inforiver automatically detects the date format which can be verified from the pop-up that opens.
+
+<figure><img src="../../../.gitbook/assets/image (737).png" alt=""><figcaption><p>Automatic date format detection </p></figcaption></figure>
+
+In rare cases when the format mapping is not as expected, you can map them manually and click **Submit.** The date column is inserted as shown, following the dates in the rows. By default, the first of January is considered the fiscal year's start.
+
+<figure><img src="../../../.gitbook/assets/image (738).png" alt=""><figcaption><p>Date column inserted</p></figcaption></figure>
+
+You also have the option to select the start of the fiscal year while copying the dates. Click 'Change fiscal year start' to choose.
+
+<figure><img src="../../../.gitbook/assets/image (739).png" alt=""><figcaption><p>Change fiscal year start</p></figcaption></figure>
+
+In the below example, the fiscal year start is set to April 5th. Click **Submit** to insert.
+
+<figure><img src="../../../.gitbook/assets/image (740).png" alt=""><figcaption><p>Fiscal year starting date is changed</p></figcaption></figure>
+
+The date column is inserted with the specified fiscal month and date.
+
+<figure><img src="../../../.gitbook/assets/image (741).png" alt=""><figcaption><p>Date column inserted</p></figcaption></figure>
+
+In the next section, we'll cover the [data input features available only in Inforiver Enterprise](enterprise-features.md).
