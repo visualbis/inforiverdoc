@@ -52,29 +52,27 @@ e) By clicking on the arrow highlighted, you can expand/collapse the task status
 
 ## 3. Filter/view all tasks
 
-a) To view all the tasks, click on the 'Comments' dropdown and 'View all comments'.
+a) To view all the tasks, click the 'Comments' dropdown and 'View All Comments'.
 
-<figure><img src="../../../.gitbook/assets/8.2.28 assign tasks.png" alt=""><figcaption><p>View all comments</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (517).png" alt=""><figcaption><p>View all comments</p></figcaption></figure>
 
-b) From the dropdown highlighted, select 'Open' or 'Resolved'.
+b) You can choose 'Resolved' to view all resolved threads, 'My threads' to view threads started by you, or 'All' to view all threads.
 
-<figure><img src="../../../.gitbook/assets/8.2.29 assign tasks.png" alt=""><figcaption><p>Viewing open/resolved tasks</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (518).png" alt=""><figcaption><p>Viewing open/resolved tasks</p></figcaption></figure>
 
-c) On selecting Open/Resolved, the relevant tasks are shown.&#x20;
+c) On selecting 'Resolved', the resolved tasks are shown.&#x20;
 
-<figure><img src="../../../.gitbook/assets/8.2.33 assign tasks.png" alt=""><figcaption><p>Resolved tasks</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (519).png" alt=""><figcaption><p>Resolved tasks</p></figcaption></figure>
 
-d) You can also filter by users using the 'Assigned to' dropdown. Select any user and click 'Apply'.
+d) You can also filter tasks by users using the 'Assigned to’ and 'Assigned By' filters. Click on the filter, and select the name(s) you require from the dropdown to filter the tasks based on the assignee or the assigner. Click **Apply**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/8.2.34 assign tasks.png" alt=""><figcaption><p>Filtering based on user</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Filter based on the assigned users</p></figcaption></figure>
 
-e) The relevant tasks get filtered.
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Filter based on who assigned the tasksT</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/8.2.35 assign tasks.png" alt=""><figcaption><p>Tasks get filtered</p></figcaption></figure>
+e) Users who only consume the report in the reading view and do not have edit access can also see their assigned tasks. In the **Writeback** tab, click on **My Tasks**. A side panel opens showing the list of tasks assigned to you.
 
-f) Users who only consume the report in reading view and do not have edit rights are also able to see the tasks assigned to them. In the 'Writeback' tab, click on 'My tasks'. A side panel opens showing the list of tasks assigned to you.
-
-<figure><img src="../../../.gitbook/assets/8.2.27 assign tasks.png" alt=""><figcaption><p>View your tasks in reading view</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>View your tasks in reading view</p></figcaption></figure>
 
 
 

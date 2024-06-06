@@ -62,11 +62,11 @@ While you can use the [SUM](../../../formula-syntax/math-functions/sum.md) and [
 
 Select the desired rows first holding down the Ctrl key and then select **Insert Sum of rows.**
 
-<figure><img src="../../../.gitbook/assets/image (517).png" alt=""><figcaption><p>Choose <strong>Insert Sum of rows</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (517) (1).png" alt=""><figcaption><p>Choose <strong>Insert Sum of rows</strong></p></figcaption></figure>
 
 A new row containing the sum of the selected rows is created as shown below. You can use the side panel to make any additional changes. Observe how the formula editor has been automatically populated with the selected rows.
 
-<figure><img src="../../../.gitbook/assets/image (518).png" alt=""><figcaption><p>New Calculated Row - Sum</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (518) (1).png" alt=""><figcaption><p>New Calculated Row - Sum</p></figcaption></figure>
 
 Similarly, for calculating and inserting the average of rows, use **Insert Avg of rows.**
 

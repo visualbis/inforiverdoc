@@ -20,33 +20,33 @@ Let's look at examples for each of these options.
 
 * **Font style: bold, italic, underline**
 
-Set the font style based on conditional formatting rules. Notice how we've applied Bold, Italics, and Underlined the values that satisfy the condition. Click on the <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">icon to apply a color for the underline.
+Set the font style based on conditional formatting rules. Notice how we've applied Bold, Italics, and Underlined the values that satisfy the condition. Click on the <img src="../../.gitbook/assets/image (1) (10).png" alt="" data-size="line">icon to apply a color for the underline.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Font style</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (9).png" alt=""><figcaption><p>Font style</p></figcaption></figure>
 
 * **Cell background**
 
 Highlight the cells that match a conditional formatting rule by applying a background color.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Cell background</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (9).png" alt=""><figcaption><p>Cell background</p></figcaption></figure>
 
 * **Font color**
 
 Apply a custom font color when a conditional formatting rule is met.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Font color</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (7).png" alt=""><figcaption><p>Font color</p></figcaption></figure>
 
 * **Cell borders**
 
-Highlight cells that satisfy the conditional formatting rule by setting a custom border. You can choose the border color by clicking the<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> icon.
+Highlight cells that satisfy the conditional formatting rule by setting a custom border. You can choose the border color by clicking the<img src="../../.gitbook/assets/image (5) (9).png" alt="" data-size="line"> icon.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Applying borders</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (10).png" alt=""><figcaption><p>Applying borders</p></figcaption></figure>
 
 * **Adding icons or text**
 
 Display icons to apply conditional formatting on your data. You can also use custom icons by clicking the Upload Icon link.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Applying icons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (10).png" alt=""><figcaption><p>Applying icons</p></figcaption></figure>
 
 You can position the text/icons with respect to the cell values. You can also choose to display only the icons or text and hide the cell values.
 
@@ -56,7 +56,7 @@ You can position the text/icons with respect to the cell values. You can also ch
 
 Business reporting may require withholding certain information to protect strategic interests. You can use conditional formatting rules to mask values based on specific criteria.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Hiding values</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (9).png" alt=""><figcaption><p>Hiding values</p></figcaption></figure>
 
 ## Conditions
 

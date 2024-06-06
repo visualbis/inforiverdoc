@@ -34,16 +34,16 @@ The goal seek option gets enabled only when you click on a cell containing a for
 
 4. In the pop-up window, enter the desired goal value of 400m.
 
-<figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption><p>Enter the goal value for revenue</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (719).png" alt=""><figcaption><p>Enter the goal value for revenue</p></figcaption></figure>
 
 5. Verify the target cell and its underlying formula. Then choose which of its drivers needs to be changed from the drop-down as shown below. We will choose _Units Sold_ since we want to adjust the quantity sold to reach the desired revenue_._&#x20;
 
-<figure><img src="../../.gitbook/assets/image (722).png" alt=""><figcaption><p>Select the driver to be changed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption><p>Select the driver to be changed</p></figcaption></figure>
 
 6. You can either apply the changes to all input rows and columns or [choose which rows and column measures should be changed](goal-seek.md#applying-goal-seek-results-to-specific-rows-and-columns) to meet the desired goal value. Let us first apply changes to all the input rows and columns.
 7. Click **Run** and then **Apply** to make the changes.
 
-<figure><img src="../../.gitbook/assets/image (724).png" alt=""><figcaption><p>Apply Goal Seek</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (723).png" alt=""><figcaption><p>Apply Goal Seek</p></figcaption></figure>
 
 A new set of values is updated for the _Units Sold_ to meet the specified revenue. The new values of both measures - the units sold and the revenue are distributed to the child rows automatically.
 

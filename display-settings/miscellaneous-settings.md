@@ -90,7 +90,7 @@ Reports with RTL support improve the user experience for readers of RTL language
 * The row categories are displayed on the right-hand side.
 * Toolbar options are arranged from right to left.
 
-<figure><img src="../.gitbook/assets/image (719).png" alt=""><figcaption><p>Right to left layout</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (719) (1).png" alt=""><figcaption><p>Right to left layout</p></figcaption></figure>
 
 ### 2. Status bar
 

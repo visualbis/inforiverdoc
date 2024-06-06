@@ -194,7 +194,7 @@ You can do this while creating a pin chart, or add them after creating a pin cha
 
 1. Select the measure and then select the 'Pin Chart' drop-down menu to add any of the pin chart options available. You can also select the measure that already has one.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (519).png" alt=""><figcaption><p>Click on <strong>Pin Charts</strong> drop-down menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (519) (1).png" alt=""><figcaption><p>Click on <strong>Pin Charts</strong> drop-down menu</p></figcaption></figure>
 
 2. In the customization menu, click on the **Outliers** option.
 
