@@ -168,11 +168,25 @@ The 'Show search' option is available only if the 'Toolbar' option is set to 'Of
 
 <figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Show search icon option</p></figcaption></figure>
 
-#### 13. View All Notes
+#### 13. Visual Zoom
 
-Report users can view all the notes added to a report in a single, consolidated window. The _View All Notes_ option in the Allowed user controls setting displays the notes side pane by default in reading view.
+Enabling this option displays the zoom icon in the Reading view, allowing users to zoom in and out of the report for visibility.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visual Zoom</p></figcaption></figure>
+
+#### 14. View All Notes
+
+Report users can view all the notes added to a report in a single, consolidated window. The _View All Notes_ option in the Allowed user controls setting displays the notes side pane by default in the reading view.
 
 <figure><img src="../../../.gitbook/assets/3.2. View all notes in reading view.png" alt=""><figcaption><p>View all notes option</p></figcaption></figure>
+
+You can change the order of the tabs (Home, Insert, Design, Export, Forecast, etc.) in the Reading view. This applies only to the "Full" and "Minimal with Tabs" views because, in other view types, the tabs are not visible. To rearrange the tabs, click the six-dot icon beside the tab you wish to move.
+
+<figure><img src="../../../.gitbook/assets/6.1.1. swap tabs.png" alt=""><figcaption><p>Re-arrange the tabs in Reading view</p></figcaption></figure>
+
+With the above configuration, the Reading view looks as shown below:
+
+<figure><img src="../../../.gitbook/assets/6.1.2. swap tabs - Reading view.png" alt=""><figcaption><p>Reading view with swapped tabs</p></figcaption></figure>
 
 ## 7. Quick access
 

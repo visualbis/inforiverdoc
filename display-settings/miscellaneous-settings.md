@@ -82,7 +82,13 @@ You can enable the _**Hide pinned base rows**_ option to hide the actual row and
 
 <figure><img src="../.gitbook/assets/2.2.1. hide pinned rows output.png" alt=""><figcaption><p>Hide pinned base rows enabled</p></figcaption></figure>
 
-#### 1.13 Right to left
+#### 1.13. Language
+
+Inforiver supports English (the default language) and German language interfaces. You can choose one of the options. In the image below, **German** is selected to change all the menus, tabs, and options to the German language.
+
+<figure><img src="../.gitbook/assets/5.1. German language-final.png" alt=""><figcaption><p>German language interface</p></figcaption></figure>
+
+#### 1.14. Right to left
 
 Reports with RTL support improve the user experience for readers of RTL languages, making it easier for them to navigate, understand, and interpret the information presented. When the right-to-left option is enabled:
 

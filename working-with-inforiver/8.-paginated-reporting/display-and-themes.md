@@ -60,14 +60,16 @@ Canvas dark theme can be applied as shown in the below image by clicking on the 
 
 <figure><img src="../../.gitbook/assets/8.7.12 Display.png" alt=""><figcaption><p>Canvas option</p></figcaption></figure>
 
-### iii) Style
+### iii) Column Style
 
-By default, Inforiver uses a light canvas and black font. But these can be customized using the 'Style' option.&#x20;
+By default, Inforiver uses a light canvas, black font, and alternate row highlighting, without fill colors and borders. But all these can be customized using the 'Column Style' option for both Reading and Editing views.&#x20;
 
-<figure><img src="../../.gitbook/assets/8.7.13 Display.png" alt=""><figcaption><p>Style options</p></figcaption></figure>
+You can choose different cell and text formatting options for the locked cells, data input columns, native measures, and forecast columns - open and closed periods. This enables viewers to identify and differentiate them quickly.
 
-The text and header text colors have been updated in the below image.
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Column Style</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/8.7.14 Display.png" alt=""><figcaption><p>Text and header text color</p></figcaption></figure>
+The cell and text have been formatted in the below image. Note the different styles applied for native columns, data input columns, and open and closed periods.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Column style options applied</p></figcaption></figure>
 
 In the next section, we'll be covering [commenting & collaboration](../8.-commenting-and-collaboration/).

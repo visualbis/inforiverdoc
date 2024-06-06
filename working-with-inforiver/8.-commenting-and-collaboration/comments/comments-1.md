@@ -66,13 +66,13 @@ c) On selecting 'Resolved', the resolved tasks are shown.&#x20;
 
 d) You can also filter tasks by users using the 'Assigned to’ and 'Assigned By' filters. Click on the filter, and select the name(s) you require from the dropdown to filter the tasks based on the assignee or the assigner. Click **Apply**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Filter based on the assigned users</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filter based on the assigned users</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Filter based on who assigned the tasksT</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (11).png" alt=""><figcaption><p>Filter based on who assigned the tasksT</p></figcaption></figure>
 
 e) Users who only consume the report in the reading view and do not have edit access can also see their assigned tasks. In the **Writeback** tab, click on **My Tasks**. A side panel opens showing the list of tasks assigned to you.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>View your tasks in reading view</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (10).png" alt=""><figcaption><p>View your tasks in reading view</p></figcaption></figure>
 
 
 
