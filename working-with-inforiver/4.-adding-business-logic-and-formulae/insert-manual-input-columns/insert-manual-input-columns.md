@@ -30,11 +30,11 @@ If you select this option, a visual measure gets inserted as shown below. There 
 
 * **Insert as**: A [column or measure](../insert-manual-input-columns.md#a-insert-as) can be inserted. If there is a column hierarchy, the input column is inserted for each category. In case of no column hierarchy, a single column is inserted.
 * **Input type**: The type of [data input column](../insert-manual-input-columns.md); can be changed from the initial selection before creating the column by clicking on 'Create'.&#x20;
-* **Row aggregation type**: By default, totals, and subtotals are defined as the sum of child rows. There are several other options such as average, minimum, maximum, etc. that are explained in detail [here](../../manage-aggregations/).
+* **Row aggregation type**: By default, totals, and subtotals are defined as the sum of child rows as shown [here](insert-manual-input-columns.md#i-row-aggregation-type). There are several other options such as average, minimum, maximum, etc. that are explained in detail [here](../../manage-aggregations/).
 * **Distribute parent value to children**: The values entered at a parent level are distributed to the child rows [when enabled](insert-manual-input-columns.md#ii-distribute-parent-value-to-children). This is very useful when creating budgets or forecasts.&#x20;
 * **Minimum Value**: You can optionally [specify the minimum threshold value](insert-manual-input-columns.md#iii-min-and-max-range) for the leaf-level cells, which can be a static number or value from the selected measure. When set, Inforiver ensures that both user input and the allocations to these cells are always more than this value.
 * **Maximum Value**: You can optionally [specify the maximum threshold value](insert-manual-input-columns.md#iii-min-and-max-range) for the leaf-level cells, which can be a static number or value from the selected measure. When set, Inforiver ensures that both user input and the allocations to these cells are always less than this value.
-* **Default Value**: Instead of displaying empty cells, you can choose to set a default value from any native or formula measure. If the native measure is updated or the formula is changed, the default value will reflect the latest value.
+* **Default Value**: In cells where the user has not entered any value, instead of displaying empty cells you can choose to display a default value. The default value can be selected from any native or formula measure as explained [here](insert-manual-input-columns.md#iv-default-value). If the underlying native or formula measure is updated, the default value will reflect the latest value.
 * **Allow input**: By default, inputs are enabled in both read and edit modes. But, based on your requirement, you can [allow inputs](../insert-manual-input-columns.md#b-allow-input) only in edit mode or based on a formula.&#x20;
 * **Description**: Option to add a note for reference.
 
@@ -207,6 +207,12 @@ You can see an error message that shows the allowed range for this particular ce
 Values within the defined range are captured as shown in the below image.
 
 <figure><img src="../../../.gitbook/assets/4.4.28 number.png" alt=""><figcaption><p>Value within range captured</p></figcaption></figure>
+
+### iv) Default Value
+
+When you create an empty series or column, the user has to enter the values manually. Instead of having those cells blank, you can display a default value. The default value can be selected from any native or formula measure as shown in the image below. If the underlying native or formula measure is updated, the default value will reflect the latest value.
+
+<figure><img src="../../../.gitbook/assets/image (757).png" alt=""><figcaption><p>Default Value</p></figcaption></figure>
 
 ## 4. Copy as data input
 

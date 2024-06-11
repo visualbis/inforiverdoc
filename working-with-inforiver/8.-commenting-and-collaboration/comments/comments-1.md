@@ -54,15 +54,15 @@ e) By clicking on the arrow highlighted, you can expand/collapse the task status
 
 a) To view all the tasks, click the 'Comments' dropdown and 'View All Comments'.
 
-<figure><img src="../../../.gitbook/assets/image (517).png" alt=""><figcaption><p>View all comments</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (517) (2).png" alt=""><figcaption><p>View all comments</p></figcaption></figure>
 
 b) You can choose 'Resolved' to view all resolved threads, 'My threads' to view threads started by you, or 'All' to view all threads.
 
-<figure><img src="../../../.gitbook/assets/image (518).png" alt=""><figcaption><p>Viewing open/resolved tasks</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (518) (2).png" alt=""><figcaption><p>Viewing open/resolved tasks</p></figcaption></figure>
 
 c) On selecting 'Resolved', the resolved tasks are shown.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (519).png" alt=""><figcaption><p>Resolved tasks</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (519) (2).png" alt=""><figcaption><p>Resolved tasks</p></figcaption></figure>
 
 d) You can also filter tasks by users using the 'Assigned to’ and 'Assigned By' filters. Click on the filter, and select the name(s) you require from the dropdown to filter the tasks based on the assignee or the assigner. Click **Apply**.&#x20;
 

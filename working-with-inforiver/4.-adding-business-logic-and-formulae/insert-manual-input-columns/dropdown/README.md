@@ -17,9 +17,9 @@ In this section, we'll cover single-select columns. The same steps can be follow
 If you are using Inforiver Enterprise, you need to [sign in](../../insert-manual-input-columns.md#1.-sign-in) to start inserting a dropdown column.
 {% endhint %}
 
-Click on the 'Select' option in the dropdown.
+Click on the 'Single Select' option in the dropdown.
 
-<figure><img src="../../../../.gitbook/assets/4.4.2.1 Select.png" alt=""><figcaption><p>Input type - Select</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Data Input type - Single Select</p></figcaption></figure>
 
 {% hint style="info" %}
 Some of the properties such as [Insert as Visual measure/column](../../insert-manual-input-columns.md#1.-insert-as) and [Allow input](../../insert-manual-input-columns.md#2.-allow-input) are covered in earlier sections.
@@ -27,21 +27,21 @@ Some of the properties such as [Insert as Visual measure/column](../../insert-ma
 
 ## 1. Creating a list of values
 
-There are two ways to create a list of values (LOVs) in Inforiver Reporting Matrix. The third option - Datasets - which is greyed out is available only in Inforiver Writeback Matrix and is covered in the [next section](lov-from-semantic-models.md).
+There are two ways to create a list of values (LOVs) in Inforiver Reporting Matrix. The third option - Semantic model - which is greyed out is available only in Inforiver Writeback Matrix and is covered in the [next section](lov-from-semantic-models.md).
 
-<figure><img src="../../../../.gitbook/assets/4.4.2.2 Select.png" alt=""><figcaption><p>Creating list of values</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (517).png" alt=""><figcaption><p>Creating a list of values</p></figcaption></figure>
 
-### a) New list
+### a) List
 
-On clicking a 'New list', three default options along with colors are displayed.
+On clicking 'List', three default options along with colors are displayed. You can rename the options as required and click **Create** to create a new list with three options.
 
-<figure><img src="../../../../.gitbook/assets/4.4.2.1 New list.png" alt=""><figcaption><p>New list created</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (518).png" alt=""><figcaption><p>New list created with three options</p></figcaption></figure>
 
 ### b) Presets&#x20;
 
-On clicking 'Presets', a pop-up screen opens. The list of values for each preset can be seen on hover. Select the required preset and Click 'Apply'.
+On clicking 'Presets', a pop-up screen opens. The list of values for each preset can be seen on hover. Select the required preset and Click **Apply.**&#x20;
 
-<figure><img src="../../../../.gitbook/assets/4.4.2.3(2) Select.png" alt=""><figcaption><p>Using a preset</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (519).png" alt=""><figcaption><p>Using a preset list of values</p></figcaption></figure>
 
 The list of values that gets created is shown below.
 
@@ -111,7 +111,19 @@ To reorder or delete options, use the highlighted icons.
 
 <figure><img src="../../../../.gitbook/assets/4.4.2.7 Edit options.png" alt=""><figcaption><p>Reordering or deleting options</p></figcaption></figure>
 
-## 3. Entry in total/subtotal rows
+#### Icon position
+
+This option allows you to hide or display the icon in the options to the left or right of data.
+
+<figure><img src="../../../../.gitbook/assets/image (755).png" alt=""><figcaption><p>Icon position in the options</p></figcaption></figure>
+
+## 3. Allow user to add new option
+
+Enabling this option allows users to [create new options dynamically](./#id-5.-dynamically-adding-missing-options) while using the dropdown, without the need to open the side panel for adding options.
+
+<figure><img src="../../../../.gitbook/assets/image (756).png" alt=""><figcaption><p>Allow user to add new option</p></figcaption></figure>
+
+## 4. Entry in total/subtotal rows
 
 By default, data can be entered in total/subtotal rows. To disable it, uncheck the checkbox highlighted in the below image.
 
@@ -121,13 +133,21 @@ On trying to select an option in the total/subtotal row, a message as shown in t
 
 <figure><img src="../../../../.gitbook/assets/4.4.2.8 Select.png" alt=""><figcaption><p>Entry disabled in total/subtotal rows</p></figcaption></figure>
 
-## 4. Using the dropdown
+## 5. Default Value
+
+After creating a dropdown column, the user has to enter the values manually as explained in the [next section](./#id-6.-using-the-dropdown). Instead of having these cells blank, you can display a default value. The default value can be a static value as configured by the user or can be selected from any native measure (Dimension). If the underlying native measure is updated, the default value will reflect the latest value.
+
+<figure><img src="../../../../.gitbook/assets/image (758).png" alt=""><figcaption><p>Default Value is a static value</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (759).png" alt=""><figcaption><p>Default Value is set from a dimension</p></figcaption></figure>
+
+## 6. Using the dropdown
 
 Once the necessary changes are made to the list of values, and other properties are configured, click 'Create' in the data input side panel. Click on a cell in the data input column to enable the dropdown and choose an option.
 
 <figure><img src="../../../../.gitbook/assets/4.4.2.5 Select.png" alt=""><figcaption><p>Selecting from the dropdown</p></figcaption></figure>
 
-## 5. Dynamically adding missing options
+## 7. Dynamically adding missing options
 
 Users can create a new option on the fly if a particular option is not available in LOV. In the example below, the available values are ‘Submitted’, ‘In Review’, and ‘Approved’.
 
