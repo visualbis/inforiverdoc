@@ -70,6 +70,6 @@ You can choose different cell and text formatting options for the locked cells, 
 
 The cell and text have been formatted in the below image. Note the different styles applied for native columns, data input columns, and open and closed periods.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Column style options applied</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Column style options applied</p></figcaption></figure>
 
 In the next section, we'll be covering [commenting & collaboration](../8.-commenting-and-collaboration/).

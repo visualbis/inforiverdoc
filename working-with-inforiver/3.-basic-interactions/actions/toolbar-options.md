@@ -172,7 +172,7 @@ The 'Show search' option is available only if the 'Toolbar' option is set to 'Of
 
 Enabling this option displays the zoom icon in the Reading view, allowing users to zoom in and out of the report for visibility.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visual Zoom</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (12).png" alt=""><figcaption><p>Visual Zoom</p></figcaption></figure>
 
 #### 14. View All Notes
 

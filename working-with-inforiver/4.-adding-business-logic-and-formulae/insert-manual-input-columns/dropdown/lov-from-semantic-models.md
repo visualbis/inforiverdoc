@@ -38,9 +38,19 @@ You can assign regions from the multi-select dropdown after completing the steps
 
 <figure><img src="../../../../.gitbook/assets/image (716).png" alt=""><figcaption><p>Multi-select dropdown sourced from the dataset</p></figcaption></figure>
 
-#### Applying filters on dropdown options
+#### Applying joins and filters on dropdown options
 
-There are many scenarios wherein the options in the dropdown need to change based on the row dimension category. For example, consider that we have regional data in our rows. We need to use a dropdown to assign a manager for each region. The person that we assign must also be tagged to that specific region i.e. the dropdown options for the Central region should only show the people under that region. We can use filters in such scenarios, let's see how.
+#### Joins
+
+The base data in our visual may be from one table, but the options in the dropdown can be from a different table. The join option comes in handy in these scenarios. If you need to join your base table with another table to source dropdown options, you need to be mindful that a common column connects the two tables. In this case, the Retail-Orders and Retail-People tables are connected by Region.
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Joining tables</p></figcaption></figure>
+
+#### Filters
+
+There are many scenarios wherein the options in the dropdown need to change based on the row dimension category. For example, consider that we have regional data in our rows. We need to use a dropdown to assign a manager for each region. The person that we assign must also be tagged to that specific region i.e. the dropdown options for the Central region should only show the people under that region. We can use filters in such scenarios.&#x20;
+
+Let's look at a scenario where we need to use joins and filters. Please note that the filter and join features can be used independently as well.
 
 **STEP 1:** Select the workspace, semantic model, and table as discussed in the earlier section.
 
@@ -54,10 +64,10 @@ The base table used to populate rows and columns in the report is Retail - Order
 
 <figure><img src="../../../../.gitbook/assets/image (717).png" alt=""><figcaption><p>Soucing options from the Person in the dataset</p></figcaption></figure>
 
-**STEP 4:** We need to filter the people based on the region they are assigned to. In the **Columns** dropdown**,** select the field based on which you need to filter the options. In this case, it is the Retail - People.Region which can be used to identify the people tagged to a region. Select the corresponding field from the visual from the **Visual Column** dropdown.
+**STEP 4:** We need to filter the people based on the region they are assigned to. In the **Columns** dropdown**,** select the field based on which you need to filter the options. In this case, it is the Retail - People.Region which can be used to identify the people tagged to a region. Select the matching field from the visual from the **Visual Column** dropdown.
 
 <figure><img src="../../../../.gitbook/assets/image (718).png" alt=""><figcaption><p>Setting a filter for dropdown options</p></figcaption></figure>
 
-The dropdown options for people data have now been fetched from the Retail - People table. Notice how all the people are displayed in the options for the grand total row. For each region, only the person assigned to that region is displayed in the dropdown.
+The dropdown options for people data have now been fetched from the Retail - People table. Notice how all the people are displayed in the options for the grand total row. For each region, only the person assigned to that region is shown in the dropdown.
 
-<figure><img src="../../../../.gitbook/assets/Untitled Project (2).gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>

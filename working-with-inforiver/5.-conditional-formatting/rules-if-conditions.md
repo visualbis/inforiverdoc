@@ -50,7 +50,7 @@ Display icons to apply conditional formatting on your data. You can also use cus
 
 You can position the text/icons with respect to the cell values. You can also choose to display only the icons or text and hide the cell values.
 
-<figure><img src="../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Using icons and text</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled Project (1).gif" alt=""><figcaption><p>Using icons and text</p></figcaption></figure>
 
 * **Hiding values**
 
