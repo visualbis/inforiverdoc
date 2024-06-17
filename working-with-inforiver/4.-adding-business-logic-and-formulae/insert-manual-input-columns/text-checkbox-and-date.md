@@ -112,13 +112,33 @@ If your report has a list of calendar dates in the row dimension, and you want t
 
 <figure><img src="../../../.gitbook/assets/image (736).png" alt=""><figcaption><p>Copy from rows </p></figcaption></figure>
 
-Inforiver automatically detects the date format which can be verified from the pop-up that opens.
+Inforiver automatically detects the date format which can be verified from the pop-up.
 
 <figure><img src="../../../.gitbook/assets/image (737).png" alt=""><figcaption><p>Automatic date format detection </p></figcaption></figure>
 
-In rare cases when the format mapping is not as expected, you can map them manually and click **Submit.** The date column is inserted as shown, following the dates in the rows. By default, the first of January is considered the fiscal year's start.
+In rare cases when the format mapping is not as expected, you can map them manually using the help suggestions and click **Submit.**&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (775).png" alt="" width="563"><figcaption><p>Suggestions for manual mapping</p></figcaption></figure>
+
+The date column is inserted as shown, which follows the dates in the rows. By default, the first of January is the fiscal year's start.
 
 <figure><img src="../../../.gitbook/assets/image (738).png" alt=""><figcaption><p>Date column inserted</p></figcaption></figure>
+
+
+
+**Note:** Inforiver accepts both hierarchical and non-hierarchical date formats. For example, the visual below has date formats such as half-years, quarters, and months assigned as individual fields instead of using a date hierarchy. Inforiver automatically maps them using the custom formats.
+
+<figure><img src="../../../.gitbook/assets/image (772).png" alt=""><figcaption><p>Mapping non-hierarchical date format</p></figcaption></figure>
+
+The inserted date column is shown below after setting the required fiscal year.
+
+<figure><img src="../../../.gitbook/assets/image (773).png" alt=""><figcaption><p>Date column inserted</p></figcaption></figure>
+
+Unconventional date formats are also accepted and automatically mapped.
+
+<figure><img src="../../../.gitbook/assets/image (774).png" alt=""><figcaption><p>Unconventional date formats mapped</p></figcaption></figure>
+
+#### Setting the start of the fiscal year
 
 You also have the option to select the start of the fiscal year while copying the dates. Click 'Change fiscal year start' to choose.
 
