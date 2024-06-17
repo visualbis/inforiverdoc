@@ -66,10 +66,10 @@ By default, Inforiver uses a light canvas, black font, and alternate row highlig
 
 You can choose different cell and text formatting options for the locked cells, data input columns, native measures, and forecast columns - open and closed periods. This enables viewers to identify and differentiate them quickly.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Column Style</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (11).png" alt=""><figcaption><p>Column Style</p></figcaption></figure>
 
 The cell and text have been formatted in the below image. Note the different styles applied for native columns, data input columns, and open and closed periods.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Column style options applied</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (12).png" alt=""><figcaption><p>Column style options applied</p></figcaption></figure>
 
 In the next section, we'll be covering [commenting & collaboration](../8.-commenting-and-collaboration/).

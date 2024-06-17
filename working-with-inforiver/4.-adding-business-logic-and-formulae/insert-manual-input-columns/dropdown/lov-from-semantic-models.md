@@ -2,6 +2,8 @@
 
 For the Single select and Multi-select columns, a list of values (LOV) can be created from your Power BI semantic models or other dimensions like Master Data reference fields. The options are dynamically updated as the source data changes.
 
+### 1. Creating a LOV from a semantic model
+
 Let's create a LOV from the dataset for a multi-select column. We'll create a multi-select field to assign a subregion.
 
 **STEP 1:** In the multi-select column side panel, click on Semantic model to open the **Add options from semantic model** dialog box.
@@ -38,13 +40,13 @@ You can assign regions from the multi-select dropdown after completing the steps
 
 <figure><img src="../../../../.gitbook/assets/image (716).png" alt=""><figcaption><p>Multi-select dropdown sourced from the dataset</p></figcaption></figure>
 
-#### Applying joins and filters on dropdown options
+### 2. Using joins and filters
 
 #### Joins
 
 The base data in our visual may be from one table, but the options in the dropdown can be from a different table. The join option comes in handy in these scenarios. If you need to join your base table with another table to source dropdown options, you need to be mindful that a common column connects the two tables. In this case, the Retail-Orders and Retail-People tables are connected by Region.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Joining tables</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Joining tables</p></figcaption></figure>
 
 #### Filters
 
@@ -71,3 +73,4 @@ The base table used to populate rows and columns in the report is Retail - Order
 The dropdown options for people data have now been fetched from the Retail - People table. Notice how all the people are displayed in the options for the grand total row. For each region, only the person assigned to that region is shown in the dropdown.
 
 <figure><img src="../../../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>
+

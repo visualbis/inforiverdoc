@@ -94,6 +94,7 @@
         * [Forecast using a Blank Template](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/common-scenarios/forecast-using-a-blank-template.md)
         * [Forecast using Existing Data](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/common-scenarios/forecast-using-existing-data.md)
         * [Adding Forecasts for Periods unavailable in the model](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/common-scenarios/adding-forecasts-for-periods-unavailable-in-the-model.md)
+        * [Creating daily and weekly forecasts](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/common-scenarios/creating-daily-and-weekly-forecasts.md)
     * [Set version](working-with-inforiver/4.-adding-business-logic-and-formulae/set-version.md)
   * [8. Paginated reporting](working-with-inforiver/8.-paginated-reporting/README.md)
     * [Pagination](working-with-inforiver/8.-paginated-reporting/pagination.md)
