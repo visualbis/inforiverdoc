@@ -158,14 +158,14 @@ You can manually format the newly created scenarios using the [cell and value fo
 
 The image below shows _Scenario 1_ created from _Base._&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Scenario 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (8).png" alt=""><figcaption><p>Scenario 1</p></figcaption></figure>
 
 To copy the style formatting from the base or any other scenarios, select the format painter and choose **Copy style formatting from scenario -> Base** or select any **Scenario name** to copy its style.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Copy style formatting from scenario</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (10).png" alt=""><figcaption><p>Copy style formatting from scenario</p></figcaption></figure>
 
 The image below shows _Scenario 1_ with the style format copied from the _Base_.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Scenario 1 with the Base Style format</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (11).png" alt=""><figcaption><p>Scenario 1 with the Base Style format</p></figcaption></figure>
 
 In the next section, we'll look at [budgeting and allocations](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md).

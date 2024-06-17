@@ -196,6 +196,6 @@ You can specify individual formats for year, quarter, month, and day. Expand the
 
 When you have a large number of row and column categories in your report, you can switch to a high-performance canvas - making your scrolling and interactions faster and smoother.
 
-<figure><img src="../.gitbook/assets/image (720).png" alt=""><figcaption><p>Enable canvas endering option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (720) (1).png" alt=""><figcaption><p>Enable canvas endering option</p></figcaption></figure>
 
 In this section, we covered the general display settings. Navigate to the next section to learn more about [hierarchy settings](hierarchy-settings.md).

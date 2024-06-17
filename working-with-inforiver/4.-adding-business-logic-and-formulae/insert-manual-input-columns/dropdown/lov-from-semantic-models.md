@@ -46,7 +46,7 @@ You can assign regions from the multi-select dropdown after completing the steps
 
 The base data in our visual may be from one table, but the options in the dropdown can be from a different table. The join option comes in handy in these scenarios. If you need to join your base table with another table to source dropdown options, you need to be mindful that a common column connects the two tables. In this case, the Retail-Orders and Retail-People tables are connected by Region.
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Joining tables</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (11).png" alt=""><figcaption><p>Joining tables</p></figcaption></figure>
 
 #### Filters
 

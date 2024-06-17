@@ -19,7 +19,7 @@ If you are using Inforiver Enterprise, you need to [sign in](../../insert-manual
 
 Click on the 'Single Select' option in the dropdown.
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Data Input type - Single Select</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (11).png" alt=""><figcaption><p>Data Input type - Single Select</p></figcaption></figure>
 
 {% hint style="info" %}
 Some of the properties such as [Insert as Visual measure/column](../../insert-manual-input-columns.md#1.-insert-as) and [Allow input](../../insert-manual-input-columns.md#2.-allow-input) are covered in earlier sections.
@@ -29,19 +29,19 @@ Some of the properties such as [Insert as Visual measure/column](../../insert-ma
 
 There are two ways to create a list of values (LOVs) in Inforiver Reporting Matrix. The third option - Semantic model - which is greyed out is available only in Inforiver Writeback Matrix and is covered in the [next section](lov-from-semantic-models.md).
 
-<figure><img src="../../../../.gitbook/assets/image (517).png" alt=""><figcaption><p>Creating a list of values</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (517) (2).png" alt=""><figcaption><p>Creating a list of values</p></figcaption></figure>
 
 ### a) List
 
 On clicking 'List', three default options along with colors are displayed. You can rename the options as required and click **Create** to create a new list with three options.
 
-<figure><img src="../../../../.gitbook/assets/image (518).png" alt=""><figcaption><p>New list created with three options</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (518) (2).png" alt=""><figcaption><p>New list created with three options</p></figcaption></figure>
 
 ### b) Presets&#x20;
 
 On clicking 'Presets', a pop-up screen opens. The list of values for each preset can be seen on hover. Select the required preset and Click **Apply.**&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (519).png" alt=""><figcaption><p>Using a preset list of values</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (519) (2).png" alt=""><figcaption><p>Using a preset list of values</p></figcaption></figure>
 
 The list of values that gets created is shown below.
 

@@ -16,13 +16,13 @@ Let's configure a sales forecast from March 11th to 15th.
 
 Select the measure that will be used to populate closed forecast periods. [Learn more about generating forecasts.](../../forecasting.md#id-1.-generating-a-forecast)
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Enter the forecast period</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (517).png" alt=""><figcaption><p>Enter the forecast period</p></figcaption></figure>
 
 **STEP 2:**  You can specify the source to populate forecasts. [Learn more about configuring forecasts.](../../forecasting.md#id-2.-configuring-the-forecast) As shown below, you can configure the forecast for each day or the entire period.
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Configuring for each day</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (13).png" alt=""><figcaption><p>Configuring for each day</p></figcaption></figure>
 
  
 
@@ -32,7 +32,7 @@ Select the measure that will be used to populate closed forecast periods. [Learn
 
 **STEP 3:** Hit the save button and you have a rolling forecast created with just a few easy-to-follow configurations.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Daily forecast created</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (12).png" alt=""><figcaption><p>Daily forecast created</p></figcaption></figure>
 
 ### 2. Weekly forecasts
 

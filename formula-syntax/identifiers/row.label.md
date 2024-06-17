@@ -1,6 +1,6 @@
 # ROW.LABEL
 
-ROW.LABEL can be used to access the field values used to populate rows in the report. If the dataset contains a hierarchy, ROW.LABEL can access all levels of the hierarchy.
+ROW.LABEL can be used to access specific row values in the report. If the dataset contains a row hierarchy, ROW.LABEL can access all levels of the hierarchy.
 
 ## Example
 

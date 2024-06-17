@@ -74,13 +74,13 @@ Click on any of the cells to check the checkbox.
 
 Date columns or measures can be inserted by clicking on 'Date' in the 'Data input' dropdown. You can insert an empty column or copy the dates from the rows in the report.
 
-<figure><img src="../../../.gitbook/assets/image (727).png" alt=""><figcaption><p>Data input column - Date</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (727) (1).png" alt=""><figcaption><p>Data input column - Date</p></figcaption></figure>
 
 ### i) Create an empty series&#x20;
 
 When you select this option, an empty date column is created and the side panel opens as shown in the image.
 
-<figure><img src="../../../.gitbook/assets/image (728).png" alt=""><figcaption><p>Date column type properties</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (728) (1).png" alt=""><figcaption><p>Date column type properties</p></figcaption></figure>
 
 You can choose to [insert it as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown/#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option.&#x20;
 
@@ -88,15 +88,15 @@ You can also configure other optional fields as below:
 
 The date format can be changed by clicking the 'Format' dropdown. Choose the desired format.
 
-<figure><img src="../../../.gitbook/assets/image (729).png" alt=""><figcaption><p>Date format</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (729) (1).png" alt=""><figcaption><p>Date format</p></figcaption></figure>
 
 You can define the minimum and maximum date ranges for the date input. You can enter both dates to specify a range or select only the minimum or the maximum date. Click on the calendar icon and choose a date.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (730).png" alt=""><figcaption><p>Minimum and maximum date ranges</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (730) (1).png" alt=""><figcaption><p>Minimum and maximum date ranges</p></figcaption></figure>
 
 After selecting the date ranges, click 'Create'.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (731).png" alt=""><figcaption><p>Create date column</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (731) (1).png" alt=""><figcaption><p>Create date column</p></figcaption></figure>
 
 The date column gets inserted. To enter data, double-click on a cell. Select a date from the calendar/date picker.&#x20;
 
