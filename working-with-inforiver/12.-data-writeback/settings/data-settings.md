@@ -8,7 +8,21 @@ This section will list all the possible series that are allowed for writeback. A
 
 <figure><img src="../../../.gitbook/assets/series-wb.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Auto writeback for database destination
+#### 2. Dimensions to be removed from writeback
+
+Inforiver provides a [Row Dimension ID Mapping](../../4.-adding-business-logic-and-formulae/manage-inserted-rows-and-columns.md#b-row-id-mapping) feature that enables you to choose the dimensions to uniquely identify a row. For instance, you can identify a product using just the product ID instead of the product name.
+
+<figure><img src="../../../.gitbook/assets/3.3. Writeback exclude dimension row dimension ID mapping.png" alt=""><figcaption><p>Row dimension ID mapping</p></figcaption></figure>
+
+Since the Row Dimension ID Mapping is set up based on the Product ID, the Product Name is redundant and can be dropped from writeback. You can use the dropdown to select the dimensions to be removed.
+
+<figure><img src="../../../.gitbook/assets/3.4. Writeback exclude dimension.png" alt=""><figcaption><p>Removing the product ID dimension from writeback</p></figcaption></figure>
+
+The product name field is not written back. You can distinctly locate a row using the product ID field.
+
+<figure><img src="../../../.gitbook/assets/3.5. Writeback exclude dimension target data.png" alt=""><figcaption><p>Data in the snowflake destination</p></figcaption></figure>
+
+#### 3. Auto writeback for database destination
 
 If you enable auto writeback, the chosen series and scenario(s) will be written back automatically without having to initiate the writeback operation manually. Writeback will be triggered periodically after specified intervals.
 
