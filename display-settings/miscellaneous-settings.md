@@ -70,7 +70,7 @@ If this option is enabled, report users in the reading view can update native me
 
 You can increase the thickness of the horizontal and vertical scrollbars using by enabling this option.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
 
 #### 1.12. Hide pinned base rows
 

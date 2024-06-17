@@ -23,4 +23,4 @@ LASTNMONTH(15)
 //Returns data for 15 months preceding the current one
 ```
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>LASTNMONTH</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>LASTNMONTH</p></figcaption></figure>

@@ -23,4 +23,4 @@ SOWEEK("05/29/2024")
 //Returns 27/5/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>SOWEEK</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>SOWEEK</p></figcaption></figure>

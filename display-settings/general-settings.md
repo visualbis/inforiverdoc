@@ -4,13 +4,13 @@ The general display settings are used to customize the appearance of the report.
 
 In the Inforiver toolbar, navigate to the Home ribbon. The _Display_ option is available in the 'Actions' section. Clicking on this option will open up the Display side panel.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p>Display settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Display settings</p></figcaption></figure>
 
 ### 1. Toolbar
 
 The toolbar option allows you to change the color of the toolbar to 'Light' or 'Dark'. In the example, the color of the toolbar is set to Dark and the changes are reflected in the toolbar at the top and the side panel.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Toolbar option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption><p>Toolbar option</p></figcaption></figure>
 
 ### 2. Canvas
 
@@ -25,7 +25,7 @@ The canvas section contains options to set the overall appearance of the report.
 
 The theme option lets you change the theme of the Inforiver visual to 'Light' or 'Dark'. In the example, the Dark theme is chosen.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption><p>Dark theme</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption><p>Dark theme</p></figcaption></figure>
 
 #### ii) Background
 
@@ -133,7 +133,7 @@ If the 'Solid Lines' or 'Dashed Lines' option is selected for the horizontal gri
 
 In the example, 'Solid' horizontal gridlines are inserted and their colors are set to red. 1 row is skipped between lines.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Skip lines
 
@@ -190,7 +190,7 @@ You can set a specific date format for hierarchical date dimensions in rows or c
 
 You can specify individual formats for year, quarter, month, and day. Expand the Valid formats information box to browse through the list of date formats supported in Inforiver.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Custom date formats</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Custom date formats</p></figcaption></figure>
 
 ### 8. Enable canvas rendering
 

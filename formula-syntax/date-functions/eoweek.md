@@ -30,7 +30,7 @@ EOWEEK("05/29/2024",3)
 //Returns 23/6/2024, adding 3 more weeks to 2/6/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>EOWEEK</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>EOWEEK</p></figcaption></figure>
 
 If you wish to add one or two more weeks to the ending date, you can use 1 or 2 as offset values respectively.
 

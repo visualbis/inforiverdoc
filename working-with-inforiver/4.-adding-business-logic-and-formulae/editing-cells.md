@@ -2,7 +2,7 @@
 
 Inforiver allows you to edit the contents of a cell and apply calculations. These are visual level updates and will not impact the source dataset.
 
-### i) Overwriting value
+### 1. Overwriting value
 
 To overwrite an existing value, simply double-click on the cell and enter the new value. You can enter scaled values(250m, 5.6b, etc) or reference other cell values.
 
@@ -14,13 +14,11 @@ The value gets updated and the manual update can be identified by the pencil ico
 
 <figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption><p>Updated value</p></figcaption></figure>
 
-
-
 You can even reference other cells and apply formulas to them - using the cell editor, you can define simple mathematical operations such as A +/- B, etc.
 
 <figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
-### ii) Apply formulas
+### 2. Apply formulas
 
 &#x20; You can use the wide range of formulas and functions available in Inforiver while editing a cell. In the below example, we are using the 'Average' function. As you start typing, you can see the functions that match the entered text as a list. Click on 'Average'.
 
@@ -42,19 +40,55 @@ d) You can see the result of the operation and it also gets distributed to the c
 
 <figure><img src="../../.gitbook/assets/4.3.13 Static rows.png" alt=""><figcaption><p>Data captured</p></figcaption></figure>
 
-### iii) Updating multiple cells
+### 3. Updating multiple cells
 
 You can also override the data in multiple cells with the same value, for instance, set a fixed budget. Select the cells and update the value in any cell, the updated value will get cascaded to all the selected cells.
 
 <figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
-### iv) Renaming Row Categories
+### 4. Renaming Row Categories
 
 You can also rename row categories by double-clicking on them.&#x20;
 
 The same row category may be repeated at each hierarchy level for hierarchical datasets. When you try to rename such categories at one level, Inforiver displays a prompt to confirm whether the category should be renamed across all levels or only at that level.
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
+
+### 5. Bulk edit
+
+In financial reporting, costs or revenues may need to be allocated across multiple fields, or during the budgeting/forecasting process, the same values may need to be distributed across different fields. Let's look at the **Bulk Edit** feature that comes in handy in such situations.
+
+Navigate to the Insert ribbon and click the Bulk Edit option from the Cell section.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Bulk edit interface</p></figcaption></figure>
+
+**STEP 1:** From the **Measure** dropdown**,** select the data input measure for which you want to perform a bulk update.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Select measure</p></figcaption></figure>
+
+**STEP 2:** Use the dimension category dropdowns to select the categories for which you need to update values. You can select multiple categories for each dimension. As you make selections, you'll notice the report getting filtered dynamically.
+
+<figure><img src="../../.gitbook/assets/Untitled Project (1).gif" alt=""><figcaption><p>Choosing dimensions and measures</p></figcaption></figure>
+
+**STEP 3:** Select the row hhierarchy level at which the value should be updated.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Selecting the row hierarchy category</p></figcaption></figure>
+
+**STEP 4:** Similarly**,** select the column hierarchy level at which the value should be updated. In this case, since we do not have a column-level hierarchy, we can either update at Grand Total level or Country level.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Selecting the column hierarchy category</p></figcaption></figure>
+
+**STEP 5:** Choose the type of update to perform and enter the value. If you choose **Append**, the value will be added to the existing value. If you choose **Set Value,** the existing value will be replaced by the new value. To remove the existing value, choose **Clear Set Value.**
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Type of update</p></figcaption></figure>
+
+**STEP 6:** You can choose to distribute the updated value to child rows based on the weights of another measure or distribute equally.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Distribute values</p></figcaption></figure>
+
+The cells are updated to 50k at the Segment level and distributed to the children based on the weights of the Sales measure.
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Edited cells highlighted in yellow. Distribution measure highlighted in violet.</p></figcaption></figure>
 
 {% hint style="info" %}
 * You can also edit cells using the 'Edit cell' icon in the toolbar. You can access it in the Insert tab > Cell section.&#x20;

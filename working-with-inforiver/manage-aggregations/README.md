@@ -32,7 +32,7 @@ By default, the 'Native' option is applied which follows the native summarizatio
 
 Choosing 'None' performs no aggregations for the selected measure or hierarchy. In the example below, the 'Discount' measure is not aggregated.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Aggregation is 'None'</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Aggregation is 'None'</p></figcaption></figure>
 
 #### Sum
 

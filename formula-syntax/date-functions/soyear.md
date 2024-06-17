@@ -23,4 +23,4 @@ SOYEAR("05/29/2024")
 //Returns 1/1/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>SOYEAR</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>SOYEAR</p></figcaption></figure>

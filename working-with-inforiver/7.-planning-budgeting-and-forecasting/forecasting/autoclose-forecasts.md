@@ -20,7 +20,7 @@ The forecasts will be closed irrespective of whether the designated day is a wee
 
 Open forecasts are closed automatically on the calendar day specified in the admin console. This setting can be viewed in the edit forecast settings as well.
 
-<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Auto close settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1) (2).png" alt=""><figcaption><p>Auto close settings</p></figcaption></figure>
 
 ### ii) Workday
 

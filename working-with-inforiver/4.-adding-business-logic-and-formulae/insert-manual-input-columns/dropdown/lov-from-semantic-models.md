@@ -72,5 +72,5 @@ The base table used to populate rows and columns in the report is Retail - Order
 
 The dropdown options for people data have now been fetched from the Retail - People table. Notice how all the people are displayed in the options for the grand total row. For each region, only the person assigned to that region is shown in the dropdown.
 
-<figure><img src="../../../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled Project (3).gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>
 

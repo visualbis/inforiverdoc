@@ -28,7 +28,7 @@ COLUMN_PERIOD.START
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Month level</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Month level</p></figcaption></figure>
 
  
 
@@ -61,7 +61,7 @@ COLUMN_PERIOD.END
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Year level</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Year level</p></figcaption></figure>
 
  
 
