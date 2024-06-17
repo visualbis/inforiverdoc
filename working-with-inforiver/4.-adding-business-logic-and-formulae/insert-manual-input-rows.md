@@ -22,51 +22,115 @@ Another way to insert static rows is by using the row gripper. The gripper icon 
 
 <figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
 
-## 2. Static row properties
+#### 1.1. Static row properties
 
 A side panel opens when creating a static now, as shown below. Type in the name of the category and click 'Create'. You will see an empty record created above the row that was selected before the 'Insert Row' operation.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
-### **i. Scaling factor**
+#### **i. Scaling factor**
 
 You can set the scaling factor for the static row depending on the data that is expected to be entered. It is set to Auto by default.
 
-### **ii. Include in total**
+#### **ii. Include in total**
 
 When the 'Include in total' option is enabled, any values that we type in for the new row also update the parent row 'Germany'.&#x20;
 
-### **iii. Distribute parent value to children**
+#### **iii. Distribute parent value to children**
 
 The 'Distribute parent value to children' option ensures that if a value is entered at a total level, it gets distributed to the levels below it.
 
-### **iv. Bind for cross filter/RLS**
+#### **iv. Bind for cross filter/RLS**
 
 You can enable the Bind for Cross filter/RLS option – this ensures that cross-filter selections and RLS settings apply to calculated/manual input rows that reference other rows. For example, if this option is not enabled, a manager handling Canada accounts can view a manually inserted row that references US data or an inserted region that is manually created at the visual level. [Learn more about binding rows.](insert-calculated-rows/#id-6.-bind-for-cross-filter-rls)
 
-## 3. **Delete a static row**
+#### 1.2. **Delete a static row**
 
 To delete a static row, hover over the row and click on the row gripper. Select the 'Delete Row' option.
 
 <figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
 
-## 4. Bulk insert static rows
+## 2. Bulk insert static rows
 
-### i) Multiple static row
+You can bulk-insert leaf-level rows or hierarchies using the Insert rows option.
 
-a) You can leverage the **Multiple Static Row** option to bulk insert multiple category rows in a single stroke. The inserted rows can be used for manual data entry for categories that may not be available in your datasets.
+### 2.1. Inserting child rows
 
-<figure><img src="../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+To insert a leaf-level row, click on any child row or the parent row under which you want to create rows. From the row gripper, select the Insert Rows option. Notice that the parent category is already populated. You can key in the value for the child rows.&#x20;
 
-b) You can also create placeholders for hierarchical data that is not available in your datasets with this option. Click on the parent level above which you want to insert additional levels. Use tab space to indent the child rows according to the structure of the hierarchy.
+There are 2 ways to add new rows:
 
-<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption><p>Multiple static rows - hierarchical data</p></figcaption></figure>
+* To insert a new row, click the <img src="../../.gitbook/assets/image (762).png" alt="" data-size="line">icon that appears on hovering near the parent category.
+* Click Add New, then choose whether to insert a single row or bulk insert 5/10 rows.
 
-Notice how the custom hierarchy levels for 'Malaysia' and 'Hong Kong' have been created and the corresponding rows have also been inserted.
+<figure><img src="../../.gitbook/assets/image (763).png" alt=""><figcaption><p>Insert rows interface</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+The <mark style="color:green;">Atlantic</mark>, <mark style="color:green;">Hawaii,</mark> and <mark style="color:green;">Alaska</mark> rows are created when you click Save. You can enter values in these rows. The <img src="../../.gitbook/assets/image (764).png" alt="" data-size="line">icon denotes manually inserted rows.
 
-### ii) Row hierarchy
+<figure><img src="../../.gitbook/assets/image (765).png" alt=""><figcaption><p>Child rows created </p></figcaption></figure>
+
+### 2.2. Inserting a hierarchy
+
+To insert a new level in an existing hierarchy, you can overwrite the default parent category that is auto-populated in the Insert Rows window. For instance, if you click on <mark style="color:green;">United States (</mark>or any child row), the Insert Rows will automatically have <mark style="color:green;">United States</mark> as the Region. Double-click and overwrite the value with the desired parent category.
+
+<figure><img src="../../.gitbook/assets/4.2. Data input insert rows.png" alt=""><figcaption><p>Inserting a hierarchy level</p></figcaption></figure>
+
+### 2.3. Disabling row insertion
+
+You can restrict users from creating new categories for a particular level. Navigate to Insert >Manage Rows > Insert Row Settings> Insert Row Configuration.
+
+We’ve disabled the creation of new regions. However, new subregions can still be inserted.
+
+<figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption><p>Disabling row insertion</p></figcaption></figure>
+
+Notice how the Region textbox is disabled in the Insert rows window but we are able to enter values in the SubRegion textbox.
+
+<figure><img src="../../.gitbook/assets/image (767).png" alt=""><figcaption><p>Row insertion disabled at a specific level</p></figcaption></figure>
+
+### 2.4. Uploading from an Excel sheet
+
+You can upload the row categories from an Excel sheet. In the Insert Rows window, you will be able to see the data from your Excel as dropdown options. Let's see how.
+
+**STEP 1:** Navigate to Insert >Manage Rows > Insert Row Settings> Insert Row Configuration. Select **Options list from CSV** from the dropdown.
+
+<figure><img src="../../.gitbook/assets/image (769).png" alt=""><figcaption><p>Option to source data from Excel</p></figcaption></figure>
+
+**STEP 2:** On selecting the option, The **Add Options from CSV** window opens. Click the Upload button. You can browse and upload the source file from the CSV Upload tab. Inforiver displays a preview of the contents of the CSV file.
+
+<figure><img src="../../.gitbook/assets/4.5. Data input insert rows upload from excel 4.png" alt=""><figcaption><p>CSV Upload</p></figcaption></figure>
+
+**STEP 3:** You need to map the source field from the Excel which will be used as row categories. Choose the field from the Excel from the Label Column dropdown.  In this case, the mapping is as shown below:
+
+| Excel Column | Visual Row Category |
+| ------------ | ------------------- |
+| Sector       | Region              |
+| Country      | Sub Region          |
+
+<figure><img src="../../.gitbook/assets/image (770).png" alt=""><figcaption><p>Selecting the source field</p></figcaption></figure>
+
+**STEP 4:**  You will need to set up filters if you want to map subcategories under the respective parent category. In this case, when you select <mark style="color:green;">Frontier markets</mark> as the Region, you would only want to see <mark style="color:blue;">Vietnam, Romania, and Kenya</mark> in the Sub Region dropdown. Similarly, when you select <mark style="color:green;">CIVETS</mark> as the Region, you would only want to see <mark style="color:blue;">Colombia, Indonesia, Vietnam, Egypt,</mark> etc, and none of the countries that fall under the <mark style="color:green;">Frontier markets</mark> sector.
+
+<figure><img src="../../.gitbook/assets/4.6. Data input insert rows upload from excel column mapping 4.1.png" alt=""><figcaption><p>Creating a filter to map subregions to parents regions</p></figcaption></figure>
+
+Once the steps discussed above are completed, you will be able to see the data from your Excel in the Region and Sub Region dropdowns.&#x20;
+
+<figure><img src="../../.gitbook/assets/4.7. Data input insert rows upload from excel final 4.2.png" alt=""><figcaption><p>Data from Excel populated in the Insert Rows window</p></figcaption></figure>
+
+Follow the steps discussed in sections 2.1/2.2 to insert the configured row categories into your visual.
+
+<figure><img src="../../.gitbook/assets/image (771).png" alt=""><figcaption><p>Row categories sources from Excel</p></figcaption></figure>
+
+### 2.5. Setting user permissions
+
+You can explicitly set permissions for users to insert rows in read mode. You have options to restrict all users, allow all users, or authorize specific users to insert rows. Navigate to Insert >Manage Rows >Settings > Insert Row Access to set permissions.
+
+* Enable the **Allow in Read Mode** toggle to allow users to insert rows in reading mode.
+* To allow all the members in your organization to insert rows, choose the **All users** radio button.
+* If you want to restrict users from inserting rows, choose the **Specific users** radio button**.** You will then be able select the users to whom you want to provide access.
+
+<figure><img src="../../.gitbook/assets/4.8. Data input insert rows access 5.png" alt=""><figcaption><p>Insert row permissions</p></figcaption></figure>
+
+## 3. Row hierarchy
 
 This option can be used to insert a single user-defined level for hierarchical data. Only one row is created while using this option, unlike the [multiple static row](insert-manual-input-rows.md#i-multiple-static-row) option, where you can define the hierarchy structure with multiple nested levels and rows. &#x20;
 
