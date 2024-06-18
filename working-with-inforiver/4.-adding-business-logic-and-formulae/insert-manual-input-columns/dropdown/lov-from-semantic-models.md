@@ -40,6 +40,10 @@ You can assign regions from the multi-select dropdown after completing the steps
 
 <figure><img src="../../../../.gitbook/assets/image (716).png" alt=""><figcaption><p>Multi-select dropdown sourced from the dataset</p></figcaption></figure>
 
+**STEP 5:** After configuring and creating the dropdown, to preview all the options sourced from the semantic model, click the <img src="../../../../.gitbook/assets/image (12).png" alt="" data-size="line">icon. If you need to change the configuration, click the <img src="../../../../.gitbook/assets/image (518).png" alt="" data-size="line">icon to open the semantic model configuration window.
+
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Previewing options</p></figcaption></figure>
+
 ### 2. Using joins and filters
 
 #### Joins
@@ -50,7 +54,7 @@ The base data in our visual may be from one table, but the options in the dropdo
 
 #### Filters
 
-There are many scenarios wherein the options in the dropdown need to change based on the row dimension category. For example, consider that we have regional data in our rows. We need to use a dropdown to assign a manager for each region. The person that we assign must also be tagged to that specific region i.e. the dropdown options for the Central region should only show the people under that region. We can use filters in such scenarios.&#x20;
+There are many scenarios wherein the options in the dropdown need to change based on the row dimension category. For example, consider that we have regional data in our rows. We need to use a dropdown to assign a manager for each region. The person we assign must also be tagged to that specific region i.e. the dropdown options for the Central region should only show the people under that region. We can use filters in such scenarios.&#x20;
 
 Let's look at a scenario where we need to use joins and filters. Please note that the filter and join features can be used independently as well.
 
@@ -74,3 +78,25 @@ The dropdown options for people data have now been fetched from the Retail - Peo
 
 <figure><img src="../../../../.gitbook/assets/Untitled Project (3).gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>
 
+### 3. Refreshing data
+
+The underlying data in the semantic model is likely to change - there may be new data added or updates to the existing data. Any updates to the underlying data should be reflected in the dropdown options too.&#x20;
+
+* You can schedule an automatic refresh at a specific time on a daily/monthly basis.
+* You can also run ad-hoc data refreshes to sync the dropdown options with the semantic model.
+
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Refresh dataset option</p></figcaption></figure>
+
+#### Triggering ad-hoc refreshes
+
+You need to check the **Require Semantic model Refresh** option to trigger manual refreshes. Click the <img src="../../../../.gitbook/assets/image (7).png" alt="" data-size="line">icon in the Options section to trigger a refresh from within the Inforiver visual.
+
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Manual refreshes</p></figcaption></figure>
+
+Inforiver also provides an **API endpoint** to manually sync the semantic  model from outside the visual. The API endpoint is provided in the Refresh Link section. [Learn more about working with API endpoints and authorization tokens.](../../../../admin-console/settings/api-token.md)
+
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>API refresh option</p></figcaption></figure>
+
+Click on the <img src="../../../../.gitbook/assets/image (9).png" alt="" data-size="line">icon to view the semantic model refresh history. Any errors that occur during the refresh can be viewed from this screen.
+
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Refresh history portal</p></figcaption></figure>

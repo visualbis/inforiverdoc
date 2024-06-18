@@ -21,10 +21,10 @@ Date.
 
 ## Example
 
-<figure><img src="../../.gitbook/assets/image (518).png" alt=""><figcaption><p>ADDDAYS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (518) (3).png" alt=""><figcaption><p>ADDDAYS</p></figcaption></figure>
 
 {% hint style="info" %}
 You can also add or subtract days from a given date using the arithmetic operators.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (519).png" alt=""><figcaption><p>Using Arithmetic Operators on Dates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (519) (3).png" alt=""><figcaption><p>Using Arithmetic Operators on Dates</p></figcaption></figure>

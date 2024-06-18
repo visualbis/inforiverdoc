@@ -50,20 +50,24 @@ By integrating the [created API token](api-token.md#create-api-token) into the r
 
 ## **Refresh semantic data input source using API**
 
-You can also generate API tokens to sync the semantic data input model included in your report to make the latest data available.
+Inforiver also provides an API to refresh single-select and multi-select dropdowns that use semantic data models. You can generate API tokens from the admin console and trigger ad-hoc semantic model refreshes using the API.
 
-1. In the API token management screen, check the ‘Refresh Semantic Data Input’ option and generate the token.
+1. To generate the token, in the API token management screen, check the ‘Refresh Semantic Data Input’ option and generate the token. The token needs to be saved to a file for future access.
 
 <figure><img src="../../.gitbook/assets/9.2.1. sync refresh data input model-1.png" alt=""><figcaption><p>Refresh Semantic Data Input</p></figcaption></figure>
 
-2. This token can create an API that refreshes the semantic data input source used in your report. The following sample report has a [single-select data input column](../../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/dropdown/#id-1.-creating-a-list-of-values) and uses a semantic data input model. Instead of a scheduled refresh, the semantic model is set to be refreshed manually by the user when required.
+2. &#x20;The sample report has a [single-select data input column](../../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/dropdown/#id-1.-creating-a-list-of-values) and uses a semantic data input model. Instead of a scheduled refresh, the semantic model is set to be refreshed manually by the user when required.
 
-<figure><img src="../../.gitbook/assets/9.2.2. report with semantic model.png" alt=""><figcaption><p>Report with a semantic data input model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>LOV with semantic data model </p></figcaption></figure>
 
-3. We will now trigger the synchronization of the semantic data input model, as demonstrated below using Postman.
+3. After creating the single select, navigate to manage measures and edit the single select. You'll be able to see a **Refresh Link** in the Options section - this is the API endpoint.
 
-<figure><img src="../../.gitbook/assets/9.2.3. sync refresh data input model-1.1.png" alt=""><figcaption><p>successfully triggered the refresh of semantic data input</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>API refresh link</p></figcaption></figure>
 
-4. The data is refreshed, which can be verified from the updated report.
+3. Let's trigger the semantic data model refresh, as demonstrated below using Postman. Use the token generated in STEP 1 in the admin console for authorization. You need to pass the **semantic-refresh=true** parameter to the API endpoint.
 
-<figure><img src="../../.gitbook/assets/9.2.4. sync refresh data input model-2.png" alt=""><figcaption><p>Updated report</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9.2.3. sync refresh data input model-1.1.png" alt=""><figcaption><p>Successfully triggered the refresh of semantic data input</p></figcaption></figure>
+
+5. The dropdown options are refreshed with the latest values from the semantic model.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Refreshed values in the single-select</p></figcaption></figure>

@@ -60,11 +60,11 @@ In financial reporting, costs or revenues may need to be allocated across multip
 
 Navigate to the Insert ribbon and click the Bulk Edit option from the Cell section.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Bulk edit interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (14).png" alt=""><figcaption><p>Bulk edit interface</p></figcaption></figure>
 
 **STEP 1:** From the **Measure** dropdown**,** select the data input measure for which you want to perform a bulk update.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Select measure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (13).png" alt=""><figcaption><p>Select measure</p></figcaption></figure>
 
 **STEP 2:** Use the dimension category dropdowns to select the categories for which you need to update values. You can select multiple categories for each dimension. As you make selections, you'll notice the report getting filtered dynamically.
 
@@ -72,23 +72,23 @@ Navigate to the Insert ribbon and click the Bulk Edit option from the Cell secti
 
 **STEP 3:** Select the row hhierarchy level at which the value should be updated.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Selecting the row hierarchy category</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (12).png" alt=""><figcaption><p>Selecting the row hierarchy category</p></figcaption></figure>
 
 **STEP 4:** Similarly**,** select the column hierarchy level at which the value should be updated. In this case, since we do not have a column-level hierarchy, we can either update at Grand Total level or Country level.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Selecting the column hierarchy category</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (10).png" alt=""><figcaption><p>Selecting the column hierarchy category</p></figcaption></figure>
 
 **STEP 5:** Choose the type of update to perform and enter the value. If you choose **Append**, the value will be added to the existing value. If you choose **Set Value,** the existing value will be replaced by the new value. To remove the existing value, choose **Clear Set Value.**
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Type of update</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (8).png" alt=""><figcaption><p>Type of update</p></figcaption></figure>
 
 **STEP 6:** You can choose to distribute the updated value to child rows based on the weights of another measure or distribute equally.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Distribute values</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (7).png" alt=""><figcaption><p>Distribute values</p></figcaption></figure>
 
 The cells are updated to 50k at the Segment level and distributed to the children based on the weights of the Sales measure.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Edited cells highlighted in yellow. Distribution measure highlighted in violet.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (8).png" alt=""><figcaption><p>Edited cells highlighted in yellow. Distribution measure highlighted in violet.</p></figcaption></figure>
 
 {% hint style="info" %}
 * You can also edit cells using the 'Edit cell' icon in the toolbar. You can access it in the Insert tab > Cell section.&#x20;
