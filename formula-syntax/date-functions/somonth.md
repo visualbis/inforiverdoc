@@ -23,4 +23,4 @@ SOMONTH("05/29/2024")
 //Returns 1/5/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>SOMONTH</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption><p>SOMONTH</p></figcaption></figure>

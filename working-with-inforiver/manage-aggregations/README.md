@@ -1,26 +1,34 @@
 # 14. Manage aggregation
 
-While working with Power BI table/matrix reports, we would sometimes like to apply custom row aggregations for the measures in a specific report (e.g., average quantity sold) instead of using the default aggregation used in a data model (e.g., the sum of quantity sold).&#x20;
+While working with Power BI table/matrix reports, we would sometimes like to apply custom aggregations for the measures in a specific report (e.g., average quantity sold) instead of using the default aggregation used in a data model (e.g., the sum of quantity sold).&#x20;
 
-Inforiver’s aggregation feature allows you to override the native Power BI aggregation for measures without having to make extensive model-level changes.&#x20;
+Inforiver’s aggregation feature allows you to override the native Power BI aggregation for measures without having to make extensive model-level changes. You can set aggregation at measure/column-level, hierarchy-level, and specify aggregation for the row and column subtotals/grand totals.
 
-In this section, we will see how to set row aggregations for all the measures globally or specific measures per our needs. You can set them in the following ways:
+**Row aggregation:** You can specify the aggregation to be applied on row subtotals and grand total.
 
-1. [Report level:](./#id-1.-report-level) One way is using the 'Aggregation' button under the 'Insert' tab. Using this option, you can set an aggregation method globally to all the measures in the report or choose the specific measure/column whose rows have to be aggregated differently by clicking on the dropdown menu beside it.
-2. [Column level:](./#id-2.-column-level) The second way is using the 'Manage Columns' dropdown at the top. With this, you can directly set aggregations to specific measures/columns in the report. You can also click on the corresponding column gripper and then click on 'Aggregations' in the context menu to set the aggregation for that column.
-3. [Hierarchy level:](./#id-3.-hierarchy-level) Another way to set global level aggregation to all the measures is through the 'Hierarchy' tab in the 'Manage Aggregation' dialog box. If your data is hierarchical, Inforiver offers the flexibility to apply a specific row aggregation method for a selected hierarchical level. This way you can apply different aggregation methods for different levels simultaneously. For example, the 'Sub-category' dimension can have 'Minimum' aggregation while the 'Category' dimension can have 'Average' aggregation.
+<figure><img src="../../.gitbook/assets/image (776).png" alt=""><figcaption><p>Row aggregation</p></figcaption></figure>
 
-### 1. Report level
+**Column aggregation: Y**ou can specify the aggregation to be applied on the column grand total and subtotals.
 
-Aggregations such as sum, average, standard deviation, minimum, maximum, and visible rounding can be applied globally for all the measures in the report.&#x20;
+<figure><img src="../../.gitbook/assets/image (777).png" alt=""><figcaption><p>Column aggregation</p></figcaption></figure>
+
+Click the **Aggregation** button in the **Insert** ribbon to open the **Manage Aggregation** interface.
+
+### 1. Measure level aggregation
+
+You can specify the row and column aggregation for individual measures and columns from the **Measure** tab. Select the aggregation type from the dropdown against the measure name.
+
+<figure><img src="../../.gitbook/assets/image (778).png" alt=""><figcaption><p>Measure level row and column aggregation</p></figcaption></figure>
+
+* **Sum** set as row aggregation for 2024 Plan: The sum of the child rows will be used to populate the row subtotal and grand total.
+* **Maximum** set as row aggregation for 2024 Actuals: The maximum value in the child rows will be used to populate the row subtotal and grand total.
+* **Minimum** set as column aggregation for 2024 Actuals and Plan: The minimum values in the columns will be used as the column grand total and subtotal.
+
+### 2. Aggregation types
 
 {% hint style="info" %}
-Report level aggregation can be set only when there are more than 3 measures in the report.
+The interface shown in the screenshots in this section has changed slightly in newer versions but the functionality remains the same.
 {% endhint %}
-
-In the 'Insert' tab of the toolbar, click the 'Aggregation' button. You can see the 'Manage Aggregation' dialog box. To set global aggregation for the report, select the aggregation method from the dropdown for the 'All' element.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption><p>Manage Aggregation dialog box</p></figcaption></figure>
 
 #### Native
 
@@ -103,70 +111,6 @@ Note that weighted average is a row aggregation method – only the total and su
 {% hint style="info" %}
 'Weighted Average' aggregation can be applied only to data input, formula, and forecast measures.&#x20;
 {% endhint %}
-
-### 2. Column level
-
-Another way to access 'Manage Aggregation' is by clicking on 'Manage columns' and then the 'Settings' icon. This allows you to manage aggregations for specific measures.
-
-<figure><img src="../../.gitbook/assets/image (651).png" alt=""><figcaption><p>Settings in 'Manage Columns' dropdown</p></figcaption></figure>
-
-A pop-up displays a list of measures under the 'Display' section. You can change the aggregation type of multiple measures here.
-
-<figure><img src="../../.gitbook/assets/Display (2).png" alt=""><figcaption><p>Manage columns pop-up</p></figcaption></figure>
-
-Let's change the aggregation for '2020 Actuals' from 'Sum' to 'Maximum'. Select 'Maximum' aggregation from the dropdown.&#x20;
-
-<figure><img src="../../.gitbook/assets/Change agg.png" alt=""><figcaption><p>Column aggregation</p></figcaption></figure>
-
-In the image below, you can see that East -> 2020 Actuals shows 40.18 which is the maximum of Beverages and Water, whereas East -> 2020 Plan shows 45.03 which is the sum of the two categories. &#x20;
-
-<figure><img src="../../.gitbook/assets/Sum &#x26; maximum aggregation.png" alt=""><figcaption><p>Sum &#x26; maximum aggregation</p></figcaption></figure>
-
-{% hint style="info" %}
-You cannot set aggregation for a simulation measure. In the below image, you can see that the aggregation field is disabled for the simulation column.
-{% endhint %}
-
-Note that the [row aggregation type](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#i-row-aggregation-type) for calculated columns and manual data input columns can also be defined here in the 'Manage columns' dialog box in addition to the 'Insert formula' and 'Data input' [side panels](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#id-3.-properties). &#x20;
-
-<figure><img src="../../.gitbook/assets/For.png" alt=""><figcaption><p>Simulation column disabled</p></figcaption></figure>
-
-To set aggregation for a specific measure, you can also click on that column's gripper and choose 'Aggregation' from the context menu as shown below. Click on the required aggregation type to apply it to that measure.
-
-<figure><img src="../../.gitbook/assets/image (627).png" alt=""><figcaption><p>Set aggregation using the column gripper</p></figcaption></figure>
-
-In the example below, the 'Forecast' measure has been aggregated to display the maximum value of the child rows using the aggregation method 'Maximum'.
-
-<figure><img src="../../.gitbook/assets/image (628).png" alt=""><figcaption><p>'Maximum' aggregation method in 'Forecast'</p></figcaption></figure>
-
-In the same example, note how the category 'Games and Toys' is aggregated by adding the child values. This is because this hierarchical level has been configured as a 'Sum' aggregation. We'll see how to do this in the following section.
-
-### 3. Hierarchy level
-
-If your data is hierarchical, Inforiver offers the flexibility to apply row aggregations for all branches on a selected level of the hierarchy. You can set different aggregation methods for different levels simultaneously.
-
-#### i) Selected parent row of a hierarchy
-
-The global aggregation set at report level can be overridden and you can apply the required row aggregation method on a parent row. Click on the row gripper for the parent row, from the 'Aggregation' section of the menu, select the aggregation type.
-
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption><p>Selecting parent level aggregation</p></figcaption></figure>
-
-Row level aggregation has been set to Minimum for the 'TV and Video' category while the other categories retain the Native Power BI aggregation.
-
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption><p>Row level aggregation set to minimum</p></figcaption></figure>
-
-#### ii) Particular level of a hierarchy
-
-To apply a uniform aggregation method to a given level of the hierarchy, select the **Aggregation** button from the **Insert** tab. Navigate to the 'Hierarchy' tab in the Manage Aggregation dialog box. Notice that we can assign different aggregation methods for different levels of the hierarchy.
-
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption><p>Aggregation types for different levels of the hierarchy</p></figcaption></figure>
-
-The specified aggregation method is set for a specific level of the hierarchy.
-
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
-
-
-
-In the next section, we will learn how to manage column aggregations.
 
 #### Resources
 

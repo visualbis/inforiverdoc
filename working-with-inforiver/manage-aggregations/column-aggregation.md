@@ -1,10 +1,10 @@
-# Manage column aggregation
+# Column aggregation
 
 In addition to configuring the row aggregation, you can also configure the column aggregation. Like row aggregation, which only applies to sub-total and grand-total rows, column aggregation applies only to the subtotal and grand-total columns.
 
 Let us first demonstrate these aggregations for total rows with a few examples, followed by the 'Manage Aggregation' dialog box where you can perform both row and column aggregations in tandem.
 
-## Column aggregation for a total cell
+### 1. Column aggregation for a total cell
 
 To apply column aggregation, click on the cell in the grand-total/subtotal column and select the aggregation type from the dropdown menu.
 
@@ -28,11 +28,11 @@ Note that for the same row, the sub-totals for each quarter are also aggregated 
 
 <figure><img src="../../.gitbook/assets/image (646).png" alt=""><figcaption><p>'Maximum' aggregation type - sub totals</p></figcaption></figure>
 
-## Column aggregation for repetitive categories
+### 2. Column aggregation for repetitive categories
 
-When you have the same category repeated across all levels of the hierarchy, Inforiver will detect repeating categories and allow you to apply the same aggregation method to all the levels in a single click.
+When you have the same category repeated across all levels of the hierarchy, Inforiver will detect repeating categories and allow you to apply the same column aggregation method to all the levels in a single click.
 
-Let us assume we want to change the aggregation method for the sub-category _Amarilla_ in the _Canada_ region. Click on the total cell and select **Aggregation.**
+Let us assume we want to change the column aggregation method for the sub-category _Amarilla_ in the _Canada_ region. Click on the grand total cell and select **Aggregation.** Note that only column aggregation is applicable here as it is a leaf row.
 
 <figure><img src="../../.gitbook/assets/image (647).png" alt=""><figcaption><p>Aggregation for repetitive sub-category</p></figcaption></figure>
 
@@ -54,7 +54,7 @@ This ensures that the same aggregation is applied to all the repetitive categori
 Click **No** in the above confirmation pop-up to apply the aggregation only to that specific row.
 {% endhint %}
 
-## Combining Row and Column Aggregations
+### 3. Combining row and column aggregations
 
 Inforiver lets you seamlessly track the various aggregations applied to the rows and columns with the 'Manage Aggregation' dialog box.
 
@@ -73,3 +73,15 @@ The column total now has the maximum value of the four quarters.
 You can track the same and also edit them with the 'Manage Aggregation' dialog box as illustrated below:
 
 <figure><img src="../../.gitbook/assets/image (633).png" alt=""><figcaption><p>Manage Aggregation dialog box</p></figcaption></figure>
+
+### 4. First/Last column aggregation
+
+P\&L or cash flow statements often require the values from the first or last periods as the column subtotals and grand totals. These aggregation types are applicable only at column level.
+
+• **First aggregation type:** The values from the first period are used for the column subtotals and grand totals. In the example, the Actuals from Q1 are used as the subtotals at year level. The Actuals from 2022 (the earliest year) are used for the grand total.
+
+<figure><img src="../../.gitbook/assets/7.1. First aggregation type.png" alt=""><figcaption><p>First aggregation</p></figcaption></figure>
+
+• **Last aggregation type:** The last period is used to populate the grand totals and subtotals. The Actuals for Q4 is used to populate the yearly subtotal. The Actuals for 2023 is to populate the grand total.
+
+<figure><img src="../../.gitbook/assets/7.2. Last aggregation type.png" alt=""><figcaption><p>Last aggregation</p></figcaption></figure>

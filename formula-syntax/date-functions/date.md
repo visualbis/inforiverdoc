@@ -40,4 +40,4 @@ DATE(2024,05,24)
 //returns 24/5/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (4).png" alt=""><figcaption></figcaption></figure>

@@ -25,4 +25,4 @@ NETWORKDAYS("05/31/2024","06/30/2024")
 //Returns 22
 ```
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>NETWORKDAYS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption><p>NETWORKDAYS</p></figcaption></figure>
