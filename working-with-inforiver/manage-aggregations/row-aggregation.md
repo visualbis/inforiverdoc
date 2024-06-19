@@ -18,7 +18,7 @@ The specified aggregation method is set for a specific level of the hierarchy.
 
 #### 1. Setting aggregation from manage columns
 
-Another way to set row aggregation for measures is by clicking on **Manage Columns** and then the <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> icon. This allows you to manage row aggregations for specific measures.
+Another way to set row aggregation for measures is by clicking on **Manage Columns** and then the <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> icon. This allows you to manage row aggregations for specific measures.
 
 <figure><img src="../../.gitbook/assets/image (651).png" alt=""><figcaption><p>Settings in 'Manage Columns' dropdown</p></figcaption></figure>
 
@@ -46,7 +46,7 @@ Note that the [row aggregation type](../4.-adding-business-logic-and-formulae/in
 
 To set aggregation for a specific measure, you can also click on that column's gripper and choose 'Aggregation' from the context menu as shown below. Click on the required aggregation type to apply it to that measure.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Set aggregation from the column gripper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Set aggregation from the column gripper</p></figcaption></figure>
 
 In the example below, the 'Forecast' measure has been aggregated to display the maximum value of the child rows using the aggregation method 'Maximum'.
 

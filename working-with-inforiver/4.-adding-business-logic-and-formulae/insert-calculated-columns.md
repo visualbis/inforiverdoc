@@ -120,6 +120,16 @@ Another indirect approach would be to use IF/nested IF statements to define the 
 
 <figure><img src="../../.gitbook/assets/4.2.28 Column.png" alt=""><figcaption></figcaption></figure>
 
+### **3. Row and column aggregation for formula measures** &#x20;
+
+Inforiver automatically sets the row aggregation to formula and the column aggregation to sum for formula measures. You can override the default aggregation a required.&#x20;
+
+Note: When you select weighted average as the row aggregation type, the column aggregation will be set to weighted average and cannot be overridden.&#x20;
+
+You can view and edit the aggregation for formula measures from the Manage aggregation interface. [Learn more about aggregation features in Inforiver.](../manage-aggregations/)
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Row and column aggregation for formula fields</p></figcaption></figure>
+
 #### Resources
 
 [Insert Formulas, Columns and Aggregation](https://www.youtube.com/watch?v=hjPAbuYJUSc)
