@@ -5,6 +5,7 @@ Reset option allows you to remove or revert any changes that have been made to a
 * Reset formats: This option removes any formatting that has been applied to the cells, such as font color, font size, and cell borders.
 * Reset value: This option resets any changes to the cell values.
 * Reset notes: This option deletes all the notes added to the report.
+* Reset row order: This option reverts to the original ordering of row categories.
 * Reset all: This option removes all the changes to the report including formatting, data edits, charts, filtering etc., and restores it to the original state.
 
 In the 'Home' tab of the toolbar, select the 'Reset' icon from the 'Actions' section. You can see that Reset Formats and Reset Value options are disabled. To enable them, you need to select one or more cells with formats applied or edited values.
@@ -35,6 +36,10 @@ Select a cell with conditional formatting, you can see that the 'Reset formats' 
 Reset format is not applicable for conditional formatting, semantic formatting and the other formatting options available in 'Display settings'.
 {% endhint %}
 
+To reset formatting for the entire table, select the entire table (Ctrl + A) and reset all formatting.
+
+<figure><img src="../../../.gitbook/assets/image (823).png" alt=""><figcaption><p>Reset Formats by selecting the entire table</p></figcaption></figure>
+
 ### **2. Reset value**
 
 In the below example, you can see that two values are edited in '2021 Actuals'.
@@ -61,7 +66,29 @@ All the notes have been removed.
 
 <figure><img src="../../../.gitbook/assets/Notes clear.png" alt=""><figcaption><p>Notes removed</p></figcaption></figure>
 
-### 4. Reset All
+### 4. Reset Header order
+
+Your dataset may contain date values that are not in Power BI standard format, in this case, Inforiver will order the fields alphabetically. If you have re-ordered the fields for analysis, you can easily revert to the original alphabetical sequence using the ‘Reset Header order’ option.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/image (824).png" alt=""><figcaption><p>Reset header order option</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/reset header order.png" alt=""><figcaption><p>Headers restored to original alphabetical order</p></figcaption></figure>
+
+</div>
+
+### 5. Reset Row order
+
+If you have re-ordered the rows in your reports, you can use this option to quickly restore the original order as configured in your Power BI data model. Note that Power BI sort cannot be used if the row order has been modified - you can apply this option if you need to revert to Power BI sorting.
+
+&#x20;Notice how the product names are re-arranged when the Reset Row order option is clicked.
+
+<figure><img src="../../../.gitbook/assets/Untitled Project (4).gif" alt=""><figcaption><p>Reset row order</p></figcaption></figure>
+
+### 6. Reset All
 
 To remove all the changes in the visual and reset to the original settings, select 'Reset All'.
 
