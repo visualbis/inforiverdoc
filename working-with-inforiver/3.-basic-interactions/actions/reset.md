@@ -5,6 +5,7 @@ Reset option allows you to remove or revert any changes that have been made to a
 * Reset formats: This option removes any formatting that has been applied to the cells, such as font color, font size, and cell borders.
 * Reset value: This option resets any changes to the cell values.
 * Reset notes: This option deletes all the notes added to the report.
+* Reset header order: This option restores the ordering of header categories.
 * Reset row order: This option reverts to the original ordering of row categories.
 * Reset all: This option removes all the changes to the report including formatting, data edits, charts, filtering etc., and restores it to the original state.
 
