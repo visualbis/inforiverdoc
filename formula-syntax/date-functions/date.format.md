@@ -34,4 +34,4 @@ DATE.FORMAT("DD MM YY")
 //returns 11 06 24
 ```
 
-<figure><img src="../../.gitbook/assets/image (725).png" alt=""><figcaption><p>DATE.FORMAT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (725) (2).png" alt=""><figcaption><p>DATE.FORMAT</p></figcaption></figure>

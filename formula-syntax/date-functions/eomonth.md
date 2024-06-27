@@ -30,8 +30,8 @@ EOMONTH("05/29/2024",3)
 //Returns 31/8/2024, adding 3 more months to 31/5/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (727).png" alt=""><figcaption><p>EOMONTH</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (727) (2).png" alt=""><figcaption><p>EOMONTH</p></figcaption></figure>
 
 If you wish to add one or two more months to the ending date, you can use 1 or 2 as offset values respectively.
 
-<figure><img src="../../.gitbook/assets/image (728).png" alt=""><figcaption><p>EOMONTH with offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (728) (2).png" alt=""><figcaption><p>EOMONTH with offset</p></figcaption></figure>

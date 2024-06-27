@@ -30,5 +30,5 @@ EOQTR("05/29/2024",1)
 //Returns 30/9/2024, adding 1 more quarter to 30/6/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (729).png" alt=""><figcaption><p>EOQTR</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (729) (2).png" alt=""><figcaption><p>EOQTR</p></figcaption></figure>
 

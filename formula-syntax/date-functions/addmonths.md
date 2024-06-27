@@ -21,4 +21,4 @@ Date.
 
 ### Example <a href="#example" id="example"></a>
 
-<figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption><p>ADDMONTHS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (721) (2).png" alt=""><figcaption><p>ADDMONTHS</p></figcaption></figure>

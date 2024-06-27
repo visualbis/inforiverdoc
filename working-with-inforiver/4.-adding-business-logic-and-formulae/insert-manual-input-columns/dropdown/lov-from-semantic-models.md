@@ -40,9 +40,9 @@ You can assign regions from the multi-select dropdown after completing the steps
 
 <figure><img src="../../../../.gitbook/assets/image (716).png" alt=""><figcaption><p>Multi-select dropdown sourced from the dataset</p></figcaption></figure>
 
-**STEP 5:** After configuring and creating the dropdown, to preview all the options sourced from the semantic model, click the <img src="../../../../.gitbook/assets/image (12).png" alt="" data-size="line">icon. If you need to change the configuration, click the <img src="../../../../.gitbook/assets/image (518).png" alt="" data-size="line">icon to open the semantic model configuration window.
+**STEP 5:** After configuring and creating the dropdown, to preview all the options sourced from the semantic model, click the <img src="../../../../.gitbook/assets/image (12) (5).png" alt="" data-size="line">icon. If you need to change the configuration, click the <img src="../../../../.gitbook/assets/image (518) (3).png" alt="" data-size="line">icon to open the semantic model configuration window.
 
-<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Previewing options</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11) (9).png" alt=""><figcaption><p>Previewing options</p></figcaption></figure>
 
 ### 2. Using joins and filters
 
@@ -89,14 +89,14 @@ The underlying data in the semantic model is likely to change - there may be new
 
 #### Triggering ad-hoc refreshes
 
-You need to check the **Require Semantic model Refresh** option to trigger manual refreshes. Click the <img src="../../../../.gitbook/assets/image (7) (1).png" alt="" data-size="line">icon in the Options section to trigger a refresh from within the Inforiver visual.
+You need to check the **Require Semantic model Refresh** option to trigger manual refreshes. Click the <img src="../../../../.gitbook/assets/image (7) (1) (3).png" alt="" data-size="line">icon in the Options section to trigger a refresh from within the Inforiver visual.
 
 <figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Manual refreshes</p></figcaption></figure>
 
 Inforiver also provides an **API endpoint** to manually sync the semantic  model from outside the visual. The API endpoint is provided in the Refresh Link section. [Learn more about working with API endpoints and authorization tokens.](../../../../admin-console/settings/api-token.md)
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>API refresh option</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (11).png" alt=""><figcaption><p>API refresh option</p></figcaption></figure>
 
-Click on the <img src="../../../../.gitbook/assets/image (9).png" alt="" data-size="line">icon to view the semantic model refresh history. Any errors that occur during the refresh can be viewed from this screen.
+Click on the <img src="../../../../.gitbook/assets/image (9) (9).png" alt="" data-size="line">icon to view the semantic model refresh history. Any errors that occur during the refresh can be viewed from this screen.
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Refresh history portal</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (8).png" alt=""><figcaption><p>Refresh history portal</p></figcaption></figure>

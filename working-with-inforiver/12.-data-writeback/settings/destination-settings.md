@@ -10,7 +10,7 @@ If the [writeback filter](general-settings.md#ii-filter) has been changed, a res
 
 For demonstration purposes, consider a SQL server destination to which the base and scenario data have been written back. The count of data populated in the database, region-wise and subregion-wise is as follows:
 
-<figure><img src="../../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption><p>Count of region-wise data after writeback</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption><p>Count of region-wise data after writeback</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (7) (5) (1).png" alt=""><figcaption><p>Count of subregion-wise data after writeback</p></figcaption></figure>
 

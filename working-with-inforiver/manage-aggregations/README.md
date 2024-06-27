@@ -6,11 +6,11 @@ Inforiver’s aggregation feature allows you to override the native Power BI agg
 
 **Row aggregation:** You can specify the aggregation to be applied on row subtotals and grand total.
 
-<figure><img src="../../.gitbook/assets/image (776).png" alt=""><figcaption><p>Row aggregation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (776) (1).png" alt=""><figcaption><p>Row aggregation</p></figcaption></figure>
 
 **Column aggregation: Y**ou can specify the aggregation to be applied on the column grand total and subtotals.
 
-<figure><img src="../../.gitbook/assets/image (777).png" alt=""><figcaption><p>Column aggregation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (777) (1).png" alt=""><figcaption><p>Column aggregation</p></figcaption></figure>
 
 Click the **Aggregation** button in the **Insert** ribbon to open the **Manage Aggregation** interface.
 
@@ -18,7 +18,7 @@ Click the **Aggregation** button in the **Insert** ribbon to open the **Manage A
 
 You can specify the row and column aggregation for individual measures and columns from the **Measure** tab. Select the aggregation type from the dropdown against the measure name.
 
-<figure><img src="../../.gitbook/assets/image (778).png" alt=""><figcaption><p>Measure level row and column aggregation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (778) (1).png" alt=""><figcaption><p>Measure level row and column aggregation</p></figcaption></figure>
 
 * **Sum** set as row aggregation for 2024 Plan: The sum of the child rows will be used to populate the row subtotal and grand total.
 * **Maximum** set as row aggregation for 2024 Actuals: The maximum value in the child rows will be used to populate the row subtotal and grand total.

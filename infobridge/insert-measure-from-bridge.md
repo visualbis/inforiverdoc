@@ -1,0 +1,47 @@
+# Insert measure from bridge
+
+Just like we inserted rows, we can also insert data input measures from one visual into another visual. We will demonstrate this with an example.&#x20;
+
+Consider two reports: one that has the employee salary details at the lowest hierarchical level (Org > Dept > Job Title > Employee > Salary) and another that has the aggregated salary data rolled up to the department level (Org > Dept).
+
+<figure><img src="../.gitbook/assets/image (805).png" alt=""><figcaption><p>Source visual</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (806).png" alt=""><figcaption><p>Target visual</p></figcaption></figure>
+
+Let us assume we want to include the data input measure 'Additional Bonus', from the first visual to the second visual. Here are the steps involved:
+
+**STEP 1:** Create a bridge with the source visual using the steps illustrated [here.](create-bridge.md#id-1.-through-inforiver-console) The bridge is created as below:
+
+<figure><img src="../.gitbook/assets/image (807).png" alt=""><figcaption><p>Bridge with source visual</p></figcaption></figure>
+
+**STEP 2:** Perform the required transformations on the bridge source, if necessary.&#x20;
+
+In this example, we need to remove the row categories from the source that are not present in the target visual. Click on **Pivot Table**, remove the categories and click **Apply**.
+
+<figure><img src="../.gitbook/assets/image (808).png" alt=""><figcaption><p>Remove row categories</p></figcaption></figure>
+
+The result is shown below. Note that we need to insert the highlighted data input measures into the target visual.
+
+<figure><img src="../.gitbook/assets/image (809).png" alt=""><figcaption><p>Source visual - transformed</p></figcaption></figure>
+
+**STEP 3:** Map the dimensions between the source and the target visuals for integration. The steps are illustrated [here.](insert-rows-from-bridge.md#id-2.-mapping-dimensions-between-the-reports)&#x20;
+
+<figure><img src="../.gitbook/assets/Mapping infob.gif" alt=""><figcaption><p>New integration and mapping</p></figcaption></figure>
+
+**STEP 4:** Using **Insert Measure** option, insert the measures into the target visual.
+
+1. Click on **InfoBridge ->** **Insert Measure** In the target visual. You can also use **Data Input -> Import from Infobridge** to insert an Infobridge measure.
+
+<figure><img src="../.gitbook/assets/image (813).png" alt=""><figcaption><p>Import from Infobridge</p></figcaption></figure>
+
+2. In the side panel, select the required mapping from the dropdown, the measure to be included, and click **Create.**&#x20;
+
+<figure><img src="../.gitbook/assets/insert measure infob.gif" alt=""><figcaption><p>Measure inserted</p></figcaption></figure>
+
+3. The measure is now inserted. It can be managed similar to Inforiver data input measure.
+
+<figure><img src="../.gitbook/assets/image (810).png" alt=""><figcaption><p>Manage Infobridge measure</p></figcaption></figure>
+
+4. However, the measure values are read-only and can not be edited. Any changes made in the source are automatically updated in the target.
+
+<figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption><p>Read-only Infobridge measures</p></figcaption></figure>

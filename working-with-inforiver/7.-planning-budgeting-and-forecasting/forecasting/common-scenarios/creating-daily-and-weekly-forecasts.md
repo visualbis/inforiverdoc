@@ -16,7 +16,7 @@ Let's configure a sales forecast from March 11th to 15th.
 
 Select the measure that will be used to populate closed forecast periods. [Learn more about generating forecasts.](../../forecasting.md#id-1.-generating-a-forecast)
 
-<figure><img src="../../../../.gitbook/assets/image (517).png" alt=""><figcaption><p>Enter the forecast period</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (517) (3).png" alt=""><figcaption><p>Enter the forecast period</p></figcaption></figure>
 
 **STEP 2:**  You can specify the source to populate forecasts. [Learn more about configuring forecasts.](../../forecasting.md#id-2.-configuring-the-forecast) As shown below, you can configure the forecast for each day or the entire period.
 

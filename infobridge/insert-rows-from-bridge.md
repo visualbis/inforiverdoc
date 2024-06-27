@@ -1,0 +1,81 @@
+# Insert rows from bridge
+
+In this section, we will demonstrate how to extract rows from the source visual and insert them into a target visual.
+
+We need to combine data from two reports. The first report contains product sales and COGS data for the _France_ region (source visual), while the second report contains the same information for _all_ regions (destination visual).
+
+Here are the visuals:
+
+<figure><img src="../.gitbook/assets/image (776).png" alt=""><figcaption><p>Source Visual</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (777).png" alt=""><figcaption><p>Target visual</p></figcaption></figure>
+
+**STEP 1:** Add the source visual to the bridge. This enables us to perform any data transformations on it if required and enables the first step for integration.&#x20;
+
+**STEP 2:** Map the dimensions and measures between the source and destination visuals, ensuring a seamless integration.
+
+**STEP 3:** Insert rows from the source to the target visual using the **Insert Rows** option.
+
+{% hint style="info" %}
+If the source visual is already available in a bridge in the required format, you can directly start with step 2, [mapping the dimensions](insert-rows-from-bridge.md#mapping-dimensions-between-the-reports).
+{% endhint %}
+
+{% hint style="info" %}
+Both the source and target visuals can be part of the same bridge.&#x20;
+
+In this scenario, we can either utilize the 'Append Query' transformation option within the bridge to integrate them, or use the 'Insert Rows' feature from the Inforiver source visual while selecting the target visual from the necessary query in the bridge.
+{% endhint %}
+
+### 1. Adding source visual to the bridge
+
+1. Create a new bridge with the source visual using **InfoBridge ->** **Create Bridge** option following the steps illustrated [here](create-bridge.md#id-1.-through-inforiver-console).
+
+<figure><img src="../.gitbook/assets/image (778).png" alt=""><figcaption><p>Create bridge with source visual</p></figcaption></figure>
+
+2. The bridge is created as below.
+
+<figure><img src="../.gitbook/assets/image (779).png" alt=""><figcaption><p>Bridge source</p></figcaption></figure>
+
+You can also transform the source data using the options in the bridge, before it is included in the target visual.&#x20;
+
+### 2. Mapping dimensions between the visuals
+
+Before combining the source and the target visuals, we must first map their respective dimensions and measures to establish their relationship, ensuring a seamless integration.
+
+1. To map the dimensions, click **Manage Integration** in the target visual under the **InfoBridge** tab. In the side panel that opens, click **Add New.**
+
+<figure><img src="../.gitbook/assets/image (782).png" alt=""><figcaption><p>Add New Integration</p></figcaption></figure>
+
+2. In the pop-up window, select the bridge that contains the source.&#x20;
+
+<figure><img src="../.gitbook/assets/image (785).png" alt=""><figcaption><p>Select the bridge</p></figcaption></figure>
+
+3. After selecting, the bridge details are displayed. Select the required source query within the bridge and click **Next.**
+
+<figure><img src="../.gitbook/assets/image (783).png" alt=""><figcaption><p>Select the source query</p></figcaption></figure>
+
+4. This navigates you to the 'Map Dimension' tab. Verify the mapping of rows, columns, and measures between the source and the destination visuals. Manually map them if required. Click **Add.**
+
+<figure><img src="../.gitbook/assets/image (784).png" alt=""><figcaption><p>Map Dimensions</p></figcaption></figure>
+
+The mapping is now done.
+
+### 3. Insert rows from source to target
+
+1. In the target visual, select any row and click **Insert Rows** from the **InfoBridge** tab.
+
+<figure><img src="../.gitbook/assets/image (786).png" alt=""><figcaption><p>Insert Rows</p></figcaption></figure>
+
+2. Preview the source query and click **Save.** To add new query, click 'Add New Query'. You can add as many queries as required if you want to further add new sources.
+
+<figure><img src="../.gitbook/assets/image (787).png" alt=""><figcaption><p>Preview source query</p></figcaption></figure>
+
+3. The rows are successfully inserted as below. Rows inserted from the bridge source are marked with a link icon beside them.
+
+<figure><img src="../.gitbook/assets/image (788).png" alt=""><figcaption><p>Report with inserted rows from bridge source</p></figcaption></figure>
+
+{% hint style="info" %}
+Infobridge rows are read-only and cannot be edited. Any changes made in the source are automatically updated in the target.
+{% endhint %}
+
+In the next section, we will look at inserting measures from one visual to another.

@@ -34,4 +34,4 @@ EOWEEK("05/29/2024",3)
 
 If you wish to add one or two more weeks to the ending date, you can use 1 or 2 as offset values respectively.
 
-<figure><img src="../../.gitbook/assets/image (726).png" alt=""><figcaption><p>EOWEEK with offset </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (726) (2).png" alt=""><figcaption><p>EOWEEK with offset </p></figcaption></figure>

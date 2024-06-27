@@ -30,6 +30,6 @@ EOYEAR("5/29/2024",1)
 //Returns 31/12/2025, adding 1 year to 31/12/2024
 ```
 
-<figure><img src="../../.gitbook/assets/image (730).png" alt=""><figcaption><p>EOYEAR</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (730) (2).png" alt=""><figcaption><p>EOYEAR</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (731).png" alt=""><figcaption><p>EOYEAR with offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (731) (2).png" alt=""><figcaption><p>EOYEAR with offset</p></figcaption></figure>

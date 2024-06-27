@@ -111,7 +111,7 @@ If the 'Single' or 'Double' option is selected for the major gridlines, then a c
 
 In the below example, 'Double' major gridlines are inserted and their colors are set to blue.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Major gridlines</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Major gridlines</p></figcaption></figure>
 
 If 'Off' is selected, the major gridlines will not be displayed. This option is set to 'Off' by default.
 
@@ -143,7 +143,7 @@ This option allows you to set the minor grid line gap between the rows.&#x20;
 The minimum and maximum skip line values are 1 and 10 respectively.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Skip lines</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Skip lines</p></figcaption></figure>
 
 #### Header
 
@@ -153,11 +153,11 @@ This option lets you insert gridlines for the column headers. If this option is 
 &#x20;The color of the header gridline is the same as that of the horizontal gridlines by default.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Header color</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Header color</p></figcaption></figure>
 
 If you change the color of the header gridline, the color of the horizontal gridlines also gets changed accordingly.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Header and horizontal gridline color</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Header and horizontal gridline color</p></figcaption></figure>
 
 #### Vertical
 
@@ -170,7 +170,7 @@ If the 'Solid lines' option is selected for the vertical lines, a color picker o
 
 In the example, Solid vertical gridlines are inserted and their colors are set to red.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Vertical gridlines</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Vertical gridlines</p></figcaption></figure>
 
 ### 6. Table padding
 
@@ -180,7 +180,7 @@ This option allows you to insert spacing/padding for the table from the top, bot
 The minimum and maximum padding values are 0 and 100 respectively.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Table padding</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>Table padding</p></figcaption></figure>
 
 ### 7. Custom date format
 

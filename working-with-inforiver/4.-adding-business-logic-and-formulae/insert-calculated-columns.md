@@ -128,7 +128,7 @@ Note: When you select weighted average as the row aggregation type, the column a
 
 You can view and edit the aggregation for formula measures from the Manage aggregation interface. [Learn more about aggregation features in Inforiver.](../manage-aggregations/)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Row and column aggregation for formula fields</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (822).png" alt=""><figcaption><p>Row and column aggregation for formula fields</p></figcaption></figure>
 
 #### Resources
 

@@ -206,7 +206,7 @@ You can do this while creating a pin chart, or add them after creating a pin cha
 
 4. After applying outliers, the report shows below, highlighting the profit values exceeding 15k.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Outliers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Outliers</p></figcaption></figure>
 
 ### **vii) Data label config**&#x20;
 

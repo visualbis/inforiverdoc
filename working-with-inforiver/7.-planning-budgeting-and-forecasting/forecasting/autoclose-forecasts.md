@@ -26,7 +26,7 @@ Open forecasts are closed automatically on the calendar day specified in the adm
 
 The workday option excludes weekends and holidays and will close the forecast on the specified working day. You can select the holiday calendar(s) to refer to when the workday option is chosen.
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Auto close using workdays</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (2).png" alt=""><figcaption><p>Auto close using workdays</p></figcaption></figure>
 
 This setting can be viewed in the edit forecast settings as well.
 
