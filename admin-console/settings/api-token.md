@@ -62,7 +62,7 @@ Inforiver also provides an API to refresh single-select and multi-select dropdow
 
 3. After creating the single select, navigate to manage measures and edit the single select. You'll be able to see a **Refresh Link** in the Options section - this is the API endpoint.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>API refresh link</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (4).png" alt=""><figcaption><p>API refresh link</p></figcaption></figure>
 
 3. Let's trigger the semantic data model refresh, as demonstrated below using Postman. Use the token generated in STEP 1 in the admin console for authorization. You need to pass the **semantic-refresh=true** parameter to the API endpoint.
 
@@ -70,4 +70,4 @@ Inforiver also provides an API to refresh single-select and multi-select dropdow
 
 5. The dropdown options are refreshed with the latest values from the semantic model.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Refreshed values in the single-select</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (4).png" alt=""><figcaption><p>Refreshed values in the single-select</p></figcaption></figure>
