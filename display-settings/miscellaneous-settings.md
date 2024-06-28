@@ -24,13 +24,19 @@ This option lets you add quick shortcut icons in the Actions section. The _Undo,
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Quick shortcuts</p></figcaption></figure>
 
-#### 1.4. Show info messages
+#### 1.5. Show info logo
+
+You can click on the Inforiver logo at the bottom right-hand corner of the visual to get a synopsis of the report. You can quickly verify the license details and statistics like the number of measures and rows in your report. The **Show Info Logo** option needs to be enabled in miscellaneous settings.
+
+<figure><img src="../.gitbook/assets/image (825).png" alt=""><figcaption><p>Show info logo</p></figcaption></figure>
+
+#### 1.6. Show info messages
 
 You can disable this option if you do not wish to see pop-up notifications and info messages.
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Show info messages</p></figcaption></figure>
 
-#### 1.5.  Absolute sort
+#### 1.7.  Absolute sort
 
 Enabling this option will sort measures based on the magnitude, irrespective of whether a value is positive or negative.
 
@@ -40,39 +46,53 @@ Notice how the values are sorted based on magnitude when absolute sort is turned
 
 <figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption><p>Absolute sort enabled</p></figcaption></figure>
 
-#### 1.6. Show measure header
+#### 1.8. Fill image
+
+If you are using image URLs as measure headers, enable the Fill Image toggle to expand the image and fill the entire measure header cell.
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption><p>Fill image enabled</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/fill image disabled.png" alt=""><figcaption><p>Fill image disabled</p></figcaption></figure>
+
+</div>
+
+#### 1.9. Show measure header
 
 The column or measure headers will hidden if this option is disabled.
 
 <figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption><p>Show measure header</p></figcaption></figure>
 
-#### 1.7. Fiscal year start month
+#### 1.10. Fiscal year start month
 
 Inforiver supports planning, budgeting, and forecasting for fiscal periods as well. You can set the start month of the fiscal year using this option.
 
 <figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption><p>Fiscal year start month</p></figcaption></figure>
 
-#### 1.8. Show floating toolbar
+#### 1.11. Show floating toolbar
 
 When the main toolbar has been unpinned, you will still be able to apply cell-level formatting, show/hide cell values, and add comments using the floating toolbar. Disable this option if you do not require the floating toolbar.
 
 <figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption><p>Show floating toolbar</p></figcaption></figure>
 
-#### 1.9. Diagnose
+#### 1.12. Diagnose
 
 This option can be enabled if you wish to mask your data and generate random values when the data is being shared and security is a concern.
 
-#### 1.10 Allow native measure editing in read view
+#### 1.13 Allow native measure editing in read view
 
 If this option is enabled, report users in the reading view can update native measures.
 
-#### 1.11. Increase scroll thickness
+#### 1.14. Increase scroll thickness
 
 You can increase the thickness of the horizontal and vertical scrollbars using by enabling this option.
 
 <figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
 
-#### 1.12. Hide pinned base rows
+#### 1.15. Hide pinned base rows
 
 Inforiver’s _pin rows_ feature enables you to tag important rows in your data at the top of your report. Using this feature creates duplicate rows at the visual level (there is no change to your data). In the report below, notice how the pinned rows such as ‘Bookcases’ are repeated in the table below.&#x20;
 
@@ -82,13 +102,27 @@ You can enable the _**Hide pinned base rows**_ option to hide the actual row and
 
 <figure><img src="../.gitbook/assets/2.2.1. hide pinned rows output.png" alt=""><figcaption><p>Hide pinned base rows enabled</p></figcaption></figure>
 
-#### 1.13. Language
+#### 1.16. Language
 
 Inforiver supports English (the default language) and German language interfaces. You can choose one of the options. In the image below, **German** is selected to change all the menus, tabs, and options to the German language.
 
 <figure><img src="../.gitbook/assets/5.1. German language-final.png" alt=""><figcaption><p>German language interface</p></figcaption></figure>
 
-#### 1.14. Right to left
+#### 1.17. Populate missing AC with FC
+
+When you have actual and forecast measures in your report, if the AC values are missing for a particular category, Inforiver can populate FC values instead of AC.
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (827).png" alt=""><figcaption><p>Populate missing AC with FC disabled</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Populate missing AC with FC.png" alt=""><figcaption><p>Populate missing AC with FC enabled</p></figcaption></figure>
+
+</div>
+
+#### 1.18. Right to left
 
 Reports with RTL support improve the user experience for readers of RTL languages, making it easier for them to navigate, understand, and interpret the information presented. When the right-to-left option is enabled:
 
