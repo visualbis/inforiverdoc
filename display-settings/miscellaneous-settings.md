@@ -28,7 +28,7 @@ This option lets you add quick shortcut icons in the Actions section. The _Undo,
 
 You can click on the Inforiver logo at the bottom right-hand corner of the visual to get a synopsis of the report. You can quickly verify the license details and statistics like the number of measures and rows in your report. The **Show Info Logo** option needs to be enabled in miscellaneous settings.
 
-<figure><img src="../.gitbook/assets/image (825).png" alt=""><figcaption><p>Show info logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (825) (1).png" alt=""><figcaption><p>Show info logo</p></figcaption></figure>
 
 #### 1.6. Show info messages
 
@@ -52,7 +52,7 @@ If you are using image URLs as measure headers, enable the Fill Image toggle to 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption><p>Fill image enabled</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (826) (1).png" alt=""><figcaption><p>Fill image enabled</p></figcaption></figure>
 
  
 
@@ -114,7 +114,7 @@ When you have actual and forecast measures in your report, if the AC values are 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (827).png" alt=""><figcaption><p>Populate missing AC with FC disabled</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (827) (1).png" alt=""><figcaption><p>Populate missing AC with FC disabled</p></figcaption></figure>
 
  
 

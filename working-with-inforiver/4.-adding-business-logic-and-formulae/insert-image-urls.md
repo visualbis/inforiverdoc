@@ -12,16 +12,16 @@ The Power BI data category type should be ‘Image URL’ to embed images in rep
 
 When comparing different items, row-level images can make it easier to distinguish between them. It also makes it easier for users to identify and locate data.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Cell level images</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (832).png" alt=""><figcaption><p>Cell level images</p></figcaption></figure>
 
 * **Column level images**
 
 Assign the image URL field to the column dimension visual parameter to use images as measure headers instead of category names.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Column level images</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (15).png" alt=""><figcaption><p>Column level images</p></figcaption></figure>
 
 * **Images as row categories**
 
 Assign the image URL to the row dimension visual parameter to use images as row categories.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Images as row categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (15).png" alt=""><figcaption><p>Images as row categories</p></figcaption></figure>

@@ -1,16 +1,79 @@
 # Bridge Interface
 
-Every bridge has a transformation editor that allows you to add sources, transform and prepare the data as required. As soon as you create a new bridge, you will be navigated to the bridge interface as below.
+Every bridge includes a transformation editor that allows you to transform and prepare the data as required. As soon as you create a new bridge, you will be navigated to the bridge interface, as shown below.
 
-<figure><img src="../.gitbook/assets/image (821).png" alt=""><figcaption><p>Bridge interface</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (831).png" alt=""><figcaption><p>Bridge interface</p></figcaption></figure>
 
 It has five distinct sections:
 
-1. **Toolbar** - It consists of various menus and tabs to add and manage sources/queries, transform data, view logs, export and writeback data.
-2. **Queries pane** - This pane at the left provides a list of all your available queries for integration, viewing, editing and transformation. You can select the required query to view the data in the working area and also transform them as required.
-3. **Working area** - This is your main working space where you can view your data and the results of the applied transformations. At the top, there is a small menu bar with options to format the viewing style, number scaling, totals display, etc.
-4. **Query Settings & Writeback pane** - When you select a query, this pane at the right displays the list of sources in the query and their respective links to navigate to them, the list of performed transformation steps, and post-processing options like writeback settings.
-5. **Status bar** - The status bar at the bottom displays the total number of pages and rows in the current query. This bar also contains buttons to zoom in or out and to navigate to the different pages.
+1. [**Toolbar:**](bridge-interface.md#id-1.-tool-bar) It contains menus and tabs for adding and managing sources, transforming data, viewing logs, exporting, and writing back data.
+2. [**Queries pane:**](bridge-interface.md#id-2.-queries-pane) This pane at the left provides a list of all your available queries for viewing, editing, transformation and integration. Select the desired query here to view and transform the data.
+3. [**Working view:**](bridge-interface.md#id-3.-working-view) This is your primary working view, where you can view your data and the results of the applied transformations. A small menu bar at the top allows you to change the viewing style, number scaling, total display and other settings.
+4. [**Query Settings & Writeback pane:**](bridge-interface.md#id-4.-query-settings-and-writeback-pane) This pane at the right displays the list of sources and their links for the current query, as well as the applied transformation steps and post-processing options such as writeback settings.
+5. [**Status bar:**](bridge-interface.md#id-5.-status-bar) The status bar at the bottom shows the total number of pages and rows in the current query. It also has buttons for zooming in and out, as well as navigating to different pages.
 
-Let us discuss each section in detail in the upcoming sections.
+## Using the bridge editor interface
 
+In this section, we begin transforming our data for real-time integration and collaboration. But before we start working on that, we will discuss the aforementioned UI panes in detail.&#x20;
+
+### 1. Tool Bar
+
+The Toolbar contains most of the transformations and actions that we can do in the bridge editor interface. It has multiple tabs. Each tab provides specific buttons and options, while some common options are always made available. With a click of these buttons and options, you can easily transform your data.
+
+* The 'Home' tab contains all the query-related actions, data-related actions like pivoting, grouping, etc., and export options.&#x20;
+
+<figure><img src="../.gitbook/assets/image (828).png" alt=""><figcaption><p>Tool bar</p></figcaption></figure>
+
+* The 'Data' tab displays a subset of the 'Home' tab options, that primarily focus on data sourcing and querying.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Data tab</p></figcaption></figure>
+
+* The 'Transform' tab displays all the data-related transformation options, such as filter, sort, pivot, unpivot, grouping, extracting data, renaming and removing columns, etc.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Transform tab</p></figcaption></figure>
+
+* The 'Writeback' tab displays three options: writeback, writeback settings and writeback logs. You can also access these options from the [Query Settings and Writeback pane.](bridge-interface.md#id-4.-query-settings-and-writeback-pane)
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Writeback tab</p></figcaption></figure>
+
+* The 'Logs' tab displays all jobs associated with the bridge. It includes a search box and filters for extracting specific logs based on the query, source, who started the job, when the job started, job type, and status. This can help with troubleshooting the required jobs.
+
+<figure><img src="../.gitbook/assets/image (825).png" alt=""><figcaption><p>Logs tab</p></figcaption></figure>
+
+* The 'Integration' tab displays the Inforiver and ValQ visuals linked to the selected query. Select a query from the queries pane to view its visual mappings. When looking for integrations, you can use the search box or filters to find a specific mapping.
+
+The 'Earnings-source visual' query in the image below is linked to the Inforiver report 'Sum of Earnings by OrgName, Department'. This allows the visual to pull data from the query via the bridge.
+
+<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption><p>Integration tab</p></figcaption></figure>
+
+### 2. Queries pane
+
+This pane displays all your queries generated from various data sources for your review. Beside each query, you have options to rename, refresh, duplicate, and delete it. When you select the required query, the corresponding data is loaded into the workspace for viewing and transformation.
+
+<figure><img src="../.gitbook/assets/image (829).png" alt="" width="267"><figcaption><p>Queries pane</p></figcaption></figure>
+
+### 3. Working view
+
+Here you can see your query data as well as the transformation results. It also has a menu at the top where you can change the layout style, scale, increase or decrease decimals, and show or hide totals.
+
+<figure><img src="../.gitbook/assets/image (827).png" alt=""><figcaption><p>Working view</p></figcaption></figure>
+
+### 4. Query Settings & Writeback pane
+
+This section displays the list of connected sources, transformation steps completed, writeback settings, and the option to add new writeback destinations.
+
+#### **Source**
+
+Click the icon next to the source name to navigate to the desired source. You can also use the 'Refresh' option to refresh the source.
+
+#### Performed Steps
+
+The steps completed during the transformation are listed in this section. If required, you can modify and re-apply the steps, remove any of them, and add an explanatory note for each step.
+
+#### Post Processing
+
+It has writeback general and destination configuration settings and writeback logs.
+
+### 5. Status bar
+
+Navigate to the different pages in the query, and zoom in and out of the data using the options available here.
