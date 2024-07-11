@@ -1,8 +1,8 @@
-# Inforiver Matrix FAQs
+# Inforiver Reporting Matrix FAQs
 
-#### 1.  How do I purchase Inforiver Matrix? <a href="#headline-592-2838" id="headline-592-2838"></a>
+#### 1.  How do I purchase Inforiver Reporting Matrix? <a href="#headline-592-2838" id="headline-592-2838"></a>
 
-Visit Microsoft Appsource to purchase licenses for [Inforiver Matrix](https://appsource.microsoft.com/en-us/product/power-bi-visuals/xviz.inforiver-premium?tab=Overview). Subscription is available by tier and the fee varies based on the plans. To learn how to set up, pay for, and manage licenses for custom Power BI visuals purchased from AppSource, refer to this [article](https://learn.microsoft.com/en-us/power-bi/developer/visuals/licensing-faq).
+Visit Microsoft Appsource to purchase licenses for [Inforiver Reporting Matrix](https://appsource.microsoft.com/en-us/product/power-bi-visuals/xviz.inforiver-premium?tab=Overview). Subscription is available by tier and the fee varies based on the plans. To learn how to set up, pay for, and manage licenses for custom Power BI visuals purchased from AppSource, refer to this [article](https://learn.microsoft.com/en-us/power-bi/developer/visuals/licensing-faq).
 
 For other Inforiver licensing-related queries, visit the [General FAQ](https://inforiver.com/faq/) page.
 
@@ -26,7 +26,7 @@ With our enterprise edition – you can save your theme, settings, etc., and it 
 
 #### 6. Can I use Inforiver for budgeting/forecasting? <a href="#headline-608-2838" id="headline-608-2838"></a>
 
-Yes. With Inforiver Premium Matrix and Enterprise, you can input and create new budgets or forecasts in seconds. Specifically, you can (a) Create forecasts based on past sales data, (b) Create forecasts from a blank template, (c) Allocate forecasts across countries or product categories proportional to past performance, (d) Perform dynamic what-if simulations to adjust forecasts using a slider interface (e) Comment and annotate on budgets, forecasts, plan, or variance data points, and (f) writeback forecast data along with notes & comments.
+Yes. With Inforiver Reporting Matrix and Writeback Matrix, you can input and create new budgets or forecasts in seconds. Specifically, you can (a) Create forecasts based on past sales data, (b) Create forecasts from a blank template, (c) Allocate forecasts across countries or product categories proportional to past performance, (d) Perform dynamic what-if simulations to adjust forecasts using a slider interface (e) Comment and annotate on budgets, forecasts, plan, or variance data points, and (f) writeback forecast data along with notes & comments.
 
 Note: Points e and f are supported only in Inforiver Writeback Matrix
 
@@ -57,17 +57,19 @@ Inforiver supports [collaboration](https://inforiver.com/collaborate-powerbi/) w
 
 Users can post, reply, and mention users; email notifications are sent on replies and mentions. Authors can restrict access to who can post comments in the visual. Comment digests can be scheduled at custom intervals that summarize all comments made between each run.
 
-However, these options are available only with [Inforiver Enterprise](https://inforiver.com/enterprise/).
+However, these options are available only with [Inforiver Writeback Matrix](https://inforiver.com/enterprise/).
 
 #### 11. Can I notify users using comments? <a href="#headline-632-2838" id="headline-632-2838"></a>
 
-Yes, users can be notified using commenting. @ can be used to look up the list of users from one’s organization. This feature is available only in [Inforiver Enterprise.](https://inforiver.com/enterprise/)
+Yes, users can be notified using commenting. @ can be used to look up the list of users from one’s organization. This feature is available only in [Inforiver ](https://inforiver.com/enterprise/)[Writeback Matrix](https://inforiver.com/enterprise/)[.](https://inforiver.com/enterprise/)
 
 #### 12. Can I write back the data from Inforiver to my data source? <a href="#headline-616-2838" id="headline-616-2838"></a>
 
-Inforiver [writeback](https://inforiver.com/writeback-powerbi/) allows users to post the data and comments from the visual to a supported destination. Writeback is supported only in [Inforiver Enterprise](https://inforiver.com/enterprise/) and the following destinations are supported.
+Inforiver [writeback](https://inforiver.com/writeback-powerbi/) allows users to post the data and comments from the visual to a supported destination. Writeback is supported only in [Inforiver ](https://inforiver.com/enterprise/)[Writeback Matrix](https://inforiver.com/enterprise/) and the following destinations are supported.
 
-Database – Azure SQL, Synapse Analytics Dedicated SQL Pool, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL server, SAP HANA, Oracle, Postgres, and MySQL.
+Database – Azure SQL, Synapse Analytics Dedicated SQL Pool, Snowflake, Amazon Redshift, BigQuery, SingleStore, SQL server, SAP HANA, Oracle, Postgres, Databricks, Dataverse and MySQL.
+
+One Lake Data Hub - Fabric Lakehouse, Fabric Warehouse
 
 OneDrive and SharePoint – Writeback file as a CSV to the selected folder&#x20;
 
@@ -75,7 +77,7 @@ URL – HTTPS post with the CSV as payload to a configured endpoint&#x20;
 
 #### 13. Is it possible to schedule reports to email or other destinations like OneDrive? <a href="#headline-642-2838" id="headline-642-2838"></a>
 
-Inforiver [scheduler](https://inforiver.com/schedule-reports-powerbi/) supports custom scheduling of reports to email and other external destinations like OneDrive, SharePoint, and Teams. Burst and broadcast of paginated reports honoring row-level security (RLS) are also possible. This is supported only in [Inforiver Enterprise](https://inforiver.com/enterprise/).&#x20;
+Inforiver [scheduler](https://inforiver.com/schedule-reports-powerbi/) supports custom scheduling of reports to email and other external destinations like OneDrive, SharePoint, and Teams. Burst and broadcast of paginated reports honoring row-level security (RLS) are also possible. This is supported only in [Inforiver Writeback Matrix](https://inforiver.com/enterprise/).&#x20;
 
 #### 14. Can we build our own product incorporating Inforiver and sell it to our customers for a license or subscription free? (OEM licensing) <a href="#headline-656-4516" id="headline-656-4516"></a>
 
