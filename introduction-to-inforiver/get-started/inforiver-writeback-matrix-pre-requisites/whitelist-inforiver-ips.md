@@ -7,7 +7,7 @@ Inforiver IP addresses to be whitelisted:
 
 i) 20.80.81.140 - 20.80.81.143&#x20;
 
-ii) 20.84.196.42
+ii) 172.170.162.240
 {% endhint %}
 
 ### 1. Whitelisting Inforiver for On-Prem Writeback
@@ -26,4 +26,4 @@ Follow the steps in the image below to whitelist the 5 Inforiver outbound IP add
 
 The screengrab below shows the firewall rules configured for Inforiver would.
 
-<figure><img src="../../../.gitbook/assets/image (8) (8) (1).png" alt=""><figcaption><p>Inforiver firewall rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Firewall rules configured for Inforiver</p></figcaption></figure>

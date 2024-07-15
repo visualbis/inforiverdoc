@@ -18,10 +18,10 @@ When comparing different items, row-level images can make it easier to distingui
 
 Assign the image URL field to the column dimension visual parameter to use images as measure headers instead of category names.
 
-<figure><img src="../../.gitbook/assets/image (1) (15).png" alt=""><figcaption><p>Column level images</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (15) (1).png" alt=""><figcaption><p>Column level images</p></figcaption></figure>
 
 * **Images as row categories**
 
 Assign the image URL to the row dimension visual parameter to use images as row categories.
 
-<figure><img src="../../.gitbook/assets/image (2) (15).png" alt=""><figcaption><p>Images as row categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (15) (1).png" alt=""><figcaption><p>Images as row categories</p></figcaption></figure>
