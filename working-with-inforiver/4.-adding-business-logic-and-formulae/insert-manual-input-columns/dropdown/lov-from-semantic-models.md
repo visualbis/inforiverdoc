@@ -2,7 +2,13 @@
 
 For the Single select and Multi-select columns, a list of values (LOV) can be created from your Power BI semantic models or other dimensions like Master Data reference fields. The options are dynamically updated as the source data changes.
 
-### 1. Creating a LOV from a semantic model
+### 1. Prerequisites
+
+In order to source dropdown options from published semantic models, users need to be able to query the semantic models using Power BI REST APIs. In the Power BI admin portal, enable the **Semantic Model Execute Queries REST API** toggle. Choose the **Apply to - The entire organization** radio button.
+
+<figure><img src="../../../../.gitbook/assets/MicrosoftTeams-image.png" alt=""><figcaption><p>Power BI Admin portal settings</p></figcaption></figure>
+
+### 2. Creating a LOV from a semantic model
 
 Let's create a LOV from the dataset for a multi-select column. We'll create a multi-select field to assign a subregion.
 
@@ -44,7 +50,7 @@ You can assign regions from the multi-select dropdown after completing the steps
 
 <figure><img src="../../../../.gitbook/assets/image (11) (9).png" alt=""><figcaption><p>Previewing options</p></figcaption></figure>
 
-### 2. Using joins and filters
+### 4. Using joins and filters
 
 #### Joins
 
@@ -78,7 +84,7 @@ The dropdown options for people data have now been fetched from the Retail - Peo
 
 <figure><img src="../../../../.gitbook/assets/Untitled Project (3).gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>
 
-### 3. Refreshing data
+### 4. Refreshing data
 
 The underlying data in the semantic model is likely to change - there may be new data added or updates to the existing data. Any updates to the underlying data should be reflected in the dropdown options too.&#x20;
 
