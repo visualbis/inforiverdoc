@@ -108,7 +108,17 @@ Inforiver supports English (the default language) and German language interfaces
 
 <figure><img src="../.gitbook/assets/5.1. German language-final.png" alt=""><figcaption><p>German language interface</p></figcaption></figure>
 
-#### 1.17. Populate missing AC with FC
+#### 1.18. Explorer cross filtering
+
+Inforiver allows you to dynamically filter and analyze data within the visual with the [KPI explorer](../working-with-inforiver/3.-basic-interactions/explore-and-filter-data/explorer.md) feature. Consider that you have a dashboard containing multiple Inforiver visuals, including Analytics+. When the Explorer cross filtering option is enabled, the KPI explorer selections made in one Inforiver visual will automatically filter the data in all the Inforiver visuals on that page.&#x20;
+
+<figure><img src="../.gitbook/assets/image (833).png" alt=""><figcaption><p>Explorer cross filtering option</p></figcaption></figure>
+
+In the gif below, notice how the Analytics+ visual and the second Inforiver visual are dynamically filtered based on the KPI selection in the main Inforiver visual.
+
+<figure><img src="../.gitbook/assets/Untitled Project (5).gif" alt=""><figcaption><p>Cross filtering other visuals with the KPI explorer</p></figcaption></figure>
+
+#### 1.18. Populate missing AC with FC
 
 When you have actual and forecast measures in your report, if the AC values are missing for a particular category, Inforiver can populate FC values instead of AC.
 
