@@ -1,24 +1,24 @@
 # Sparkline charts
 
-A sparkline is typically used to show trends in a series of values over time, such as stock prices or website traffic. Sparklines are often used in dashboards and other data visualizations to provide a  quick and condensed view of a data series.
+A sparkline is typically used to show trends in a series of values over time, such as stock prices or website traffic. Sparklines are often used in dashboards and other data visualizations to provide a quick and condensed view of a data series.
 
 Inforiver provides _line, area, baseline, column_s, and _win-loss_ sparkline charts.
 
 ## 1. Adding the chart
 
-In this example, we have 12 months of data across regions and categories and we want to visualize using a column sparkline chart.
+In this example, we have 12 months of data across regions and categories that we want to visualize using a column sparkline chart.
 
-a) To insert a sparkline chart, you need to add a time dimension in the column field. Note that we have added 'Month' in the 'Columns' field in the Visualization pane.&#x20;
+**STEP 1:**  To insert a sparkline chart, you need to add a dimension in the column field. Note that we have added 'Month' in the 'Columns' field in the Visualization pane.&#x20;
 
 <figure><img src="../../.gitbook/assets/sparkline-select.png" alt=""><figcaption><p>Data mapping</p></figcaption></figure>
 
-b) Select a column for which you want to insert the sparkline chart. In the following image, the 2022 Actuals for the month Jan has been selected.&#x20;
+**STEP 2**:  Select the column for which you want to insert the sparkline chart. In the following image, the 2022 Actuals for the month of January has been selected.&#x20;
 
-The sparkline chart option gets enabled. From the 'Sparkline chart' drop-down, select the 'Column sparkline chart'.&#x20;
+The sparkline chart option gets enabled. From the 'Sparkline chart' drop-down, select the _Column_ sparkline chart.&#x20;
 
 <figure><img src="../../.gitbook/assets/sparkline-column-chart-type-selection.png" alt=""><figcaption><p>Column and chart type selection</p></figcaption></figure>
 
-c) The spark column appears incorporating data for all the months. You can see the _minimum_ and _maximum_ values for each row in _red_ and _green_. You can see the 'Customize' tab in the toolbar and the following [customization options](sparkline-charts.md#2.-customization-options).
+**STEP 3:** The spark column appears in the grand total column, incorporating data for all the months. You can see the minimum and maximum values for each row highlighted in <mark style="color:red;">red</mark> and <mark style="color:green;">green</mark>. The Customize ribbon is enabled when you insert an inline chart.
 
 <figure><img src="../../.gitbook/assets/sparkline-cistomization-option.png" alt=""><figcaption><p>Sparkline customization options</p></figcaption></figure>
 
@@ -34,13 +34,45 @@ The following options are available for customizing a sparkline chart.
 Depending on the type of sparkline chart chosen, some of these options may or may not be available.
 {% endhint %}
 
-### **i) Sparkline**&#x20;
+### **2.1. Sparkline**&#x20;
 
-You can change your current sparkline chart type by clicking on the drop-down arrow in the 'Sparkline' section. In the image below, we have changed the chart type from '_Column sparkline_' to '_Baseline_'.
+You can change your current sparkline chart type by clicking the drop-down arrow in the **Sparkline** section. In the image below, we have changed the chart type from _Column_ to _Baseline_.
 
 <figure><img src="../../.gitbook/assets/sparkline-chart-type (1).png" alt=""><figcaption><p>Sparkline chart type options</p></figcaption></figure>
 
-### **ii) Marker**&#x20;
+### **2.1. Appearance**
+
+You can change the colors for the minimum, and maximum bars, variances, and data labels. Click on any of the color boxes to open the color picker.
+
+<figure><img src="../../.gitbook/assets/image (838).png" alt=""><figcaption><p>Setting colors</p></figcaption></figure>
+
+You can also choose the default theme option if you want to use the Power BI theme colors.
+
+<figure><img src="../../.gitbook/assets/image (839).png" alt=""><figcaption><p>Default theme</p></figcaption></figure>
+
+You can increase the thickness of line charts or the border for area charts by setting the Stroke Width.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (840).png" alt=""><figcaption><p>Stroke width</p></figcaption></figure>
+
+For Baseline charts, you can choose to apply a gradient. With this option, you can enable or disable the gradient coloring. If you enable this option, two additional options become available - _Area above 1_ and _Area above 2_ using which you can set the starting and ending colors for the gradient.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (841).png" alt=""><figcaption><p>Apply gradient</p></figcaption></figure>
+
+### **2.2. Null display**&#x20;
+
+Using the 'Null display' option, you can configure how you want to connect the null values in your dataset. In this example, the 2023 Budget for Feb and May is blank.&#x20;
+
+* **Connect over nulls** - If you select this option, then all the null data points in the dataset will be connected over by lines.&#x20;
+
+<figure><img src="../../.gitbook/assets/Connect over null.png" alt=""><figcaption><p>Connect over nulls</p></figcaption></figure>
+
+* **Consider null as 0** - All the null values in the dataset will be considered '_0' (Zero)_
+
+<figure><img src="../../.gitbook/assets/Consider null as 0.png" alt=""><figcaption><p>Consider null as 0</p></figcaption></figure>
+
+* **Skip the nulls** - All the null values will be skipped
+
+### **2.3. Marker**&#x20;
 
 From the 'Marker' drop-down, you can select the type of marker points you want to insert in your chart. Adding marker points in your chart helps you to analyze and understand the data better. You can insert marker for:
 
@@ -92,19 +124,7 @@ The axis config option is available only for the _baseline_ chart.
 
 **Style** - This option lets you configure how the axis line of the chart should look like. You can select any of the following styles for the axis line - _Solid, Dotted, Dashed, Long dashed_ and _Double solid._
 
-### **vi) Null display**&#x20;
-
-Using the 'Null display' option, you can configure how you want to connect the null values in your dataset. In this example, the 2023 Budget for Feb and May are blank.&#x20;
-
-* **Connect over nulls** - If you select this option, then all the null data points in the dataset will be connected over by lines.&#x20;
-
-<figure><img src="../../.gitbook/assets/Connect over null.png" alt=""><figcaption><p>Connect over nulls</p></figcaption></figure>
-
-* **Consider null as 0** - All the null values in the dataset will be considered '_0' (Zero)_
-
-<figure><img src="../../.gitbook/assets/Consider null as 0.png" alt=""><figcaption><p>Consider null as 0</p></figcaption></figure>
-
-* **Skip the nulls** - All the null values will be skipped
+###
 
 ### **vii) Padding**&#x20;
 
@@ -116,29 +136,9 @@ The padding option is available only for the _Column_ and _Win/Loss_ Sparklines.
 
 <figure><img src="../../.gitbook/assets/sparkline-padding.png" alt=""><figcaption><p>Sparkline padding option</p></figcaption></figure>
 
-### viii) Appearance
 
-This option lets you change the appearance of the sparkline charts. Clicking on this option will open up an 'Appearance' model in which you can configure the following properties:
 
-<figure><img src="../../.gitbook/assets/sparkline-appearance.png" alt=""><figcaption><p>Sparkline appearance option</p></figcaption></figure>
 
-**a) Apply default theme** - Enabling this option will apply default power BI themes and colors to your sparkline charts
-
-<figure><img src="../../.gitbook/assets/sparkline-default-theme.png" alt=""><figcaption><p>Sparklinee default theme</p></figcaption></figure>
-
-**b) Stroke width** - With this option, you can configure the width of the stroke of your sparkline charts. The default is 1.
-
-<figure><img src="../../.gitbook/assets/sparkline-stroke-width.png" alt=""><figcaption><p>Sparkline stroke width</p></figcaption></figure>
-
-**c) Base color** - Using this option you can configure the base color of the strokes of the sparkline charts
-
-**d) Max** - This option lets you set the color of the maximum point in the chart
-
-**e) Min** - This option lets you configure the color of the minimum point in the chart
-
-**f) Label** - This option lets you configure the color of the data label in the chart
-
-**g) Apply gradient** - With this option, you can enable or disable the gradient coloring. If you enable this option, two additional options become available. The 'Area above 1' and 'Area above 2' using which you can set the starting and ending colors for the area above the axis.
 
 <figure><img src="../../.gitbook/assets/sparkline-gradient.png" alt=""><figcaption><p>Sparkline apply gradient</p></figcaption></figure>
 
