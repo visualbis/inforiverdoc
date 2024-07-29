@@ -30,11 +30,11 @@ The Toolbar contains most of the transformations and actions that we can do in t
 
 * The 'Transform' tab displays all the data-related transformation options, such as filter, sort, pivot, unpivot, grouping, extracting data, renaming and removing columns, etc.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Transform tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (15).png" alt=""><figcaption><p>Transform tab</p></figcaption></figure>
 
 * The 'Writeback' tab displays three options: writeback, writeback settings and writeback logs. You can also access these options from the [Query Settings and Writeback pane.](bridge-interface.md#id-4.-query-settings-and-writeback-pane)
 
-<figure><img src="../.gitbook/assets/image (2) (15).png" alt=""><figcaption><p>Writeback tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (15) (1).png" alt=""><figcaption><p>Writeback tab</p></figcaption></figure>
 
 * The 'Logs' tab displays all jobs associated with the bridge. It includes a search box and filters for extracting specific logs based on the query, source, who started the job, when the job started, job type, and status. This can help with troubleshooting the required jobs.
 

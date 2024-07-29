@@ -30,7 +30,7 @@ Inforiver searches across pages if you are using the multiple pages option in th
 
 Inforiver provides nested AND/OR filtering options to filter a range of data based on the criteria you define.
 
-### i) Nested and grouped filters
+### 2.1. Nested and grouped filters
 
 a) In the 'Home' tab of the toolbar, click on the 'Filter' icon in the Analyze section.
 
@@ -72,11 +72,19 @@ j) Click on 'Reset all' to reset all the filters.
 
 <figure><img src="../../../.gitbook/assets/Delete1.png" alt=""><figcaption><p>Delete, Reset, Disable All, Persist filters</p></figcaption></figure>
 
-### ii) Column-level filter
+#### Filtering manual input rows
+
+Inforiver filters can detect manually inserted row categories and calculated rows. You can apply filters for data input or calculated rows just like you do for row categories from the dataset.
+
+In the example below, the _HighTouch_ and _Vsense_ rows are manual input rows created within the Inforiver visual. Notice how even manual input row categories are detected by the filter.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Filtering manual input row categories</p></figcaption></figure>
+
+### 2.2. Column-level filter
 
 Inforiver provides nested AND/OR column-based filtering options to filter a range of data based on the criteria you define.&#x20;
 
-a) When you mouse over any column, a hamburger menu appears as highlighted. Click on the 'hamburger menu' and then click on the 'Filter' icon.
+a) When you hover over any column, a hamburger menu appears as highlighted. Click on the hamburger menu (column gripper) and then click on the<img src="../../../.gitbook/assets/image (842).png" alt="" data-size="line"> icon.
 
 <figure><img src="../../../.gitbook/assets/Filter4.png" alt=""><figcaption><p>Column filter</p></figcaption></figure>
 

@@ -24,4 +24,4 @@ Assign the image URL field to the column dimension visual parameter to use image
 
 Assign the image URL to the row dimension visual parameter to use images as row categories.
 
-<figure><img src="../../.gitbook/assets/image (2) (15) (1).png" alt=""><figcaption><p>Images as row categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (15) (1) (1).png" alt=""><figcaption><p>Images as row categories</p></figcaption></figure>
