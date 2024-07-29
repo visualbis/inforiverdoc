@@ -56,7 +56,13 @@ You can increase the thickness of line charts or the border for area charts by s
 
 For Baseline charts, you can choose to apply a gradient. With this option, you can enable or disable the gradient coloring. If you enable this option, two additional options become available - _Area above 1_ and _Area above 2_ using which you can set the starting and ending colors for the gradient.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (841).png" alt=""><figcaption><p>Apply gradient</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-gradient.png" alt=""><figcaption><p>Sparkline apply gradient</p></figcaption></figure>
+
+You can also set the border colors for the area chart using the **Line Above** and **Line Below** options**. Line Above** - use this option to set the color of the line above the axis and use the **Line Below** option to set the color of the line below the axis.
+
+Similar to border colors, you can set the fill colors for the area above and below the axis - use the **Area Above** and **Area Below** options.
+
+<figure><img src="../../.gitbook/assets/sparkline-color-options.png" alt=""><figcaption><p>Sparkline color options</p></figcaption></figure>
 
 ### **2.2. Null display**&#x20;
 
@@ -86,7 +92,7 @@ From the 'Marker' drop-down, you can select the type of marker points you want t
 
 <figure><img src="../../.gitbook/assets/sparkline-marker-type.png" alt=""><figcaption><p>Sparkline marker type</p></figcaption></figure>
 
-### **iii) Scale bands**&#x20;
+### **2.4. Scale bands**&#x20;
 
 'Scale bands' visually display information about the overall distribution of values. If the distribution of values falls in the _first quartile (0-25%)_, then it is represented by a _lighter shade of gray_. However, if the value distribution falls in the _last quartile (75-100%)_, then it is represented by a _darker shade of gray_.&#x20;
 
@@ -96,23 +102,23 @@ The scale bands option is available only if you select any of the standard spark
 
 <figure><img src="../../.gitbook/assets/sparkline-scale-band (1).png" alt=""><figcaption><p>Sparkline scale band</p></figcaption></figure>
 
-### **iv) Show column**&#x20;
+### **2.5. Show column**&#x20;
 
-From the 'Show column' section, you can choose whether to show the _Min, Max, Avg,_ or _Sum_ columns or _All children (enabled by default)._ In the below image, the _Avg_ and _Min_ columns are enabled in the Show Column option, and the report shows the Min and Average columns.
+From the **Show column** section, you can choose whether to show the _Min, Max, Avg,_ or _Sum_ columns or _All children (enabled by default)._ In the below image, the _Avg_ and _Min_ columns are enabled in the Show Column option, and the report shows the Min and Average columns.
 
 <figure><img src="../../.gitbook/assets/sparkline-show-column (1).png" alt=""><figcaption><p>Sparkline show column</p></figcaption></figure>
 
-### **v) Axis config**&#x20;
+### **2.6. Axis config**&#x20;
 
-You can configure the _type_ and _style_ of the axis line from the 'Axis config' option. Clicking on the 'Axis Config' option will open up the Axis config modal, in which you can choose the type and style of the axis.
+You can configure the type and style of the axis line using the **Axis config** option.
 
 {% hint style="info" %}
 The axis config option is available only for the _baseline_ chart.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/sparkline-axis-config (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sparkline-axis-config (1).png" alt=""><figcaption><p>Axis config</p></figcaption></figure>
 
-**Type** - An axis in a chart basically serves as a reference making it easy to interpret other data values with respect to it. Depending on the axis type you choose, the axis will get displayed at the
+**Type** - An axis in a chart serves as a reference making it easy to interpret other data values with respect to it. Depending on the axis type you choose, the axis will be displayed on the following points:
 
 * **Median** - Median value of the data set
 * **Average** - Average value of the data set
@@ -122,13 +128,11 @@ The axis config option is available only for the _baseline_ chart.
 
 <figure><img src="../../.gitbook/assets/Custom axis.png" alt=""><figcaption><p>Custom axis configuration</p></figcaption></figure>
 
-**Style** - This option lets you configure how the axis line of the chart should look like. You can select any of the following styles for the axis line - _Solid, Dotted, Dashed, Long dashed_ and _Double solid._
+**Style** - This option lets you configure how the axis line of the chart should look like. You can select any of the following styles for the axis line - Solid, Dotted, Dashed, Long dashed, and Double solid.
 
-###
+### **2.7. Padding**&#x20;
 
-### **vii) Padding**&#x20;
-
-Using the 'Padding' option, you can change the padding/spacing between the bars. The default padding value is 5.
+You can change the padding/spacing between the bars using the **Padding** option. The default padding value is 5.
 
 {% hint style="info" %}
 The padding option is available only for the _Column_ and _Win/Loss_ Sparklines.
@@ -136,37 +140,13 @@ The padding option is available only for the _Column_ and _Win/Loss_ Sparklines.
 
 <figure><img src="../../.gitbook/assets/sparkline-padding.png" alt=""><figcaption><p>Sparkline padding option</p></figcaption></figure>
 
-
-
-
-
-<figure><img src="../../.gitbook/assets/sparkline-gradient.png" alt=""><figcaption><p>Sparkline apply gradient</p></figcaption></figure>
-
-**h) Line above** - With this option, you can set the color of the line above the axis
-
-**i) Line below** - With this option, you can set the color of the line below the axis
-
-**j) Area above** - With this option you can customize the color of the area above the axis
-
-**k) Area below** - With this option you can customize the color of the area below the axis
-
-<figure><img src="../../.gitbook/assets/sparkline-color-options.png" alt=""><figcaption><p>Sparkline color options</p></figcaption></figure>
-
-**l) Axis color** - This option lets you customize the color of the axis line
-
-**m) Positive color** - Using this option you can customize the positive color of the bar
-
-**n) Negative color** - Using this option you can customize the negative color of the bar
-
-<figure><img src="../../.gitbook/assets/sparkline-axis-color.png" alt=""><figcaption><p>Variance color option</p></figcaption></figure>
-
-### viii) Show label&#x20;
+### 2.8. Show label&#x20;
 
 You can configure whether to show or hide data labels using this option. Data labels are shown by default. Clicking on this option once will hide the data labels and clicking again will show the labels.
 
 <figure><img src="../../.gitbook/assets/sparkline-show-llabel.png" alt=""><figcaption><p>Sparkline show label</p></figcaption></figure>
 
-### **ix) Remove sparkline**&#x20;
+### **2.9. Remove sparkline**&#x20;
 
 Clicking on the 'Remove sparkline' option removes the sparkline chart from the report and restores it to the original number format.
 
