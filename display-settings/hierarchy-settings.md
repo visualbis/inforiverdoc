@@ -6,7 +6,7 @@ In the Inforiver toolbar, navigate to the Home ribbon. The _Display_ option is a
 
 Click on the Hierarchy tab in this panel to view the hierarchy settings.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Let's explore the options to customize hierarchies in your reports.
 
@@ -16,7 +16,7 @@ Let's explore the options to customize hierarchies in your reports.
 
 This drop-down lets you show or hide the category highlight. This option is set to 'Off' by default. When this option is enabled, a color picker is displayed. You can select a color to highlight the category hierarchy.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Cateory highlight</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Cateory highlight</p></figcaption></figure>
 
 #### 1.2. Responsive columns&#x20;
 

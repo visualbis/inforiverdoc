@@ -48,13 +48,13 @@ Access control for all the columns can also be set through the **Manage Columns*
 
 ### 3.2. Time interval mapping
 
-When you have a date hierarchy in your rows/columns, you can use the time interval mapping to verify the formats that Inforiver auto-detects. Hover over the<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">icon to view all the supported date formats.
+When you have a date hierarchy in your rows/columns, you can use the time interval mapping to verify the formats that Inforiver auto-detects. Hover over the<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line">icon to view all the supported date formats.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Supported date formats</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Supported date formats</p></figcaption></figure>
 
 You can also choose whether to use Power BI sorting or Inforiver sorting. When the **Sort** toggle is enabled, any sorting changes made at Power BI level will not be reflected in the visual. In the example, notice how the Power BI sorting is not applied on the Quarter when the Sort toggle is enabled.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Sort precedence</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Sort precedence</p></figcaption></figure>
 
 ### 3.3. Row ID mapping
 
@@ -64,7 +64,7 @@ When row dimensions are renamed/changed, we might lose these visual elements add
 
 In the example below, we’ve applied formatting, added notes, and comments, and added data inputs to the products, _Juices_ and _Tea & Coffee_.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
 
 The visual elements were lost after the product names were renamed to _Fruit Juices_ and _Chai & Coffee_ respectively.
 

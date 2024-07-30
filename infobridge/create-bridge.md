@@ -20,19 +20,19 @@ A bridge can be created in two ways: from an Inforiver report, or from the conso
 
 4. Clicking **Yes** in the confirmation pop-up creates a new bridge. Click **OK** to navigate to the newly created bridge.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Bridge created</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Bridge created</p></figcaption></figure>
 
 5. The bridge is created as below and the Inforiver report is added as a source query.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>New Bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>New Bridge</p></figcaption></figure>
 
 6. Click on the pencil icon beside the query or the bridge name to rename them. There are also other options to duplicate the query, copy the identifier, and refresh the source as highlighted below.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Options to refresh, duplicate and copy ID</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Options to refresh, duplicate and copy ID</p></figcaption></figure>
 
 7. You can change the layout style as below. Click **Apply** to refresh the source and save your changes.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Refresh done</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Refresh done</p></figcaption></figure>
 
 To learn about adding further sources to the bridge, please refer to [this section](add-source-to-bridge.md).
 

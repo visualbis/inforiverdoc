@@ -91,13 +91,13 @@ The underlying data in the semantic model is likely to change - there may be new
 * You can schedule an automatic refresh at a specific time on a daily/monthly basis.
 * You can also run ad-hoc data refreshes to sync the dropdown options with the semantic model.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Refresh dataset option</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (4).png" alt=""><figcaption><p>Refresh dataset option</p></figcaption></figure>
 
 #### Triggering ad-hoc refreshes
 
-You need to check the **Require Semantic model Refresh** option to trigger manual refreshes. Click the <img src="../../../../.gitbook/assets/image (7) (1) (3).png" alt="" data-size="line">icon in the Options section to trigger a refresh from within the Inforiver visual.
+You need to check the **Require Semantic model Refresh** option to trigger manual refreshes. Click the <img src="../../../../.gitbook/assets/image (7) (1) (3) (1).png" alt="" data-size="line">icon in the Options section to trigger a refresh from within the Inforiver visual.
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Manual refreshes</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (5).png" alt=""><figcaption><p>Manual refreshes</p></figcaption></figure>
 
 Inforiver also provides an **API endpoint** to manually sync the semantic  model from outside the visual. The API endpoint is provided in the Refresh Link section. [Learn more about working with API endpoints and authorization tokens.](../../../../admin-console/settings/api-token.md)
 

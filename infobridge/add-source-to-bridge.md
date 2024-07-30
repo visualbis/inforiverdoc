@@ -22,15 +22,15 @@ When you are working on a report and want to add it to a bridge for integration 
 
 You can search for the required bridge using the lookup folder or search box.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Find the bridge in the lookup folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Find the bridge in the lookup folder</p></figcaption></figure>
 
 Select the required bridge in the lookup folder, view the bridge details and then click **Add** to add the report to the bridge.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Add to bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Add to bridge</p></figcaption></figure>
 
 The source is added to the bridge as _Query 2_ since the bridge already has a query from Source 1. Click **Apply** to save changes.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>second source added to bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>second source added to bridge</p></figcaption></figure>
 
 
 
@@ -42,15 +42,15 @@ If you know the bridge ID, you can directly enter it in the Bridge ID text box.
 
 Copy the bridge ID here.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Copy Bridge ID</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Copy Bridge ID</p></figcaption></figure>
 
 Paste the bridge ID in the text box below. Verify the bridge details and click **Add.**
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Add source to bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Add source to bridge</p></figcaption></figure>
 
 The source is added to the bridge.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Source added to bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Source added to bridge</p></figcaption></figure>
 
 ### 1.2. From the console
 
@@ -58,27 +58,27 @@ You can also add a source from the console.
 
 1. In the **InfoBridge** console, select the bridge where you wish to add the source.&#x20;
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Select bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Select bridge</p></figcaption></figure>
 
 2. Upon clicking, the bridge opens the editor interface as shown below. Click **Add Source** from the toolbar or the working area (in case you are adding the first source).
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Add Source</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Add Source</p></figcaption></figure>
 
 3. In the pop-up window, choose the type of source file that you want to add. We will choose 'Inforiver'. Click **Next.**
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Select 'Inforiver'</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Select 'Inforiver'</p></figcaption></figure>
 
 4. Copy-paste the visual identifier of the source in the next window.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Copy and paste the visual ID </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Copy and paste the visual ID </p></figcaption></figure>
 
 5. The details of the visual are displayed now. Click **Add.**
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. The source is added to the bridge as below.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Added source</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Added source</p></figcaption></figure>
 
 ## 2. Add other sources to the bridge <a href="#adding-different-sources-to-the-bridge" id="adding-different-sources-to-the-bridge"></a>
 

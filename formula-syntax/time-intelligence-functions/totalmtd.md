@@ -21,4 +21,4 @@ Range of data. When used with an aggregation function, it returns a scalar value
 
 Find below an example in which the quantity is cumulatively summed every month-to-date.
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>TOTALMTD</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>TOTALMTD</p></figcaption></figure>

@@ -100,17 +100,17 @@ This section lets you specify the labels for units and left-align prefixes.
 
 By default, the prefix is displayed right before the number. The image below indicates how the prefixes are displayed before enabling the left-align prefix option.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Left align prefix option disabled</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Left align prefix option disabled</p></figcaption></figure>
 
 On enabling the left-align prefix option, the prefix is aligned to the left of the cell.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Left align prefix option enabled</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption><p>Left align prefix option enabled</p></figcaption></figure>
 
 #### ii) Right-align suffix
 
 Similar to the left-align prefix option, you can align the suffix to the right side of a cell.&#x20;
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Right align siffix</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption><p>Right align siffix</p></figcaption></figure>
 
 #### iii) Custom label
 

@@ -58,7 +58,7 @@ Inforiver also provides an API to refresh single-select and multi-select dropdow
 
 2. &#x20;The sample report has a [single-select data input column](../../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/dropdown/#id-1.-creating-a-list-of-values) and uses a semantic data input model. Instead of a scheduled refresh, the semantic model is set to be refreshed manually by the user when required.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>LOV with semantic data model </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (3).png" alt=""><figcaption><p>LOV with semantic data model </p></figcaption></figure>
 
 3. After creating the single select, navigate to manage measures and edit the single select. You'll be able to see a **Refresh Link** in the Options section - this is the API endpoint.
 

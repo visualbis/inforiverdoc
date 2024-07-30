@@ -30,14 +30,14 @@ The workday option excludes weekends and holidays and will close the forecast on
 
 This setting can be viewed in the edit forecast settings as well.
 
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Auto close for workday set at admin console</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (3).png" alt=""><figcaption><p>Auto close for workday set at admin console</p></figcaption></figure>
 
 ## 2. Auto close settings at report level
 
 You can specify a particular day on which to close forecasts, which is set at the report level. You can additionally set the [calendar ](autoclose-forecasts.md#i-calendar-day)or [workday ](autoclose-forecasts.md#ii-workday)options.
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Auto close from manage forecast </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (2).png" alt=""><figcaption><p>Auto close from manage forecast </p></figcaption></figure>
 
 When you auto-close forecasts, Inforiver can automatically extend the forecast period as well. Select the **Auto-extend period range by 1 month** checkbox to enable this feature.
 
-<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Auto-extend Period Range</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1) (2).png" alt=""><figcaption><p>Auto-extend Period Range</p></figcaption></figure>

@@ -64,7 +64,7 @@ The snapshot feature comes packaged with a built-in scheduler. Click on the _Sch
 Snapshots can be scheduled only from the Power BI service, not from the desktop.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption><p>Snapshot scheduler</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption><p>Snapshot scheduler</p></figcaption></figure>
 
 After saving the schedule settings, you will have options to initiate, reset, and pause the schedule and view logs.
 

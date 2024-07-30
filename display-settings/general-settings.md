@@ -4,13 +4,13 @@ The general display settings are used to customize the appearance of the report.
 
 In the Inforiver toolbar, navigate to the Home ribbon. The _Display_ option is available in the 'Actions' section. Clicking on this option will open up the Display side panel.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Display settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Display settings</p></figcaption></figure>
 
 ### 1. Toolbar
 
 The toolbar option allows you to change the color of the toolbar to 'Light' or 'Dark'. In the example, the color of the toolbar is set to Dark and the changes are reflected in the toolbar at the top and the side panel.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption><p>Toolbar option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Toolbar option</p></figcaption></figure>
 
 ### 2. Canvas
 
@@ -25,25 +25,25 @@ The canvas section contains options to set the overall appearance of the report.
 
 The theme option lets you change the theme of the Inforiver visual to 'Light' or 'Dark'. In the example, the Dark theme is chosen.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption><p>Dark theme</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Dark theme</p></figcaption></figure>
 
 #### ii) Background
 
 You can change the background color of the canvas using this option.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Background color option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Background color option</p></figcaption></figure>
 
 #### iii) Text
 
 You can change the color of the text/values in the visual using this option.
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Text color</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Text color</p></figcaption></figure>
 
 #### iv) Header text
 
 You can change the color of the header text in the visual using this option.
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Header text</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption><p>Header text</p></figcaption></figure>
 
 ### 3. Outline
 
@@ -89,7 +89,7 @@ The row alternate highlight is shown in the below image.
 
 **iv) Row alternate flashy -** Highlights the odd and even rows with flashy color shades. If you enable this option, the **Odd row** and **Even row** options are displayed.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can remove the row highlight by selecting the 'off' option from the drop-down.
 
@@ -111,7 +111,7 @@ If the 'Single' or 'Double' option is selected for the major gridlines, then a c
 
 In the below example, 'Double' major gridlines are inserted and their colors are set to blue.
 
-<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Major gridlines</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption><p>Major gridlines</p></figcaption></figure>
 
 If 'Off' is selected, the major gridlines will not be displayed. This option is set to 'Off' by default.
 
@@ -143,7 +143,7 @@ This option allows you to set the minor grid line gap between the rows.&#x20;
 The minimum and maximum skip line values are 1 and 10 respectively.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Skip lines</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption><p>Skip lines</p></figcaption></figure>
 
 #### Header
 
@@ -153,11 +153,11 @@ This option lets you insert gridlines for the column headers. If this option is 
 &#x20;The color of the header gridline is the same as that of the horizontal gridlines by default.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Header color</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption><p>Header color</p></figcaption></figure>
 
 If you change the color of the header gridline, the color of the horizontal gridlines also gets changed accordingly.
 
-<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Header and horizontal gridline color</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption><p>Header and horizontal gridline color</p></figcaption></figure>
 
 #### Vertical
 
@@ -170,7 +170,7 @@ If the 'Solid lines' option is selected for the vertical lines, a color picker o
 
 In the example, Solid vertical gridlines are inserted and their colors are set to red.
 
-<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Vertical gridlines</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption><p>Vertical gridlines</p></figcaption></figure>
 
 ### 6. Table padding
 
@@ -180,7 +180,7 @@ This option allows you to insert spacing/padding for the table from the top, bot
 The minimum and maximum padding values are 0 and 100 respectively.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>Table padding</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption><p>Table padding</p></figcaption></figure>
 
 ### 7. Custom date format
 
@@ -190,7 +190,7 @@ You can set a specific date format for hierarchical date dimensions in rows or c
 
 You can specify individual formats for year, quarter, month, and day. Expand the Valid formats information box to browse through the list of date formats supported in Inforiver.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Custom date formats</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Custom date formats</p></figcaption></figure>
 
 ### 8. Enable canvas rendering
 
