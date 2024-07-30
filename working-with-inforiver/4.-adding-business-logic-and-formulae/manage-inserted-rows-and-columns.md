@@ -34,7 +34,7 @@ The **Manage Measures** side panel has a 'Settings' tab that lets you control an
 
 <figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
-### a) Data Input Access
+### 3.1. Data input access
 
 Inforiver enterprise allows setting explicit read/write access for specific users on data input and forecast columns.&#x20;
 
@@ -46,7 +46,17 @@ To set it, click **Insert -> Manage Measures -> Settings** **->** **Manage** in 
 Access control for all the columns can also be set through the **Manage Columns** dropdown as explained [here](insert-manual-input-columns.md#id-3.-access-control). Specifically for the forecast columns, the user access can be configured [here](../7.-planning-budgeting-and-forecasting/forecasting.md).
 {% endhint %}
 
-### b) Row ID Mapping
+### 3.2. Time interval mapping
+
+When you have a date hierarchy in your rows/columns, you can use the time interval mapping to verify the formats that Inforiver auto-detects. Hover over the<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">icon to view all the supported date formats.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Supported date formats</p></figcaption></figure>
+
+You can also choose whether to use Power BI sorting or Inforiver sorting. When the **Sort** toggle is enabled, any sorting changes made at Power BI level will not be reflected in the visual. In the example, notice how the Power BI sorting is not applied on the Quarter when the Sort toggle is enabled.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Sort precedence</p></figcaption></figure>
+
+### 3.3. Row ID mapping
 
 Inforiver automatically assigns a dimension ID to each row dimension to uniquely identify them. This mapping helps to track and manage them, especially during operations like writeback. Visual components such as formatting, notes, comments, and data inputs added to the rows are also linked to the dimension IDs.&#x20;
 
@@ -54,11 +64,11 @@ When row dimensions are renamed/changed, we might lose these visual elements add
 
 In the example below, we’ve applied formatting, added notes, and comments, and added data inputs to the products, _Juices_ and _Tea & Coffee_.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
 
 The visual elements were lost after the product names were renamed to _Fruit Juices_ and _Chai & Coffee_ respectively.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2) (1).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
 
 To avoid this, let us map the dimension IDs to a constant dimension, such as the _Product ID_ instead of the _Product Name_. To do so, navigate to **Insert -> Manage Measures -> Settings -> Row ID mapping   -> Manage**.
 
