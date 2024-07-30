@@ -2,7 +2,7 @@
 
 Inforiver provides data classification based on text, icons and ratings.
 
-Refer to [create rule](create-rule-basic-settings.md) to get started. Once the rule is created and you can see the 'Conditional formatting' side panel, follow the below steps.
+Refer to [create rule](create-rule-basic-settings.md) to get started. Once the rule is created and you can see the **Conditional Formatting** side panel, follow the below steps.
 
 Choose 'Classification' in the 'Format by' dropdown. There are several options enabled as shown in the below image.
 

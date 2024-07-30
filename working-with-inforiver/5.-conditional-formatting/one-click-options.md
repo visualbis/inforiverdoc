@@ -42,17 +42,17 @@ You can apply conditional formatting based on icons/ratings and even deliver ABC
 
 <figure><img src="../../.gitbook/assets/Classification (1).png" alt=""><figcaption><p>Classification</p></figcaption></figure>
 
-Let's look at an example for the three categories - Text, Icon set and Rating.
+Let's look at an example for the three categories - Text, Icon set, and Rating.
 
-a) **Text**: Text-based classification is commonly used to categorize performance. A sample report with ABC classification is shown in the below image.
+**3.1.** **Text**: Text-based classification is commonly used to categorize performance. A sample report with ABC classification is shown in the below image.
 
 <figure><img src="../../.gitbook/assets/Text Classification (1).png" alt=""><figcaption><p>ABC classification</p></figcaption></figure>
 
-b) **Icons**: You can deliver conditional formatting using icons in a few clicks. Here is an example where items that contribute the most to sales are highlighted.
+**3.2.** **Icons**: You can deliver conditional formatting using icons in a few clicks. Here is an example where items that contribute the most to sales are highlighted.
 
 <figure><img src="../../.gitbook/assets/5.1.9 Classification.png" alt=""><figcaption><p>Icon-based conditional formatting</p></figcaption></figure>
 
-c) **Ratings**: You can use ratings such as the star-based ratings commonly seen in e-commerce sites in the product feedback section.&#x20;
+**3.3.** **Ratings**: You can use ratings such as the star-based ratings commonly seen in e-commerce sites in the product feedback section.&#x20;
 
 <figure><img src="../../.gitbook/assets/5.1.10 Classification.png" alt=""><figcaption><p>Star-based ratings</p></figcaption></figure>
 

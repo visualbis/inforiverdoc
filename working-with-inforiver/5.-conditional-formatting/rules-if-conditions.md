@@ -2,15 +2,15 @@
 
 You can apply conditional formatting using font color, style, icons, or background based on one or more IF conditions.
 
-Refer to the [Create Rule](create-rule-basic-settings.md) section to get started. Once the rule is created and you can see the 'Conditional formatting' side panel, follow the below steps.
+Refer to the [Create Rule](create-rule-basic-settings.md) section to get started. Once the rule is created and you can see the Conditional Formatting side panel, follow the below steps.
 
-a) Choose 'Rules (If conditions)' in the 'Format by' dropdown. You can see two sections - Style and Conditions.
+**STEP 1:** Choose 'Rules (If conditions)' in the **Format by** dropdown. You can see two sections - Style and Conditions.
 
 <figure><img src="../../.gitbook/assets/5.2.35 if conditions.png" alt=""><figcaption><p>Choosing Rules (If conditions)</p></figcaption></figure>
 
-b) Using the 'Style' section, you can format text based on color/style, apply a background color or select icons.&#x20;
+**STEP 2:** Using the **Style** section, you can format text based on color/style, apply a background color, or select icons.&#x20;
 
-c) In the 'Conditions' section, you can define conditions using options such as Number, Data selection, Values, Formula and User Selection.
+**STEP 3:** In the 'Conditions' section, you can define conditions using options such as Number, Data selection, Values, Formula, and User Selection.
 
 <figure><img src="../../.gitbook/assets/FormatByRules.png" alt=""><figcaption><p>Format by rules</p></figcaption></figure>
 
@@ -51,6 +51,10 @@ Display icons to apply conditional formatting on your data. You can also use cus
 You can position the text/icons with respect to the cell values. You can also choose to display only the icons or text and hide the cell values.
 
 <figure><img src="../../.gitbook/assets/Untitled Project (1) (1).gif" alt=""><figcaption><p>Using icons and text</p></figcaption></figure>
+
+When you use icons, you have an additional option to align your icons in the grid. By default, the icons are left aligned.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Aligning icons</p></figcaption></figure>
 
 * **Hiding values**
 
