@@ -10,7 +10,7 @@ The following KPI card was created earlier. Let's now create another KPI card fr
 
 **STEP 1:** Hover over the header and go to edit mode by clicking the **Edit** option in the context menu.
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 **STEP 2:** The **Header & Footer** tab is enabled. Let's remove the default header and choose KPI from the **Type** dropdown.
 
@@ -22,7 +22,7 @@ The following KPI card was created earlier. Let's now create another KPI card fr
 
 **STEP 4**: A simple KPI card gets inserted as shown below. You can also choose from a range of built-in KPI presets. Inforiver provides simple, variance, and combo KPI presets.
 
-<figure><img src="../../../.gitbook/assets/image (4) (11).png" alt=""><figcaption><p>Inserting a KPI card and using presets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Inserting a KPI card and using presets</p></figcaption></figure>
 
 ## 2. Customization options
 

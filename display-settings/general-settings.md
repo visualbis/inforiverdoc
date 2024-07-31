@@ -95,7 +95,7 @@ You can remove the row highlight by selecting the 'off' option from the drop-dow
 
 Enable the _**Measure Only Highlight**_ option to remove the highlight from the categories and highlight just the measures.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row highlight is applied only to measures</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row highlight is applied only to measures</p></figcaption></figure>
 
 ### 5. Gridlines
 

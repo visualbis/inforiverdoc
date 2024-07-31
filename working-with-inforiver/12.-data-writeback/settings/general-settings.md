@@ -209,11 +209,11 @@ The above are sample workflows that could be triggered using the Inforiver webho
 
 You can specify the number of digits after the decimal point to be written back. This is a **one-time setup** that will apply to **all destinations** configured for a particular report page. While configuring the first writeback destination, you will see a pop-up as shown below, to configure the decimal precision.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Configuring decimal precision</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (861).png" alt=""><figcaption><p>Configuring decimal precision</p></figcaption></figure>
 
 If you require high precision, you can configure Inforiver to write back numerical data with up to ten decimal digits. Any digits beyond 10 will be rounded off.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>10-digit decimal precision</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (862).png" alt=""><figcaption><p>10-digit decimal precision</p></figcaption></figure>
 
 The precision that is set in the destination configuration is displayed in the Decimal Precision section. [Learn more about configuring writeback destinations](../destinations/).
 
@@ -223,7 +223,7 @@ The precision that is set in the destination configuration is displayed in the D
 
 You can restrict the length of text fields to be written back. The default text length allowed in writeback  is 512 characters. While adding the first destination, along with [decimal precision](general-settings.md#id-6.-decimal-precision), you can also restrict the length of text fields to 512 characters or allow writeback up to the maximum limit supported by the backend. This is also a **one-time setup** that will apply to **all destinations** configured for a particular report page. [Learn more about configuring writeback destinations here](../destinations/).
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Configuring text field length</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (863).png" alt=""><figcaption><p>Configuring text field length</p></figcaption></figure>
 
 The text length that has been set is shown in the Text Length section of the report as below. Note that, if you have restricted the text length and the length exceeds that limit, writeback will fail.
 
