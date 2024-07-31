@@ -20,13 +20,13 @@ Let's first take a look at the header/footer interface. In the edit mode, you ha
 
 **STEP 1**: Click on **Header & Footer** in the Design tab. Alternatively, you can hover over the header and select Edit from the hamburger menu.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Header and footer option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (13).png" alt=""><figcaption><p>Header and footer option</p></figcaption></figure>
 
 **STEP 2:** The **Header & Footer** ribbon gets enabled. You can see that there is a default header that shows the fields added and the scaling.
 
 The blue box is called the _container_. Currently, there is only one cell in the container with the default fields and scaling. Containers can be split into many cells and they can be used to create elements of the types - [Text](header-and-footer/text.md), [Image](header-and-footer/images.md), [Chart](header-and-footer/charts.md), and [KPI](header-and-footer/kpi-cards.md). We'll be covering [cell](header-and-footer.md#i-cell) and [container](header-and-footer.md#ii-container) customization in a later section.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Header and footer ribbon</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (14).png" alt=""><figcaption><p>Header and footer ribbon</p></figcaption></figure>
 
 The toolbar provides several customization options and they are covered as follows:
 
@@ -44,7 +44,7 @@ To restore the default header, select the Reset option from the header context m
 
 Select the Hide Header option from the context menu if you do not wish to display the header. You can display it again at any time by selecting the Show Header option from the context menu.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Hide header option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (6).png" alt=""><figcaption><p>Hide header option</p></figcaption></figure>
 
 ## 2. Basic interactions
 
@@ -52,7 +52,7 @@ As mentioned in the [interface](header-and-footer.md#i-edit-mode) section, the h
 
 **STEP 1:** Go to the edit mode by clicking the **Edit** in the context menu. You can also edit the header by clicking the **Header & Footer** button in the Design ribbon.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (13).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 {% hint style="info" %}
 In the basic interactions section, we have used the example of headers but all of these properties apply to footers as well.&#x20;
@@ -60,13 +60,13 @@ In the basic interactions section, we have used the example of headers but all o
 
 **STEP 2:** Notice that there are two controls - one on the side and one at the top of the container.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Controls to split the container</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (12).png" alt=""><figcaption><p>Controls to split the container</p></figcaption></figure>
 
 Clicking on the control on the side will give options to split the container vertically. To split the container horizontally, click on the control at the bottom.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Split vertically</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (10).png" alt=""><figcaption><p>Split vertically</p></figcaption></figure>
 
  
 
@@ -76,13 +76,13 @@ Clicking on the control on the side will give options to split the container ver
 
 On selecting the _Split panel to the right_ option, notice that a new cell is inserted to the right of the existing content.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>New cell inserted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (9).png" alt=""><figcaption><p>New cell inserted</p></figcaption></figure>
 
 **STEP 3:** The container height can be adjusted by hovering on the bottom border and dragging the handle. The width can be adjusted by dragging the handle that is enabled on hovering over the cell border.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Adjusting the container height</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (10).png" alt=""><figcaption><p>Adjusting the container height</p></figcaption></figure>
 
  
 
@@ -92,11 +92,11 @@ On selecting the _Split panel to the right_ option, notice that a new cell is in
 
 **STEP 4:** Click the plus icon to insert elements like Text, Image, Chart, and KPI which are covered in subsequent sections.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Insert element</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (6).png" alt=""><figcaption><p>Insert element</p></figcaption></figure>
 
 **STEP 5:** After inserting an element, you can use the container controls to copy/paste the contents of a cell. You can also reset or delete a cell.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (7).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Presets
 
@@ -106,15 +106,15 @@ Before looking at creating header/footer elements from scratch, let's see how to
 
 **STEP 1:** In the **Header & Foote**r tab, expand the Type dropdown menu and select **Presets > Header**. A side panel opens up as shown below.  Choose any of the presets and click 'Proceed' in the warning message.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Header presets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (7).png" alt=""><figcaption><p>Header presets</p></figcaption></figure>
 
 **STEP 2:** You can see that the header has been updated. These can be further customized but for now, let's go ahead with the preset. Click on Close editor to apply the preset.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Applying a header preset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (8).png" alt=""><figcaption><p>Applying a header preset</p></figcaption></figure>
 
 If you choose a KPI preset, any selections made in the [KPI explorer](../3.-basic-interactions/explore-and-filter-data/explorer.md) will be reflected in the header as well.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>KPI explorer selection reflected in presets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>KPI explorer selection reflected in presets</p></figcaption></figure>
 
 ### 2. Footer preset
 
@@ -122,11 +122,11 @@ Inforiver also offers a number of footer presets with page numbers, report title
 
 **STEP 1:** To display the footer, select Show Footer from the header context menu. The default footer displays the current date.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Footer enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (3).png" alt=""><figcaption><p>Footer enabled</p></figcaption></figure>
 
 **STEP 2:**  You can open footer presets either from the footer context menu or navigate to the **Header & Footer** ribbon > Expand the **Type** dropdown > Select **Footer** from the Presets section. A side panel opens with a list of the available presets. Select a preset and click Proceed in the warning pop-up. Click Close Editor to apply the changes.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Footer presets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (3).png" alt=""><figcaption><p>Footer presets</p></figcaption></figure>
 
 **STEP 3:** The footer displays the page number by default. You can disable the Inforiver pagination using the Pagination toggle from the context menu.
 

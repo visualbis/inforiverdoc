@@ -111,6 +111,7 @@
       * [Data-level comments](working-with-inforiver/8.-commenting-and-collaboration/comments/comments.md)
       * [Assign & track tasks](working-with-inforiver/8.-commenting-and-collaboration/comments/comments-1.md)
       * [Track changes](working-with-inforiver/8.-commenting-and-collaboration/comments/track-changes.md)
+      * [Report-level comments](working-with-inforiver/8.-commenting-and-collaboration/comments/report-level-comments.md)
       * [Comment settings](working-with-inforiver/8.-commenting-and-collaboration/comments/comment-settings.md)
   * [10. Exporting reports](working-with-inforiver/10.-exporting-reports/README.md)
     * [Export to PDF & Excel](working-with-inforiver/10.-exporting-reports/export.md)

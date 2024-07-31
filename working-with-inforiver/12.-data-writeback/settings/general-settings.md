@@ -92,7 +92,7 @@ The **Custom Filter** configuration window has the following options:
 If you have set up Matrix filters as well as writeback filters, the writeback filter will always take precedence.
 {% endhint %}
 
-### iii) Additional column configuration&#x20;
+### 3. Additional column configuration&#x20;
 
 This allows a user to add dimension keys to the writeback table during writeback. This will require the user to provide consent to access all the datasets from the workspace.&#x20;
 
@@ -132,7 +132,7 @@ Inforiver reports are often used for high-level aggregations such as Revenue by 
 * If a high-level dimension category is included in the visual and additional column mapping is chosen, Inforiver will write dimension keys only if there are no conflicts. In case of conflicts, writeback will go through successfully except that the dimension key columns will be written NULL. This will be recorded in the writeback logs. It is recommended that the user add appropriate categories to avoid conflicts.
 * Add Date Key only works with Power BI time intelligence generated date hierarchy set in the columns field of the visualization pane.
 
-### iv) Permissions
+### 4. Permissions
 
 The permissions option allows control over users who can writeback. It is possible to grant writeback permissions to everyone in your organization or to a select few users to perform writeback. Inforiver leverages Azure Active Directory (AAD), hence finding and granting writeback permissions to your co-workers will be straightforward.&#x20;
 
@@ -146,7 +146,7 @@ Selecting this option will display an input field. Users can then specify the em
 
 <figure><img src="../../../.gitbook/assets/add-permissions-email.png" alt=""><figcaption></figcaption></figure>
 
-### v) Webhooks
+### 5. Webhooks
 
 Inforiver webhook delivers a JSON payload to any HTTP endpoint. The JSON payload contains essential information about the writeback instance as shown below.
 
@@ -205,8 +205,26 @@ To set up Inforiver Webhooks, paste the HTTP endpoint URL in the URL field. Clic
 
 The above are sample workflows that could be triggered using the Inforiver webhook. There are many other workflows possible. Please note that the Inforiver webhook is different from URL as Destination. Inforiver webhook's JSON payload only contains essential information about the writeback table. URL as Destination JSON payload contains the entire writeback table. Learn more [here](../destinations/url-as-destination.md).
 
-### vi) Decimal Precision
+### 6. Decimal Precision
 
-You can specify the number of digits after the decimal point to be written back. This is a one-time setup that will apply to all destinations configured for a particular report page. The precision that is set in the destination configuration is displayed in the Decimal Precision section. [Learn more about configuring writeback destinations](../destinations/).
+You can specify the number of digits after the decimal point to be written back. This is a **one-time setup** that will apply to **all destinations** configured for a particular report page. While configuring the first writeback destination, you will see a pop-up as shown below, to configure the decimal precision.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Configuring decimal precision</p></figcaption></figure>
+
+If you require high precision, you can configure Inforiver to write back numerical data with up to ten decimal digits. Any digits beyond 10 will be rounded off.
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>10-digit decimal precision</p></figcaption></figure>
+
+The precision that is set in the destination configuration is displayed in the Decimal Precision section. [Learn more about configuring writeback destinations](../destinations/).
+
+<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption><p>Decimal Precision</p></figcaption></figure>
+
+### 7. Text field length
+
+You can restrict the length of text fields to be written back. The default text length allowed in writeback  is 512 characters. While adding the first destination, along with [decimal precision](general-settings.md#id-6.-decimal-precision), you can also restrict the length of text fields to 512 characters or allow writeback up to the maximum limit supported by the backend. This is also a **one-time setup** that will apply to **all destinations** configured for a particular report page. [Learn more about configuring writeback destinations here](../destinations/).
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Configuring text field length</p></figcaption></figure>
+
+The text length that has been set is shown in the Text Length section of the report as below. Note that, if you have restricted the text length and the length exceeds that limit, writeback will fail.
+
+<figure><img src="../../../.gitbook/assets/WB Text field length - 2.png" alt=""><figcaption><p>Long text field truncated</p></figcaption></figure>

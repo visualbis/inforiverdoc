@@ -33,6 +33,7 @@ e) On clicking the dropdown, you can find more information and options. The work
 Let's now look at Inforiver's commenting capability.
 
 1. [Data-level comments](comments/comments.md)
-2. [Assign & track tasks](comments/comments-1.md)
-3. [Track changes](comments/track-changes.md)
-4. [Comment settings](comments/comment-settings.md)
+2. [Report-level comments](comments/report-level-comments.md)
+3. [Assign & track tasks](comments/comments-1.md)
+4. [Track changes](comments/track-changes.md)
+5. [Comment settings](comments/comment-settings.md)
