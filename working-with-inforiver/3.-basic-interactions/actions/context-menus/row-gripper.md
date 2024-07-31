@@ -2,19 +2,25 @@
 
 In this section, let's explore the various options in Inforiver to customize rows in your reports.&#x20;
 
-#### i) Freeze grand total
+#### 1. Freeze grand total
 
 If you have set a multi-page layout with scrolling,  use this option to ensure the grand total row is fixed to the top of the page.
 
-<figure><img src="../../../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (331).png" alt=""><figcaption><p>Freeze grand total</p></figcaption></figure>
 
-#### ii) Expand/Collapse
+#### 2. Select category dimension
+
+Select all the categories at a particular hierarchy level using this option. You can apply styling or number formatting to all the selected rows.
+
+<figure><img src="../../../../.gitbook/assets/image (880).png" alt=""><figcaption><p>Select category dimension option</p></figcaption></figure>
+
+#### 3. Expand/Collapse
 
 Inforiver makes it effortless for you to handle large hierarchical datasets. Instead of manually expanding or collapsing each level of the hierarchy, you have various options in the row gripper. [Learn more about managing hierarchies.](../../manage-hierarchies.md)
 
 <figure><img src="../../../../.gitbook/assets/image (39) (2).png" alt=""><figcaption></figcaption></figure>
 
-#### iii) Insert
+#### 4. Insert
 
 You can easily insert rows from the row gripper menu. Let's explore the different types of rows that can be inserted using this option.
 
@@ -54,7 +60,7 @@ Select rows and choose the **Insert sum of row** or **Insert average of row** op
 
 <figure><img src="../../../../.gitbook/assets/9.3. Insert sum avg from row gripper.png" alt=""><figcaption><p>Inserting sum and average</p></figcaption></figure>
 
-#### iv) Aggregation
+#### 5. Aggregation
 
 Inforiver enables you to set custom aggregation to calculate the sub-totals at the parent node level for hierarchical data. This option is available in the row gripper for parent nodes only.
 
@@ -64,7 +70,7 @@ In the report below, the 'Technology' category has an aggregation of **sum**, th
 
 <figure><img src="../../../../.gitbook/assets/image (5) (7).png" alt=""><figcaption></figcaption></figure>
 
-#### v) Add aggregated row
+#### 6. Add aggregated row
 
 In addition to the default aggregation at the parent node level, Inforiver allows you to add multiple totals/sub-total rows with different aggregation types. This option is available in the row gripper for parent nodes only.
 
@@ -74,7 +80,7 @@ In the report below, notice how minimum, standard deviation and average rows hav
 
 <figure><img src="../../../../.gitbook/assets/image (7) (8).png" alt=""><figcaption></figcaption></figure>
 
-#### vi) Actions
+#### 7. Actions
 
 The actions section has various formatting and customization options for rows. Let's take a detailed look.
 
