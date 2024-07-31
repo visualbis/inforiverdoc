@@ -31,6 +31,10 @@ Note: With Inforiver Enterprise 2.0, there are a few changes in the notes config
 
 <figure><img src="../../.gitbook/assets/New UI.png" alt=""><figcaption><p>Inforiver Enterprise version 2.0</p></figcaption></figure>
 
+{% hint style="warning" %}
+Notes will not be retained when switching between layouts. For example, notes added in the Measure on Rows layout will not be available if you change the layout to default.
+{% endhint %}
+
 ## 1. Cell-level notes
 
 a) Let's see how to add notes. Click on a cell, click 'Notes', and then 'Add new note'.
