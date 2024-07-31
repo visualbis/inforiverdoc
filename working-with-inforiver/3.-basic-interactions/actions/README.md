@@ -10,4 +10,4 @@ In this section, we'll look at the following:
 
 **4. Reset** - Inforiver provides various reset options such as Reset formats, Reset value, Reset notes and Reset all. To learn more, refer to [reset](reset.md).
 
-**5. Context menus -** Inforiver offers a host of single-click options that can be accessed from the row and column grippers. To learn more refer to [context menus](context-menus/).
+**5. Context menus -** Inforiver offers a host of single-click options that can be accessed from the row and column grippers. To learn more refer to [context menus](../context-menus/).
