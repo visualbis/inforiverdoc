@@ -27,7 +27,7 @@ Some of the properties such as [Insert as Visual measure/column](../../insert-ma
 
 ## 1. Creating a list of values
 
-There are two ways to create a list of values (LOVs) in Inforiver Reporting Matrix. The third option - Semantic model - which is greyed out is available only in Inforiver Writeback Matrix and is covered in the [next section](lov-from-semantic-models.md).
+There are two ways to create a list of values (LOVs) in Inforiver Reporting Matrix. The third option - Semantic model - which is greyed out is available only in Inforiver Writeback Matrix and is covered in the [next section](dropdown-options-from-semantic-models.md).
 
 <figure><img src="../../../../.gitbook/assets/image (517) (2).png" alt=""><figcaption><p>Creating a list of values</p></figcaption></figure>
 

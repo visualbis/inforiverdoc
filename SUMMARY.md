@@ -55,7 +55,7 @@
     * [Insert manual input columns](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns.md)
       * [Number](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md)
       * [Dropdown](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/dropdown/README.md)
-        * [LOV from semantic models](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/dropdown/lov-from-semantic-models.md)
+        * [Dropdown options from semantic models](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/dropdown/dropdown-options-from-semantic-models.md)
       * [Text, checkbox & date](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/text-checkbox-and-date.md)
       * [Enterprise features](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-columns/enterprise-features.md)
     * [Invert sign](working-with-inforiver/4.-adding-business-logic-and-formulae/invert-sign.md)
