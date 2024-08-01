@@ -117,13 +117,23 @@ This option allows you to hide or display the icon in the options to the left or
 
 <figure><img src="../../../../.gitbook/assets/image (755).png" alt=""><figcaption><p>Icon position in the options</p></figcaption></figure>
 
-## 3. Allow user to add new option
+## 3. Options Style
+
+This option lets you choose your desired display style for single and multi-select dropdowns: Chip, Arrow, or Plain text.
+
+<figure><img src="../../../../.gitbook/assets/image (883).png" alt=""><figcaption><p>Options Style</p></figcaption></figure>
+
+In the image below, we used the plain-text style for the multi-select dropdown, whereas, for the single-select, we’ve used the chip and arrow styles.
+
+<figure><img src="../../../../.gitbook/assets/display style for dropdown.png" alt=""><figcaption><p>Example for chip, arrow and plain text styles</p></figcaption></figure>
+
+## 4. Allow user to add new option
 
 Enabling this option allows users to [create new options dynamically](./#id-5.-dynamically-adding-missing-options) while using the dropdown, without the need to open the side panel for adding options.
 
 <figure><img src="../../../../.gitbook/assets/image (756).png" alt=""><figcaption><p>Allow user to add new option</p></figcaption></figure>
 
-## 4. Entry in total/subtotal rows
+## 5. Entry in total/subtotal rows
 
 By default, data can be entered in total/subtotal rows. To disable it, uncheck the checkbox highlighted in the below image.
 
@@ -133,7 +143,7 @@ On trying to select an option in the total/subtotal row, a message as shown in t
 
 <figure><img src="../../../../.gitbook/assets/4.4.2.8 Select.png" alt=""><figcaption><p>Entry disabled in total/subtotal rows</p></figcaption></figure>
 
-## 5. Default Value
+## 6. Default Value
 
 After creating a dropdown column, the user has to enter the values manually as explained in the [next section](./#id-6.-using-the-dropdown). Instead of having these cells blank, you can display a default value. The default value can be a static value as configured by the user or can be selected from any native measure (Dimension). If the underlying native measure is updated, the default value will reflect the latest value.
 
@@ -141,13 +151,13 @@ After creating a dropdown column, the user has to enter the values manually as e
 
 <figure><img src="../../../../.gitbook/assets/image (759).png" alt=""><figcaption><p>Default Value is set from a dimension</p></figcaption></figure>
 
-## 6. Using the dropdown
+## 7. Using the dropdown
 
 Once the necessary changes are made to the list of values, and other properties are configured, click 'Create' in the data input side panel. Click on a cell in the data input column to enable the dropdown and choose an option.
 
 <figure><img src="../../../../.gitbook/assets/4.4.2.5 Select.png" alt=""><figcaption><p>Selecting from the dropdown</p></figcaption></figure>
 
-## 7. Dynamically adding missing options
+## 8. Dynamically adding missing options
 
 Users can create a new option on the fly if a particular option is not available in LOV. In the example below, the available values are ‘Submitted’, ‘In Review’, and ‘Approved’.
 

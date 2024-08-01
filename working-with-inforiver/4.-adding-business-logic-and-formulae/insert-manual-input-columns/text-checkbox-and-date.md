@@ -86,19 +86,49 @@ You can choose to [insert it as a visual measure or column](../insert-manual-inp
 
 You can also configure other optional fields as below:
 
+#### Format
+
 The date format can be changed by clicking the 'Format' dropdown. Choose the desired format.
 
 <figure><img src="../../../.gitbook/assets/image (729) (1).png" alt=""><figcaption><p>Date format</p></figcaption></figure>
 
-You can define the minimum and maximum date ranges for the date input. You can enter both dates to specify a range or select only the minimum or the maximum date. Click on the calendar icon and choose a date.&#x20;
+#### Minimum and Maximum Date
+
+You can set the minimum and maximum date ranges for the date input. Users will not be able to enter any dates that fall outside this range. You can enter both dates to specify a range, or just the minimum or the maximum date. To select a date, click the calendar icon.
 
 <figure><img src="../../../.gitbook/assets/image (730) (1).png" alt=""><figcaption><p>Minimum and maximum date ranges</p></figcaption></figure>
 
-After selecting the date ranges, click 'Create'.&#x20;
+#### Default value
+
+In a report that has thousands of rows, manually entering or copying dates in a data input-date field can be a tedious task. In such cases, you can set a default date. All rows will be filled with the configured default date as soon as you click **Create**.
+
+There are multiple options to set a default date:
+
+* **Static value**: Use the date picker to set a common date for all the rows. In the image below, the created date column is pre-filled with the default date - 07/01/2024.
+
+<figure><img src="../../../.gitbook/assets/3.1.1. Static Value.png" alt=""><figcaption><p>Static value as default date</p></figcaption></figure>
+
+* **Measure**: Select the measure (native measure/formula measure/date input column) from which the default date should be sourced. In the example below, the default value is sourced from a formula measure that is available within the same report.
+
+<figure><img src="../../../.gitbook/assets/3.1.3. Measure default date.png" alt=""><figcaption><p>Setting a measure value as default date</p></figcaption></figure>
+
+* **Dimension**: When you have a date dimension in your row, you can select the row dimension from which the default date must be picked. The default date in the example below is picked from the row dimension, 'Order Date'.
+
+<figure><img src="../../../.gitbook/assets/3.1.2. Dimension default date.png" alt=""><figcaption><p>Setting a dimension value as default date</p></figcaption></figure>
+
+{% hint style="info" %}
+The default date option is available for both visual measures and visual columns. Invalid date format errors are implicitly handled as blanks for a clean export and writeback.
+{% endhint %}
+
+After configuring the required settings, click **Create.**
 
 <figure><img src="../../../.gitbook/assets/image (731) (1).png" alt=""><figcaption><p>Create date column</p></figcaption></figure>
 
-The date column gets inserted. To enter data, double-click on a cell. Select a date from the calendar/date picker.&#x20;
+The date column gets inserted.
+
+#### Entering a date
+
+To enter data, double-click on a cell. Select a date from the calendar/date picker.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (732).png" alt=""><figcaption><p>Choosing a date as input</p></figcaption></figure>
 
