@@ -1,8 +1,8 @@
 # Insert rows from bridge
 
-In this section, we will demonstrate how to extract rows from the source visual and insert them into a target visual.
+In this section, we will demonstrate how to extract rows from the source visual and insert them into a target visual. For simplicity, we have used sample reports with a limited number of rows and columns.
 
-We need to combine data from two reports. The first report contains product sales and COGS data for the _France_ region (source visual), while the second report contains the same information for _all_ regions (destination visual).
+Let us now combine data from two reports by inserting the rows from source visual to the target visual. The first report contains product sales and COGS data for the _France_ region (source visual), while the second report contains the same information for _all_ regions (target visual).
 
 Here are the visuals:
 

@@ -4,7 +4,7 @@ We provide an API token management system in the admin console where admins can 
 
 Let us now see the process of creating an API token.
 
-## Create API Token
+## 1. Create API Token
 
 1. To create a new API token, click **Create API Token** in the API token screen.
 
@@ -30,7 +30,7 @@ After entering the details, click **Generate**.
 
 Now with this token, we can initiate a scheduled subscription and refresh the semantic data input model externally from any application.
 
-## **Trigger subscriptions from external applications**
+## **2. Trigger subscriptions from external applications**
 
 By integrating the [created API token](api-token.md#create-api-token) into the required application, you can create an API that triggers the required subscription job. Let us now demonstrate this with the help of the Postman application.
 
@@ -48,7 +48,7 @@ By integrating the [created API token](api-token.md#create-api-token) into the r
 
 <figure><img src="../../.gitbook/assets/image (754).png" alt=""><figcaption><p>Report delivered</p></figcaption></figure>
 
-## **Refresh semantic data input source using API**
+## **3. Refresh semantic data input source using API**
 
 Inforiver also provides an API to refresh single-select and multi-select dropdowns that use semantic data models. You can generate API tokens from the admin console and trigger ad-hoc semantic model refreshes using the API.
 

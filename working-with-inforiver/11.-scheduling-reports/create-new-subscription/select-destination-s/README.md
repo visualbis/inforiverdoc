@@ -2,7 +2,11 @@
 
 Here you can select the destination(s) to which you want the send the reports. The scheduled reports can be exported to any of the following destinations: Email, OneDrive, Microsoft Teams, SharePoint, and Google Drive.
 
-<figure><img src="../../../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Destination option</p></figcaption></figure>
+## 1. Standard Subscription
+
+When you choose a **standard subscription**, the 'Select Destinations' page look as below:
+
+<figure><img src="../../../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Destination options - Standard subscription</p></figcaption></figure>
 
 {% hint style="info" %}
 By default, the email option is chosen in the destinations section.
@@ -44,8 +48,6 @@ Once you select the bookmark option, the second drop-down gets populated with al
 
 <figure><img src="../../../../.gitbook/assets/select-bookmark.png" alt=""><figcaption><p>Select bookmark</p></figcaption></figure>
 
-
-
 #### **Bulk Upload**
 
 You can also bulk upload a CSV file containing the filters and bookmarks applied on the report. Click the 'Bulk upload' option. This will open up the bulk upload modal as shown in the image below.
@@ -78,6 +80,12 @@ The image below displays the structure of the download sample CSV file for OneDr
 
 <figure><img src="../../../../.gitbook/assets/image (10) (4).png" alt=""><figcaption><p>Sample csv file for non-email destinations</p></figcaption></figure>
 
+## 2. Dynamic Subscription
 
+The 'Select Destinations' page has a 'Table Selection' option as below, when you choose dynamic subscription.
+
+<figure><img src="../../../../.gitbook/assets/image (890).png" alt=""><figcaption><p>Configure table</p></figcaption></figure>
+
+When you click **Configure**, a pop-up appears in which you can choose whether to add the table with email IDs using the available semantic model or by uploading a CSV file.
 
 In the next sections, we'll explore the configuration options for each type of destination.
