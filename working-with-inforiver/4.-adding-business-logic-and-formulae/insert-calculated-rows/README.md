@@ -70,6 +70,10 @@ A new row containing the sum of the selected rows is created as shown below. You
 
 Similarly, for calculating and inserting the average of rows, use **Insert Avg of rows.**
 
+Any errors in the formula can be easily located with clear and concise error messages. In the maximized formula editor view, you will also notice line numbers, allowing you to quickly locate and fix errors.
+
+<figure><img src="../../../.gitbook/assets/errormsgsinformula.gif" alt=""><figcaption><p>Fixing errors in formula</p></figcaption></figure>
+
 ### 2. Include in total
 
 a) Check the 'Include in total' checkbox as we need the Specialty Beverages value to be included in the Beverages total and the grand total. Click 'Create'.&#x20;
