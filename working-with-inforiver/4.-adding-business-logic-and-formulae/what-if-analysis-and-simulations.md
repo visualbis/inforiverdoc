@@ -110,6 +110,22 @@ When the simulation slider is disabled, double-click on the cell and edit direct
 All the variances are in red because the negative variance formatting style has been applied.
 {% endhint %}
 
+## 3. Bulk editing a simulation measure
+
+[Bulk edit feature](editing-cells.md#id-5.-bulk-edit) is also available for simulation measures enabling you to simulate entire row/column categories simultaneously.
+
+1. Click **Bulk Edit** from the tool bar.
+
+<figure><img src="../../.gitbook/assets/image (895).png" alt=""><figcaption><p>Bulk Edit option</p></figcaption></figure>
+
+2. In the pop-up, select the simulation measure to be edited in bulk, then select the necessary categories and sub-categories from both row and column dimensions. As you select, they are filtered in the report.
+
+<figure><img src="../../.gitbook/assets/image (896).png" alt=""><figcaption><p>Choose measure, row and column categories, sub-categories</p></figcaption></figure>
+
+3. Choose the row and column levels where the simulation should be done, as well as the simulation percentage. Click **Apply.** The results are shown below.
+
+<figure><img src="../../.gitbook/assets/image (897).png" alt=""><figcaption><p>Bulk simulation</p></figcaption></figure>
+
 To learn more about simulations in Power BI, read this [blog](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/). &#x20;
 
 #### Resources

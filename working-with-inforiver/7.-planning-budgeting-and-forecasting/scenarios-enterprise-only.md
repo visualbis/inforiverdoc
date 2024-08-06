@@ -106,13 +106,25 @@ Using this method you can [distribute](../4.-adding-business-logic-and-formulae/
 
 <figure><img src="../../.gitbook/assets/distribution-method.png" alt=""><figcaption><p>Distribution option</p></figcaption></figure>
 
-### iv) Show variance
+### iv) Bulk editing a scenario
+
+You can also run simulations in bulk for a scenario you have created, allowing you to easily perform analyses like determining the impact of an x% increase in sales for a specific region or increasing the bonus for employees in a specific department by x dollars.
+
+1. In a scenario, click **Bulk Edit** from the tool bar under the **Insert** tab.&#x20;
+2. In the pop-up, choose the measure to be simulated and the necessary categories and sub-categories from row and column dimensions.&#x20;
+3. Select the simulation percentage to be applied and click **Apply.**&#x20;
+
+The animation below illustrates the same, with bulk simulations performed for two different scenarios and the results compared.
+
+<figure><img src="../../.gitbook/assets/bulk edit scenario.gif" alt=""><figcaption><p>Bulk editing scenarios</p></figcaption></figure>
+
+### v) Show variance
 
 If you enable this option, you will see the percentage of variance to the left of the data metrics.
 
 <figure><img src="../../.gitbook/assets/show-variance.png" alt=""><figcaption><p>Show variance option</p></figcaption></figure>
 
-### v) Slider settings
+### vi) Slider settings
 
 If you click the 'Slider settings' option, the 'Variance settings' modal will open up.
 
@@ -128,13 +140,13 @@ b) **Increase is good** - This toggle is enabled by default. If this is turned o
 
 c) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
 
-### vi) Copy to base scenario
+### vii) Copy to base scenario
 
-You may perform simulations on different scenarios before arriving at the most optimal option. Any simulations on Data Input measures/columns in a scenario can be updated to the base scenario using the _Copy to Base_ option.
+You may perform simulations on different scenarios before arriving at the most optimal option. Any simulations on Data Input measures/columns in a scenario can be updated to the base scenario using the **Copy to Base** option.
 
-In the below scenario, the measure 2023 Forecast is created by[ adding a new measure](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#1.-create-a-column) to the report. The simulations on the 2023 Forecast in Scenario2 will be reflected in the report after selecting the Copy to Base option.
+In the below scenario, the measure 2023 Forecast is created by[ adding a new measure](../4.-adding-business-logic-and-formulae/insert-manual-input-columns/insert-manual-input-columns.md#1.-create-a-column) to the report. The simulations on the 2023 Forecast in Scenario2 will be reflected in the report after selecting the **Copy to Base** option.
 
-<figure><img src="../../.gitbook/assets/image (23) (3).png" alt=""><figcaption><p>Additional options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (894).png" alt=""><figcaption><p>Copy to Basie</p></figcaption></figure>
 
 On selecting Copy to Base, a dialog box opens up which contains the list of columns that will be exported.
 
@@ -142,17 +154,17 @@ On selecting Copy to Base, a dialog box opens up which contains the list of colu
 
 
 
-&#x20;On clicking on the Proceed button, the simulations in the scenario for 2023 Forecast have now been updated in the report.
+On clicking on the Proceed button, the simulations in the scenario for 2023 Forecast have now been updated in the report.
 
 <figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Report with values set up in a scenario</p></figcaption></figure>
 
-### vii) Edit/duplicate/delete
+### viii) Edit/duplicate/delete
 
 To edit, delete, or duplicate a scenario - click on the additional options menu icon that appears on hovering over the name of the scenario and select the relevant option.
 
-<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Copy to Base</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (893).png" alt=""><figcaption><p>Edit/duplicate/delete scenario</p></figcaption></figure>
 
-### viii) Style Formatting the Scenarios
+### ix) Style Formatting the Scenarios
 
 You can manually format the newly created scenarios using the [cell and value formatting styles](../2.-displaying-information/basic-formatting/cell-and-value-formatting.md) or the [column styles](../8.-paginated-reporting/display-and-themes.md#iii-column-style) as well as copy the style from the Base or any other existing scenarios.
 

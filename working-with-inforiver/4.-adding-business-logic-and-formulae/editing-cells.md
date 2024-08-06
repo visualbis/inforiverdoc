@@ -16,7 +16,12 @@ The value gets updated and the manual update can be identified by the pencil ico
 
 You can even reference other cells and apply formulas to them - using the cell editor, you can define simple mathematical operations such as A +/- B, etc.
 
-<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption><p>Using cell references and applying formulas</p></figcaption></figure>
+
+{% hint style="info" %}
+* You can also edit cells using the 'Edit cell' icon in the toolbar. You can access it in the Insert tab > Cell section.&#x20;
+* Inforiver allows you to edit values AC, PY, PL, FC, and OM measures. You can edit dates and text measures as well.
+{% endhint %}
 
 ### 2. Apply formulas
 
@@ -56,7 +61,9 @@ The same row category may be repeated at each hierarchy level for hierarchical d
 
 ### 5. Bulk edit
 
-In financial reporting, costs or revenues may need to be allocated across multiple fields, or during the budgeting/forecasting process, the same values may need to be distributed across different fields. Let's look at the **Bulk Edit** feature that comes in handy in such situations.
+In financial reporting, costs or revenues may need to be allocated across multiple fields, or during the budgeting/forecasting process, the same values may need to be distributed across different fields. In some cases, you may need to set the same date, such as the expiry date for a list of products, or assign the same manager to a group of locations.
+
+Let's look at the **Bulk Edit** feature that comes in handy in such situations. We will use an example where we need to bulk edit a data input-number column.
 
 Navigate to the Insert ribbon and click the Bulk Edit option from the Cell section.
 
@@ -70,7 +77,7 @@ Navigate to the Insert ribbon and click the Bulk Edit option from the Cell secti
 
 <figure><img src="../../.gitbook/assets/Untitled Project (1).gif" alt=""><figcaption><p>Choosing dimensions and measures</p></figcaption></figure>
 
-**STEP 3:** Select the row hhierarchy level at which the value should be updated.&#x20;
+**STEP 3:** Select the row hierarchy level at which the value should be updated.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (7) (12).png" alt=""><figcaption><p>Selecting the row hierarchy category</p></figcaption></figure>
 
@@ -90,7 +97,22 @@ The cells are updated to 50k at the Segment level and distributed to the childre
 
 <figure><img src="../../.gitbook/assets/image (11) (8).png" alt=""><figcaption><p>Edited cells highlighted in yellow. Distribution measure highlighted in violet.</p></figcaption></figure>
 
+Similarly, we can bulk edit all other data input types, including text, date, person, single-select, and multi-select dropdowns. In the image below, the bulk edit feature has been used to set values for items in the selected categories, sub-categories, and dimensions.
+
+<figure><img src="../../.gitbook/assets/bulk edit all data input.png" alt=""><figcaption><p>Bulk edit feature</p></figcaption></figure>
+
+Specifically for date fields, you can either set a date from the date picker or add a duration in years, quarters, months, weeks, or days to the existing date.
+
+<figure><img src="../../.gitbook/assets/bulk edit add duration.gif" alt=""><figcaption><p>Adding specific duration to list of items</p></figcaption></figure>
+
 {% hint style="info" %}
-* You can also edit cells using the 'Edit cell' icon in the toolbar. You can access it in the Insert tab > Cell section.&#x20;
-* Inforiver allows you to edit values AC, PY, PL, FC, and OM measures. You can edit dates and text measures as well.
+When editing data in bulk:
+
+1. If you are working with numerical data inputs, you can append and distribute values.
+2. For date input type, you can specify the duration or choose a date.
+3. When column headers have a hierarchy, like a region or date hierarchy, you can collectively apply changes to specific column levels.
+{% endhint %}
+
+{% hint style="info" %}
+Bulk editing is available for simulation measures and scenarios so that simulations can be applied to specific categories and dimensions in one go. Refer these sections to learn more: [Bulk editing a simulation measure](what-if-analysis-and-simulations.md#id-3.-bulk-editing-a-simulation-measure) and [Bulk editing a scenario](../7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md#iv-bulk-editing-a-scenario).
 {% endhint %}
