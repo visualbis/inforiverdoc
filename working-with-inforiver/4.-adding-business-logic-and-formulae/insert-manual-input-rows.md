@@ -120,9 +120,67 @@ Follow the steps discussed in sections 2.1/2.2 to insert the configured row cate
 
 <figure><img src="../../.gitbook/assets/image (771).png" alt=""><figcaption><p>Row categories sources from Excel</p></figcaption></figure>
 
-### 2.5. Setting user permissions
+### 2.5. Insert rows from semantic models
 
-You can explicitly set permissions for users to insert rows in read mode. You have options to restrict all users, allow all users, or authorize specific users to insert rows. Navigate to Insert >Manage Rows >Settings > Insert Row Access to set permissions.
+You can also insert rows and their leaf categories from semantic models. The procedure is similar to [adding single and multi-select options from the semantic model](insert-manual-input-columns/dropdown/dropdown-options-from-semantic-models.md#id-2.-creating-a-lov-from-a-semantic-model).
+
+**STEP 1:** To pick and upload row categories from a semantic model, navigate to Insert > Manage Rows > Insert Row Settings > Insert Row Configuration > Manage. Select **Options list from Semantic Model** from the 'Category' dropdown.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
+
+**STEP 2:** The **Add options from Semantic model** window opens. In the **Table Connection** tab, select the workspace, semantic model and the table you need to connect to. Click **Next.**
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Table Connection</p></figcaption></figure>
+
+**STEP 3:** Go to the **Options configuration** tab and choose the column from the connected table that will be used as the option label. In the example below, we have chosen the column 'Category' from the table 'Contoso-Product'. This column's members will be used to populate the 'Categories' row level.\
+\
+**STEP 4:** You can optionally specify a filter if hierarchical data is involved, and you want to maintain the same structure in your reports. In the **Columns** dropdown**,** select the field based on which you need to filter the options. In this case, it is the Contoso - Product.SubCategory which can be used to identify the Category. Select the matching field from the visual (SubCategory) in the **Visual Column** dropdown.
+
+Then click **Add**.
+
+Because of this filter, when you insert a row and add a sub-category first, you will be prompted with the category to which it belongs.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Options configuration</p></figcaption></figure>
+
+{% hint style="info" %}
+Configuring filter options is optional. By adding it, we ensure that the dropdown list for each category displays only the relevant sub-categories and vice-versa. For example, if you choose "Cellphones" as the category, only the sub-categories under "Cellphones" will be displayed, not other categories.
+
+Similarly, when you choose a sub-category, you can add it only under the relevant category.
+{% endhint %}
+
+**STEP** **5: F**ollow the same steps from 1 to 4 for SubCategory dimension.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
+
+</div>
+
+<div align="right">
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Options Configuration</p></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Configuration done</p></figcaption></figure>
+
+Once the configuration is completed as shown in the image above, you can follow the steps in sections 2.1/2.2 to insert the configured row categories into your visual.
+
+You will see the data from the semantic model in the Category and Sub Category dropdowns.
+
+<figure><img src="../../.gitbook/assets/insert rows semantic.gif" alt=""><figcaption><p>Insert rows from semantic model</p></figcaption></figure>
+
+The rows are inserted as shown below:
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Inserted rows</p></figcaption></figure>
+
+{% hint style="info" %}
+The base data in our visual may be from one table, but the options in the dropdown may be from a different table; in such cases, you can specify a join. For more information on using joins and filters, please refer to [this section](insert-manual-input-columns/dropdown/dropdown-options-from-semantic-models.md#id-4.-using-joins-and-filters).
+{% endhint %}
+
+### 2.6. Setting user permissions
+
+You can explicitly set permissions for users to insert rows in read mode. You have options to restrict all users, allow all users, or authorize specific users to insert rows. Navigate to Insert > Manage Rows >Settings > Insert Row Access to set permissions.
 
 * Enable the **Allow in Read Mode** toggle to allow users to insert rows in reading mode.
 * To allow all the members in your organization to insert rows, choose the **All users** radio button.
@@ -130,13 +188,29 @@ You can explicitly set permissions for users to insert rows in read mode. You ha
 
 <figure><img src="../../.gitbook/assets/4.8. Data input insert rows access 5.png" alt=""><figcaption><p>Insert row permissions</p></figcaption></figure>
 
+### 2.7. Allow blank values in categories
+
+While inserting row hierarchies manually, you can enable the **Allow Blank Values** toggle if you expect blank row categories in the leaf nodes. This option is available at **Insert tab > Manage Rows > Insert Row Settings > Insert Row Configuration > Manage.**
+
+<figure><img src="../../.gitbook/assets/image (898).png" alt=""><figcaption><p>Enable 'Allow Blank Values'</p></figcaption></figure>
+
+By default, this toggle is disabled. The blank categories are highlighted in a red error box, and Inforiver prevents you from inserting rows.
+
+<figure><img src="../../.gitbook/assets/image (899).png" alt=""><figcaption><p>When toggle is disabled </p></figcaption></figure>
+
+By enabling this option, you can insert row hierarchies that contain blank leaf categories. In the image below, notice that the _Corporate_ segment has only one product and does not have any discount bands under it. Similarly, the _Consumer_ segment does not have any products or discount bands tagged to it as the row categories were left blank while inserting rows.&#x20;
+
+<figure><img src="../../.gitbook/assets/DI Insert rows ragged hierarchy blank categories - 1.png" alt=""><figcaption><p>Row hierarchy with blank categories</p></figcaption></figure>
+
+Please note that you cannot create blank parent nodes for child nodes that are not blank.
+
 ## 3. Row hierarchy
 
 This option can be used to insert a single user-defined level for hierarchical data. Only one row is created while using this option, unlike the [multiple static row](insert-manual-input-rows.md#i-multiple-static-row) option, where you can define the hierarchy structure with multiple nested levels and rows. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption><p>Row hierarchy</p></figcaption></figure>
 
-After creating a custom hierarchy level, you can insert static rows, calculated rows, aggregated rows, etc as demonstrated in the example below.&#x20;
+After creating a custom hierarchy level, you can insert static rows, calculated rows, aggregated rows, etc. as demonstrated in the example below.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 

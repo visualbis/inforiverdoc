@@ -56,7 +56,7 @@ When you use icons, you have an additional option to align your icons in the gri
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Aligning icons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Aligning icons</p></figcaption></figure>
 
  
 

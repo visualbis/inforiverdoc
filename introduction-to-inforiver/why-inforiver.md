@@ -23,7 +23,7 @@ Inforiver visuals are [certified](https://learn.microsoft.com/en-us/power-bi/dev
 2. Inforiver-level security - e.g., administrators can decide whether Inforiver users can write to Snowflake
 3. Report-level security - e.g., report creators can authorize specific users to perform specific actions in the report, such as who can comment, enter data, create scenarios, etc.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Built for business users with no coding experience
 

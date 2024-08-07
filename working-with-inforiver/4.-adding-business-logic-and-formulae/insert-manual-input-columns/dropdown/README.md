@@ -121,7 +121,7 @@ This option allows you to hide or display the icon in the options to the left or
 
 This option lets you choose your desired display style for single and multi-select dropdowns: Chip, Arrow, or Plain text.
 
-<figure><img src="../../../../.gitbook/assets/image (883).png" alt=""><figcaption><p>Options Style</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (883) (1).png" alt=""><figcaption><p>Options Style</p></figcaption></figure>
 
 In the image below, we used the plain-text style for the multi-select dropdown, whereas, for the single-select, we’ve used the chip and arrow styles.
 
