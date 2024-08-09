@@ -6,27 +6,27 @@ Under the general settings tab, you can configure the general writeback settings
 
 Inforiver allows the user to choose the writeback table structure from a choice of 4 types.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (900).png" alt=""><figcaption><p>Writeback types</p></figcaption></figure>
 
-#### i) Values in tidy (long) format
+#### i) Long
 
 This is the default writeback type for any writeback table. The Tidy (long) type has one row per observation and one column per variable. Please note only the Tidy (long) type supports writing back Inforiver's comments and notes.
 
 <figure><img src="../../../.gitbook/assets/tidy-format.png" alt=""><figcaption><p>Inforiver Tidy (long) writeback type</p></figcaption></figure>
 
-#### ii) Values in measure on columns format
+#### ii) Wide
 
-As the name suggests, this option stores the measures in the form of columns. This format is also called the "wide" format. As more measures are added, a proportional number of columns will be added to the writeback table to accommodate them. &#x20;
+This option stores the measures in the form of columns. As more measures are added, a proportional number of columns will be added to the writeback table to accommodate them. &#x20;
 
 <figure><img src="../../../.gitbook/assets/measure-on-columns.png" alt=""><figcaption><p>Inforiver Measure on columns writeback type</p></figcaption></figure>
 
-#### iii) Changes in tidy (long) format&#x20;
+#### iii) Long with changes
 
 The Writeback with changes type also called "delta writeback" allows the user to record the changes/differences/adjustments made on a report during the writeback. If new data comes into the database, the old data is moved to a column called _PreviousValue_ and the new data takes its place under the _Value_ column. Inforiver also marks the IsLatest column=1 to indicate the latest row. Delta writeback works for both numeric and text data type adjustments.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (354).png" alt=""><figcaption><p>Delta writeback in Tidy format</p></figcaption></figure>
 
-#### iv) Changes in measure on columns format&#x20;
+#### iv) Wide with changes
 
 This writeback type also performs a delta writeback - only changed records are written back. In this format, each measure is stored as a separate column in the database. Like the Tidy format, change history is maintained and the active record can be identified using the IsLatest column.
 
@@ -221,7 +221,7 @@ The precision that is set in the destination configuration is displayed in the D
 
 ### 7. Text field length
 
-You can restrict the length of text fields to be written back. The default text length allowed in writeback  is 512 characters. While adding the first destination, along with [decimal precision](general-settings.md#id-6.-decimal-precision), you can also restrict the length of text fields to 512 characters or allow writeback up to the maximum limit supported by the backend. This is also a **one-time setup** that will apply to **all destinations** configured for a particular report page. [Learn more about configuring writeback destinations here](../destinations/).
+You can restrict the length of text fields to be written back. The default text length allowed in writeback is 512 characters. While adding the first destination, along with [decimal precision](general-settings.md#id-6.-decimal-precision), you can also restrict the length of text fields to 512 characters or allow writeback up to the maximum limit supported by the backend. This is also a **one-time setup** that will apply to **all destinations** configured for a particular report page. [Learn more about configuring writeback destinations here](../destinations/).
 
 <figure><img src="../../../.gitbook/assets/image (863).png" alt=""><figcaption><p>Configuring text field length</p></figcaption></figure>
 
