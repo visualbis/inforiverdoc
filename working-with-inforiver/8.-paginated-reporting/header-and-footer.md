@@ -20,7 +20,7 @@ Let's first take a look at the header/footer interface.
 
 **STEP 1**: Click on **Header & Footer** in the Design tab. Alternatively, hover over the header and select **Edit** from the hamburger menu.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Header and footer option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Header and footer option</p></figcaption></figure>
 
 **STEP 2:** The **Header & Footer** ribbon is enabled. You can see there is a default header that shows the fields added and the scaling.
 
@@ -92,7 +92,7 @@ If you choose the _**Replace the selected Container**_ option, the chosen elemen
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure>
 
  
 
@@ -104,7 +104,7 @@ You can also choose to insert a new container to the right/left/top/bottom of th
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure>
 
  
 
@@ -127,7 +127,7 @@ Use the **Insert** dropdown menu to add the predefined text elements listed belo
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Types of elements</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Types of elements</p></figcaption></figure>
 
  
 
@@ -137,7 +137,7 @@ Use the **Insert** dropdown menu to add the predefined text elements listed belo
 
 The image below shows various predefined text elements inserted in the header.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Page numbers/ dates/ symbols and data fields inserted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Page numbers/ dates/ symbols and data fields inserted</p></figcaption></figure>
 
 ## 4. Presets
 
@@ -155,7 +155,7 @@ Before looking at creating header/footer elements from scratch, let's see how to
 
 If you choose a KPI preset, any selections made in the [KPI explorer](../3.-basic-interactions/explore-and-filter-data/explorer.md) will be reflected in the header as well.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>KPI explorer selection reflected in presets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>KPI explorer selection reflected in presets</p></figcaption></figure>
 
 ### 4.2. Footer preset
 

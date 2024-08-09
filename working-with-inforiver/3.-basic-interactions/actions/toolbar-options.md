@@ -188,6 +188,16 @@ With the above configuration, the Reading view looks as shown below:
 
 <figure><img src="../../../.gitbook/assets/6.1.2. swap tabs - Reading view.png" alt=""><figcaption><p>Reading view with swapped tabs</p></figcaption></figure>
 
+#### 15. Show Read View Bookmark
+
+Report viewers may apply formatting/Inforiver filters for data analysis and save their changes using the Power BI bookmarking feature. However, if the report author makes any changes to the report, the viewers may not be able to see these changes when bookmarks are applied.
+
+When the **Show read View Bookmark** option is enabled in Allowed user controls, in reading view, you will notice a **Read view bookmarking** toggle.&#x20;
+
+With this, you can enable or disable users from creating bookmarks in Reading view.
+
+
+
 ## 7. Quick access
 
 Using the 'Quick access' option, you can quickly search for specific features and find the shortcut or directly navigate to it.&#x20;

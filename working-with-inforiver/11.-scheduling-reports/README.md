@@ -1,6 +1,8 @@
 # 11. Scheduling reports
 
-In Inforiver, you can easily create new subscriptions, manage your existing subscriptions and also manage the subscriptions of your team/organization members. Inforiver's subscription scheduler lets you do the following:
+In Inforiver, you can easily create new subscriptions, manage your existing subscriptions and also manage the subscriptions of your team/organization members. You can generate subscriptions even for high-volume datasets of up to 75K cells.&#x20;
+
+Inforiver's subscription scheduler lets you do the following:
 
 * Schedule entire reports, report tabs, or specific pages within a paginated report​
 * Use flexible frequency options – e.g., specific days of the week, month, and more​

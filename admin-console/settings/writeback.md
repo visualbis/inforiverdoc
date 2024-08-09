@@ -16,11 +16,11 @@ This page lists all the writeback destination connections. Inforiver provides co
 
 To add a new connection, click the 'Add new connection' button to open the _Create Connection_ modal.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add New Connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add New Connection</p></figcaption></figure>
 
 In the _Create Connection_ modal, you can select the required writeback destination. Click Continue to open the _Add Connection_ page.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select writeback destination</p></figcaption></figure>
 
 On the 'Add connection' page, enter all your connection-related details.
 
@@ -30,13 +30,13 @@ Enter the connection name and click 'Save connection' to complete the connection
 
 The created connection will be listed on the Connections page.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Connection created</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Connection created</p></figcaption></figure>
 
 ### ii) Edit/Delete connection
 
 You can edit the available connections using the edit icon(pencil) available on the top right corner of each connection.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Edit connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Edit connection</p></figcaption></figure>
 
 Clicking the pencil icon will open the 'Edit connection' page where you can edit or make changes to the connection.
 
@@ -73,5 +73,11 @@ Enabling this option will allow users to configure the SharePoint writeback dest
 #### **iv) Allow users to configure URL**&#x20;
 
 Enabling this option will allow users to configure the URL.
+
+{% hint style="info" %}
+In addition to the above settings, you can configure access control for writeback destinations and role-based access control for writeback admin connections, which are covered in detail in this section: [Writeback security settings.](../../working-with-inforiver/12.-data-writeback/settings/writeback-security-settings.md)
+{% endhint %}
+
+
 
 In this section, we have covered the writeback settings. Navigate to the next chapter to learn more about the [managed DB settings](managed-db.md).
