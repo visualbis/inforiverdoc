@@ -16,7 +16,7 @@ Configuring writeback destination(s) is straightforward and involves the same pr
 
 A list of destinations will be displayed for the users to select from.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (908).png" alt=""><figcaption><p>Destinations organized by category</p></figcaption></figure>
 
 Configuring destinations for writeback is a straightforward process that will be covered in the upcoming sections.
 

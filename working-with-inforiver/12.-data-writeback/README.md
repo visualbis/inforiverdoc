@@ -44,7 +44,7 @@ On-premise database servers need to be directly reachable from the internet for 
 
 &#x20;A list of destinations will be displayed for the users to select from.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (907).png" alt=""><figcaption></figcaption></figure>
 
 To learn how to configure each destination in the above list, [navigate to this page](destinations/#overview).&#x20;
 
