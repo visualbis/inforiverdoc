@@ -12,7 +12,7 @@ This page lists all the writeback destination connections. Inforiver provides co
 
 <figure><img src="../../.gitbook/assets/image (743).png" alt=""><figcaption><p>Connections</p></figcaption></figure>
 
-### i) Add a new connection
+### 1.1. Add a new connection
 
 To add a new connection, click the 'Add new connection' button to open the _Create Connection_ modal.&#x20;
 
@@ -32,7 +32,7 @@ The created connection will be listed on the Connections page.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Connection created</p></figcaption></figure>
 
-### ii) Edit/Delete connection
+### 1.2. Edit/Delete connection
 
 You can edit the available connections using the edit icon(pencil) available on the top right corner of each connection.
 
@@ -58,26 +58,14 @@ The writeback settings let admins configure various access settings for the user
 
 #### **Settings**
 
-#### **i) Allow users to configure database connections**&#x20;
+Users will be able to add destinations based on the settings configured by the admin. Admins can restrict users from creating destinations altogether or restrict the creation of certain types of destinations. For example, the admin can prevent users from creating database destinations by disabling the _Allow users to configure database connections_ option. When the toggle button for a particular destination type is disabled, users will only be able to use admin-configured destinations and cannot create their own.
 
-By enabling this option you can allow users to configure their own DB connections. Disabling this option will let the users use the admin-configured DB.
+The settings configured in the admin console will be applied to the Add Destination page as well. Users will only see the destination types they have permission to add.
 
-#### **ii) Allow users to configure OneDrive**&#x20;
-
-Enabling this option will allow users to configure the OneDrive writeback destination.
-
-#### **iii) Allow users to configure SharePoint**&#x20;
-
-Enabling this option will allow users to configure the SharePoint writeback destination.
-
-#### **iv) Allow users to configure URL**&#x20;
-
-Enabling this option will allow users to configure the URL.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Destination settings applied in the Add destination page</p></figcaption></figure>
 
 {% hint style="info" %}
 In addition to the above settings, you can configure access control for writeback destinations and role-based access control for writeback admin connections, which are covered in detail in this section: [Writeback security settings.](../../working-with-inforiver/12.-data-writeback/settings/writeback-security-settings.md)
 {% endhint %}
-
-
 
 In this section, we have covered the writeback settings. Navigate to the next chapter to learn more about the [managed DB settings](managed-db.md).

@@ -2,13 +2,13 @@
 
 The 'My Profile' section in the Inforiver workspace allows you to view and manage your integrations, writeback connections, and license details.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>'My Profile' section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>'My Profile' section</p></figcaption></figure>
 
 ### **1. Rename Workspace**
 
 Click on My Profile -> Rename Workspace to rename the workspace.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Rename Workspace</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (16).png" alt=""><figcaption><p>Rename Workspace</p></figcaption></figure>
 
 ### 2. Manage Integrations
 
