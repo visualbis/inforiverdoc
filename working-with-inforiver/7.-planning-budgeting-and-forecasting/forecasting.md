@@ -112,8 +112,6 @@ The forecasted values are overwritten when the period is closed and the actuals 
 
 If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the **Aggregate total** section.
 
-<figure><img src="../../.gitbook/assets/image (913) (1).png" alt=""><figcaption><p>Aggregate forecast grand total</p></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Aggregate total for forecasts</p></figcaption></figure>
 
 **a) All Periods:** The grand total forecast will be the aggregate of the forecasts for open and closed periods.
@@ -129,14 +127,6 @@ The subtotal forecasts for 2023 and 2024 go blank when the Open Period option is
 <figure><img src="../../.gitbook/assets/image (911).png" alt=""><figcaption><p>Closed forecast periods for 2024</p></figcaption></figure>
 
 **c) Closed Periods:** The grand total forecast will be the aggregate of the forecasts for closed periods only. In this example, the closed forecasts for 2023 and 2024 are used to calculate the grand total forecast. The subtotal forecast for 2025 is blank as 2025 only has open forecasts. The fields highlighted in red are the closed forecasts, and the field highlighted in green is the forecast grand total.
-
-#### 3. Show or hide closed periods
-
-You also have the flexibility to determine the aggregation for forecast sub-totals as well. Use the column gripper for the sub-total forecast to choose between Closed, Open, and All-period options.&#x20;
-
-<figure><img src="../../.gitbook/assets/Forecasts sub total forecasts 2.png" alt=""><figcaption><p>Aggregate forecast sub-totals</p></figcaption></figure>
-
-#### 4. Show or hide closed periods
 
 <figure><img src="../../.gitbook/assets/image (900).png" alt=""><figcaption><p>Closed period aggregation for grand total forecast</p></figcaption></figure>
 
