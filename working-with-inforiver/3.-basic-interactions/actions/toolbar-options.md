@@ -190,13 +190,13 @@ With the above configuration, the Reading view looks as shown below:
 
 #### 15. Show Read View Bookmark
 
-Report viewers may apply formatting/Inforiver filters for data analysis and save their changes using the Power BI bookmarking feature. However, if the report author makes any changes to the report, the viewers may not be able to see these changes when bookmarks are applied.
+By default, report viewers may apply formatting/Inforiver filters for data analysis and save their changes using the Power BI bookmarking feature. When the **Show read View Bookmark** option is enabled in Allowed user controls, in reading view, you will notice a **Read view bookmarking** toggle.&#x20;
 
-When the **Show read View Bookmark** option is enabled in Allowed user controls, in reading view, you will notice a **Read view bookmarking** toggle.&#x20;
+<figure><img src="../../../.gitbook/assets/image (917).png" alt=""><figcaption><p>Show Read- view bookmark </p></figcaption></figure>
 
-With this, you can enable or disable users from creating bookmarks in Reading view.
+With this toggle, you can enable or disable users from creating bookmarks in Reading view. When the toggle is disabled, users can create bookmarks, but changes will not be persisted.
 
-
+<figure><img src="../../../.gitbook/assets/bookmark.gif" alt=""><figcaption><p>Bookmark disabled in Reading view</p></figcaption></figure>
 
 ## 7. Quick access
 
