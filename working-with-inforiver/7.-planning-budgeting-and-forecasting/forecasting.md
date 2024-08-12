@@ -92,7 +92,7 @@ We used the average revenue from Jan 2022 to Dec 2023 to create the forecast fro
 
 Inforiver offers customizations that can be applied once the forecast is created.&#x20;
 
-#### 1. Values display
+#### 1. Action for closed periods
 
 You have the flexibility to retain the forecasted values or use the actuals after closing a forecast. Click on the Values Display button to open the Set Value Display window.
 
@@ -110,31 +110,51 @@ The forecasted values are overwritten when the period is closed and the actuals 
 
 #### 2. Aggregate forecast grand total
 
-If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the _Aggregate total_ section.
+If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the **Aggregate total** section.
 
-<figure><img src="../../.gitbook/assets/image (913).png" alt=""><figcaption><p>Aggregate forecast grand total</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (913) (1).png" alt=""><figcaption><p>Aggregate forecast grand total</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Aggregate total for forecasts</p></figcaption></figure>
 
 **a) All Periods:** The grand total forecast will be the aggregate of the forecasts for open and closed periods.
 
-<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption><p>All Periods</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>All periods aggregated forecast</p></figcaption></figure>
 
+**b) Open Periods:** The grand total forecast will be the aggregate of the forecasts for open periods only. The open periods in the example are 2025 Q1 and Q2, hence these will be used to calculate the grand total forecast.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Grand total aggregation for open periods</p></figcaption></figure>
 
-**b) Open Periods:** The grand total forecast will be the aggregate of the forecasts for open periods only.
+The subtotal forecasts for 2023 and 2024 go blank when the Open Period option is selected. This is because 2023 and 2024 only have closed periods.
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption><p>Open Periods</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (911).png" alt=""><figcaption><p>Closed forecast periods for 2024</p></figcaption></figure>
 
+**c) Closed Periods:** The grand total forecast will be the aggregate of the forecasts for closed periods only. In this example, the closed forecasts for 2023 and 2024 are used to calculate the grand total forecast. The subtotal forecast for 2025 is blank as 2025 only has open forecasts. The fields highlighted in red are the closed forecasts, and the field highlighted in green is the forecast grand total.
 
-
-**c) Closed Periods:** The grand total forecast will be the aggregate of the forecasts for closed periods only.
-
-<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption><p>Closed Periods</p></figcaption></figure>
-
-#### 3. Aggregate forecast sub-totals
+#### 3. Show or hide closed periods
 
 You also have the flexibility to determine the aggregation for forecast sub-totals as well. Use the column gripper for the sub-total forecast to choose between Closed, Open, and All-period options.&#x20;
 
 <figure><img src="../../.gitbook/assets/Forecasts sub total forecasts 2.png" alt=""><figcaption><p>Aggregate forecast sub-totals</p></figcaption></figure>
+
+#### 4. Show or hide closed periods
+
+<figure><img src="../../.gitbook/assets/image (900).png" alt=""><figcaption><p>Closed period aggregation for grand total forecast</p></figcaption></figure>
+
+#### 3. Forecast subtotals
+
+Similar to grand total forecasts, you can choose the aggregation method for forecast subtotals. The same 'All', 'Open Periods', and 'Closed Periods' options apply to forecast subtotals.
+
+**a) All Periods:** The subtotals for the forecast measure will be the aggregate of the forecasts for open and closed periods. In the example, the fields highlighted in red are the forecast subtotals, the fields in blue are the closed periods and the fields in green are the open periods.
+
+<figure><img src="../../.gitbook/assets/image (912).png" alt=""><figcaption><p>Open and closed forecasts used in calculating forecast sub totals</p></figcaption></figure>
+
+**b) Open Periods:** The forecast subtotals will be the aggregate of the forecasts for open periods only. The forecast subtotal for 2024 is blank as 2024 does not have any open forecasts.
+
+<figure><img src="../../.gitbook/assets/image (914).png" alt=""><figcaption></figcaption></figure>
+
+**c) Closed Periods:** The forecast subtotals will be the aggregate of the forecasts for closed periods only. The fields highlighted in red are the forecast subtotals and the fields highlighted in green are the closed forecasts.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Show or hide closed periods
 
