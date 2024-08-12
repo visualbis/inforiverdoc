@@ -108,11 +108,11 @@ The forecasted values are overwritten when the period is closed and the actuals 
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Overwrite forecast with actuals</p></figcaption></figure>
 
-#### 2. Forecast grand total
+#### 2. Aggregate forecast grand total
 
-If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the _Total Display_ section.
+If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the _Aggregate total_ section.
 
-<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption><p>Total Display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (913).png" alt=""><figcaption><p>Aggregate forecast grand total</p></figcaption></figure>
 
 **a) All Periods:** The grand total forecast will be the aggregate of the forecasts for open and closed periods.
 
@@ -130,7 +130,13 @@ If the column grand total is enabled, you can choose whether the grand total for
 
 <figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption><p>Closed Periods</p></figcaption></figure>
 
-#### 3. Show or hide closed periods
+#### 3. Aggregate forecast sub-totals
+
+You also have the flexibility to determine the aggregation for forecast sub-totals as well. Use the column gripper for the sub-total forecast to choose between Closed, Open, and All-period options.&#x20;
+
+<figure><img src="../../.gitbook/assets/Forecasts sub total forecasts 2.png" alt=""><figcaption><p>Aggregate forecast sub-totals</p></figcaption></figure>
+
+#### 4. Show or hide closed periods
 
 You can choose whether to display the forecasts for closed periods. To mask the forecast for closed periods, click on any forecast that is generated for closed periods, click on the _Show/Hide_ icon, and choose _Hide closed periods._
 

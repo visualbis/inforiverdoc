@@ -6,7 +6,7 @@ Under the general settings tab, you can configure the general writeback settings
 
 Inforiver allows the user to choose the writeback table structure from a choice of 4 types.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (900).png" alt=""><figcaption><p>Writeback types</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (900) (1).png" alt=""><figcaption><p>Writeback types</p></figcaption></figure>
 
 #### i) Long
 

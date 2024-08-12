@@ -4,9 +4,9 @@ With Inforiver, creating report subscriptions is easier than ever. Inforiver off
 
 You have the option of starting a **standard subscription** or a **dynamic subscription**.
 
-[Standard Subscription:](./#id-1.-standard-subscription) A standard subscription sends the report to specific recipients configured in the subscriptions page based on the filters and bookmarks if any. The intended recipients for each category/dimension can be manually configured using filters, or can be uploaded in bulk via a CSV file containing the recipients with filter details.
+[Standard Subscription:](./#id-1.-standard-subscription) A standard subscription sends the report to specific recipients configured in the subscriptions page based on the filters and bookmarks if any. The intended recipients for each category/dimension can be manually configured using filters, or can be uploaded in bulk via a CSV file that contains the recipients with filter details.
 
-[Dynamic Subscription:](./#id-2.-dynamic-subscription) A dynamic subscription is similar to the standard subscription, but instead of configuring the report filters manually we let Inforiver to implicitly regulate the dimension categories and share them with the intended report users as mentioned in the report dataset.&#x20;
+[Dynamic Subscription:](./#id-2.-dynamic-subscription) A dynamic subscription is similar to the standard subscription, but instead of configuring the report filters manually as per the user email IDs, we let Inforiver to implicitly regulate the dimension categories and share them with the intended report users mentioned in the report dataset.&#x20;
 
 ## 1. Standard Subscription
 
@@ -36,7 +36,7 @@ If your report contains user email IDs and you wish to start a dynamic subscript
 
 <figure><img src="../../../.gitbook/assets/image (889).png" alt=""><figcaption><p>Starting a dynamic subscription</p></figcaption></figure>
 
-#### Subscription page
+## 3. Subscription page settings
 
 Starting a new subscription (standard or dynamic) takes you to the 'New subscription' page of the Inforiver Scheduler application. It has 3 tabs: 'Select Report', 'Set Subscription Frequency', and 'Select Destinations' where you can configure all your subscription settings.
 

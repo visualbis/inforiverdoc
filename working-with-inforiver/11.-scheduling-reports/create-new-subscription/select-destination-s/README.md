@@ -80,12 +80,34 @@ The image below displays the structure of the download sample CSV file for OneDr
 
 <figure><img src="../../../../.gitbook/assets/image (10) (4).png" alt=""><figcaption><p>Sample csv file for non-email destinations</p></figcaption></figure>
 
+The next step is to review the settings and save them to start the subscription. Navigate to [this section ](../review-and-save-subscription.md)for illustration or the [next section](email.md) to understand the configuration for different destinations.
+
 ## 2. Dynamic Subscription
 
 The 'Select Destinations' page has a 'Table Selection' option as below, when you choose dynamic subscription.
 
-<figure><img src="../../../../.gitbook/assets/image (890).png" alt=""><figcaption><p>Configure table</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Configure table</p></figcaption></figure>
 
-When you click **Configure**, a pop-up appears in which you can choose whether to add the table with email IDs using the available semantic model or by uploading a CSV file.
+When you click **Configure**, a pop-up appears where you can configure the table either from a semantic model or from a CSV file. We will demonstrate with an example using the semantic model option. The procedure is the same for CSV file uploads as well.
+
+1. To select the table from the semantic model, choose 'Select from Semantic Model'.
+2. Select the workspace, semantic model, table, and the column that contains the email addresses.
+3. You also have the option to set up a filter if you wish to send users only specific records from the report. In the image below, we will only send the data related to the customer 'Claire Gute' using the filter option.
+
+<figure><img src="../../../../.gitbook/assets/image (900).png" alt=""><figcaption><p>Dynamic table selection</p></figcaption></figure>
+
+4. In the preview, notice how different categories are assigned to different email IDs in the dataset, specifying to whom the respective records would be sent. Click **Save**.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Preview and Save</p></figcaption></figure>
+
+5. Configure the report filter to extract data based on Email IDs and other required settings. Then, click on **Review.**
+
+<figure><img src="../../../../.gitbook/assets/image (911).png" alt=""><figcaption><p>Configure report filter</p></figcaption></figure>
+
+6. In the next page, review the settings and select **Save Subscription.** The subscription is created.
+
+<figure><img src="../../../../.gitbook/assets/image (912).png" alt=""><figcaption><p>Review and Save</p></figcaption></figure>
+
+
 
 In the next sections, we'll explore the configuration options for each type of destination.
