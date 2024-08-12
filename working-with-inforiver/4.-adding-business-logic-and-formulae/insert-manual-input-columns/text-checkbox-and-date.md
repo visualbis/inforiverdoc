@@ -18,7 +18,7 @@ a) Select 'Text' from the _Data Input_ dropdown.
 
 b) The text column side panel is shown in the image below.&#x20;
 
-You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Text entry can be enabled or disabled in the total/subtotal rows using the '[Allow entry on total/subtotal rows](dropdown/#iii-entry-in-total-subtotal-rows)' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option. You can also set field validations which will be discussed later in this section.
+You can choose to [insert as a visual measure or column](../insert-manual-input-columns.md#1.-insert-as). Text entry can be enabled or disabled in the total/subtotal rows using the 'Allow entry on total/subtotal rows' checkbox. Input access can be configured using the '[Allow input](../insert-manual-input-columns.md#2.-allow-input)' option. You can also set field validations which will be discussed later in this section.
 
 Click 'Create'.
 
@@ -28,7 +28,7 @@ c) The text column gets inserted. Double-click on any of the cells and start typ
 
 <figure><img src="../../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
-#### Word wrap
+#### 1.1. Word wrap
 
 Inforiver provides an option to wrap the text for long entries that get truncated.
 
@@ -38,7 +38,7 @@ Click on the word wrap icon in the Home ribbon to wrap text as per the width of 
 
 <figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption><p>Word wrap</p></figcaption></figure>
 
-#### Text validations
+#### 1.2. Text validations
 
 Inforiver provides the ability to add data validations for text inputs. You can add validations to check the length, and data type (numeric/text/alphanumeric).&#x20;
 
@@ -50,7 +50,23 @@ You can also enforce that a text entry should be an email or URL or even provide
 
 For example, if you choose email as _Field Validation_ and the data entered is not a valid email ID, Inforiver will generate a pop-up error notification.
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption><p>Error notification when validation fails</p></figcaption></figure>
+
+#### 1.3. Default values
+
+Blank fields do not add value and are likely to reduce the appeal of a report. You can choose to use default values instead of displaying blank text data input fields. You can either enter a static default value or assign a dimension.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption><p>Static default value</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/2024-08-12_11h51_11.png" alt=""><figcaption><p>Dimension as a default value</p></figcaption></figure>
+
+</div>
+
+
 
 ## 2. Checkbox
 
