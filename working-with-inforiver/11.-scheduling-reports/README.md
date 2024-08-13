@@ -11,6 +11,7 @@ Inforiver's subscription scheduler lets you do the following:
 * Send only relevant records to recipients by using filters (e.g., only EMEA records to EMEA regional manager) or by starting a dynamic subscription
 * Create one schedule and configure different bookmarks for different destinations
 * Merge multiple report tabs into a single PDF/Excel file and schedule the consolidated extract
+* Publish high-resolution reports containing native charts. A combination of Reporting Matrix/Analytics+ with native charts is however not supported.
 
 {% hint style="info" %}
 This feature requires you to log in to Inforiver Enterprise with your Microsoft 365 account
