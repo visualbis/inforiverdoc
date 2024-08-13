@@ -18,7 +18,9 @@ The Writeback screen is accessed by going to the Export tab in the toolbar. Thre
 
 **Logs** - Every writeback event is logged with detailed information relevant to each writeback. Navigate to the [writeback logs](logs.md) chapter to learn more.
 
-
+{% hint style="info" %}
+Writeback will be disabled unless a row or column dimension is added to the visual.
+{% endhint %}
 
 ## 2. Writeback Modes
 
