@@ -40,7 +40,7 @@ Inforiver generates a **notification** when a duplicate visual is detected.
 
 2. Expand the Profile menu and navigate to **Report Details**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the **Create** button in the Report Details side pane to detach the visual.
 

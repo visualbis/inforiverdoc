@@ -94,7 +94,7 @@ When you click **Configure**, a pop-up appears where you can configure the table
 2. Select the workspace, semantic model, table, and the column that contains the email addresses.
 3. You also have the option to set up a filter if you wish to send users only specific records from the report. In the image below, we will only send the data related to the customer 'Claire Gute' using the filter option.
 
-<figure><img src="../../../../.gitbook/assets/image (900) (2).png" alt=""><figcaption><p>Dynamic table selection</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (900) (2) (1).png" alt=""><figcaption><p>Dynamic table selection</p></figcaption></figure>
 
 4. In the preview, notice how different categories are assigned to different email IDs in the dataset, specifying to whom the respective records would be sent. Click **Save**.&#x20;
 
