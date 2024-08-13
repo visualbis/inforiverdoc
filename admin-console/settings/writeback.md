@@ -62,7 +62,7 @@ Users will be able to add destinations based on the settings configured by the a
 
 The settings configured in the admin console will be applied to the Add Destination page as well. Users will only see the destination types they have permission to add.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Destination settings applied in the Add destination page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Destination settings applied in the Add destination page</p></figcaption></figure>
 
 {% hint style="info" %}
 In addition to the above settings, you can configure access control for writeback destinations and role-based access control for writeback admin connections, which are covered in detail in this section: [Writeback security settings.](../../working-with-inforiver/12.-data-writeback/settings/writeback-security-settings.md)

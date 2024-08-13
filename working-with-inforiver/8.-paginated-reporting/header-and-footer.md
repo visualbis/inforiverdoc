@@ -137,7 +137,7 @@ Use the **Insert** dropdown menu to add the predefined text elements listed belo
 
 The image below shows various predefined text elements inserted in the header.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Page numbers/ dates/ symbols and data fields inserted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Page numbers/ dates/ symbols and data fields inserted</p></figcaption></figure>
 
 ## 4. Presets
 

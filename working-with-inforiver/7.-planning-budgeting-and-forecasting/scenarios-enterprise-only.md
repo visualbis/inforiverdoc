@@ -160,7 +160,7 @@ On clicking on the Proceed button, the simulations in the scenario for 2023 Fore
 
 You can also use the Copy to Base option in the toolbar to apply simulations to the base report.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Copy to base option in the toolbar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (17).png" alt=""><figcaption><p>Copy to base option in the toolbar</p></figcaption></figure>
 
 ### 3.8. Edit/duplicate/delete
 
@@ -172,7 +172,7 @@ To edit, delete, or duplicate a scenario, click on the additional options menu i
 
 When users open scenarios in reading mode, the Base scenario is always displayed by default. If you want a particular scenario to be loaded on initialization, choose the **Make as Default** option from the context menu.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Make as default option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Make as default option</p></figcaption></figure>
 
 Scenario 1 will be opened by default in reading view when users navigate to scenarios. Default scenarios can be identified by the <img src="../../.gitbook/assets/image (922).png" alt="" data-size="line">icon.
 
@@ -198,10 +198,10 @@ The image below shows _Scenario 1_ with the style format copied from the _Base_.
 
 You will be able to use the other ribbons like the Home/Insert/Design/Export while working on a scenario. The simulations applied to a scenario will be visible even when you navigate to any of the other toolbar tabs.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Navigating to the Insert ribbon in scenario mode</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (900).png" alt=""><figcaption><p>Navigating to the Insert ribbon in scenario mode</p></figcaption></figure>
 
 Click on the Close Scenario button to exit scenario mode. You just need to navigate to the Scenario ribbon to re-visit the scenarios you created.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Close scenario</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (17).png" alt=""><figcaption><p>Close scenario</p></figcaption></figure>
 
 In the next section, we'll look at [budgeting and allocations](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md).

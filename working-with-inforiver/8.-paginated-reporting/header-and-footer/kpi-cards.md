@@ -22,7 +22,7 @@ The following KPI card was created earlier. Let's now create another KPI card fr
 
 **STEP 4**: A simple KPI card gets inserted as shown below. You can also choose from a range of built-in KPI presets. Inforiver provides simple, variance, and combo KPI presets.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Inserting a KPI card and using presets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (3).png" alt=""><figcaption><p>Inserting a KPI card and using presets</p></figcaption></figure>
 
 ## 2. Customization options
 

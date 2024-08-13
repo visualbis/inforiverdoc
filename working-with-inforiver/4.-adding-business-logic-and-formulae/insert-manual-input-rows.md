@@ -140,7 +140,7 @@ Then click **Add**.
 
 Because of this filter, when you insert a row and add a sub-category first, you will be prompted with the category to which it belongs.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Options configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Options configuration</p></figcaption></figure>
 
 {% hint style="info" %}
 Configuring filter options is optional. By adding it, we ensure that the dropdown list for each category displays only the relevant sub-categories and vice-versa. For example, if you choose "Cellphones" as the category, only the sub-categories under "Cellphones" will be displayed, not other categories.
