@@ -20,7 +20,7 @@ Clicking this option will open up a 'Create scenario' modal. This modal has a ge
 The general and permission settings can be edited later after the creation
 {% endhint %}
 
-### i) General
+### 1.1. General
 
 Under the 'General' tab, you can configure the general scenario options and properties. You will find the following two options under this tab:
 
@@ -32,7 +32,7 @@ Under the 'General' tab, you can configure the general scenario options and prop
 
 **Start period and End period** - Here you can specify the starting and ending periods of the scenario
 
-### ii) Permission
+### 1.2. Permission
 
 Under the 'Permission' tab, you can configure the scenario permissions.&#x20;
 
@@ -58,13 +58,13 @@ But there is one additional step, you need to enable the 'Scenario tab' in the '
 
 ## 3. Configure scenario
 
-If a new scenario is successfully created, you will see a 'Scenario' tab in the Inforiver toolbar.
+If a new scenario is successfully created, you will see a 'Scenario' ribbon in the Inforiver toolbar.
 
 <figure><img src="../../.gitbook/assets/scenario-options.png" alt=""><figcaption><p>Scenario tab</p></figcaption></figure>
 
 The scenario tab has the following options to configure the scenario-related settings:
 
-### i) Create scenario
+### 3.1. Create scenario
 
 This option lets you create a new scenario. Clicking on this option will open up the 'Create scenario' modal. You can learn more about how to create a scenario [here](scenarios-enterprise-only.md#1.-create-a-scenario).
 
@@ -74,7 +74,7 @@ Alternatively, you can click the '+' icon next to your current scenario tab to c
 
 <figure><img src="../../.gitbook/assets/create-scenario-3.png" alt=""><figcaption><p>Create scenario icon option</p></figcaption></figure>
 
-### ii) Scenario settings
+### 3.2. Scenario settings
 
 This option lets you edit the previously configured scenario settings. Clicking this option will open up the 'Edit scenario' modal.
 
@@ -88,7 +88,7 @@ If you want to lock your scenario, enable the 'Lock scenario' checkbox. A locked
 
 <figure><img src="../../.gitbook/assets/lock-scenario.png" alt=""><figcaption><p>Lock scenario option</p></figcaption></figure>
 
-### iii) Input method&#x20;
+### 3.3. Input method&#x20;
 
 Inforiver offers two types of input methods: simulation and distribution.
 
@@ -106,7 +106,7 @@ Using this method you can [distribute](../4.-adding-business-logic-and-formulae/
 
 <figure><img src="../../.gitbook/assets/distribution-method.png" alt=""><figcaption><p>Distribution option</p></figcaption></figure>
 
-### iv) Bulk editing a scenario
+### 3.4. Bulk editing a scenario
 
 You can also run simulations in bulk for a scenario you have created, allowing you to easily perform analyses like determining the impact of an x% increase in sales for a specific region or increasing the bonus for employees in a specific department by x dollars.
 
@@ -118,13 +118,13 @@ The animation below illustrates the same, with bulk simulations performed for tw
 
 <figure><img src="../../.gitbook/assets/bulk edit scenario.gif" alt=""><figcaption><p>Bulk editing scenarios</p></figcaption></figure>
 
-### v) Show variance
+### 3.5. Show variance
 
 If you enable this option, you will see the percentage of variance to the left of the data metrics.
 
 <figure><img src="../../.gitbook/assets/show-variance.png" alt=""><figcaption><p>Show variance option</p></figcaption></figure>
 
-### vi) Slider settings
+### 3.6. Slider settings
 
 If you click the 'Slider settings' option, the 'Variance settings' modal will open up.
 
@@ -140,7 +140,7 @@ b) **Increase is good** - This toggle is enabled by default. If this is turned o
 
 c) **Value range** - In this field, you can configure the maximum value of the range. The default is 100%.
 
-### vii) Copy to base scenario
+### 3.7. Copy to base scenario
 
 You may perform simulations on different scenarios before arriving at the most optimal option. Any simulations on Data Input measures/columns in a scenario can be updated to the base scenario using the **Copy to Base** option.
 
@@ -158,13 +158,13 @@ On clicking on the Proceed button, the simulations in the scenario for 2023 Fore
 
 <figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Report with values set up in a scenario</p></figcaption></figure>
 
-### viii) Edit/duplicate/delete
+### 3.8. Edit/duplicate/delete
 
 To edit, delete, or duplicate a scenario - click on the additional options menu icon that appears on hovering over the name of the scenario and select the relevant option.
 
 <figure><img src="../../.gitbook/assets/image (893).png" alt=""><figcaption><p>Edit/duplicate/delete scenario</p></figcaption></figure>
 
-### ix) Style Formatting the Scenarios
+### 3.9. Style Formatting the Scenarios
 
 You can manually format the newly created scenarios using the [cell and value formatting styles](../2.-displaying-information/basic-formatting/cell-and-value-formatting.md) or the [column styles](../8.-paginated-reporting/display-and-themes.md#iii-column-style) as well as copy the style from the Base or any other existing scenarios.
 
@@ -179,5 +179,13 @@ To copy the style formatting from the base or any other scenarios, select the fo
 The image below shows _Scenario 1_ with the style format copied from the _Base_.
 
 <figure><img src="../../.gitbook/assets/image (6) (11).png" alt=""><figcaption><p>Scenario 1 with the Base Style format</p></figcaption></figure>
+
+### 3.10. Exiting scenarios
+
+Click on the Close Scenario button to exit the scenario. You can re-visit the scenarios created by navigating to the Scenario ribbon.
+
+<figure><img src="../../.gitbook/assets/image (919).png" alt=""><figcaption><p>Close scenario</p></figcaption></figure>
+
+
 
 In the next section, we'll look at [budgeting and allocations](../4.-adding-business-logic-and-formulae/budgeting-and-allocations.md).
