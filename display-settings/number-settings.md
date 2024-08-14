@@ -60,11 +60,11 @@ In the below image, the hyphen is used to represent the null value.
 
 Reports will often contain null cells which may be used in calculated columns. In the report below, the Depreciation field is calculated based on the Sales measure which has null values. Consequently, the Depreciation measure also contains null data.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Report with null values</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (17).png" alt=""><figcaption><p>Report with null values</p></figcaption></figure>
 
 When calculations involve measures that contain null values, you can replace the nulls with zeroes by enabling the **Null as zero for calculation** toggle.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Nulls replaced with zeroes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (12).png" alt=""><figcaption><p>Nulls replaced with zeroes</p></figcaption></figure>
 
 #### 2.5. Zero
 
@@ -106,7 +106,7 @@ By default, blank rows are identified as '(Blank)'. This can be customized by en
 
 Inforiver displays numbers in millions, billions, and trillions. When the **Customize for Indian Numbering system** option is enabled, the Quick format dropdown will also list lakhs and crores as number formatting options.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Number formatting for Indian number system</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (19).png" alt=""><figcaption><p>Number formatting for Indian number system</p></figcaption></figure>
 
 #### 2.12. Blank column label
 
@@ -114,7 +114,7 @@ If you have blank dimension categories in your columns, Inforiver replaces the e
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (2) (19).png" alt=""><figcaption><p>Default blank column label</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (19) (1).png" alt=""><figcaption><p>Default blank column label</p></figcaption></figure>
 
  
 

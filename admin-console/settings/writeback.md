@@ -16,7 +16,7 @@ This page lists all the writeback destination connections. Inforiver provides co
 
 To add a new connection, click the 'Add new connection' button to open the _Create Connection_ modal.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add New Connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add New Connection</p></figcaption></figure>
 
 In the _Create Connection_ modal, you can select the required writeback destination. Click Continue to open the _Add Connection_ page.
 
@@ -36,7 +36,7 @@ The created connection will be listed on the Connections page.
 
 You can edit the available connections using the edit icon(pencil) available on the top right corner of each connection.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Edit connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Edit connection</p></figcaption></figure>
 
 Clicking the pencil icon will open the 'Edit connection' page where you can edit or make changes to the connection.
 
@@ -44,7 +44,7 @@ Clicking the pencil icon will open the 'Edit connection' page where you can edit
 
 To delete any created connection, click on the 'Trash' icon on the top-right corner of the connection.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Delete connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Delete connection</p></figcaption></figure>
 
 This will open up a 'Confirmation' modal. Click 'Confirm' to permanently delete the connection.
 

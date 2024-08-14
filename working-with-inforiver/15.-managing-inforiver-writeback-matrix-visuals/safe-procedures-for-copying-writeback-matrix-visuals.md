@@ -12,7 +12,7 @@ This section will explore the basic concepts and factors to be aware of while du
 
 Every Inforiver visual is assigned to a specific visual ID. When a particular visual is duplicated, the new visual will also be tagged with the same visual ID as the original. Elements like forecasts, scenarios, and comments in the new visual will be a pointer to the original i.e., any changes made to these elements will be reflected in both the original and the copied visual.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Visual ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Visual ID</p></figcaption></figure>
 
 Inforiver elements that are shared between visuals include:
 
@@ -30,7 +30,7 @@ Other elements such as Formulas, Variance columns, Formatting changes, Show/Hide
 
 Inforiver generates a **notification** when a duplicate visual is detected.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Detaching visuals
 
@@ -61,7 +61,7 @@ Select the confirmation checkbox and click on **Proceed** to confirm that the vi
 When a visual is detached, the duplicate warning symbol is removed. There will not be any other explicit changes to indicate that the visual has been detached from the original. Internally, the new visual is assigned to a separate visual ID. Any changes made in the new report will no longer affect elements from the original report.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Detached visual</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Detached visual</p></figcaption></figure>
 
 ### When to detach visuals
 

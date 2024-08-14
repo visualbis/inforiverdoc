@@ -112,7 +112,7 @@ Inforiver offers customizations that can be applied once the forecast is created
 
 You have the flexibility to retain the forecasted values or use the actuals after closing a forecast. Navigate to Manage Forecast > Click the edit button against the forecast measure > Action for closed periods section.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 a) Overwrite forecasts (default)
 
@@ -122,7 +122,7 @@ We've created a forecast from September to December. When the actuals become ava
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Forecast created from Sep - Dec</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Forecast created from Sep - Dec</p></figcaption></figure>
 
  
 

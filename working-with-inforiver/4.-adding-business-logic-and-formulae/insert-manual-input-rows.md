@@ -126,7 +126,7 @@ You can also insert rows and their leaf categories from semantic models. The pro
 
 **STEP 1:** To pick and upload row categories from a semantic model, navigate to Insert > Manage Rows > Insert Row Settings > Insert Row Configuration > Manage. Select **Options list from Semantic Model** from the 'Category' dropdown.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
 
 **STEP 2:** The **Add options from Semantic model** window opens. In the **Table Connection** tab, select the workspace, semantic model and the table you need to connect to. Click **Next.**
 
@@ -152,17 +152,17 @@ Similarly, when you choose a sub-category, you can add it only under the relevan
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
 
 </div>
 
 <div align="right">
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Options Configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Options Configuration</p></figcaption></figure>
 
 </div>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Configuration done</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Configuration done</p></figcaption></figure>
 
 Once the configuration is completed as shown in the image above, you can follow the steps in sections 2.1/2.2 to insert the configured row categories into your visual.
 
@@ -172,7 +172,7 @@ You will see the data from the semantic model in the Category and Sub Category d
 
 The rows are inserted as shown below:
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Inserted rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Inserted rows</p></figcaption></figure>
 
 {% hint style="info" %}
 The base data in our visual may be from one table, but the options in the dropdown may be from a different table; in such cases, you can specify a join. For more information on using joins and filters, please refer to [this section](insert-manual-input-columns/dropdown/dropdown-options-from-semantic-models.md#id-4.-using-joins-and-filters).

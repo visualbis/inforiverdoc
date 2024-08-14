@@ -335,6 +335,7 @@
   * [Manage Integration of visuals](infobridge/manage-integration-of-visuals.md)
   * [Manage Bridges](infobridge/manage-bridges.md)
   * [Bridge Interface](infobridge/bridge-interface.md)
+  * [Collaborative adjustments](infobridge/collaborative-adjustments.md)
 * [Accessibility shortcut keys](accessibility-shortcut-keys.md)
 * [Inforiver Reporting Matrix FAQs](inforiver-reporting-matrix-faqs.md)
 * [Inforiver Writeback Matrix FAQs](inforiver-writeback-matrix-faqs.md)
