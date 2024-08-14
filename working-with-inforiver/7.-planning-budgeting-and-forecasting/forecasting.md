@@ -108,23 +108,43 @@ We used the average revenue from Jan 2022 to Dec 2023 to create the forecast fro
 
 Inforiver offers customizations that can be applied once the forecast is created.&#x20;
 
-#### 1. Action for closed periods
+#### 3.1. Action for closed periods
 
-You have the flexibility to retain the forecasted values or use the actuals after closing a forecast. Click on the Values Display button to open the Set Value Display window.
+You have the flexibility to retain the forecasted values or use the actuals after closing a forecast. Navigate to Manage Forecast > Click the edit button against the forecast measure > Action for closed periods section.
 
-i) Show Values - Forecast
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-The forecast value is retained even after the actuals are available. This setting enables you to compare the actuals against the predicted values.
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Retain forecast values</p></figcaption></figure>
-
-ii) Show Values - Actuals
+a) Overwrite forecasts (default)
 
 The forecasted values are overwritten when the period is closed and the actuals become available. The forecast values are highlighted in blue indicating that they are linked to an actuals value - any updates made to the actuals will be reflected in the forecast. To view the underlying actuals measure, navigate to edit forecast > Linked Actuals Measure.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Overwrite forecast with actuals</p></figcaption></figure>
+We've created a forecast from September to December. When the actuals become available for September and the period is closed, the forecasted values are replaced by the actuals.
 
-#### 2. Aggregate forecast grand total
+<div>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Forecast created from Sep - Dec</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-08-14_11h33_49.png" alt=""><figcaption><p>September forecast overwritten with actuals</p></figcaption></figure>
+
+</div>
+
+b) Retain forecasts
+
+The forecasted values are retained even after the actuals are available. This setting enables you to compare the actuals against the predicted values.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (925).png" alt=""><figcaption><p>Forecast generated from Sep - Dec</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-08-14_11h49_27.png" alt=""><figcaption><p>Sep forecast retained after period close</p></figcaption></figure>
+
+</div>
+
+#### 3.2. Aggregate forecast grand total
 
 If the column grand total is enabled, you can choose whether the grand total for the forecast measure should be derived from open periods, closed periods, or both. To customize the grand total for forecasts, click on the forecast column gripper and select the desired option from the **Aggregate total** section.
 
@@ -146,7 +166,7 @@ The subtotal forecasts for 2023 and 2024 go blank when the Open Period option is
 
 <figure><img src="../../.gitbook/assets/image (900) (2) (1).png" alt=""><figcaption><p>Closed period aggregation for grand total forecast</p></figcaption></figure>
 
-#### 3. Forecast subtotals
+#### 3.3. Forecast subtotals
 
 Similar to grand total forecasts, you can choose the aggregation method for forecast subtotals. The same 'All', 'Open Periods', and 'Closed Periods' options apply to forecast subtotals.
 
@@ -162,7 +182,7 @@ Similar to grand total forecasts, you can choose the aggregation method for fore
 
 <figure><img src="../../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
 
-#### 4. Show or hide closed periods
+#### 3.4. Show or hide closed periods
 
 You can choose whether to display the forecasts for closed periods. To mask the forecast for closed periods, click on any forecast that is generated for closed periods, click on the _Show/Hide_ icon, and choose _Hide closed periods._
 

@@ -106,7 +106,7 @@ By default, blank rows are identified as '(Blank)'. This can be customized by en
 
 Inforiver displays numbers in millions, billions, and trillions. When the **Customize for Indian Numbering system** option is enabled, the Quick format dropdown will also list lakhs and crores as number formatting options.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Number formatting for Indian number system</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Number formatting for Indian number system</p></figcaption></figure>
 
 #### 2.12. Blank column label
 
@@ -114,7 +114,7 @@ If you have blank dimension categories in your columns, Inforiver replaces the e
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Default blank column label</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (19).png" alt=""><figcaption><p>Default blank column label</p></figcaption></figure>
 
  
 
