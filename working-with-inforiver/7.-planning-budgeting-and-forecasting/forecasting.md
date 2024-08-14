@@ -26,9 +26,25 @@ You can also configure for the entire period in one shot as shown below.
 
 <figure><img src="../../.gitbook/assets/2024-02-02_10h55_38.png" alt=""><figcaption><p>Configuration for entire period</p></figcaption></figure>
 
-**2. Select source:** You can choose the measure that will be used as the data source for the forecast. To manually enter the forecast values, select the 'Blank' option.
+**2. Select source:** You can choose any of the options listed below to populate the forecast-
 
-<figure><img src="../../.gitbook/assets/2024-02-02_10h30_44.png" alt=""><figcaption><p>Forecast data source</p></figcaption></figure>
+* Blank: Enter values manually
+* Use a measure
+* Upload forecast from a file
+
+<figure><img src="../../.gitbook/assets/image (923).png" alt=""><figcaption><p>Forecast source options</p></figcaption></figure>
+
+If you choose to upload forecast values from a file, Inforiver will generate a template file that you can download. You can fill the forecast values in the template file and upload them to the visual.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (924).png" alt=""><figcaption><p>Downloading and entering values in the template file</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-08-14_10h51_27.png" alt=""><figcaption><p>Forecast values uploaded from an excel file</p></figcaption></figure>
+
+</div>
 
 **3. Apply operation:** There are 3 different methods that you can use to generate a forecast:
 
