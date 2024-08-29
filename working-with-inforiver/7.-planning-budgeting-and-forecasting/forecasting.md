@@ -32,13 +32,13 @@ You can also configure for the entire period in one shot as shown below.
 * Use a measure
 * Upload forecast from a file
 
-<figure><img src="../../.gitbook/assets/image (923).png" alt=""><figcaption><p>Forecast source options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (923) (1).png" alt=""><figcaption><p>Forecast source options</p></figcaption></figure>
 
 If you choose to upload forecast values from a file, Inforiver will generate a template file that you can download. You can fill the forecast values in the template file and upload them to the visual.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (924).png" alt=""><figcaption><p>Downloading and entering values in the template file</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (924) (1).png" alt=""><figcaption><p>Downloading and entering values in the template file</p></figcaption></figure>
 
  
 
@@ -136,7 +136,7 @@ The forecasted values are retained even after the actuals are available. This se
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (925).png" alt=""><figcaption><p>Forecast generated from Sep - Dec</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (925) (1).png" alt=""><figcaption><p>Forecast generated from Sep - Dec</p></figcaption></figure>
 
  
 

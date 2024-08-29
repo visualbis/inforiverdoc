@@ -14,7 +14,7 @@ Inforiver's subscription scheduler lets you do the following:
 * Publish high-resolution reports containing native charts. A combination of Reporting Matrix/Analytics+ with native charts is however not supported.
 
 {% hint style="info" %}
-This feature requires you to log in to Inforiver Enterprise with your Microsoft 365 account
+This feature requires you to log in to Inforiver Enterprise with your Microsoft 365 account.
 {% endhint %}
 
 In the following sections, we will look at how to create and manage subscriptions.

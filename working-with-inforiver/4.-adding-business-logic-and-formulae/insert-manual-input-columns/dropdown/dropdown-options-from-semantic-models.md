@@ -1,4 +1,4 @@
-# LOV from semantic models
+# Dropdown options from semantic models
 
 For the Single select and Multi-select columns, a list of values (LOV) can be created from your Power BI semantic models or other dimensions like Master Data reference fields. The options are dynamically updated as the source data changes.
 
@@ -50,7 +50,7 @@ You can assign regions from the multi-select dropdown after completing the steps
 
 <figure><img src="../../../../.gitbook/assets/image (11) (9).png" alt=""><figcaption><p>Previewing options</p></figcaption></figure>
 
-### 4. Using joins and filters
+### 3. Using joins and filters
 
 #### Joins
 
@@ -83,6 +83,14 @@ The base table used to populate rows and columns in the report is Retail - Order
 The dropdown options for people data have now been fetched from the Retail - People table. Notice how all the people are displayed in the options for the grand total row. For each region, only the person assigned to that region is shown in the dropdown.
 
 <figure><img src="../../../../.gitbook/assets/Untitled Project (3).gif" alt=""><figcaption><p>Filtering options dynamically</p></figcaption></figure>
+
+#### Data validation check for copy-paste in dropdowns <a href="#data-validation" id="data-validation"></a>
+
+When dropdown filters are enabled, Inforiver also checks if the data is valid when you copy-paste data manually within a dropdown data input column. Note that the Copy options available in the report (Copy to all rows, Copy until last row etc.) are disabled when dropdown filters are applied. If you accidentally try to paste an invalid option, you will be notified that the copied cell values do not belong to the chosen category.
+
+In the following example, we tried to copy the dropdown cell values (Bookcases, Binders) from the categories _Furniture_ and _Office Supplies_, and paste them into rows belonging to different categories (Bookcases -> Office Supplies and Binders -> Technology). Inforiver prevents this type of copy-pasting, as the data is not valid for the respective categories. You will see a toast message indicating that the operation is not allowed.
+
+<figure><img src="../../../../.gitbook/assets/image (923).png" alt=""><figcaption><p>Data validation check in dropdowns with filters</p></figcaption></figure>
 
 ### 4. Refreshing data
 

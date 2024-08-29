@@ -28,7 +28,7 @@ ii) 57.153.117.230
 
 Azure SQL destinations have firewall rules that block connections originating from non-whitelisted IPs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>firewall blocking the inbound communication to Azure</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>firewall blocking the inbound communication to Azure</p></figcaption></figure>
 
 To connect to Azure SQL databases from Inforiver, you must create a firewall rule to open the firewall for a specific range of IP addresses. [Learn more about creating firewall rules.](https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-create-server-level-portal-quickstart?view=azuresql)
 

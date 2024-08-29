@@ -1,38 +1,36 @@
-# Onboard actions
+# Onboarding actions
 
 Onboarding actions facilitate admins with a one-page checklist for user management and settings.&#x20;
 
 With onboard actions, you can configure and manage necessary configurations such as user management, consents, writeback/sync, and integrations settings in a single click.
 
-Select 'onboard actions' on the admin console page
+Select **Onboarding Actions** on the workspace console.
 
-<figure><img src="../.gitbook/assets/Onboard.png" alt=""><figcaption><p>Onboarding options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (935).png" alt=""><figcaption><p>Onboarding Actions</p></figcaption></figure>
 
 A pop-up opens showing the action, status, and description details of the configurations.
 
-<figure><img src="../.gitbook/assets/Onboard2.png" alt=""><figcaption><p>Onboarding actions page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (936).png" alt=""><figcaption><p>Onboarding actions page</p></figcaption></figure>
 
-Click on 'Additional settings' to navigate to the settings page.&#x20;
+Click on **Additional settings** to navigate to the settings page. These additional settings are explained in [this section](settings/).
 
 <figure><img src="../.gitbook/assets/additional-settings.png" alt=""><figcaption><p>Additional settings option</p></figcaption></figure>
 
 ### 1. Manage users&#x20;
 
-It is the user management configuration where you can add/remove users and assign user roles. Clicking on 'Manage' will navigate you to the user management page.
+This option is for user management configuration where you can add/remove users and assign user roles. Clicking on **Manage** will navigate you to the [user management](user-management.md) page.
 
-<figure><img src="../.gitbook/assets/manage-users.png" alt=""><figcaption><p>Manage users configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (937).png" alt=""><figcaption><p>Manage Users</p></figcaption></figure>
 
 ### 2. Consents
 
-Power BI permission, data flow tracking, and organization group configurations are managed under consent. Clicking on 'Configure' will navigate you to the settings page.
+Power BI permissions, data flow tracking between InfoBridge and Inforiver, and organization group configurations are all managed with consent under this section. Clicking **Configure** will take you to the appropriate settings page and enable the permissions.
 
-<figure><img src="../.gitbook/assets/consent.png" alt=""><figcaption><p>Consents configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Consents configuration</p></figcaption></figure>
 
 ### 3. Writeback/sync
 
-You can configure the database connections and writeback destinations in a single click.
-
-Clicking on 'Configure' will navigate you to the settings page where you can do the additional settings.
+You can configure the database connections and writeback destinations in a single click. Clicking on 'Configure' will navigate you to the settings page where you can do the additional settings.
 
 <figure><img src="../.gitbook/assets/writeback-config.png" alt=""><figcaption><p>Writeback configuration</p></figcaption></figure>
 

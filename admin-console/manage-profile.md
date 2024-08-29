@@ -12,7 +12,7 @@ Click on My Profile -> Rename Workspace to rename the workspace.
 
 ### 2. Manage Integrations
 
-Integrating Inforiver with other applications allows it to list and upload files to them. You can connect or disconnect the applications from 'My Integrations' page. You can also manage them from the Onboard actions section, as explained [here](onboard-actions.md).
+Integrating Inforiver with other applications allows it to list and upload files to them. You can connect or disconnect the applications from 'My Integrations' page. You can also manage them from the Onboard actions section, as explained [here](onboarding-actions.md).
 
 If there are any interruptions in writeback or data retrieval from these applications, you can check the status of the connection from this page and disconnect and reconnect as needed.
 
@@ -20,7 +20,7 @@ If there are any interruptions in writeback or data retrieval from these applica
 
 ### 3. Manage Connections
 
-Clicking on 'My Connections' displays a list of writeback connections you have created. To know more about adding and managing new connections, please refer to [this page](settings/writeback.md#id-1.-connections). You can also edit or delete your added connections from this page using the icons below.
+Clicking on 'My Connections' displays a list of writeback connections you have created. To know more about adding and managing new connections, please refer to [this page](settings/writeback.md#id-1.-connections). You can also edit or delete your added connections using the icons highlighted below.
 
 <figure><img src="../.gitbook/assets/image (3) (15).png" alt=""><figcaption><p>My Connections</p></figcaption></figure>
 

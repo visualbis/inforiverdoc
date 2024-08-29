@@ -43,11 +43,13 @@ When you apply the decimal precision shown in the image above, Inforiver writes 
 
 #### 3. Batch writeback
 
-When you configure individual writeback destinations, you'll notice a Btach Writeback option wherever applicable (batched writeback is not possible for destinations like Sharepoint, Rest API, OneDrive, etc). If your writeback payload exceeds 50k records, Inforiver can split the payload into multiple chunks and write them back batch-by-batch.
+When you configure individual writeback destinations, you'll notice an option for batched writeback wherever applicable (batched writeback is not possible for destinations like Sharepoint, Rest API, OneDrive, etc). If your writeback payload exceeds 50k records, Inforiver can split the payload into multiple chunks and write them back batch-by-batch.
 
-<figure><img src="../../../.gitbook/assets/image (760) (1).png" alt=""><figcaption><p>Batched writeback configuration</p></figcaption></figure>
+You can specify whether you will use a temporary table to hold the batched data.
 
-* Enable the Batched Write checkbox to use this feature.
+<figure><img src="../../../.gitbook/assets/image (928).png" alt=""><figcaption><p>Temporary staging table configuration</p></figcaption></figure>
+
+* To use this feature, enable the checkbox as shown in the image above.
 * You can specify a custom table name or use the default table created by Inforiver to store batched data.
 
 You can analyze the writeback log, which will capture how the payload has been split into multiple chunks and processed in parallel for a performance boost.

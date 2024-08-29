@@ -18,7 +18,7 @@ To create a new schedule from the report, publish the report to the Power BI ser
 
 <figure><img src="../../../.gitbook/assets/image (885).png" alt=""><figcaption><p>New Subscription from report</p></figcaption></figure>
 
-Alternatively, you can start a standard subscription by clicking **New Subscription -> Standard Subscription** (or just the **New Subscription** button) on the **My Subscriptions** page in the admin console.
+Alternatively, you can start a standard subscription by clicking **New Subscription -> Standard Subscription** (or just the **New Subscription** button) on the **My Subscriptions** page in the Inforiver console.
 
 <figure><img src="../../../.gitbook/assets/image (886).png" alt=""><figcaption><p>New subscription from admin console</p></figcaption></figure>
 
@@ -32,7 +32,7 @@ This feature can be used for reports or datasets that already contain Email IDs.
 
 With dynamic subscriptions, Inforiver can detect email IDs from your semantic models/CSV files and automatically send the report to a specific user. You can also specify dimension filters to send only those categories to the users.
 
-If your report contains user email IDs and you wish to start a dynamic subscription, click **New Subscription -> Dynamic Subscription** from **My Subscriptions** page in the admin console.
+If your report contains user email IDs and you wish to start a dynamic subscription, click **New Subscription -> Dynamic Subscription** from **My Subscriptions** page in the console.
 
 <figure><img src="../../../.gitbook/assets/image (889).png" alt=""><figcaption><p>Starting a dynamic subscription</p></figcaption></figure>
 

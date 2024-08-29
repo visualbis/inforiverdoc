@@ -214,6 +214,18 @@ When you create an empty series or column, the user has to enter the values manu
 
 <figure><img src="../../../.gitbook/assets/image (757).png" alt=""><figcaption><p>Default Value</p></figcaption></figure>
 
+#### Visual measures extrapolated for new categories <a href="#visual-measures" id="visual-measures"></a>
+
+When you add new categories to your dataset, Inforiver automatically fills the data in the measure **based on the default value** configured while creating the measure. Let us look at an example where the default value is configured as a dimension from the dataset.
+
+The report below has data for three regions – Central, East and West.&#x20;
+
+<figure><img src="../../../.gitbook/assets/2.5.1. automatic-measure-values-for-new-data-categories.png" alt=""><figcaption><p>Sample report</p></figcaption></figure>
+
+Now when you add data for ‘South’ region, the report automatically fills up the Sales measure based on the default values you have configured (_Sum of Sales_ dimension). You can seamlessly add new categories to your report and Inforiver will take care of populating the data. Note that this is only applicable for visual measures and not the visual columns.
+
+<figure><img src="../../../.gitbook/assets/2.5.2. after-adding-new-measure-values-for-new-data-categories.png" alt=""><figcaption><p>Default values added for newly added categories</p></figcaption></figure>
+
 ## 4. Copy as data input
 
 There might be cases where you want to create a budget for the current year based on the prior year's budget and then make finer adjustments. In such cases, Inforiver provides the 'Copy as data input' option.

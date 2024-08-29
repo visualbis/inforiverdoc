@@ -1,12 +1,18 @@
 # Writeback security settings
 
-Inforiver allows both admin-level and user-level security for writebacks. Admin-level settings can be accessed from the Inforiver console.&#x20;
+Inforiver allows both admin-level and user-level security for writebacks. Admin-level settings can be accessed from the Inforiver console. Click on your user profile and select **Inforiver Console**.
 
 <figure><img src="../../../.gitbook/assets/image (742).png" alt=""><figcaption><p>Navigating to Inforiver Console</p></figcaption></figure>
 
-After navigating to the console, go to the **Admin Portal,** and **s**elect **Settings** which opens the settings window.
+After navigating to the console, go to the **Admin Portal.**
 
-## **Writeback -> Connections Page**
+<figure><img src="../../../.gitbook/assets/image (924).png" alt=""><figcaption><p>Accessing admin portal</p></figcaption></figure>
+
+In the admin portal, go to **Settings** and look for the 'Writeback' section, which contains admin-level writeback settings.
+
+<figure><img src="../../../.gitbook/assets/image (925).png" alt=""><figcaption></figcaption></figure>
+
+## **1. Writeback -> Connections Page**
 
 This page lists all writeback destinations configured by all users in your organization using Inforiver. Admin can create new connections, edit existing connections, or delete connections.
 
@@ -18,7 +24,11 @@ If you are working with multiple writeback connections used by multiple reports 
 
 <figure><img src="../../../.gitbook/assets/image (744).png" alt=""><figcaption><p>Writeback connections</p></figcaption></figure>
 
-## **Role-based access control for writeback admin connections**
+{% hint style="info" %}
+Refer to this [page](../../../admin-console/settings/writeback.md#id-1.-connections) to know more on adding and editing writeback connections.
+{% endhint %}
+
+### **1.1. Role-based access control for writeback admin connections**
 
 Admins can specify who can access a particular connection by clicking on the pencil icon beside it.
 
@@ -34,13 +44,15 @@ Only these users can view and connect to this admin connection while configuring
 
 If a user who created the admin connection has their access revoked, they can still view the connection details in their profile's 'My Connections' tab. However, they cannot connect to it or modify its accessibility.
 
-## **Writeback -> Settings Page**
+## **2. Writeback -> Settings Page**
 
 This page allows admins to enable/disable users from creating and configuring specific writeback destination types. Due to data security and confidentiality requirements, organizations would prefer users to export data to destinations created and configured by admins. This setting will allow the admin to achieve that by disabling users from creating certain destination types.
 
+When the toggle button for a particular destination type is disabled, users will only be able to use admin-configured destinations and cannot create their own. The settings configured in the admin console will be applied to the 'Add Destination' page as well. Users will only see the destination types they have permission to add.
+
 <figure><img src="../../../.gitbook/assets/image (746).png" alt=""><figcaption><p>Destination type settings</p></figcaption></figure>
 
-## **User Access control to manage writeback destinations**
+### **2.1. User Access control to manage writeback destinations**
 
 Apart from choosing the allowed destination types a user can configure, admins can also limit the users who can manage writeback destinations. For example, you can let only certain users add, edit, or delete writeback destinations. Other users would be disabled from adding writeback destinations from the visual or the console.&#x20;
 

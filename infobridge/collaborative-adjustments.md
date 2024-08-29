@@ -6,11 +6,11 @@ The adjustments workflow in Infobridge provides a mechanism for requesting and r
 
 **STEP 1**: To request an adjustment, you can either double-click the cell or click on the adjustment icon that appears when you click a cell.  In the Request Adjustments popup, you can specify the new value in the **Requested Value** textbox. You can optionally add a comment and tag associates from the **Assign a user** dropdown.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (13).png" alt=""><figcaption></figcaption></figure>
 
-**STEP 2:** Click Submit. The <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">icon indicates that an adjustment has been requested for a particular cell.
+**STEP 2:** Click Submit. The <img src="../.gitbook/assets/image (1) (1) (4).png" alt="" data-size="line">icon indicates that an adjustment has been requested for a particular cell.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Adjustment requested in the target visual</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (18).png" alt=""><figcaption><p>Adjustment requested in the target visual</p></figcaption></figure>
 
 **STEP 3:** When you assign an adjustment request to a particular associate, they will receive an email that provides details about the adjustment. The email will contain links to the source and target visuals.
 
@@ -22,13 +22,13 @@ When you open the source visual, you’ll notice a notification message indicati
 
 **STEP 4:** In the source visual, you’ll notice a bell icon that notifies the owner(s) that an adjustment has been requested. Click on the bell icon to open the Adjustments side pane. When you click on the comments link, you will be able to see the requested adjustment value, the assignee and any other comments associated with the request.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Viewing adjustment requests and comments</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (14).png" alt=""><figcaption><p>Viewing adjustment requests and comments</p></figcaption></figure>
 
 **STEP 5:** Before committing to an adjustment, Inforiver allows you to compare and gauge the impact of the adjustment by displaying the adjustment as an additional measure in your source report or by running simulations in a scenario.
 
 &#x20;**Display the adjustment as a measure:** Click the **View Adjustments** button to display the adjustment as a measure in the source visual. The adjustment measure header will be italicized with “(Adj)” appended to it. The requested adjustment will be highlighted in yellow. If an update has been requested for the grand total, all the contributing cells will be highlighted as well.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>View adjustment as measure</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (13).png" alt=""><figcaption><p>View adjustment as measure</p></figcaption></figure>
 
 
 
@@ -40,7 +40,7 @@ Use the column gripper for the adjustment measure and select **Remove Adjustment
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>View in scenario option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (12).png" alt=""><figcaption><p>View in scenario option</p></figcaption></figure>
 
  
 
@@ -50,11 +50,11 @@ Use the column gripper for the adjustment measure and select **Remove Adjustment
 
 **STEP 6:** After you apply the adjustment, click Submit for review.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Submit adjustment from source visual</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (10).png" alt=""><figcaption><p>Submit adjustment from source visual</p></figcaption></figure>
 
 **STEP 7:** In the target visual, the red time icon would have changed color to yellow - indicating that the adjustment has been submitted for review. From the adjustments pane, you can choose to resolve the thread if the adjusted value is acceptable or re-open the thread if the adjusted value needs to be revised.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Resolve or reopen thread</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (9).png" alt=""><figcaption><p>Resolve or reopen thread</p></figcaption></figure>
 
 ### Filters in the Adjustments pane
 
@@ -62,7 +62,7 @@ You can use the dropdown menus in the adjustments side pane to filter adjustment
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (926).png" alt=""><figcaption><p>Filter adjustments based on the status</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (926) (1).png" alt=""><figcaption><p>Filter adjustments based on the status</p></figcaption></figure>
 
  
 

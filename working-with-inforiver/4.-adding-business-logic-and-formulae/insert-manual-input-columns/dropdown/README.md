@@ -145,7 +145,7 @@ On trying to select an option in the total/subtotal row, a message as shown in t
 
 ## 6. Default Value
 
-After creating a dropdown column, the user has to enter the values manually as explained in the [next section](./#id-6.-using-the-dropdown). Instead of having these cells blank, you can display a default value. The default value can be a static value as configured by the user or can be selected from any native measure (Dimension). If the underlying native measure is updated, the default value will reflect the latest value.
+After creating a dropdown column, the user has to enter the values manually as explained in the [next section](./#id-7.-using-the-dropdown). Instead of having these cells blank, you can display a default value. The default value can be a static value as configured by the user or can be selected from any native measure (Dimension). If the underlying native measure is updated, the default value will reflect the latest value.
 
 <figure><img src="../../../../.gitbook/assets/image (758).png" alt=""><figcaption><p>Default Value is a static value</p></figcaption></figure>
 

@@ -50,6 +50,10 @@ This will open up a 'Confirmation' modal. Click 'Confirm' to permanently delete 
 
 <figure><img src="../../.gitbook/assets/confirm-delete-connection.png" alt=""><figcaption><p>Confirm deletion</p></figcaption></figure>
 
+{% hint style="info" %}
+You can set role-based access control for writeback connections which is explained in [this section.](../../working-with-inforiver/12.-data-writeback/settings/writeback-security-settings.md#id-2.-role-based-access-control-for-writeback-admin-connections)
+{% endhint %}
+
 ## 2. Settings
 
 The writeback settings let admins configure various access settings for the users. The admin can configure the following settings:
@@ -65,7 +69,7 @@ The settings configured in the admin console will be applied to the Add Destinat
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Destination settings applied in the Add destination page</p></figcaption></figure>
 
 {% hint style="info" %}
-In addition to the above settings, you can configure access control for writeback destinations and role-based access control for writeback admin connections, which are covered in detail in this section: [Writeback security settings.](../../working-with-inforiver/12.-data-writeback/settings/writeback-security-settings.md)
+In addition to the above settings, you can configure user access control for writeback destinations which is explained [here](../../working-with-inforiver/12.-data-writeback/settings/writeback-security-settings.md#id-4.-user-access-control-to-manage-writeback-destinations).
 {% endhint %}
 
 In this section, we have covered the writeback settings. Navigate to the next chapter to learn more about the [managed DB settings](managed-db.md).
