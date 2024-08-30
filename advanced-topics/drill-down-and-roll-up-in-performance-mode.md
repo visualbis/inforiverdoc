@@ -18,11 +18,7 @@ To enable drill down, we first need to activate the ‘Performance mode.’
 When the performance mode is enabled or disabled, all changes like formatting or filters will be reset, and the report will be restored to the default configuration.
 {% endhint %}
 
-The drill down/roll up buttons will work only when the _Expand to level_ option is set to ‘Native’. This option is automatically set when the performance mode is enabled. To view this setting, navigate to Display > Hierarchy > Expand to level. You can still expand any given level of the hierarchy by selecting the corresponding number, however drill-down/roll-up will work only when this option is set to ‘Native’.
-
-<figure><img src="../.gitbook/assets/2. Expand to level.png" alt=""><figcaption><p>Expand to level - Native</p></figcaption></figure>
-
-In the image below, we have a four-level hierarchy in the rows. Notice the drill down/roll up icons on the visual as highlighted.
+In the image below, we have a four-level hierarchy in the rows. You will be able to see drill down/roll up icons on the visual when performance mode is enabled.
 
 <figure><img src="../.gitbook/assets/1. Performance mode.png" alt=""><figcaption><p>Hierarchical dataset with drill down/ roll up buttons enabled</p></figcaption></figure>
 
