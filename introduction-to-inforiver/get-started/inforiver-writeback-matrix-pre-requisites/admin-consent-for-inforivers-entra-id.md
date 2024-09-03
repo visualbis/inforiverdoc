@@ -8,7 +8,9 @@ Users may get an approval window as shown in the screenshot.
 
 A tenant admin can provide access by following the steps outlined below.
 
-**STEP 1:** Navigate to the consent URL.
+**STEP 1:** Navigate to the consent URL. The admin can either use the **Copy Link** option highlighted in the screenshot below or open the consent URL:
+
+{% embed url="https://login.microsoftonline.com/organizations/adminConsent?client_id=91891913-3884-46d3-bb4c-f68d33f43d4b&redirect_uri=https://addons.inforiver.com" %}
 
 <figure><img src="../../../.gitbook/assets/image (513) (1).png" alt=""><figcaption><p>Copy the consent URL and open the link</p></figcaption></figure>
 
