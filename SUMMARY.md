@@ -325,7 +325,7 @@
 * [Advanced topics](advanced-topics/README.md)
   * [Audit log](advanced-topics/audit-log.md)
   * [Backup & restore report config](advanced-topics/export-and-import-reports-backup.md)
-  * [Wrieback Matrix themes](advanced-topics/wrieback-matrix-themes.md)
+  * [Enterprise themes](advanced-topics/enterprise-themes.md)
   * [PowerPoint integration](advanced-topics/powerpoint-integration.md)
   * [Drill down and roll up in performance mode](advanced-topics/drill-down-and-roll-up-in-performance-mode.md)
 * [Infobridge](infobridge/README.md)
