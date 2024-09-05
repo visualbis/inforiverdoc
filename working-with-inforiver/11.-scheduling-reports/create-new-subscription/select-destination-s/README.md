@@ -2,6 +2,13 @@
 
 Here you can select the destination(s) to which you want the send the reports. The scheduled reports can be exported to any of the following destinations: Email, OneDrive, Microsoft Teams, SharePoint, and Google Drive.
 
+When you create a new subscription, you can choose between standard and dynamic subscriptions.
+
+* **Standard subscription:** To send the report to all destinations, irrespective of the dimension categories.
+* **Dynamic subscription**: Send the report to specific emails IDs/Teams channels/folders based on the dimension categories.
+
+<figure><img src="../../../../.gitbook/assets/image (938).png" alt=""><figcaption></figcaption></figure>
+
 ## 1. Standard Subscription
 
 When you choose a **standard subscription**, the 'Select Destinations' page look as below:
@@ -83,6 +90,8 @@ The image below displays the structure of the download sample CSV file for OneDr
 The next step is to review the settings and save them to start the subscription. Navigate to [this section ](../review-and-save-subscription.md)for illustration or the [next section](email.md) to understand the configuration for different destinations.
 
 ## 2. Dynamic Subscription
+
+With dynamic subscriptions, you can specify filters and regulate the dimension categories shared with users. With dynamic subscriptions, Inforiver can detect email IDs from your semantic models/CSV files and implicitly send the report to a specific user.
 
 The 'Select Destinations' page has a 'Table Selection' option as below, when you choose dynamic subscription.
 
