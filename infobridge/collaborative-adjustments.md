@@ -8,7 +8,7 @@ The adjustments workflow in Infobridge provides a mechanism for requesting and r
 
 <figure><img src="../.gitbook/assets/image (4) (13).png" alt=""><figcaption></figcaption></figure>
 
-**STEP 2:** Click Submit. The <img src="../.gitbook/assets/image (1) (1) (4).png" alt="" data-size="line">icon indicates that an adjustment has been requested for a particular cell.
+**STEP 2:** Click Submit. The <img src="../.gitbook/assets/image (1) (1) (4) (1).png" alt="" data-size="line">icon indicates that an adjustment has been requested for a particular cell.
 
 <figure><img src="../.gitbook/assets/image (3) (18).png" alt=""><figcaption><p>Adjustment requested in the target visual</p></figcaption></figure>
 

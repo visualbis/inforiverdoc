@@ -23,7 +23,7 @@ Inforiver provides the capability to export any filters or bookmarks that have b
 
 #### **Filter**&#x20;
 
-If this option is set to 'Filter', a new input field becomes available right next to the drop-down. In this field, you can specify the queries to filter the report.&#x20;
+You can apply filters on your reports if you want to expose specific dimension categories, for example, if you have multiple regions covered in your report, you can choose to expose selected regions in subscriptions.&#x20;
 
 {% hint style="info" %}
 Hover over the '?' icon to find help links on how to use filter/bookmark
@@ -31,7 +31,11 @@ Hover over the '?' icon to find help links on how to use filter/bookmark
 
 <figure><img src="../../../../.gitbook/assets/image (91).png" alt=""><figcaption><p>Tooltip in email destination</p></figcaption></figure>
 
-Click the 'Add new' option to add a new filter/bookmark.
+When you set the Filter/Bookmark option to 'Filter', a new input field becomes available next to the drop-down. In this field, you can specify the queries to filter the report.  The syntax for specifying a filter is **Table/Field eq 'value'**.
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Creating a subscription filter</p></figcaption></figure>
+
+Click the 'Add new' option to add an additional filter/bookmark.
 
 <figure><img src="../../../../.gitbook/assets/add-new.png" alt=""><figcaption><p>Add new link option</p></figcaption></figure>
 
