@@ -167,7 +167,7 @@
     * [Column aggregation](working-with-inforiver/manage-aggregations/column-aggregation.md)
   * [15. Managing Inforiver Writeback Matrix visuals](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/README.md)
     * [Inforiver deployments in Power BI pipeline setup](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/inforiver-deployments-in-power-bi-pipeline-setup.md)
-    * [Safe procedures for copying Writeback Matrix visuals](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/safe-procedures-for-copying-writeback-matrix-visuals.md)
+    * [Duplicating Writeback Matrix Visuals - Best Practices](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/duplicating-writeback-matrix-visuals-best-practices.md)
     * [Recommended practices while working with Power BI desktop](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/recommended-practices-while-working-with-power-bi-desktop.md)
 * [Admin Console](admin-console/README.md)
   * [Manage Profile](admin-console/manage-profile.md)

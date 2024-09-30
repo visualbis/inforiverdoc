@@ -1,4 +1,4 @@
-# Safe procedures for copying Writeback Matrix visuals
+# Duplicating Writeback Matrix Visuals - Best Practices
 
 When working on a specific Inforiver visual, you might sometimes receive the following notification, warning you about a duplicate visual.
 
@@ -76,7 +76,7 @@ Any changes made to these items will affect both the original and the copied vis
 
 All the above will be synced between the visuals.
 
-**If this is not the intended use case or behavior (as is usually the case), it is ideal to detach the visuals to remove the dependencies between them. The steps to detach the visuals, after accidental duplication, are explained** [**here**](safe-procedures-for-copying-writeback-matrix-visuals.md#detaching-visuals)**.**
+**If this is not the intended use case or behavior (as is usually the case), it is ideal to detach the visuals to remove the dependencies between them. The steps to detach the visuals, after accidental duplication, are explained** [**here**](duplicating-writeback-matrix-visuals-best-practices.md#detaching-visuals)**.**
 
 _Note: Other elements such as Formulas, Variance columns, Formatting changes, Show/Hide columns, etc. are not synced between duplicate visuals._
 
