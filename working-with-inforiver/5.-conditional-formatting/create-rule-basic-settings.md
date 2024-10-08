@@ -6,7 +6,7 @@ In this section, we'll cover some of the **basic settings** related to condition
 
 a) To create a new rule, select Home -> Conditional Formatting -> Create Rule. A conditional formatting window opens as shown in the below image.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Create rule</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption><p>Create rule</p></figcaption></figure>
 
 b) The rule can be renamed by editing the 'Title' field.
 

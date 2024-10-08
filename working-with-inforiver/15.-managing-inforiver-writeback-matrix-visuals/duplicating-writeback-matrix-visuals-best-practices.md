@@ -18,9 +18,9 @@ When you save this .pbix file with a name, say, _Inforiver Datasets\_new.pbix_ a
 
 <figure><img src="../../.gitbook/assets/image (941).png" alt=""><figcaption><p>same Visual ID in PBI desktop and PBI service</p></figcaption></figure>
 
-The visual ID is significant because all your input budget numbers, text, dropdowns and checkboxes, enterprise data such as comments, snapshots, scenarios, forecasts, simulations, and other Inforiver visual metadata are stored in the backend cache with _VISUAL\_ID1_ tagged as the identifier.
+The visual ID is significant because all your input budget numbers, text, dropdowns and checkboxes, Inforiver input fields' data such as comments, snapshots, scenarios, forecasts, simulations, and other Inforiver visual metadata are stored in the backend cache with _VISUAL\_ID1_ tagged as the identifier.
 
-If someone changes a budget number on a visual in service, you will see the same changes on the desktop report too. This is because the visuals on the desktop and the service, both have the same _VISUAL\_ID1_ as their ID which points to the same cache memory space, containing all the enterprise data and visual metadata.
+If someone changes a budget number on a visual in service, you will see the same changes on the desktop report too. This is because the visuals on the desktop and the service, both have the same _VISUAL\_ID1_ as their ID which points to the same cache memory space, containing all the input data and visual metadata.
 
 ## Duplicate visuals
 
@@ -64,7 +64,7 @@ As previously stated, when a specific visual is copied, the new visual retains t
 
 Any changes made to these items will affect both the original and the copied visuals simultaneously. These include,
 
-\-> Enterprise data such as Comments, Snapshots, Scenarios
+\-> Input fields-related data such as Comments, Snapshots, Scenarios
 
 \-> Forecasts
 

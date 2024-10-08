@@ -342,3 +342,5 @@
 * [Inforiver Writeback Matrix FAQs](inforiver-writeback-matrix-faqs.md)
 * [Video tutorials](video-tutorials.md)
 * [Resources](resources.md)
+* [Release Notes](release-notes/README.md)
+  * [Inforiver Enterprise V 3.4](release-notes/inforiver-enterprise-v-3.4.md)
