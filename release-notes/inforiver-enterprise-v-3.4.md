@@ -89,7 +89,7 @@ We have added a new custom visual to simplify data referencing for semantic mode
 * [Date-based interface to show measures.](inforiver-enterprise-v-3.4.md#id-12.8.-date-based-interface-to-show-measures)
 * [Hatched style for conditional formatting.](inforiver-enterprise-v-3.4.md#id-12.1.-hatched-style-for-conditional-formatting)
 
-&#x20;1\. **Infobridge**
+## 1. **Infobridge**
 
 ### **1.1. Regulate data exposed in a bridge**
 
