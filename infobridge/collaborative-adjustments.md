@@ -6,11 +6,11 @@ The adjustments workflow in Infobridge provides a mechanism for requesting and r
 
 **STEP 1**: To request an adjustment, you can either double-click the cell or click on the adjustment icon that appears when you click a cell.  In the Request Adjustments popup, you can specify the new value in the **Requested Value** textbox. You can optionally add a comment and tag associates from the **Assign a user** dropdown.
 
-<figure><img src="../.gitbook/assets/image (4) (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 **STEP 2:** Click Submit. The <img src="../.gitbook/assets/image (1) (1) (4) (1).png" alt="" data-size="line">icon indicates that an adjustment has been requested for a particular cell.
 
-<figure><img src="../.gitbook/assets/image (3) (18).png" alt=""><figcaption><p>Adjustment requested in the target visual</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (18) (1).png" alt=""><figcaption><p>Adjustment requested in the target visual</p></figcaption></figure>
 
 **STEP 3:** When you assign an adjustment request to a particular associate, they will receive an email that provides details about the adjustment. The email will contain links to the source and target visuals.
 
@@ -22,7 +22,7 @@ When you open the source visual, you’ll notice a notification message indicati
 
 **STEP 4:** In the source visual, you’ll notice a bell icon that notifies the owner(s) that an adjustment has been requested. Click on the bell icon to open the Adjustments side pane. When you click on the comments link, you will be able to see the requested adjustment value, the assignee and any other comments associated with the request.
 
-<figure><img src="../.gitbook/assets/image (6) (14).png" alt=""><figcaption><p>Viewing adjustment requests and comments</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (14) (1).png" alt=""><figcaption><p>Viewing adjustment requests and comments</p></figcaption></figure>
 
 **STEP 5:** Before committing to an adjustment, Inforiver allows you to compare and gauge the impact of the adjustment by displaying the adjustment as an additional measure in your source report or by running simulations in a scenario.
 

@@ -23,7 +23,7 @@ In reports with large number of hierarchies, you can see notes rolled up at the 
 <figure><img src="../../.gitbook/assets/Roll up notes (1).png" alt=""><figcaption><p>Roll-up notes</p></figcaption></figure>
 
 {% hint style="info" %}
-* You can [export](../10.-exporting-reports/export.md) notes along with the report in Excel and PDF. You can also [write back](../12.-data-writeback/) to databases, shared drives, or URLs.
+* You can [export](../10.-exporting-reports/export/) notes along with the report in Excel and PDF. You can also [write back](../12.-data-writeback/) to databases, shared drives, or URLs.
 * Notes added in reading mode will not be saved to the base report. Report users can however export notes.
 {% endhint %}
 

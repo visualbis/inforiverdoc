@@ -20,7 +20,7 @@ To add a new connection, click the 'Add new connection' button to open the _Crea
 
 In the _Create Connection_ modal, you can select the required writeback destination. Click Continue to open the _Add Connection_ page.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select writeback destination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select writeback destination</p></figcaption></figure>
 
 On the 'Add connection' page, enter all your connection-related details.
 
