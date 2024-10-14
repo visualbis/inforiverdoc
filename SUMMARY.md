@@ -344,4 +344,4 @@
 * [Video tutorials](video-tutorials.md)
 * [Resources](resources.md)
 * [Release Notes](release-notes/README.md)
-  * [Inforiver Enterprise V 3.4](release-notes/inforiver-enterprise-v-3.4.md)
+  * [Inforiver Enterprise October 2024 - v3.5](release-notes/inforiver-enterprise-october-2024-v3.5.md)

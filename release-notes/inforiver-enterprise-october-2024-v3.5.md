@@ -1,93 +1,93 @@
-# Inforiver Enterprise V 3.4
+# Inforiver Enterprise October 2024 - v3.5
 
-We have added a new custom visual to simplify data referencing for semantic model dropdowns: [**Inforiver add-on visuals/Lookup visuals**](inforiver-enterprise-v-3.4.md#id-13.-inforiver-add-on-visuals)
+We have added a new custom visual to simplify data referencing for semantic model dropdowns: [**Inforiver add-on visuals/Lookup visuals**](inforiver-enterprise-october-2024-v3.5.md#id-13.-inforiver-add-on-visuals)
 
 ### **Other additions and enhancements:**
 
 1. **Infobridge**
 
-* [Option to select required measures and scenarios to import into the bridge.](inforiver-enterprise-v-3.4.md#id-1.1.-regulate-data-exposed-in-a-bridge)
-* [Text measure support in bridge](inforiver-enterprise-v-3.4.md#id-1.2.-text-measure-support).
-* ['Person' measure support in bridge](inforiver-enterprise-v-3.4.md#id-1.3.-person-measure-support).
-* [Scheduled refreshes for native measures in the bridge.](inforiver-enterprise-v-3.4.md#id-1.4.-scheduled-refresh-for-native-measures)
-* [Aggregate and concatenate text fields in bridge.](inforiver-enterprise-v-3.4.md#id-1.5.-aggregate-and-concatenate-text-fields)
-* [Real-time help suggestions in the formula editor](inforiver-enterprise-v-3.4.md#id-1.6.-infobridge-intellisense).
-* [Grouping the source queries to organize them within the bridge](inforiver-enterprise-v-3.4.md#id-1.7.-logical-query-groups).
-* [Conditional Column feature to create dimensions based on specific conditions.](inforiver-enterprise-v-3.4.md#id-1.8.-conditional-columns)
-* [Infobridge lineage on the visual side, to easily recognize and manage rows and measures sourced from multiple bridges.](inforiver-enterprise-v-3.4.md#id-1.9.-infobridge-lineage)
-* [Support for blank forecast fields in the bridge.](inforiver-enterprise-v-3.4.md#id-1.10.-capture-blank-forecasts-in-infobridge)
+* [Option to select required measures and scenarios to import into the bridge.](inforiver-enterprise-october-2024-v3.5.md#id-1.1.-regulate-data-exposed-in-a-bridge)
+* [Text measure support in bridge](inforiver-enterprise-october-2024-v3.5.md#id-1.2.-text-measure-support).
+* ['Person' measure support in bridge](inforiver-enterprise-october-2024-v3.5.md#id-1.3.-person-measure-support).
+* [Scheduled refreshes for native measures in the bridge.](inforiver-enterprise-october-2024-v3.5.md#id-1.4.-scheduled-refresh-for-native-measures)
+* [Aggregate and concatenate text fields in bridge.](inforiver-enterprise-october-2024-v3.5.md#id-1.5.-aggregate-and-concatenate-text-fields)
+* [Real-time help suggestions in the formula editor](inforiver-enterprise-october-2024-v3.5.md#id-1.6.-infobridge-intellisense).
+* [Grouping the source queries to organize them within the bridge](inforiver-enterprise-october-2024-v3.5.md#id-1.7.-logical-query-groups).
+* [Conditional Column feature to create dimensions based on specific conditions.](inforiver-enterprise-october-2024-v3.5.md#id-1.8.-conditional-columns)
+* [Infobridge lineage on the visual side, to easily recognize and manage rows and measures sourced from multiple bridges.](inforiver-enterprise-october-2024-v3.5.md#id-1.9.-infobridge-lineage)
+* [Support for blank forecast fields in the bridge.](inforiver-enterprise-october-2024-v3.5.md#id-1.10.-capture-blank-forecasts-in-infobridge)
 
 2. **Writeback**&#x20;
 
-* [Faster Writebacks](inforiver-enterprise-v-3.4.md#id-2.2.-refactored-writeback-payload)
-* ['Last Updated at' filter](inforiver-enterprise-v-3.4.md#id-2.1.-last-updated-at-custom-filter)
+* [Faster Writebacks](inforiver-enterprise-october-2024-v3.5.md#id-2.2.-refactored-writeback-payload)
+* ['Last Updated at' filter](inforiver-enterprise-october-2024-v3.5.md#id-2.1.-last-updated-at-custom-filter)
 
 3. **Data Input**
 
-* [Pivot row option to create aggregate views/tables within Inforiver visual.](inforiver-enterprise-v-3.4.md#id-3.1.-pivot-row)
-* [Data input - default value enhancements.](inforiver-enterprise-v-3.4.md#id-3.2.-data-input-default-value-enhancements)
-* [Collaborative adjustments for data input and forecast fields within Inforiver visual.](inforiver-enterprise-v-3.4.md#id-3.3.-collaborative-adjustments-for-data-input-and-forecast-fields)
-* [Localization options based on Power BI language settings for single-select option list.](inforiver-enterprise-v-3.4.md#id-3.4.-localization-settings-for-single-select-options)
-* [Syncing custom-inserted rows between duplicate visuals.](inforiver-enterprise-v-3.4.md#id-3.5.-syncing-custom-inserted-rows-between-duplicate-visuals)
-* [Row edit user validation - adding global permissions to specific users.](inforiver-enterprise-v-3.4.md#id-3.6.-row-edit-user-validation)
+* [Pivot row option to create aggregate views/tables within Inforiver visual.](inforiver-enterprise-october-2024-v3.5.md#id-3.1.-pivot-row)
+* [Data input - default value enhancements.](inforiver-enterprise-october-2024-v3.5.md#id-3.2.-data-input-default-value-enhancements)
+* [Collaborative adjustments for data input and forecast fields within Inforiver visual.](inforiver-enterprise-october-2024-v3.5.md#id-3.3.-collaborative-adjustments-for-data-input-and-forecast-fields)
+* [Localization options based on Power BI language settings for single-select option list.](inforiver-enterprise-october-2024-v3.5.md#id-3.4.-localization-settings-for-single-select-options)
+* [Syncing custom-inserted rows between duplicate visuals.](inforiver-enterprise-october-2024-v3.5.md#id-3.5.-syncing-custom-inserted-rows-between-duplicate-visuals)
+* [Row edit user validation - adding global permissions to specific users.](inforiver-enterprise-october-2024-v3.5.md#id-3.6.-row-edit-user-validation)
 
 4. **Forecasts**
 
-* [Configure multiple forecasts simultaneously.](inforiver-enterprise-v-3.4.md#id-4.1.-configure-multiple-forecasts-simultaneously)
-* [Formulas for calculated open and closed period forecasts.](inforiver-enterprise-v-3.4.md#id-4.2.-formulas-for-calculated-open-and-closed-forecasts)
-* [Forecast time slicer.](inforiver-enterprise-v-3.4.md#id-4.3.-forecast-time-slicer)
-* [Hide closed forecasts and styling the forecast columns. ](inforiver-enterprise-v-3.4.md#id-4.4.-hide-closed-forecasts-and-styling-forecasts)
+* [Configure multiple forecasts simultaneously.](inforiver-enterprise-october-2024-v3.5.md#id-4.1.-configure-multiple-forecasts-simultaneously)
+* [Formulas for calculated open and closed period forecasts.](inforiver-enterprise-october-2024-v3.5.md#id-4.2.-formulas-for-calculated-open-and-closed-forecasts)
+* [Forecast time slicer.](inforiver-enterprise-october-2024-v3.5.md#id-4.3.-forecast-time-slicer)
+* [Hide closed forecasts and styling the forecast columns. ](inforiver-enterprise-october-2024-v3.5.md#id-4.4.-hide-closed-forecasts-and-styling-forecasts)
 
 5. **Scenarios**&#x20;
 
-* [All data input types supported in scenarios.](inforiver-enterprise-v-3.4.md#id-5.1.-all-data-input-types-supported-in-scenarios)
-* [Create scenarios for a specific time frame.](inforiver-enterprise-v-3.4.md#id-5.2.-create-scenarios-for-a-specific-time-frame)
+* [All data input types supported in scenarios.](inforiver-enterprise-october-2024-v3.5.md#id-5.1.-all-data-input-types-supported-in-scenarios)
+* [Create scenarios for a specific time frame.](inforiver-enterprise-october-2024-v3.5.md#id-5.2.-create-scenarios-for-a-specific-time-frame)
 
 6. **Visual formulas**
 
-* [Formula menu - with formulas organized based on function](inforiver-enterprise-v-3.4.md#id-6.1.-formula-menu).
-* [Replicate formulas across visual columns.](inforiver-enterprise-v-3.4.md#id-6.2.-replicate-formulas-across-visual-columns)
-* [Variance for simulations - Quick formula.](inforiver-enterprise-v-3.4.md#id-6.3.-variance-for-simulations)
-* [On change formula – approval workflows](inforiver-enterprise-v-3.4.md#id-6.4.-on-change-formula-approval-workflows).
-* [LOOKUP formula.](inforiver-enterprise-v-3.4.md#id-6.5.-lookup-formula)
-* [Support for cell references in calculated and template rows.](inforiver-enterprise-v-3.4.md#id-6.6.-support-for-cell-references-in-calculated-and-template-rows)
+* [Formula menu - with formulas organized based on function](inforiver-enterprise-october-2024-v3.5.md#id-6.1.-formula-menu).
+* [Replicate formulas across visual columns.](inforiver-enterprise-october-2024-v3.5.md#id-6.2.-replicate-formulas-across-visual-columns)
+* [Variance for simulations - Quick formula.](inforiver-enterprise-october-2024-v3.5.md#id-6.3.-variance-for-simulations)
+* [On change formula – approval workflows](inforiver-enterprise-october-2024-v3.5.md#id-6.4.-on-change-formula-approval-workflows).
+* [LOOKUP formula.](inforiver-enterprise-october-2024-v3.5.md#id-6.5.-lookup-formula)
+* [Support for cell references in calculated and template rows.](inforiver-enterprise-october-2024-v3.5.md#id-6.6.-support-for-cell-references-in-calculated-and-template-rows)
 
 7. **Goal Seek**
 
-* [Reference forecasts in goal seek.](inforiver-enterprise-v-3.4.md#id-7.1.-reference-forecasts-in-goal-seek)
-* [Variables with goal seek](inforiver-enterprise-v-3.4.md#id-7.2.-variables-with-goal-seek)&#x20;
+* [Reference forecasts in goal seek.](inforiver-enterprise-october-2024-v3.5.md#id-7.1.-reference-forecasts-in-goal-seek)
+* [Variables with goal seek](inforiver-enterprise-october-2024-v3.5.md#id-7.2.-variables-with-goal-seek)&#x20;
 
 8. **Scheduler**&#x20;
 
-* [Performance mode – beta version.](inforiver-enterprise-v-3.4.md#id-8.5.-performance-mode-beta-version)
-* [Dynamic subscriptions for Teams, SharePoint, and Google Drive destinations.](inforiver-enterprise-v-3.4.md#id-8.1.-report-compression)
-* [PDF export compression](inforiver-enterprise-v-3.4.md#id-8.1.-report-compression).
-* [Extract report as PPT.](inforiver-enterprise-v-3.4.md#id-8.3.-extract-report-as-ppt)
-* [Continuous numbering for merged PDFs.](inforiver-enterprise-v-3.4.md#id-8.4.-continuous-numbering-for-merged-pdfs)
+* [Performance mode – beta version.](inforiver-enterprise-october-2024-v3.5.md#id-8.5.-performance-mode-beta-version)
+* [Dynamic subscriptions for Teams, SharePoint, and Google Drive destinations.](inforiver-enterprise-october-2024-v3.5.md#id-8.1.-report-compression)
+* [PDF export compression](inforiver-enterprise-october-2024-v3.5.md#id-8.1.-report-compression).
+* [Extract report as PPT.](inforiver-enterprise-october-2024-v3.5.md#id-8.3.-extract-report-as-ppt)
+* [Continuous numbering for merged PDFs.](inforiver-enterprise-october-2024-v3.5.md#id-8.4.-continuous-numbering-for-merged-pdfs)
 
 9. **Export**
 
-* [Retain chip style in PDF exports ](inforiver-enterprise-v-3.4.md#id-9.1.-retain-chip-style-in-pdf-exports)
+* [Retain chip style in PDF exports ](inforiver-enterprise-october-2024-v3.5.md#id-9.1.-retain-chip-style-in-pdf-exports)
 
 10. **Admin console**&#x20;
 
-* [Writeback destination details in console.](inforiver-enterprise-v-3.4.md#id-10.1.-writeback-destination-details)
-* [Access refresh tokens duration. ](inforiver-enterprise-v-3.4.md#id-10.2.-access-refresh-tokens)
+* [Writeback destination details in console.](inforiver-enterprise-october-2024-v3.5.md#id-10.1.-writeback-destination-details)
+* [Access refresh tokens duration. ](inforiver-enterprise-october-2024-v3.5.md#id-10.2.-access-refresh-tokens)
 
 11. **Audit**&#x20;
 
-* [Audit entries for report creation and detach ](inforiver-enterprise-v-3.4.md#id-11.1.-audit-entries-for-report-creation-and-detach)
+* [Audit entries for report creation and detach ](inforiver-enterprise-october-2024-v3.5.md#id-11.1.-audit-entries-for-report-creation-and-detach)
 
 12. **Other Enhancements**&#x20;
 
-* [Scheduled back-up for measures.](inforiver-enterprise-v-3.4.md#id-12.7.-scheduled-back-up-for-measures)
-* [Login workflow with code verification.](inforiver-enterprise-v-3.4.md#id-12.2.-login-workflow)
-* [File validations.](inforiver-enterprise-v-3.4.md#id-12.3.-file-validations)
-* [Variables.](inforiver-enterprise-v-3.4.md#id-12.4.-variables)
-* [Hide dimensions in MOR layout.](inforiver-enterprise-v-3.4.md#id-12.5.-hide-dimensions-in-mor-layout)
-* [Scaling measure header in uniform number format.](inforiver-enterprise-v-3.4.md#id-12.6.-scaling-measure-header-in-uniform-number-format)
-* [Date-based interface to show measures.](inforiver-enterprise-v-3.4.md#id-12.8.-date-based-interface-to-show-measures)
-* [Hatched style for conditional formatting.](inforiver-enterprise-v-3.4.md#id-12.1.-hatched-style-for-conditional-formatting)
+* [Scheduled back-up for measures.](inforiver-enterprise-october-2024-v3.5.md#id-12.7.-scheduled-back-up-for-measures)
+* [Login workflow with code verification.](inforiver-enterprise-october-2024-v3.5.md#id-12.2.-login-workflow)
+* [File validations.](inforiver-enterprise-october-2024-v3.5.md#id-12.3.-file-validations)
+* [Variables.](inforiver-enterprise-october-2024-v3.5.md#id-12.4.-variables)
+* [Hide dimensions in MOR layout.](inforiver-enterprise-october-2024-v3.5.md#id-12.5.-hide-dimensions-in-mor-layout)
+* [Scaling measure header in uniform number format.](inforiver-enterprise-october-2024-v3.5.md#id-12.6.-scaling-measure-header-in-uniform-number-format)
+* [Date-based interface to show measures.](inforiver-enterprise-october-2024-v3.5.md#id-12.8.-date-based-interface-to-show-measures)
+* [Hatched style for conditional formatting.](inforiver-enterprise-october-2024-v3.5.md#id-12.1.-hatched-style-for-conditional-formatting)
 
 ## 1. **Infobridge**
 
