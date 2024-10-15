@@ -64,7 +64,9 @@ In this example, the positive and negative simulation percentages are exported i
 
 ### 3. Annotations
 
-3.1. When you add notes, Inforiver automatically assigns a serial number. Excel exports cannot capture the number, only an indicator will be exported.
+3.1. Comments cannot be exported. Excel only supports notes.
+
+3.2. Excel exports cannot capture serial numbers assigned to notes in Inforiver. The export will contain only a note indicator. Hover over the note indicator to view the content.
 
 <div>
 
@@ -76,15 +78,27 @@ In this example, the positive and negative simulation percentages are exported i
 
 </div>
 
-3.2. Comments cannot be exported. Excel only supports notes - hover over the note indicator to view the content.
+&#x20;3.3. Excel exports cannot capture rich text formatting applied to notes.
 
-3.3. You can enable marker mode for highlighting data points. Markers however cannot be captured in exports.
+<div>
+
+<figure><img src="../../../.gitbook/assets/image (948).png" alt=""><figcaption><p>Notes with rich text formatting in Inforiver</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/2024-10-15_12h32_53.png" alt=""><figcaption><p>Notes exported to Excel in plain text</p></figcaption></figure>
+
+</div>
+
+3.4. You can enable marker mode for highlighting data points. Markers however cannot be captured in exports.
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Marker mode in Inforiver</p></figcaption></figure>
 
 ### 4. Data volume
 
 4.1. A maximum of 500k cells can be exported to Excel. For higher data volumes, we encourage you to use the scheduler.
+
+4.2. For unlicensed versions of Inforiver, you will be able to export upto 500 rows to PDF and Excel.
 
 ### 5. Visual measures and columns
 
@@ -147,3 +161,9 @@ Only 3 conditions will be supported in such scenarios.
 8.4. Rating icons are not supported. The Excel export will not have any icons when ratings are applied.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Rating icons in Inforiver</p></figcaption></figure>
+
+### 9. Pagination
+
+9.1. Excel exports do not support the default page break applied in Inforiver. The data will be exported to a single Excel tab irrespective of the number of pages in Inforiver. If you explicitly specify a page break based on a row dimension category, each category will be exported to a different Excel tab.
+
+<figure><img src="../../../.gitbook/assets/image (949).png" alt=""><figcaption><p>Default page breaks in Inforiver</p></figcaption></figure>
