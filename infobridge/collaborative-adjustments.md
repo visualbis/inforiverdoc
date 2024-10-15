@@ -28,7 +28,7 @@ When you open the source visual, you’ll notice a notification message indicati
 
 &#x20;**Display the adjustment as a measure:** Click the **View Adjustments** button to display the adjustment as a measure in the source visual. The adjustment measure header will be italicized with “(Adj)” appended to it. The requested adjustment will be highlighted in yellow. If an update has been requested for the grand total, all the contributing cells will be highlighted as well.
 
-<figure><img src="../.gitbook/assets/image (7) (13).png" alt=""><figcaption><p>View adjustment as measure</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (13) (1).png" alt=""><figcaption><p>View adjustment as measure</p></figcaption></figure>
 
 
 
@@ -40,7 +40,7 @@ Use the column gripper for the adjustment measure and select **Remove Adjustment
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (8) (12).png" alt=""><figcaption><p>View in scenario option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (12) (1).png" alt=""><figcaption><p>View in scenario option</p></figcaption></figure>
 
  
 
@@ -50,11 +50,11 @@ Use the column gripper for the adjustment measure and select **Remove Adjustment
 
 **STEP 6:** After you apply the adjustment, click Submit for review.
 
-<figure><img src="../.gitbook/assets/image (9) (10).png" alt=""><figcaption><p>Submit adjustment from source visual</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (10) (1).png" alt=""><figcaption><p>Submit adjustment from source visual</p></figcaption></figure>
 
 **STEP 7:** In the target visual, the red time icon would have changed color to yellow - indicating that the adjustment has been submitted for review. From the adjustments pane, you can choose to resolve the thread if the adjusted value is acceptable or re-open the thread if the adjusted value needs to be revised.
 
-<figure><img src="../.gitbook/assets/image (10) (9).png" alt=""><figcaption><p>Resolve or reopen thread</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (9) (1).png" alt=""><figcaption><p>Resolve or reopen thread</p></figcaption></figure>
 
 ### Filters in the Adjustments pane
 

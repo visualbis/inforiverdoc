@@ -34,7 +34,7 @@ This window has the following options to search and filter the user list:
 
 * **Filter dropdown menus -** You can filter the users based on their roles and the product workspaces they can access. By default, 'All members' for 'All Products' are displayed. You can choose to display specific users based on their role, such as users with the 'Admin' role or users with the 'Members' role. You can also filter based on their product access, such as users with access to Inforiver or EDITable.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Filter by role/product access</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Filter by role/product access</p></figcaption></figure>
 
 * **Sort drop-down menu -** This menu allows you to sort users by their names, last login time, or added time. To sort the list, simply choose the desired option from the dropdown menu. Depending on your selection, the user list will be sorted from the latest to the oldest (by last login time/added time) or in descending order (by name). You can reverse the sorting order by clicking the sort arrow next to this menu.
 * **Sort arrow -** If the sort arrow is pointing up, the list is sorted in ascending order for the chosen filter in the drop-down. If the sort arrow is pointing down, the list is sorted in descending order. You can toggle the order by clicking on the arrow.
@@ -49,15 +49,15 @@ This window has the following options to search and filter the user list:
 
 Click 'Add Member' to add a single member to the application.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Add member</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (13).png" alt=""><figcaption><p>Add member</p></figcaption></figure>
 
 A pop-up opens as shown. Enter the user's email ID in the textbox provided. You can also use the dropdown menu to select the member.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>select the member</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (12).png" alt=""><figcaption><p>select the member</p></figcaption></figure>
 
 After entering the email ID, assign their role and click **Add.**
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Add member</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (10).png" alt=""><figcaption><p>Add member</p></figcaption></figure>
 
 {% hint style="info" %}
 You will get a warning message if the given email ID already exists.
@@ -65,7 +65,7 @@ You will get a warning message if the given email ID already exists.
 
 The user gets added and the below message will be shown.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>User added successfully </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (9).png" alt=""><figcaption><p>User added successfully </p></figcaption></figure>
 
 You can choose the 'role' for the added user as either 'member' or 'admin'.
 

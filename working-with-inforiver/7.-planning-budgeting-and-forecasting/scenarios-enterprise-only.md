@@ -172,7 +172,7 @@ To edit, delete, or duplicate a scenario, click on the additional options menu i
 
 When users open scenarios in reading mode, the Base scenario is always displayed by default. If you want a particular scenario to be loaded on initialization, choose the **Make as Default** option from the context menu.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Make as default option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (6).png" alt=""><figcaption><p>Make as default option</p></figcaption></figure>
 
 Scenario 1 will be opened by default in reading view when users navigate to scenarios. Default scenarios can be identified by the <img src="../../.gitbook/assets/image (922).png" alt="" data-size="line">icon.
 
