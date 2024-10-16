@@ -92,7 +92,7 @@ If you choose the _**Replace the selected Container**_ option, the chosen elemen
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure>
 
  
 
@@ -104,7 +104,7 @@ You can also choose to insert a new container to the right/left/top/bottom of th
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure>
 
  
 

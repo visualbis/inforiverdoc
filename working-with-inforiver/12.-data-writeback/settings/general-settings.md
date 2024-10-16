@@ -69,7 +69,11 @@ The **Custom Filter** configuration window has the following options:
 
 * **Filter condition:** This option allows you to create user-defined filter conditions. The filter condition requires selecting a dimension category, a logical expression, and the matching value of the dimension category. Inforiver has several built-in logical expressions to assist in building filter conditions.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption><p>Custom filter condition</p></figcaption></figure>
+
+You can writeback data based on the last updated date, for example, writeback only the data that was updated after, before, or on a specific date. Choose the ‘Last Updated At’ option in the custom filter type:
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Writeback filter based on last update date</p></figcaption></figure>
 
 * **Add filter:** This option allows you to add multiple filter conditions.
 * **Combinators:** AND or OR operators are available for filter logic creation.
