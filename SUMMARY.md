@@ -63,6 +63,7 @@
     * [Quick formula](working-with-inforiver/4.-adding-business-logic-and-formulae/quick-formula.md)
     * [Visual column inside visual measures](working-with-inforiver/4.-adding-business-logic-and-formulae/visual-column-inside-visual-measures.md)
     * [Manage inserted rows & columns](working-with-inforiver/4.-adding-business-logic-and-formulae/manage-inserted-rows-and-columns.md)
+    * [Pivot data](working-with-inforiver/4.-adding-business-logic-and-formulae/pivot-data.md)
     * [Insert image URLs](working-with-inforiver/4.-adding-business-logic-and-formulae/insert-image-urls.md)
   * [6. Working with charts](working-with-inforiver/6.-working-with-charts.md)
     * [Sparkline charts](working-with-inforiver/6.-working-with-charts/sparkline-charts.md)
