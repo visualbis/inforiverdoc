@@ -1,18 +1,38 @@
 # Forecasting
 
-With Inforiver, you can easily generate a rolling forecast and use methods like period range, average of period range, etc. to initialize the forecast. You can leverage the integrated time intelligence and time extension features to create half-yearly forecasts or fiscal period forecasts. With Inforiver, you can close the forecast once actuals are available, update the forecast, distribute deficits, and extend forecasts.
+With Inforiver, you can easily generate a rolling forecast and use methods like period range, average of period range, or apply formulas to initialize the forecast. Leverage the integrated time intelligence and time extension features to create half-yearly forecasts or fiscal period forecasts. In this section, discover how to configure forecasts,  close the forecast once actuals are available, update forecasts, distribute deficits, and extend forecasts.
 
 ## 1. Generating a forecast
 
-To create a forecast, click on the Insert Forecast button in the Insert ribbon. The forecast dialog box has the options listed below
+To create a forecast, click the **Insert Forecast** button in the Insert ribbon. The forecast dialog box allows you to configure forecasts for open(future) and closed(past) periods.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Forecast configuration for open and closed forecasts</p></figcaption></figure>
 
 **1. Measure name:** By default, the forecast measure is named ‘Forecast’. This can be updated to a relevant column name.
 
 **2. Forecast period:** The time frame for which the forecast is being generated. Inforiver's time intelligence sets the start date to the current month - you can update the range based on your requirements.
 
-**3. Linked actuals measure:** The new forecast measure will be created for past or closed periods as well. The _Linked actuals measure_ option allows you to select the series to be used as the data source. If Sales is selected, then the forecast measure for 2022 and 2023 will be populated from Sales. If Revenue is selected, then the forecast measure for 2022 and 2023 will be populated from Revenue.&#x20;
+**3. Closed Period:** The new forecast measure will be created for past or closed periods as well. If you have actuals for 2024 and are generating a forecast for 2025, 2024 will be considered as the closed period. Inforiver provides 2 options to populate closed forecasts:
 
-<figure><img src="../../.gitbook/assets/2024-02-02_10h27_04.png" alt=""><figcaption><p>Create forecast dialog box</p></figcaption></figure>
+* **Measure:** The Linked Measure dropdown option allows you to select native measures, data input measures, formula measures, or other forecasts as the source for closed periods. For instance, if you select _Revenue - formula_,&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Measure option for closed forecasts</p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Closed forecast from formula measure</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-10-16_13h06_31.png" alt=""><figcaption><p>Native measures to populate closed forecasts</p></figcaption></figure>
+
+</div>
+
+{% hint style="info" %}
+There will be differences in the totals and sub-totals when formula measures are used to populate forecasts. This is because the default aggregation method for formula measures is 'Formula' and 'Sum' for forecasts.&#x20;
+{% endhint %}
+
+* **Formula:** &#x20;
 
 ## 2. Configuring the forecast
 
