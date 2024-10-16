@@ -14,7 +14,7 @@ To create a forecast, click the **Insert Forecast** button in the Insert ribbon.
 
 **3. Closed Period:** The new forecast measure will be created for past or closed periods as well. If you have actuals for 2024 and are generating a forecast for 2025, 2024 will be considered as the closed period. Inforiver provides 2 options to populate closed forecasts:
 
-* **Measure:** The Linked Measure dropdown option allows you to select native measures, data input measures, formula measures, or other forecasts as the source for closed periods. For instance, if you select _Revenue - formula_,&#x20;
+* **Measure:** The Linked Measure dropdown option allows you to select native measures, data input measures, formula measures, or other forecasts as the source for closed periods. For instance, if you select the _Revenue - formula_ measure, closed periods will have the values from the formula measure.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Measure option for closed forecasts</p></figcaption></figure>
 
@@ -32,7 +32,23 @@ To create a forecast, click the **Insert Forecast** button in the Insert ribbon.
 There will be differences in the totals and sub-totals when formula measures are used to populate forecasts. This is because the default aggregation method for formula measures is 'Formula' and 'Sum' for forecasts.&#x20;
 {% endhint %}
 
-* **Formula:** &#x20;
+* **Formula:**  You can write custom formulas and leverage Inforiver's extensive selection of built-in formulas to populate closed forecasts.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (950).png" alt=""><figcaption><p>Formula based closed forecast</p></figcaption></figure>
+
+**4. Open Period:** Inforiver offers a range of options to configure forecasts. You can source forecasts from native measures/visual measures, use formulae, or enter values with the data input option.
+
+&#x20;
+
+* **Data input**
+
+You can specify a default value even if you choose to manually input forecast values. The default value can be static, a measure, formula or left blank.
+
+<figure><img src="../../.gitbook/assets/image (952).png" alt=""><figcaption><p>Default data input options</p></figcaption></figure>
+
+a) Static value
+
+<figure><img src="../../.gitbook/assets/image (951).png" alt=""><figcaption><p>Source for open forecasts</p></figcaption></figure>
 
 ## 2. Configuring the forecast
 
