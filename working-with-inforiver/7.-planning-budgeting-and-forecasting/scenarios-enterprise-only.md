@@ -32,6 +32,10 @@ Under the 'General' tab, you can configure the general scenario options and prop
 
 **Start period and End period** - Here you can specify the starting and ending periods of the scenario
 
+**Period Range -** When you have a date dimension in your report columns, you will be able to create different scenarios corresponding to targeted time periods. You can select the time frame from the Period Range date picker.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Period range for scenarios</p></figcaption></figure>
+
 ### 1.2. Permission
 
 Under the 'Permission' tab, you can configure the scenario permissions.&#x20;
