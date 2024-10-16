@@ -72,6 +72,8 @@ Any changes made to these items will affect both the original and the copied vis
 
 \-> Data Input fields such as dropdowns, checkboxes, and text/numeric input - both, the structure, and values
 
+\-> Inserted rows such as static rows, calculated rows and row hierarchies
+
 \-> Writeback destinations and configurations
 
 All the above will be synced between the visuals.
