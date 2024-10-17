@@ -1,0 +1,83 @@
+# Manage inserted measures & columns
+
+Measures and columns inserted in the visual such as calculations or data input columns can be managed using the **Manage Measures** option.
+
+## 1. Measures and columns
+
+Similar to the [Manage Rows](manage-inserted-rows-and-columns-1.md#id-1.-manage-rows) option, the **Manage Measures** option displays a list of inserted columns/measures with options to edit, delete, or hide them. All the measures created in a visual can be viewed in the Measures tab. Visual columns can be viewed and managed in the Columns tab.
+
+In addition, there is also an 'Insert New' option which lets you insert calculated columns or data input columns right from this panel.
+
+<figure><img src="../../.gitbook/assets/image (689).png" alt=""><figcaption><p>Managing inserted columns</p></figcaption></figure>
+
+## 2. Settings
+
+The **Manage Measures** side panel has a **Settings** tab that lets you control and configure important settings concerning the rows and measures, such as user permissions, time interval mapping, and row ID mapping.
+
+<figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+
+### 2.1. Data input access
+
+Inforiver enterprise allows setting explicit read/write access for specific users on data input and forecast columns.&#x20;
+
+To set it, click **Insert -> Manage Measures -> Settings** **->** **Manage** in the **Data Input Access.** You can add the required users in the pop-up window.
+
+<figure><img src="../../.gitbook/assets/image (691).png" alt=""><figcaption><p>Data Input Access</p></figcaption></figure>
+
+{% hint style="info" %}
+Access control for all the columns can also be set through the **Manage Columns** dropdown as explained [here](insert-manual-input-columns.md#id-3.-access-control). Specifically for the forecast columns, the user access can be configured [here](../7.-planning-budgeting-and-forecasting/forecasting.md).
+{% endhint %}
+
+### 2.2. Time interval mapping
+
+When you have a date hierarchy in your rows/columns, you can use the time interval mapping to verify the formats that Inforiver auto-detects. Hover over the<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">icon to view all the supported date formats.
+
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Supported date formats</p></figcaption></figure>
+
+You can also choose whether to use Power BI sorting or Inforiver sorting. When the **Sort** toggle is enabled, any sorting changes made at Power BI level will not be reflected in the visual. In the example, notice how the Power BI sorting is not applied on the Quarter when the Sort toggle is enabled.
+
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Sort precedence</p></figcaption></figure>
+
+### 2.3. Row ID mapping
+
+Inforiver automatically assigns a dimension ID to each row dimension to uniquely identify them. This mapping helps to track and manage them, especially during operations like writeback. Visual components such as formatting, notes, comments, and data inputs added to the rows are also linked to the dimension IDs.&#x20;
+
+When row dimensions are renamed/changed, we might lose these visual elements added. To avoid this, Inforiver allows us to map the row dimensions to a constant dimension ID.
+
+In the example below, we’ve applied formatting, added notes, and comments, and added data inputs to the products, _Juices_ and _Tea & Coffee_.
+
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
+
+The visual elements were lost after the product names were renamed to _Fruit Juices_ and _Chai & Coffee_ respectively.
+
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2) (1).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
+
+To avoid this, let us map the dimension IDs to a constant dimension, such as the _Product ID_ instead of the _Product Name_. To do so, navigate to **Insert -> Manage Measures -> Settings -> Row ID mapping   -> Manage**.
+
+<figure><img src="../../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption><p>Manage Row ID Mapping</p></figcaption></figure>
+
+The image below shows the default row dimension ID mapping.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (2) (1).png" alt=""><figcaption><p>Default row ID mapping</p></figcaption></figure>
+
+Let us map the 'Product Name' to the constant dimension, 'Product ID' as shown below. Click **Apply**.
+
+<figure><img src="../../.gitbook/assets/image (6) (1) (3).png" alt=""><figcaption><p>row dimesion ID mapped manually</p></figcaption></figure>
+
+Note that changing the mapping removes all the initial formatting and visual elements associated with it.
+
+Any formatting, notes, comments, and data inputs added after mapping with the constant dimension ID are retained as shown below, including during the writeback.
+
+<figure><img src="../../.gitbook/assets/row-dimension-id-mapping.png" alt=""><figcaption><p>After manually mapping row ID dimensions</p></figcaption></figure>
+
+**Updates due to skipped row ID dimensions reflected in writeback data**
+
+After mapping the row IDs to a constant dimension, not only the visual formatting, data changes, notes, comments, etc., are retained in the report but also captured in the writeback data promptly.
+
+The report below shows the default mapping, followed by the results of the writeback data.
+
+<figure><img src="../../.gitbook/assets/1.5.1..png" alt=""><figcaption><p>Writeback data before the change</p></figcaption></figure>
+
+After manually mapping the row dimension to a constant ID like the Product ID, any changes made in the report are also effectively captured in the writeback. In the image below, you can see the updated records in the report that are also reflected in the writeback data.
+
+<figure><img src="../../.gitbook/assets/1.5.2. rowID-2.png" alt=""><figcaption><p>Writeback data after row ID mapping and data changes</p></figcaption></figure>

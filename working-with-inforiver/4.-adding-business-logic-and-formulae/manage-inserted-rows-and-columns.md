@@ -1,10 +1,10 @@
-# Manage inserted rows & columns
+# Manage inserted rows
 
-Rows and columns inserted in the visual such as calculations, static rows, or data input columns can be managed using the **Manage Rows** and **Manage Measures** options respectively.
+Rows inserted in the visual such as calculations, static rows, template rows or data input rows can be managed using the **Manage Rows** option.&#x20;
 
-## 1. Manage Rows
+## 1. Rows
 
-Inserted rows such as static, calculated, etc. can be managed using the **Manage Rows** option highlighted below. A list of the inserted rows is displayed. The following operations can be performed:
+Inserted rows such as static, calculated, etc. can be managed from the **Rows** tab. A list of the inserted rows is displayed. The following operations can be performed:
 
 a) Edit - Formulae or other properties can be modified.
 
@@ -14,88 +14,48 @@ c) Show/hide row - Inserted rows can be hidden temporarily.
 
 d) Show/hide row indicator - The pencil icon beside the inserted rows can be hidden.
 
-<figure><img src="../../.gitbook/assets/image (687).png" alt=""><figcaption><p>Managing inserted rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Managing rows</p></figcaption></figure>
 
-Some changes have been made - like the static row and the row indicator have been hidden and the calculated row has been deleted which are shown below.
+## 2. Row settings
 
-<figure><img src="../../.gitbook/assets/image (688).png" alt=""><figcaption><p>Hiding row indicator, deleting and hiding rows</p></figcaption></figure>
+The **Manage Rows** side panel has a **Row Settings** tab that lets you configure settings such as user permissions.
 
-## 2. Manage Columns
+### 2.1. Insert row configuration
 
-Similar to the [Manage Rows](manage-inserted-rows-and-columns.md#id-1.-manage-rows) option, the **Manage Measures** option displays a list of inserted columns/measures with options to edit, delete, or hide them.
+You can set category-based rules on rows that are bulk inserted. For example, you can disable row insertion for certain row dimension categories, enforce distinct values, or source categories from an Excel spreadsheet. [Learn more about bulk inserting rows.](insert-manual-input-rows.md#id-2.-bulk-insert-static-rows)
 
-In addition, there is also an 'Insert New' option which lets you insert calculated columns or data input columns right from this panel.
+### 2.2. Insert Row Access
 
-<figure><img src="../../.gitbook/assets/image (689).png" alt=""><figcaption><p>Managing inserted columns</p></figcaption></figure>
+You can explicitly set permissions for users to insert rows in read mode. You have options to restrict all users, allow all users, or authorize specific users to insert rows. Navigate to Insert > Manage Rows >Settings > Insert Row Access to set permissions.
 
-## 3. Settings
+* Enable the **Allow in Read Mode** toggle to allow users to insert rows in reading mode.
+* To allow all the members in your organization to insert rows, choose the **All users** radio button.
+* If you want to restrict users from inserting rows, choose the **Specific users** radio button**.** You will then be able select the users to whom you want to provide access.
 
-The **Manage Measures** side panel has a 'Settings' tab that lets you control and configure a few important settings concerning the rows and measures, such as user permissions, time interval mapping, and row ID mapping.
+<figure><img src="../../.gitbook/assets/4.8. Data input insert rows access 5.png" alt=""><figcaption><p>Insert row permissions</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+### 2.3. Row edit user validation
 
-### 3.1. Data input access
+You can set row-level permissions to edit rows of Data Input and Forecast columns. If your semantic model contains an Email ID field, you can grant access to specific email IDs to edit associated row categories. The steps to configure row edit access have been outlined below.
 
-Inforiver enterprise allows setting explicit read/write access for specific users on data input and forecast columns.&#x20;
+**STEP 1:** Specify the workspace, semantic model, table, and the field in the table that contains email IDs.
 
-To set it, click **Insert -> Manage Measures -> Settings** **->** **Manage** in the **Data Input Access.** You can add the required users in the pop-up window.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Select table and email ID field</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (691).png" alt=""><figcaption><p>Data Input Access</p></figcaption></figure>
+**STEP 2:** Select the **All** radio button to set row edit permissions for all the forecasts and data input fields in your report. To grant access to specific measures, check the **Selected** radio button and choose the measure.
 
-{% hint style="info" %}
-Access control for all the columns can also be set through the **Manage Columns** dropdown as explained [here](insert-manual-input-columns.md#id-3.-access-control). Specifically for the forecast columns, the user access can be configured [here](../7.-planning-budgeting-and-forecasting/forecasting.md).
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Select measures to grant access</p></figcaption></figure>
 
-### 3.2. Time interval mapping
+**STEP 3:** Specify users who will have elevated access to edit all rows, irrespective of the categories assigned to email IDs in the semantic model.
 
-When you have a date hierarchy in your rows/columns, you can use the time interval mapping to verify the formats that Inforiver auto-detects. Hover over the<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">icon to view all the supported date formats.
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>User selection for elevated edit access</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Supported date formats</p></figcaption></figure>
+**STEP 4:** Map the dimension category in the semantic model to the row dimension category in your report. Click **Save & Preview**.
 
-You can also choose whether to use Power BI sorting or Inforiver sorting. When the **Sort** toggle is enabled, any sorting changes made at Power BI level will not be reflected in the visual. In the example, notice how the Power BI sorting is not applied on the Quarter when the Sort toggle is enabled.
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Map semantic model dimension to visual dimension</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Sort precedence</p></figcaption></figure>
+**STEP 5:** Verify the email IDs and the categories assigned.
 
-### 3.3. Row ID mapping
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Verify categories assigned</p></figcaption></figure>
 
-Inforiver automatically assigns a dimension ID to each row dimension to uniquely identify them. This mapping helps to track and manage them, especially during operations like writeback. Visual components such as formatting, notes, comments, and data inputs added to the rows are also linked to the dimension IDs.&#x20;
-
-When row dimensions are renamed/changed, we might lose these visual elements added. To avoid this, Inforiver allows us to map the row dimensions to a constant dimension ID.
-
-In the example below, we’ve applied formatting, added notes, and comments, and added data inputs to the products, _Juices_ and _Tea & Coffee_.
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Sample report with formatting, comments and data input columns</p></figcaption></figure>
-
-The visual elements were lost after the product names were renamed to _Fruit Juices_ and _Chai & Coffee_ respectively.
-
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2) (1).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
-
-To avoid this, let us map the dimension IDs to a constant dimension, such as the _Product ID_ instead of the _Product Name_. To do so, navigate to **Insert -> Manage Measures -> Settings -> Row ID mapping   -> Manage**.
-
-<figure><img src="../../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption><p>Manage Row ID Mapping</p></figcaption></figure>
-
-The image below shows the default row dimension ID mapping.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (2) (1).png" alt=""><figcaption><p>Default row ID mapping</p></figcaption></figure>
-
-Let us map the 'Product Name' to the constant dimension, 'Product ID' as shown below. Click **Apply**.
-
-<figure><img src="../../.gitbook/assets/image (6) (1) (3).png" alt=""><figcaption><p>row dimesion ID mapped manually</p></figcaption></figure>
-
-Note that changing the mapping removes all the initial formatting and visual elements associated with it.
-
-Any formatting, notes, comments, and data inputs added after mapping with the constant dimension ID are retained as shown below, including during the writeback.
-
-<figure><img src="../../.gitbook/assets/row-dimension-id-mapping.png" alt=""><figcaption><p>After manually mapping row ID dimensions</p></figcaption></figure>
-
-**Updates due to skipped row ID dimensions reflected in writeback data**
-
-After mapping the row IDs to a constant dimension, not only the visual formatting, data changes, notes, comments, etc., are retained in the report but also captured in the writeback data promptly.
-
-The report below shows the default mapping, followed by the results of the writeback data.
-
-<figure><img src="../../.gitbook/assets/1.5.1..png" alt=""><figcaption><p>Writeback data before the change</p></figcaption></figure>
-
-After manually mapping the row dimension to a constant ID like the Product ID, any changes made in the report are also effectively captured in the writeback. In the image below, you can see the updated records in the report that are also reflected in the writeback data.
-
-<figure><img src="../../.gitbook/assets/1.5.2. rowID-2.png" alt=""><figcaption><p>Writeback data after row ID mapping and data changes</p></figcaption></figure>
+Once row-level user edit validation is configured, users in read-only mode will only be able to modify the values for row dimension categories to which they have been granted access.

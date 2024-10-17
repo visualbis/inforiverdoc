@@ -8,7 +8,7 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure>
 
  
 
@@ -22,7 +22,7 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 1.4. Signed row headers that are enabled by turning on the Sign in Headers display setting will not be captured.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Signed row headers, blend measures and hatched cells</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Signed row headers, blend measures and hatched cells</p></figcaption></figure>
 
 1.5. Multiple colors in a single cell (when you run simulations or apply conditional formatting)  cannot be exported. The contents of the entire cell will have the same color in the exported file.&#x20;
 
@@ -30,7 +30,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Inforiver report with multiple colors in each cell</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Inforiver report with multiple colors in each cell</p></figcaption></figure>
 
  
 
@@ -46,7 +46,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Rails and pinned rows in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Rails and pinned rows in Inforiver</p></figcaption></figure>
 
  
 
@@ -56,7 +56,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 2.3. Row-level charts cannot be exported. Bar charts&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Row-level charts in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Row-level charts in Inforiver</p></figcaption></figure>
 
 2.4. Themes cannot be applied for Excel exports.
 
@@ -92,7 +92,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 3.4. You can enable marker mode for highlighting data points. Markers however cannot be captured in exports.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Marker mode in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Marker mode in Inforiver</p></figcaption></figure>
 
 ### 4. Data volume
 
@@ -112,11 +112,11 @@ In this example, the positive and negative simulation percentages are exported i
 
 7.1. When you export to Excel, you have 3 options: export the entire report, export with expand/collapse for hierarchies, and expand the current state of the report. All these options are available in the default Hierarchy layout however some export options will be disabled based on the layout chosen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Export options in table layout</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Export options in table layout</p></figcaption></figure>
 
 7.2. Selected columns - only the Current State export option will be enabled if you want to export selected columns.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Current state export option for selected columns</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Current state export option for selected columns</p></figcaption></figure>
 
 ### 8. Icons
 
@@ -126,7 +126,7 @@ Only 3 conditions will be supported in such scenarios.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Custom icons with additional ranges used in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Custom icons with additional ranges used in Inforiver</p></figcaption></figure>
 
  
 
@@ -138,7 +138,7 @@ Only 3 conditions will be supported in such scenarios.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure>
 
  
 
@@ -150,7 +150,7 @@ Only 3 conditions will be supported in such scenarios.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Same icons with different colors applied in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Same icons with different colors applied in Inforiver</p></figcaption></figure>
 
  
 
@@ -160,7 +160,7 @@ Only 3 conditions will be supported in such scenarios.
 
 8.4. Rating icons are not supported. The Excel export will not have any icons when ratings are applied.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Rating icons in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Rating icons in Inforiver</p></figcaption></figure>
 
 ### 9. Pagination
 
