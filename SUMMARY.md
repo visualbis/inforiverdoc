@@ -347,3 +347,4 @@
 * [Resources](resources.md)
 * [Release Notes](release-notes/README.md)
   * [Inforiver Enterprise October 2024 - v3.5](release-notes/inforiver-enterprise-october-2024-v3.5.md)
+  * [Inforiver Enterprise October 2024 - v3.6](release-notes/inforiver-enterprise-october-2024-v3.6.md)

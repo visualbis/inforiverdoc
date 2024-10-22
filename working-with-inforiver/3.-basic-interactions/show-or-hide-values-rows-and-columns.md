@@ -84,6 +84,6 @@ You can select the measure header and click on the hide icon if you do not want 
 
 To enable hidden or skipped rows, navigate to the Show/hide dropdown > Rows section and click on the respective icon to display the row again in your report.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Displaying hidden rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Displaying hidden rows</p></figcaption></figure>
 
 In the next section, we'll cover how to [manage column widths](manage-column-widths.md).&#x20;

@@ -20,11 +20,11 @@ A bridge can be created in two ways: from an Inforiver report, or from the conso
 
 4. Clicking **Yes** in the confirmation pop-up creates a new bridge. Click **OK** to navigate to the newly created bridge.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Bridge created</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Bridge created</p></figcaption></figure>
 
 5. The bridge is created as below and the Inforiver report is added as a source query.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>New Bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>New Bridge</p></figcaption></figure>
 
 6. Click on the pencil icon beside the query or the bridge name to rename them. There are also other options to duplicate the query, copy the identifier, and refresh the source as highlighted below.
 
