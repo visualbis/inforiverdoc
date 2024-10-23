@@ -38,21 +38,83 @@ There will be differences in the totals and sub-totals when formula measures are
 
 **4. Open Period:** Inforiver offers a range of options to configure forecasts. You can source forecasts from native measures/visual measures, use formulae, or enter values with the data input option.
 
-&#x20;
+* **Measure**
+
+If you already have projections in your data source, you can populate the forecasts for open periods from a native measure with the **Measure** option.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Using a source measure for forecasts</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-10-23_14h49_51.png" alt=""><figcaption><p>Open forecast created from a measure</p></figcaption></figure>
+
+</div>
+
+You can hide the native measure after creating the forecast to avoid displaying the data twice.
+
+* **Formula**
+
+You can apply formulas to native measures/visual measures to generate forecasts. In this example, we've created a revenue forecast by multiplying 25% of the projected sales(native measure) with the projected quantity(data input measure).
+
+<figure><img src="../../.gitbook/assets/image (959).png" alt=""><figcaption><p>Populating forecasts from formulas</p></figcaption></figure>
 
 * **Data input**
 
-You can specify a default value even if you choose to manually input forecast values. The default value can be static, a measure, formula or left blank.
+You can specify a default value if you choose to manually input forecast values. The default value can be static, a measure, formula or left blank.
 
 <figure><img src="../../.gitbook/assets/image (952).png" alt=""><figcaption><p>Default data input options</p></figcaption></figure>
 
 a) Static value
 
-<figure><img src="../../.gitbook/assets/image (951).png" alt=""><figcaption><p>Source for open forecasts</p></figcaption></figure>
+The specified static value will be used as a default value when the configured forecast values are null. In the example, the forecast has been created from the ProjectedRevenue native measure which is blank for the _Juices_ category. The static value of 5 million is used in the forecast measure as the default value.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (960).png" alt=""><figcaption><p>Static default value for forecasts</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-10-23_16h07_31.png" alt=""><figcaption><p>Default static value used in forecasts</p></figcaption></figure>
+
+</div>
+
+b) Measure
+
+You can use a visual or native measure as the default forecast value when forecasts are blank. In the example, the forecast is based on the ProjectedRevenue native measure which is null for the _Juices_ category. The EnhancedSales data input measure has been used as the default forecast instead of displaying null values.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (961).png" alt=""><figcaption><p>Set a measure as default forecast value</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-10-23_16h29_25.png" alt=""><figcaption><p>Measure used as a default value</p></figcaption></figure>
+
+</div>
+
+c) Formula
+
+You can also use a formula as a default value. In this case, we've used 25% of the EnhancedSales data input measure as the default forecast value.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (963).png" alt=""><figcaption><p>Formula as default forecast</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2024-10-23_16h40_05.png" alt=""><figcaption><p>Default forecast generated from a formula</p></figcaption></figure>
+
+</div>
 
 ## 2. Configuring the forecast
 
 Inforiver allows you to create rolling forecasts and choose different methods to populate the forecast values. &#x20;
+
+{% hint style="info" %}
+These options are applicable only if you choose **Data Input** for open periods.
+{% endhint %}
 
 **1. Target period:** You can split the forecast period into shorter time frames or configure the forecast for the whole period. In this case, we have split the forecast period into 3 parts: January to March, April to June, and July to December.
 
@@ -118,25 +180,25 @@ Let's look at the forecast generated with the configurations in the earlier sect
 
 * **Closed period forecasts**
 
-The forecast measure generated for previous or closed periods will be greyed out and cannot be edited. In section 1, we had assigned the Sales measure to populate the forecasts for past periods.
+The forecast measure generated for previous or closed periods will be greyed out and cannot be edited. Refer to section 1, [generating a forecast](forecasting.md#id-1.-generating-a-forecast) to learn more about configuring closed periods.
 
 <figure><img src="../../.gitbook/assets/2024-02-02_11h35_56.png" alt=""><figcaption><p>Forecasts for closed periods</p></figcaption></figure>
 
 * **Forecast using period range**&#x20;
 
-We used the Sales measure from Oct to Dec 2023, to populate for forecast from Jan to Mar 2024. For clarity, in this image, we have displayed only Sales and Forecast measures.
+In the example, we've used the Sales measure from Oct to Dec 2023, to populate for forecast from Jan to Mar 2024.&#x20;
 
 <figure><img src="../../.gitbook/assets/2024-02-02_11h42_02.png" alt=""><figcaption><p>Period range</p></figcaption></figure>
 
 * **Forecast using single period**
 
-We used the revenue from December 2022 to create the forecast from April to June 2024. For clarity, in this image, we have displayed only Revenue and Forecast measures.
+We've used the revenue from December 2022 to create the forecast from April to June 2024.&#x20;
 
 <figure><img src="../../.gitbook/assets/2024-02-02_11h53_58.png" alt=""><figcaption><p>Forecast using single period</p></figcaption></figure>
 
 * **Forecast using average of period range**
 
-We used the average revenue from Jan 2022 to Dec 2023 to create the forecast from July to December 2024.
+We've used the average revenue from Jan 2022 to Dec 2023 to create the forecast from July to December 2024.
 
 <figure><img src="../../.gitbook/assets/2024-02-02_12h07_45.png" alt=""><figcaption><p>Average of period range</p></figcaption></figure>
 
