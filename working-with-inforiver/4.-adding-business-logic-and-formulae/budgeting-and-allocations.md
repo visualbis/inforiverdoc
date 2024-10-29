@@ -162,7 +162,7 @@ In order to lock multiple cells, ctrl + click the required cells. Click on the l
 
 The cells that are locked are highlighted:
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
 
 ### v) Unlock
 
