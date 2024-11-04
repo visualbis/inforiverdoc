@@ -347,5 +347,6 @@
 * [Video tutorials](video-tutorials.md)
 * [Resources](resources.md)
 * [Release Notes](release-notes/README.md)
-  * [Inforiver Enterprise October 2024 - v3.5](release-notes/inforiver-enterprise-october-2024-v3.5.md)
-  * [Inforiver Enterprise October 2024 - v3.6](release-notes/inforiver-enterprise-october-2024-v3.6.md)
+  * [Inforiver Writeback Matrix October 2024 - v3.5](release-notes/inforiver-writeback-matrix-october-2024-v3.5.md)
+  * [Inforiver Writeback Matrix October 2024 - v3.6](release-notes/inforiver-writeback-matrix-october-2024-v3.6.md)
+  * [Inforiver Writeback Matrix November 2024 - v3.6.2](release-notes/inforiver-writeback-matrix-november-2024-v3.6.2.md)
