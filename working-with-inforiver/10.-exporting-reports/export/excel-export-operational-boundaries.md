@@ -8,7 +8,7 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure>
 
  
 
@@ -138,7 +138,7 @@ Only 3 conditions will be supported in such scenarios.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure>
 
  
 
