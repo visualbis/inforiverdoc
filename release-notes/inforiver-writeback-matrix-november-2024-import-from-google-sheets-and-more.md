@@ -1,6 +1,8 @@
-# Inforiver Writeback Matrix November 2024 - v3.6.2
+# Inforiver Writeback Matrix November 2024: Import from Google Sheets & More
 
-Experience data integration in Power BI on an entirely new scale with Infobridge support for Google Sheets and Lookup Visuals. This release focuses on improving stability with options to download container logs and export/import queries. Let's explore the highlights:
+Data integration in Power BI just got easier with the new Infobridge support for Google Sheets and Lookup Visuals. This latest release offers enhanced stability with options to download container logs and export/import queries.&#x20;
+
+Discover the new features in version 3.6.2:
 
 #### 1. Import data from Google Sheets
 
