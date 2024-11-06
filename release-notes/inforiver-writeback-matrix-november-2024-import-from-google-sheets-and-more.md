@@ -18,7 +18,7 @@ In order to fetch data from Google Sheets, connect to the associated Google Driv
 
 Infobridge now provides support for importing single and multi-select data from Lookup visuals. This feature ensures streamlined data transfer from your semantic data models to Infobridge and child visuals that source data from the bridge.
 
-<figure><img src="../.gitbook/assets/image (967).png" alt=""><figcaption><p>Single and Multi-select support in Infobridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (967).png" alt=""><figcaption><p>Single and Multi-select data from Lookup visual published to Infobridge</p></figcaption></figure>
 
 #### 3. Infobridge preview limit
 
@@ -38,12 +38,17 @@ Analyzing, monitoring, and sharing Infobridge logs has never been simpler. You c
 
 #### 5. **Export and import from Infobridge**
 
-After applying various transformations to your data, you may need to export the transformed data and integrate it with an additional bridge for further processing. You will now be able to export and import your queries.
+After applying various transformations to your data, you may need to export the transformed data and integrate it with an additional bridge for further processing.&#x20;
+
+The Export option will be enabled when you transform data within Infobridge. Navigate to the Transform ribbon and click Export to download your query as a .bck file.&#x20;
+
+<figure><img src="../.gitbook/assets/image (968).png" alt=""><figcaption><p>Import and Export in Infobridge</p></figcaption></figure>
 
 #### **6. Issue fixes**
 
 * PDF and Excel exports were failing intermittently when visuals had custom row highlights. This issue has been rectified.
 * Visual crashes while importing row dimensions with numeric values are now resolved.
+* Copy-paste issues in the MoR layout have been resolved.
 
 **Learn more about Inforiver** &#x20;
 
