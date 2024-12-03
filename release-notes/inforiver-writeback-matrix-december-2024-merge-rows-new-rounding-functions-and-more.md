@@ -1,6 +1,8 @@
-# Inforiver Writeback Matrix December 2024 - Merge rows from source & More
+# Inforiver Writeback Matrix December 2024 - Merge rows, new rounding functions & More
 
+We are excited to present the new Merge Rows feature that enables you to seamlessly sync your visual-level and native row data. We've also added variations to the ROUND function along with enhancements across Infobridge, MoR layout, and data inputs to bring you a superior business reporting experience.&#x20;
 
+Discover the new features and innovations that make Inforiver Matrix the most powerful collaborative planning solution in Power BI.
 
 ## 1. Merge rows from the semantic model
 
@@ -14,7 +16,7 @@ Data input fields will be locked until the row is merged.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Merging rows</p></figcaption></figure>
 
-Notice how the merge icon disappears and the data input field becomes editable after merging the EURIBOR row. Be aware that a merged row and a native row will be identical.&#x20;
+Notice how the merge icon disappears and the data input field becomes editable after merging the EURIBOR row. When you merge rows, static rows are replaced with native rows however data inputs are retained.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Merged rows</p></figcaption></figure>
 
