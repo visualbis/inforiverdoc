@@ -60,7 +60,7 @@ h) You can create a cover page for your report by **First page image** toggle. S
 
 <figure><img src="../../../.gitbook/assets/image (502).png" alt=""><figcaption><p>Cover image</p></figcaption></figure>
 
-&#x20;i) If you want the image to fill the entire cover page, select the **Use as background image** checkbox**.**
+&#x20;i) If you want the image to fill the entire cover page, select the **Use as background image** checkbo&#x78;**.**
 
 <figure><img src="../../../.gitbook/assets/image (503).png" alt=""><figcaption><p>Use as background image for PDF extracts</p></figcaption></figure>
 

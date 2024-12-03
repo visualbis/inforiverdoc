@@ -2,7 +2,7 @@
 
 A sparkline is typically used to show trends in a series of values over time, such as stock prices or website traffic. Sparklines are often used in dashboards and other data visualizations to provide a quick and condensed view of a data series.
 
-Inforiver provides _line, area, baseline, column_s, and _win-loss_ sparkline charts.
+Inforiver provides _line, area, baseline, colum&#x6E;_&#x73;, and _win-loss_ sparkline charts.
 
 ## 1. Adding the chart
 
@@ -58,7 +58,7 @@ For Baseline charts, you can choose to apply a gradient. With this option, you c
 
 <figure><img src="../../.gitbook/assets/sparkline-gradient.png" alt=""><figcaption><p>Sparkline apply gradient</p></figcaption></figure>
 
-You can also set the border colors for the area chart using the **Line Above** and **Line Below** options**. Line Above** - use this option to set the color of the line above the axis and use the **Line Below** option to set the color of the line below the axis.
+You can also set the border colors for the area chart using the **Line Above** and **Line Below** option&#x73;**. Line Above** - use this option to set the color of the line above the axis and use the **Line Below** option to set the color of the line below the axis.
 
 Similar to border colors, you can set the fill colors for the area above and below the axis - use the **Area Above** and **Area Below** options.
 

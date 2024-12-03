@@ -6,7 +6,7 @@ With Inforiver, you can easily generate a rolling forecast and use methods like 
 
 To create a forecast, click the **Insert Forecast** button in the Insert ribbon. The forecast dialog box allows you to configure forecasts for open(future) and closed(past) periods.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Forecast configuration for open and closed forecasts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Forecast configuration for open and closed forecasts</p></figcaption></figure>
 
 **1. Measure name:** By default, the forecast measure is named ‘Forecast’. This can be updated to a relevant column name.
 
@@ -16,17 +16,9 @@ To create a forecast, click the **Insert Forecast** button in the Insert ribbon.
 
 * **Measure:** The Linked Measure dropdown option allows you to select native measures, data input measures, formula measures, or other forecasts as the source for closed periods. For instance, if you select the _Revenue - formula_ measure, closed periods will have the values from the formula measure.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure option for closed forecasts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure option for closed forecasts</p></figcaption></figure>
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Closed forecast from formula measure</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-10-16_13h06_31.png" alt=""><figcaption><p>Native measures to populate closed forecasts</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Closed forecast from formula measure</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-10-16_13h06_31.png" alt=""><figcaption><p>Native measures to populate closed forecasts</p></figcaption></figure></div>
 
 {% hint style="info" %}
 There will be differences in the totals and sub-totals when formula measures are used to populate forecasts. This is because the default aggregation method for formula measures is 'Formula' and 'Sum' for forecasts.&#x20;
@@ -42,15 +34,7 @@ There will be differences in the totals and sub-totals when formula measures are
 
 If you already have projections in your data source, you can populate the forecasts for open periods from a native measure with the **Measure** option.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Using a source measure for forecasts</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-10-23_14h49_51.png" alt=""><figcaption><p>Open forecast created from a measure</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Using a source measure for forecasts</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-10-23_14h49_51.png" alt=""><figcaption><p>Open forecast created from a measure</p></figcaption></figure></div>
 
 You can hide the native measure after creating the forecast to avoid displaying the data twice.
 
@@ -70,43 +54,19 @@ a) Static value
 
 The specified static value will be used as a default value when the configured forecast values are null. In the example, the forecast has been created from the ProjectedRevenue native measure which is blank for the _Juices_ category. The static value of 5 million is used in the forecast measure as the default value.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (960).png" alt=""><figcaption><p>Static default value for forecasts</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-10-23_16h07_31.png" alt=""><figcaption><p>Default static value used in forecasts</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (960).png" alt=""><figcaption><p>Static default value for forecasts</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-10-23_16h07_31.png" alt=""><figcaption><p>Default static value used in forecasts</p></figcaption></figure></div>
 
 b) Measure
 
 You can use a visual or native measure as the default forecast value when forecasts are blank. In the example, the forecast is based on the ProjectedRevenue native measure which is null for the _Juices_ category. The EnhancedSales data input measure has been used as the default forecast instead of displaying null values.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (961).png" alt=""><figcaption><p>Set a measure as default forecast value</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-10-23_16h29_25.png" alt=""><figcaption><p>Measure used as a default value</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (961).png" alt=""><figcaption><p>Set a measure as default forecast value</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-10-23_16h29_25.png" alt=""><figcaption><p>Measure used as a default value</p></figcaption></figure></div>
 
 c) Formula
 
 You can also use a formula as a default value. In this case, we've used 25% of the EnhancedSales data input measure as the default forecast value.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (963).png" alt=""><figcaption><p>Formula as default forecast</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-10-23_16h40_05.png" alt=""><figcaption><p>Default forecast generated from a formula</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (963).png" alt=""><figcaption><p>Formula as default forecast</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-10-23_16h40_05.png" alt=""><figcaption><p>Default forecast generated from a formula</p></figcaption></figure></div>
 
 ## 2. Configuring the forecast
 
@@ -134,15 +94,7 @@ You can also configure for the entire period in one shot as shown below.
 
 If you choose to upload forecast values from a file, Inforiver will generate a template file that you can download. You can fill the forecast values in the template file and upload them to the visual.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (924) (1).png" alt=""><figcaption><p>Downloading and entering values in the template file</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-08-14_10h51_27.png" alt=""><figcaption><p>Forecast values uploaded from an excel file</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (924) (1).png" alt=""><figcaption><p>Downloading and entering values in the template file</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-08-14_10h51_27.png" alt=""><figcaption><p>Forecast values uploaded from an excel file</p></figcaption></figure></div>
 
 **3. Apply operation:** There are 3 different methods that you can use to generate a forecast:
 
@@ -160,19 +112,7 @@ If you choose to upload forecast values from a file, Inforiver will generate a t
 
 **4. Copy period range:** The time frame for which to copy data from the source measure.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/2024-02-02_11h22_11.png" alt=""><figcaption><p>Period range</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Period range (1).png" alt=""><figcaption><p>Single month</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/period range 2 (1).png" alt=""><figcaption><p>Custom time frame</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/2024-02-02_11h22_11.png" alt=""><figcaption><p>Period range</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Period range (1).png" alt=""><figcaption><p>Single month</p></figcaption></figure> <figure><img src="../../.gitbook/assets/period range 2 (1).png" alt=""><figcaption><p>Custom time frame</p></figcaption></figure></div>
 
 ## 3. Analysing the forecast
 
@@ -218,29 +158,13 @@ The forecasted values are overwritten when the period is closed and the actuals 
 
 We've created a forecast from September to December. When the actuals become available for September and the period is closed, the forecasted values are replaced by the actuals.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Forecast created from Sep - Dec</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-08-14_11h33_49.png" alt=""><figcaption><p>September forecast overwritten with actuals</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (11) (10).png" alt=""><figcaption><p>Forecast created from Sep - Dec</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-08-14_11h33_49.png" alt=""><figcaption><p>September forecast overwritten with actuals</p></figcaption></figure></div>
 
 b) Retain forecasts
 
 The forecasted values are retained even after the actuals are available. This setting enables you to compare the actuals against the predicted values.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (925) (1).png" alt=""><figcaption><p>Forecast generated from Sep - Dec</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-08-14_11h49_27.png" alt=""><figcaption><p>Sep forecast retained after period close</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (925) (1).png" alt=""><figcaption><p>Forecast generated from Sep - Dec</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-08-14_11h49_27.png" alt=""><figcaption><p>Sep forecast retained after period close</p></figcaption></figure></div>
 
 #### 3.2. Aggregate forecast grand total
 

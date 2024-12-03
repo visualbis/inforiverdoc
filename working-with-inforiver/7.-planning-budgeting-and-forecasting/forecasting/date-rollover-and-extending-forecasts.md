@@ -32,7 +32,7 @@ When you close a period, you can choose to extend the forecast. In this case, we
 
 #### 5. Duration
 
-If you select the _Extend Forecast Range_ checkbox_,_ the duration dropdown becomes active. In this case, you can choose to extend the forecast till January 2025 (1 month) or Q1 2025 (1 quarter).
+If you select the _Extend Forecast Range_ checkbo&#x78;_,_ the duration dropdown becomes active. In this case, you can choose to extend the forecast till January 2025 (1 month) or Q1 2025 (1 quarter).
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption><p>Duration by which to extned the forecast</p></figcaption></figure>
 

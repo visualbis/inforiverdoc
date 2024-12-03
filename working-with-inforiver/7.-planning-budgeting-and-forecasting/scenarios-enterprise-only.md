@@ -34,7 +34,7 @@ Under the 'General' tab, you can configure the general scenario options and prop
 
 **Period Range -** When you have a date dimension in your report columns, you will be able to create different scenarios corresponding to targeted time periods. You can select the time frame from the Period Range date picker.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Period range for scenarios</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Period range for scenarios</p></figcaption></figure>
 
 ### 1.2. Permission
 

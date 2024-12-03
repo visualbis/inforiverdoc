@@ -24,7 +24,7 @@ Infobridge now provides support for importing single and multi-select data from 
 
 You can preview up to 30k rows within Infobridge. This allows you to load a larger volume of data before integrating it with other visuals.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 The preview limit is configurable and can be adjusted from the Admin console.
 
@@ -34,7 +34,7 @@ The preview limit is configurable and can be adjusted from the Admin console.
 
 Analyzing, monitoring, and sharing Infobridge logs has never been simpler. You can export Infobridge logs from the admin console by navigating to Insights > App Container Logs and selecting the type of logs you need. You have options to export writeback, transformation, and visual logs. This option is primarily intended for on-prem users and is not available for SaaS customers.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Export log files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Export log files</p></figcaption></figure>
 
 #### 5. **Export and import from Infobridge**
 

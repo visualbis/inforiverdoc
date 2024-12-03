@@ -89,7 +89,7 @@ c) A bullet with marker chart gets inserted.
 
 <figure><img src="../../.gitbook/assets/3value-bullet-chart-insertion-3.png" alt=""><figcaption><p>Bullet with marker chart</p></figcaption></figure>
 
-d) To display a clustered bar chart, click on the **'**Series display**'** option under the 'Customize' tab. In the 'Serial Display' modal that opens up, enable the 'Clustered bar' check box and set the 'Target' and 'Additional target' types as 'Bar'.
+d) To display a clustered bar chart, click on the **'**&#x53;eries displa&#x79;**'** option under the 'Customize' tab. In the 'Serial Display' modal that opens up, enable the 'Clustered bar' check box and set the 'Target' and 'Additional target' types as 'Bar'.
 
 This displays the clustered bar as shown in the below image.
 
@@ -159,7 +159,7 @@ Enabling this option will display a target marker on the chart.
 
 The comparison band indicates the state of the measure depending on which band it resides in. They provide a performance rating to the value being measured where each color represents a different state e.g. good, average, and poor.&#x20;
 
-You can add comparison bands by clicking on the 'Comparison bands**'** icon. The following properties are available:
+You can add comparison bands by clicking on the 'Comparison band&#x73;**'** icon. The following properties are available:
 
 * **Compared series** - This drop-down lets you select the measure based on which you want to insert the comparison bands. You can also choose the maximum value of all the series used in the chart.
 * **Dynamic** - If you enable this checkbox, then the comparison band range will be added based on individual scaling.

@@ -50,15 +50,7 @@ Notice how the values are sorted based on magnitude when absolute sort is turned
 
 If you are using image URLs as measure headers, enable the Fill Image toggle to expand the image and fill the entire measure header cell.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (826) (1).png" alt=""><figcaption><p>Fill image enabled</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/fill image disabled.png" alt=""><figcaption><p>Fill image disabled</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (826) (1).png" alt=""><figcaption><p>Fill image enabled</p></figcaption></figure> <figure><img src="../.gitbook/assets/fill image disabled.png" alt=""><figcaption><p>Fill image disabled</p></figcaption></figure></div>
 
 #### 1.9. Show measure header
 
@@ -90,7 +82,7 @@ If this option is enabled, report users in the reading view can update native me
 
 You can increase the thickness of the horizontal and vertical scrollbars using by enabling this option.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
 
 #### 1.15. Hide pinned base rows
 
@@ -122,15 +114,7 @@ In the gif below, notice how the Analytics+ visual and the second Inforiver visu
 
 When you have actual and forecast measures in your report, if the AC values are missing for a particular category, Inforiver can populate FC values instead of AC.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (827) (1).png" alt=""><figcaption><p>Populate missing AC with FC disabled</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Populate missing AC with FC.png" alt=""><figcaption><p>Populate missing AC with FC enabled</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (827) (1).png" alt=""><figcaption><p>Populate missing AC with FC disabled</p></figcaption></figure> <figure><img src="../.gitbook/assets/Populate missing AC with FC.png" alt=""><figcaption><p>Populate missing AC with FC enabled</p></figcaption></figure></div>
 
 #### 1.18. Right to left
 
@@ -156,7 +140,7 @@ The _Status Panel Aggregation_ option allows you to show the aggregation such as
 Only a maximum of three aggregations are displayed in the status bar.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Status panel aggregation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Status panel aggregation</p></figcaption></figure>
 
 ### 3. Cell/row/column
 

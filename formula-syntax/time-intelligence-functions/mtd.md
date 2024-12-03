@@ -27,7 +27,7 @@ MTD([Sales,2)
 //Returns data for the past 2 months and the current month
 ```
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MTD with offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MTD with offset</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MTD without offset</p></figcaption></figure>
 

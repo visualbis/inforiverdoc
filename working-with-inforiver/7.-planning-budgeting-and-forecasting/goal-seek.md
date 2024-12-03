@@ -36,7 +36,7 @@ The goal seek option gets enabled only when you click on a cell containing a for
 
 <figure><img src="../../.gitbook/assets/image (719) (2).png" alt=""><figcaption><p>Enter the goal value for revenue</p></figcaption></figure>
 
-5. Verify the target cell and its underlying formula. Then choose which of its drivers needs to be changed from the drop-down as shown below. We will choose _Units Sold_ since we want to adjust the quantity sold to reach the desired revenue_._&#x20;
+5. Verify the target cell and its underlying formula. Then choose which of its drivers needs to be changed from the drop-down as shown below. We will choose _Units Sold_ since we want to adjust the quantity sold to reach the desired revenu&#x65;_._&#x20;
 
 <figure><img src="../../.gitbook/assets/image (721) (1).png" alt=""><figcaption><p>Select the driver to be changed</p></figcaption></figure>
 

@@ -141,7 +141,7 @@ And the second drop-down lets you select the ending value of the reference band.
 1. **Average -** The average value of the data metric is set as the ending value of the reference band
 2. **Median -**  The median value of the data metric is set as the ending value of the reference band
 3. **Standard deviation -** The standard deviation of the data metric is set as the ending value of the reference band
-4. **Mid value -**The mid value of the data metric is set as the ending value of the reference band
+4. **Mid value -**&#x54;he mid value of the data metric is set as the ending value of the reference band
 5. **Constant -** If you select this option, an additional 'Static Value' field becomes available. Using this option, you can set the static/constant value which is set as the ending value of the reference band.
 
 <figure><img src="../../.gitbook/assets/reference-band-value-display (1).png" alt=""><figcaption><p>Reference band value display</p></figcaption></figure>
@@ -153,7 +153,7 @@ And the second drop-down lets you select the ending value of the reference band.
 
 <figure><img src="../../.gitbook/assets/reference-band-start-from (2).png" alt=""><figcaption><p>Reference band start from options</p></figcaption></figure>
 
-&#x20;3**.  Constant** - If you select this option, a new input field becomes available where you can select the constant value which becomes the starting value of the reference band.
+&#x20;&#x33;**.  Constant** - If you select this option, a new input field becomes available where you can select the constant value which becomes the starting value of the reference band.
 
 <figure><img src="../../.gitbook/assets/reference-band-constant.png" alt=""><figcaption><p>Reference band constant option</p></figcaption></figure>
 
@@ -177,7 +177,7 @@ The comparison band indicates the state of the measure depending on which band i
 
 <figure><img src="../../.gitbook/assets/comparison-band.png" alt=""><figcaption><p>Comparison band options</p></figcaption></figure>
 
-You can add comparison bands by clicking on the 'Comparison bands**'** icon. The following properties are available:
+You can add comparison bands by clicking on the 'Comparison band&#x73;**'** icon. The following properties are available:
 
 * **Compared series** - This drop-down lets you configure the range of comparison bands as values or percentages.
 * **Dynamic** - If you enable this checkbox, then the comparison band range will be added based on individual scaling.
@@ -198,7 +198,7 @@ You can do this while creating a pin chart, or add them after creating a pin cha
 
 2. In the customization menu, click on the **Outliers** option.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click <strong>Outliers</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click <strong>Outliers</strong></p></figcaption></figure>
 
 3. In the Outliers pop-up window, check **Enable Outlier.** If you wish to hide the values, select the option **Disable Label.** Enter the required positive and negative threshold values as shown below and Click **Apply**.
 

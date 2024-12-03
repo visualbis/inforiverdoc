@@ -22,15 +22,7 @@ Let's create a LOV from the dataset for a multi-select column. We'll create a mu
 
 **STEP 3:** Select the semantic model and the table from the respective dropdowns. Click Next.&#x20;
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/image (710).png" alt=""><figcaption><p>Select the semantic model </p></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/2024-04-03_15h03_16.png" alt=""><figcaption><p>Select the table - Acme Region Master</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/image (710).png" alt=""><figcaption><p>Select the semantic model </p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/2024-04-03_15h03_16.png" alt=""><figcaption><p>Select the table - Acme Region Master</p></figcaption></figure></div>
 
 **STEP 4:** From the **Label Column** dropdown, you can choose the column from the table (selected in Step 3) which will be used to populate the multi-select options.&#x20;
 
@@ -76,7 +68,7 @@ The base table used to populate rows and columns in the report is Retail - Order
 
 <figure><img src="../../../../.gitbook/assets/image (717).png" alt=""><figcaption><p>Soucing options from the Person in the dataset</p></figcaption></figure>
 
-**STEP 4:** We need to filter the people based on the region they are assigned to. In the **Columns** dropdown**,** select the field based on which you need to filter the options. In this case, it is the Retail - People.Region which can be used to identify the people tagged to a region. Select the matching field from the visual from the **Visual Column** dropdown.
+**STEP 4:** We need to filter the people based on the region they are assigned to. In the **Columns** dropdow&#x6E;**,** select the field based on which you need to filter the options. In this case, it is the Retail - People.Region which can be used to identify the people tagged to a region. Select the matching field from the visual from the **Visual Column** dropdown.
 
 <figure><img src="../../../../.gitbook/assets/image (718).png" alt=""><figcaption><p>Setting a filter for dropdown options</p></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 When working on a specific Inforiver visual, you might sometimes receive the following notification, warning you about a duplicate visual.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate visual detected</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate visual detected</p></figcaption></figure>
 
 In this section, we will define duplicate visuals, discuss their causes, how to avoid them, and how to detach visuals in the event of intentional or accidental duplications.
 
@@ -64,17 +64,17 @@ As previously stated, when a specific visual is copied, the new visual retains t
 
 Any changes made to these items will affect both the original and the copied visuals simultaneously. These include,
 
-\-> Input fields-related data such as Comments, Snapshots, Scenarios
+-> Input fields-related data such as Comments, Snapshots, Scenarios
 
-\-> Forecasts
+-> Forecasts
 
-\-> Simulations
+-> Simulations
 
-\-> Data Input fields such as dropdowns, checkboxes, and text/numeric input - both, the structure, and values
+-> Data Input fields such as dropdowns, checkboxes, and text/numeric input - both, the structure, and values
 
-\-> Inserted rows such as static rows, calculated rows and row hierarchies
+-> Inserted rows such as static rows, calculated rows and row hierarchies
 
-\-> Writeback destinations and configurations
+-> Writeback destinations and configurations
 
 All the above will be synced between the visuals.
 
@@ -100,15 +100,15 @@ Follow the steps outlined to detach visuals.
 
 1. [Publish the report](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-upload-desktop-files) to the Power BI service. Open the report in edit mode in the Power BI service, after the report has been published. A yellow warning symbol near the profile indicates that the visual is a duplicate.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate report warning</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Duplicate report warning</p></figcaption></figure>
 
 2. Expand the Profile menu and navigate to **Report Details**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the **Create** button in the Report Details side pane to detach the visual.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Choose whether to retain existing data or enter new values for data input fields.
 
@@ -125,7 +125,7 @@ Select the confirmation checkbox and click on **Proceed** to confirm that the vi
 When a visual is detached, the duplicate warning symbol is removed. There will not be any other explicit changes to indicate that the visual has been detached from the original. Internally, the new visual is assigned to a separate visual ID. Any changes made in the new report will no longer affect elements from the original report.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Detached visual</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Detached visual</p></figcaption></figure>
 
 ## When to detach visuals
 

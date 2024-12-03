@@ -57,7 +57,7 @@ You can also rename row categories by double-clicking on them.&#x20;
 
 The same row category may be repeated at each hierarchy level for hierarchical datasets. When you try to rename such categories at one level, Inforiver displays a prompt to confirm whether the category should be renamed across all levels or only at that level.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
 
 ### 5. Bulk edit
 
@@ -69,7 +69,7 @@ Navigate to the Insert ribbon and click the Bulk Edit option from the Cell secti
 
 <figure><img src="../../.gitbook/assets/image (1) (14).png" alt=""><figcaption><p>Bulk edit interface</p></figcaption></figure>
 
-**STEP 1:** From the **Measure** dropdown**,** select the data input measure for which you want to perform a bulk update.
+**STEP 1:** From the **Measure** dropdow&#x6E;**,** select the data input measure for which you want to perform a bulk update.
 
 <figure><img src="../../.gitbook/assets/image (2) (13).png" alt=""><figcaption><p>Select measure</p></figcaption></figure>
 
@@ -81,7 +81,7 @@ Navigate to the Insert ribbon and click the Bulk Edit option from the Cell secti
 
 <figure><img src="../../.gitbook/assets/image (7) (12).png" alt=""><figcaption><p>Selecting the row hierarchy category</p></figcaption></figure>
 
-**STEP 4:** Similarly**,** select the column hierarchy level at which the value should be updated. In this case, since we do not have a column-level hierarchy, we can either update at Grand Total level or Country level.
+**STEP 4:** Similarl&#x79;**,** select the column hierarchy level at which the value should be updated. In this case, since we do not have a column-level hierarchy, we can either update at Grand Total level or Country level.
 
 <figure><img src="../../.gitbook/assets/image (8) (10).png" alt=""><figcaption><p>Selecting the column hierarchy category</p></figcaption></figure>
 

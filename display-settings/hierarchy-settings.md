@@ -32,15 +32,7 @@ In the image below, after resizing the canvas to a much smaller size, out of the
 
 You can add non-numeric measures like dates and text fields and display them in your reports. The first value is displayed in the total/subtotal cell by default, which may be irrelevant in an aggregated row. You can choose to leave the totals and subtotals blank for non-numeric fields by enabling this property.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (2).png" alt=""><figcaption><p>Non-numeric fields displayed as totals/subtotals</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/numeric non-numeric.png" alt=""><figcaption><p>Totals/subtotals left blank for non-numeric fields</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (4) (1) (1) (2).png" alt=""><figcaption><p>Non-numeric fields displayed as totals/subtotals</p></figcaption></figure> <figure><img src="../.gitbook/assets/numeric non-numeric.png" alt=""><figcaption><p>Totals/subtotals left blank for non-numeric fields</p></figcaption></figure></div>
 
 #### 1.4. Combine column headers&#x20;
 
@@ -164,11 +156,11 @@ The sales and marketing expenses row has only one child. The personnel cost row'
 
 * **Single child level as parent -** Displays the single child as the parent of its level.&#x20;
 
-Let's take a different scenario to explain the S_ingle Child Level As Parent_ and S_ingle Child As Parent_ options. As you can see below, under Operating expenses we have filtered only IT expenses. You can see blanks at levels 5 and 6.
+Let's take a different scenario to explain the &#x53;_&#x69;ngle Child Level As Parent_ and &#x53;_&#x69;ngle Child As Parent_ options. As you can see below, under Operating expenses we have filtered only IT expenses. You can see blanks at levels 5 and 6.
 
 <figure><img src="../.gitbook/assets/Single child level as parent 1.png" alt=""><figcaption><p>Single child at level 4</p></figcaption></figure>
 
-On selecting S_ingle Child Level As Parent_, you can see that the level 6 blank row is shown as the child for the level 4 row.
+On selecting &#x53;_&#x69;ngle Child Level As Parent_, you can see that the level 6 blank row is shown as the child for the level 4 row.
 
 <figure><img src="../.gitbook/assets/Single child level as parent.png" alt=""><figcaption><p>Single child level as parent</p></figcaption></figure>
 
@@ -259,11 +251,11 @@ Disable this to stop column-level total and sub-total calculations while loading
 
 Notice the time taken when Inforiver pre-calculates the totals and subtotals:&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>When Totals are pre-calculated</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>When Totals are pre-calculated</p></figcaption></figure>
 
 When the total calculation is disabled, even large datasets can be fetched in milliseconds as shown in the screengrab below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
 
 **Resources**
 
