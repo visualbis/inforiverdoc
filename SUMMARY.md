@@ -351,4 +351,4 @@
   * [Inforiver Writeback Matrix October 2024 - v3.6](release-notes/inforiver-writeback-matrix-october-2024-v3.6.md)
   * [Inforiver Writeback Matrix November 2024: Import from Google Sheets & More](release-notes/inforiver-writeback-matrix-november-2024-import-from-google-sheets-and-more.md)
   * [Inforiver Reporting Matrix Nov 2024: Variables](release-notes/inforiver-reporting-matrix-nov-2024-variables.md)
-  * [Inforiver Writeback Matrix December 2024 - Merge rows from source & More](release-notes/inforiver-writeback-matrix-december-2024-merge-rows-from-source-and-more.md)
+  * [Inforiver Writeback Matrix December 2024 - Merge rows, new rounding functions & More](release-notes/inforiver-writeback-matrix-december-2024-merge-rows-new-rounding-functions-and-more.md)
