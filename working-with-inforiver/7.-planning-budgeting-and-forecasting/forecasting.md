@@ -6,7 +6,7 @@ With Inforiver, you can easily generate a rolling forecast and use methods like 
 
 To create a forecast, click the **Insert Forecast** button in the Insert ribbon. The forecast dialog box allows you to configure forecasts for open(future) and closed(past) periods.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Forecast configuration for open and closed forecasts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Forecast configuration for open and closed forecasts</p></figcaption></figure>
 
 **1. Measure name:** By default, the forecast measure is named ‘Forecast’. This can be updated to a relevant column name.
 
@@ -16,9 +16,9 @@ To create a forecast, click the **Insert Forecast** button in the Insert ribbon.
 
 * **Measure:** The Linked Measure dropdown option allows you to select native measures, data input measures, formula measures, or other forecasts as the source for closed periods. For instance, if you select the _Revenue - formula_ measure, closed periods will have the values from the formula measure.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure option for closed forecasts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure option for closed forecasts</p></figcaption></figure>
 
-<div><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Closed forecast from formula measure</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-10-16_13h06_31.png" alt=""><figcaption><p>Native measures to populate closed forecasts</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Closed forecast from formula measure</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-10-16_13h06_31.png" alt=""><figcaption><p>Native measures to populate closed forecasts</p></figcaption></figure></div>
 
 {% hint style="info" %}
 There will be differences in the totals and sub-totals when formula measures are used to populate forecasts. This is because the default aggregation method for formula measures is 'Formula' and 'Sum' for forecasts.&#x20;
