@@ -14,7 +14,7 @@ c) Show/hide row - Inserted rows can be hidden temporarily.
 
 d) Show/hide row indicator - The pencil icon beside the inserted rows can be hidden.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Managing rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Managing rows</p></figcaption></figure>
 
 ## 2. Row settings
 
@@ -40,22 +40,22 @@ You can set row-level permissions to edit rows of Data Input and Forecast column
 
 **STEP 1:** Specify the workspace, semantic model, table, and the field in the table that contains email IDs.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Select table and email ID field</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Select table and email ID field</p></figcaption></figure>
 
 **STEP 2:** Select the **All** radio button to set row edit permissions for all the forecasts and data input fields in your report. To grant access to specific measures, check the **Selected** radio button and choose the measure.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Select measures to grant access</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select measures to grant access</p></figcaption></figure>
 
 **STEP 3:** Specify users who will have elevated access to edit all rows, irrespective of the categories assigned to email IDs in the semantic model.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>User selection for elevated edit access</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>User selection for elevated edit access</p></figcaption></figure>
 
 **STEP 4:** Map the dimension category in the semantic model to the row dimension category in your report. Click **Save & Preview**.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Map semantic model dimension to visual dimension</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>Map semantic model dimension to visual dimension</p></figcaption></figure>
 
 **STEP 5:** Verify the email IDs and the categories assigned.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Verify categories assigned</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Verify categories assigned</p></figcaption></figure>
 
 Once row-level user edit validation is configured, users in read-only mode will only be able to modify the values for row dimension categories to which they have been granted access.
