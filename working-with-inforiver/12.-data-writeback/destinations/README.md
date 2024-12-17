@@ -24,22 +24,37 @@ Configuring destinations for writeback is a straightforward process that will be
 
 #### **1. Client-managed and Inforiver-managed destination**
 
-After configuring the destination, you can choose whether the destination should be **client-managed** or **inforiver-managed**.  If you wish to restrict access to the database, opt for client-managed destinations.
+After configuring the destination, you can choose whether the destination should be **client-managed** or I**nforiver-managed**.  If you wish to restrict access to the database, opt for client-managed destinations.
 
-* For Inforiver-managed destinations, creating the writeback table will be done automatically by Inforiver. Requisite permissions on the table need to be provided to Inforiver.
+* **Enable automatic writeback management:** For Inforiver-managed destinations, Inforiver will automatically create the writeback table. However, Inforiver needs to be provided with the required permissions on the table.
+
+<figure><img src="../../../.gitbook/assets/image (1062).png" alt=""><figcaption><p>Inforiver managed destinations</p></figcaption></figure>
+
 * For client-managed destinations, Inforiver will generate the scripts. You can manually execute them against the database.
 
-<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption><p>Destination management</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1063).png" alt=""><figcaption><p>Client managed destination</p></figcaption></figure>
 
-#### 2. Decimal Precision
+#### 2. Column config
+
+* **Decimal Precision**
 
 Inforiver rounds off all numeric values including percentages to a specified number of decimal points as per your configuration instructions. When you create the first connection, you can specify decimal precision for all connections in that report.
 
-<figure><img src="../../../.gitbook/assets/1.4.1.WB PErcentage values.png" alt=""><figcaption><p>Decimal precision</p></figcaption></figure>
+{% hint style="info" %}
+Inforiver supports a maximum precision of 10 digits.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (1066).png" alt=""><figcaption><p>Setting the decimal precision for destinations</p></figcaption></figure>
 
 When you apply the decimal precision shown in the image above, Inforiver writes back values (in this example, to Snowflake) rounded off to 5 decimal places.
 
 <figure><img src="../../../.gitbook/assets/1.4.2.WB PErcentage values output.png" alt=""><figcaption><p>Writeback percentage values</p></figcaption></figure>
+
+* **Text length**
+
+When you add destinations, you can restrict text fields to 512 characters or allow writeback up to the maximum limit supported by the backend.
+
+<figure><img src="../../../.gitbook/assets/image (1067).png" alt=""><figcaption><p>Setting the text length</p></figcaption></figure>
 
 #### 3. Batch writeback
 
