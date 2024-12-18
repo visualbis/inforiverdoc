@@ -57,7 +57,7 @@ You can also rename row categories by double-clicking on them.&#x20;
 
 The same row category may be repeated at each hierarchy level for hierarchical datasets. When you try to rename such categories at one level, Inforiver displays a prompt to confirm whether the category should be renamed across all levels or only at that level.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
 
 ### 5. Bulk edit
 
@@ -75,7 +75,7 @@ Navigate to the Insert ribbon and click the Bulk Edit option from the Cell secti
 
 **STEP 2:** Use the dimension category dropdowns to select the categories for which you need to update values. You can select multiple categories for each dimension. As you make selections, you'll notice the report getting filtered dynamically.
 
-<figure><img src="../../.gitbook/assets/Untitled Project (1).gif" alt=""><figcaption><p>Choosing dimensions and measures</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled Project (1) (2).gif" alt=""><figcaption><p>Choosing dimensions and measures</p></figcaption></figure>
 
 **STEP 3:** Select the row hierarchy level at which the value should be updated.&#x20;
 

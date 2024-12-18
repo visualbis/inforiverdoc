@@ -54,7 +54,7 @@ You can position the text/icons with respect to the cell values. You can also ch
 
 When you use icons, you have an additional option to align your icons in the grid. By default, the icons are left aligned.
 
-<div><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aligning icons</p></figcaption></figure> <figure><img src="../../.gitbook/assets/conditional-formatting-icon-alignment-left-2048x1159.png" alt=""><figcaption><p>Left-align option disabled</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aligning icons</p></figcaption></figure> <figure><img src="../../.gitbook/assets/conditional-formatting-icon-alignment-left-2048x1159.png" alt=""><figcaption><p>Left-align option disabled</p></figcaption></figure></div>
 
 * **Hiding values**
 

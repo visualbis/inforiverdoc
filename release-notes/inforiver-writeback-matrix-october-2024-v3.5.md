@@ -119,15 +119,7 @@ You can also integrate and sync the ‘Person’ measure between Inforiver visua
 
 Integrating ‘Person’ measure between the visuals:
 
-<div>
-
-<figure><img src="../.gitbook/assets/1.2.1. Person-measure-in-bridge.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/1.2.2. inserted-person-measure.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/1.2.1. Person-measure-in-bridge.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.2.2. inserted-person-measure.png" alt=""><figcaption></figcaption></figure></div>
 
 ### **1.4. Scheduled refresh for native measures**
 
@@ -409,7 +401,7 @@ After a user enters/updates a value in the TaxRate data input field, they should
 
 * The **SETVALUE** function can be used to assign a particular value to a related cell. For example when the ManagerApproval status is ‘Approved’, the DirectorApproval status should change to ‘Pending’. Notice how the DirectorApproval status automatically changes based on the manager approval.
 
-<figure><img src="../.gitbook/assets/6.4.3. setvalue-formula-gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6.4.3. setvalue-formula-gif (1).gif" alt=""><figcaption></figcaption></figure>
 
 * The **SENDMAIL** function will trigger email(s) to the specified recipients. You can optionally provide an email subject and a short summary which will be used in the body of the email. The email body will also contain the details of the updated values.
 
