@@ -43,3 +43,20 @@ In the target visual, we can pull the rebate rate without specifying the rows an
 
 <figure><img src="../../.gitbook/assets/image (1077).png" alt=""><figcaption><p>LOOKUP function when the row and column dimensions match in the bridge and target visual</p></figcaption></figure>
 
+You can use the ROW/COLUMN identifiers when the row and column dimensions in the bridge and identical to the target visual.
+
+<figure><img src="../../.gitbook/assets/image (1078).png" alt=""><figcaption><p>Using the ROW and COLUMN identifiers</p></figcaption></figure>
+
+**Example 2:** Fetch values when the row and column dimensions in the bridge and the target visual are not identical.
+
+The bridge contains a flat discount rate for product categories.
+
+<figure><img src="../../.gitbook/assets/image (1079).png" alt=""><figcaption><p>Bridge to lookup measure values</p></figcaption></figure>
+
+In the target visual, we can pull the discount rate although the the bridge does not contain column dimensions and the row dimension hierarchy is different.
+
+<figure><img src="../../.gitbook/assets/image (1080).png" alt=""><figcaption><p>Lookup when dimensions do not match</p></figcaption></figure>
+
+You can also fetch values from a bridge and map them to a visual column.
+
+<figure><img src="../../.gitbook/assets/image (1081).png" alt=""><figcaption></figcaption></figure>
