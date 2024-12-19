@@ -328,6 +328,7 @@
     * [TOPN](formula-syntax/scripting-functions/topn.md)
   * [Miscellaneous functions](formula-syntax/miscellaneous-functions/README.md)
     * [FETCH](formula-syntax/miscellaneous-functions/fetch.md)
+    * [LOOKUP](formula-syntax/miscellaneous-functions/lookup.md)
 * [Advanced topics](advanced-topics/README.md)
   * [Audit log](advanced-topics/audit-log.md)
   * [Backup & restore report config](advanced-topics/export-and-import-reports-backup.md)
