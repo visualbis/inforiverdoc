@@ -1,0 +1,35 @@
+# Manage sources
+
+Your reports can undergo changes like the creation of new scenarios or measures even after you create a bridge You can refresh the data in a source, pull additional measures/scenarios, and schedule refreshes for native measures from the **Manage Source** interface.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Manage source window</p></figcaption></figure>
+
+### 1. Manually refreshing the source
+
+Changes to data input fields in your reports are automatically reflected in Infobridge. However, adding new measures or updates to native measure values require an explicit refresh.
+
+Click on the **Refresh Source** option to manually trigger a refresh.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Refreshing the source</p></figcaption></figure>
+
+### 2. Adding new scenarios or measures to a bridge
+
+When you create a bridge, you can select the scenarios and measures that you want to expose outside the visual. You can add measures and scenarios at any point from the General tab. Select them and click Update to pull in additional measures.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Adding measures and scenarios to a bridge</p></figcaption></figure>
+
+### 3. Setup a refresh schedule
+
+Infobridge auto-refreshes whenever there are changes in the data input fields. Native measures, however, must be manually refreshed. You can set a refresh schedule for native measures, ensuring your data is up-to-date and eliminating manual intervention.
+
+* Create daily, weekly, monthly, or one-time refreshes.
+* Specify a start and end date for the schedule.
+* Define a time to trigger the refresh.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Refresh schedule</p></figcaption></figure>
+
+### 4. Refresh history
+
+View the refresh jobs and milestones from the history tab.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Refresh history</p></figcaption></figure>
