@@ -338,6 +338,7 @@
 * [Infobridge](infobridge/README.md)
   * [Create bridge](infobridge/create-bridge.md)
   * [Add source to bridge](infobridge/add-source-to-bridge.md)
+  * [Manage queries](infobridge/manage-queries.md)
   * [Manage sources](infobridge/manage-sources.md)
   * [Insert rows from bridge](infobridge/insert-rows-from-bridge.md)
   * [Insert measure from bridge](infobridge/insert-measure-from-bridge.md)
