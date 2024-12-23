@@ -75,7 +75,13 @@ The mapping is now done.
 <figure><img src="../.gitbook/assets/image (788).png" alt=""><figcaption><p>Report with inserted rows from bridge source</p></figcaption></figure>
 
 {% hint style="info" %}
-Infobridge rows are read-only and cannot be edited. Any changes made in the source are automatically updated in the target.
+Infobridge rows are read-only and cannot be directly edited. Values can be updated via the [adjustment workflow](collaborative-adjustments.md).
 {% endhint %}
+
+### Viewing lineage
+
+Click the ![](https://docs.inforiver.com/~gitbook/image?url=https%3A%2F%2F3062809325-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FEbkCXCUXmtUq5tcnUtZE%252Fuploads%252FlFuSoIL66UwZrtXTSBoO%252Fimage.png%3Falt%3Dmedia%26token%3D23fc9edb-fa72-4bfb-8560-7db0b62153e9\&width=45\&dpr=4\&quality=100\&sign=7dd4aa6a\&sv=2)icon to view and directly navigate to the source bridge and query. This enables you to trace and manage rows inserted from different bridges.
+
+<figure><img src="../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Lineage for inserted rows</p></figcaption></figure>
 
 In the next section, we will look at inserting measures from one visual to another.

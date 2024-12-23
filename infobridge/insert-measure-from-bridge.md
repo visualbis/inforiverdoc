@@ -42,12 +42,14 @@ The result is shown below. Note that we need to insert the highlighted data inpu
 
 <figure><img src="../.gitbook/assets/image (810).png" alt=""><figcaption><p>Manage Infobridge measure</p></figcaption></figure>
 
-4. However, the measure values are read-only and can not be edited. Any changes made in the source are automatically updated in the target.
 
-<figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption><p>Read-only Infobridge measures</p></figcaption></figure>
+
+{% hint style="info" %}
+Measures sourced from a bridge are read-only and cannot be directly edited. Values can be updated via the [adjustment workflow](collaborative-adjustments.md).
+{% endhint %}
 
 ### Viewing lineage
 
-Navigate to Manage Columns and click the <img src="../.gitbook/assets/image.png" alt="" data-size="line">icon to view and directly navigate to the source bridge and query.
+Navigate to Manage Columns and click the <img src="../.gitbook/assets/image.png" alt="" data-size="line">icon to view and directly navigate to the source bridge and query. This enables you to trace and manage rows inserted from different bridges.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Measure lineage</p></figcaption></figure>
