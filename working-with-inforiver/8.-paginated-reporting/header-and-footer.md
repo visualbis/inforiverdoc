@@ -74,11 +74,11 @@ On selecting the _Split panel to the right_ option, notice that a new cell is in
 
 If you choose the _**Replace the selected Container**_ option, the chosen element (chart, text, KPI, images) will be inserted into that container.
 
-<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h47_12.png" alt=""><figcaption><p>Chart inserted into the chosen container</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h47_12.png" alt=""><figcaption><p>Chart inserted into the chosen container</p></figcaption></figure></div>
 
 You can also choose to insert a new container to the right/left/top/bottom of the existing container. In the second image, notice how the chart is inserted in a new container below the currently selected container.
 
-<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h59_02.png" alt=""><figcaption><p>New container insrted below selected container</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h59_02.png" alt=""><figcaption><p>New container insrted below selected container</p></figcaption></figure></div>
 
 **STEP 6:** After inserting an element, you can use the container controls to copy/paste the contents of a cell. You can also reset or delete a cell.
 

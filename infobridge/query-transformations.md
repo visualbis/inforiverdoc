@@ -40,7 +40,14 @@ In this query, we've applied summation for the Profit measure and average for th
 
 You can convert text dimensions into measures and vice versa. Drag the dimension into the Values bucket to convert it into a measure.
 
+<figure><img src="../.gitbook/assets/TextMeasureAggregation.gif" alt=""><figcaption><p>Pivot text measures and dimensions</p></figcaption></figure>
 
+#### 2.4. Concatenating text measures
 
+Use the **Concat** option to aggregate strings from multiple rows into a single string, with a delimiter of your choice. For instance, you can concatenate all the accounts under a particular segment and analyze data at a higher granularity, without losing any information.
 
+<figure><img src="../.gitbook/assets/2024-12-23_10h33_12.png" alt=""><figcaption><p>Concatenating text measures with a delimiter</p></figcaption></figure>
 
+Individual accounts are rolled up at Account type level, providing a concise summary of the dataset. The aggregated rows can then be consumed in other destination visuals.
+
+<figure><img src="../.gitbook/assets/2024-12-23_10h37_34.png" alt=""><figcaption><p>Aggregated text measure</p></figcaption></figure>
