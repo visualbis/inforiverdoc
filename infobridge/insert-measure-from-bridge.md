@@ -45,3 +45,9 @@ The result is shown below. Note that we need to insert the highlighted data inpu
 4. However, the measure values are read-only and can not be edited. Any changes made in the source are automatically updated in the target.
 
 <figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption><p>Read-only Infobridge measures</p></figcaption></figure>
+
+### Viewing lineage
+
+Navigate to Manage Columns and click the <img src="../.gitbook/assets/image.png" alt="" data-size="line">icon to view and directly navigate to the source bridge and query.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Measure lineage</p></figcaption></figure>
