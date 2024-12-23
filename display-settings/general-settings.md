@@ -198,4 +198,22 @@ When you have a large number of row and column categories in your report, you ca
 
 <figure><img src="../.gitbook/assets/image (720) (1).png" alt=""><figcaption><p>Enable canvas endering option</p></figcaption></figure>
 
+### 9. Localization settings
+
+You can configure translations in Inforiver based on the language settings in Power BI. If your report has a global audience, you can configure calculated rows/columns or column groups to display dimension categories based on pre-defined translations when the language is switched.
+
+Navigate to Display Settings > General > Localization Settings to create translation entries.
+
+<figure><img src="../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Localization config</p></figcaption></figure>
+
+Use the GETLOCALELABEL function in the Title field and pass the Key specified in the translation config.
+
+<figure><img src="../.gitbook/assets/image (1095).png" alt=""><figcaption><p>GETLOCALELABEL</p></figcaption></figure>
+
+Notice how the row categories and column groups are implicitly changed to French and German.
+
+<figure><img src="../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Dimension categories in French</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1097).png" alt=""><figcaption><p>Dimension categories in German</p></figcaption></figure>
+
 In this section, we covered the general display settings. Navigate to the next section to learn more about [hierarchy settings](hierarchy-settings.md).
