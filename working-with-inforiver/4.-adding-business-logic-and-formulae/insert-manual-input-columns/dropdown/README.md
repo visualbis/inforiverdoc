@@ -87,19 +87,7 @@ The names, order, and color of the options can be modified and they can be added
 
 To create a new option, click on the 'Add option'. Type the name in the text box and click 'Enter'. The option gets created as shown below.
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/4.4.2.3 Edit options.png" alt=""><figcaption><p>Add an option</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/4.4.2.4 Edit options.png" alt=""><figcaption><p>Enter the name</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/4.4.2.5 Edit options.png" alt=""><figcaption><p>Option created</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/4.4.2.3 Edit options.png" alt=""><figcaption><p>Add an option</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/4.4.2.4 Edit options.png" alt=""><figcaption><p>Enter the name</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/4.4.2.5 Edit options.png" alt=""><figcaption><p>Option created</p></figcaption></figure></div>
 
 #### Changing the color associated with each option
 
@@ -145,11 +133,19 @@ On trying to select an option in the total/subtotal row, a message as shown in t
 
 ## 6. Default Value
 
-After creating a dropdown column, the user has to enter the values manually as explained in the [next section](./#id-7.-using-the-dropdown). Instead of having these cells blank, you can display a default value. The default value can be a static value as configured by the user or can be selected from any native measure (Dimension). If the underlying native measure is updated, the default value will reflect the latest value.
+When you create a single-select data input field, you can specify a default choice to avoid blanks in your reports.
 
-<figure><img src="../../../../.gitbook/assets/image (758).png" alt=""><figcaption><p>Default Value is a static value</p></figcaption></figure>
+**Static**: When you use the static option, you can select the relevant default value from the Value dropdown. In this report, we’ve chosen the ‘Approval Status’ preset. Notice how the Value dropdown for default values contains options relevant to approval status. Even if you specify custom options with the Lists, Inforiver will populate the manually entered options in the default value dropdown.
 
-<figure><img src="../../../../.gitbook/assets/image (759).png" alt=""><figcaption><p>Default Value is set from a dimension</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Static default value</p></figcaption></figure>
+
+**Dimension**: You can choose to set a dimension category as the default value. Please be mindful that if you choose to source default values from a dimension, you will need to enable the **Allow user to add new option** checkbox.
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Default values from a dimension</p></figcaption></figure>
+
+**Measure**: You can choose to set a measure as the default value. Please be mindful that if you choose to source default values from a measure, you will need to enable the **Allow user to add new option** checkbox.
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Default options from a measure</p></figcaption></figure>
 
 ## 7. Using the dropdown
 
