@@ -1,136 +1,136 @@
-# Inforiver Reporting Matrix Nov 2024: Variables
+# Inforiver Reporting Matrix Nov 2024 - v3.3 - Variables
 
 ## Release notes for version v3.3
 
-[**1. Formatting** ](inforiver-reporting-matrix-nov-2024-variables.md#id-1.-formatting)
+[**1. Formatting** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-1.-formatting)
 
-&#x20;1.1. [Display skipped rows in the report ](inforiver-reporting-matrix-nov-2024-variables.md#id-1.1.-display-skipped-rows-in-the-report)
+&#x20;1.1. [Display skipped rows in the report ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-1.1.-display-skipped-rows-in-the-report)
 
-&#x20;1.2. [Date-based interface to show measures ](inforiver-reporting-matrix-nov-2024-variables.md#id-1.2.-date-based-interface-to-show-measures)
+&#x20;1.2. [Date-based interface to show measures ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-1.2.-date-based-interface-to-show-measures)
 
-&#x20;1.3. [Pie and donut – a new addition to row-level charts](inforiver-reporting-matrix-nov-2024-variables.md#id-1.3.-pie-and-donut-a-new-addition-to-row-level-charts)&#x20;
+&#x20;1.3. [Pie and donut – a new addition to row-level charts](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-1.3.-pie-and-donut-a-new-addition-to-row-level-charts)&#x20;
 
-&#x20;1.4. [Minimum and maximum threshold for outliers](inforiver-reporting-matrix-nov-2024-variables.md#id-1.4.-minimum-and-maximum-threshold-for-outliers)&#x20;
+&#x20;1.4. [Minimum and maximum threshold for outliers](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-1.4.-minimum-and-maximum-threshold-for-outliers)&#x20;
 
-&#x20;1.5. [Display marker values for sparklines](inforiver-reporting-matrix-nov-2024-variables.md#id-1.5.-display-marker-values-for-sparklines)&#x20;
+&#x20;1.5. [Display marker values for sparklines](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-1.5.-display-marker-values-for-sparklines)&#x20;
 
-&#x20;1.6. [Border box option](inforiver-reporting-matrix-nov-2024-variables.md#id-1.6.-border-box-option)
+&#x20;1.6. [Border box option](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-1.6.-border-box-option)
 
-[**2. Analysis** ](inforiver-reporting-matrix-nov-2024-variables.md#analysis)
+[**2. Analysis** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#analysis)
 
-&#x20;2.1. [Row groups in KPI explorer](inforiver-reporting-matrix-nov-2024-variables.md#id-2.1.-row-groups-in-kpi-explorer)&#x20;
+&#x20;2.1. [Row groups in KPI explorer](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-2.1.-row-groups-in-kpi-explorer)&#x20;
 
-&#x20;2.2. [Date picker in filters](inforiver-reporting-matrix-nov-2024-variables.md#id-2.2.-date-picker-in-filters)&#x20;
+&#x20;2.2. [Date picker in filters](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-2.2.-date-picker-in-filters)&#x20;
 
-&#x20;2.3. [Filter based on measure name](inforiver-reporting-matrix-nov-2024-variables.md#id-2.3.-filter-based-on-measure-name)&#x20;
+&#x20;2.3. [Filter based on measure name](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-2.3.-filter-based-on-measure-name)&#x20;
 
-&#x20;2.4. [Interface change for filters ](inforiver-reporting-matrix-nov-2024-variables.md#id-2.4.-interface-change-for-filters)
+&#x20;2.4. [Interface change for filters ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-2.4.-interface-change-for-filters)
 
-&#x20;2.5. [Date range conditions in conditional formatting](inforiver-reporting-matrix-nov-2024-variables.md#id-2.5.-date-conditions-in-conditional-formatting)&#x20;
+&#x20;2.5. [Date range conditions in conditional formatting](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-2.5.-date-conditions-in-conditional-formatting)&#x20;
 
-&#x20;2.6. [Hide measure values with conditional formatting](inforiver-reporting-matrix-nov-2024-variables.md#id-2.6.-hide-measure-values-with-conditional-formatting)&#x20;
+&#x20;2.6. [Hide measure values with conditional formatting](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-2.6.-hide-measure-values-with-conditional-formatting)&#x20;
 
-&#x20;2.7. [Conditional formatting for measure headers](inforiver-reporting-matrix-nov-2024-variables.md#id-2.7.-conditional-formatting-for-measure-headers)&#x20;
+&#x20;2.7. [Conditional formatting for measure headers](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-2.7.-conditional-formatting-for-measure-headers)&#x20;
 
-[**3. Settings** ](inforiver-reporting-matrix-nov-2024-variables.md#settings)
+[**3. Settings** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#settings)
 
-&#x20;3.1. [Totals/subtotals for date fields](inforiver-reporting-matrix-nov-2024-variables.md#id-3.1.-totals-subtotals-for-date-fields)&#x20;
+&#x20;3.1. [Totals/subtotals for date fields](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.1.-totals-subtotals-for-date-fields)&#x20;
 
-&#x20;3.2. [APS options moved to display settings](inforiver-reporting-matrix-nov-2024-variables.md#id-3.2.-aps-options-moved-to-display-settings)&#x20;
+&#x20;3.2. [APS options moved to display settings](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.2.-aps-options-moved-to-display-settings)&#x20;
 
-&#x20;3.3. [Custom suffix for row subtotals split](inforiver-reporting-matrix-nov-2024-variables.md#id-3.3.-custom-suffix-for-row-subtotals-split)&#x20;
+&#x20;3.3. [Custom suffix for row subtotals split](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.3.-custom-suffix-for-row-subtotals-split)&#x20;
 
-&#x20;3.4. [Custom labels for blank row and column categories ](inforiver-reporting-matrix-nov-2024-variables.md#id-3.4.-custom-labels-for-blank-row-and-column-categories)
+&#x20;3.4. [Custom labels for blank row and column categories ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.4.-custom-labels-for-blank-row-and-column-categories)
 
-&#x20;3.5. [Show column filter](inforiver-reporting-matrix-nov-2024-variables.md#id-3.5.-show-column-filter)&#x20;
+&#x20;3.5. [Show column filter](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.5.-show-column-filter)&#x20;
 
-&#x20;3.6. [Rotate the first row dimension vertically](inforiver-reporting-matrix-nov-2024-variables.md#id-3.6.-rotate-the-first-row-dimension-vertically)&#x20;
+&#x20;3.6. [Rotate the first row dimension vertically](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.6.-rotate-the-first-row-dimension-vertically)&#x20;
 
-&#x20;3.7. [Suppress null visual columns](inforiver-reporting-matrix-nov-2024-variables.md#id-3.7.-suppress-null-visual-columns)&#x20;
+&#x20;3.7. [Suppress null visual columns](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.7.-suppress-null-visual-columns)&#x20;
 
-&#x20;3.8. [On data change scripts](inforiver-reporting-matrix-nov-2024-variables.md#id-3.8.-on-data-change-scripts)&#x20;
+&#x20;3.8. [On data change scripts](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.8.-on-data-change-scripts)&#x20;
 
-&#x20;3.9. [Reset formats for selected cells](inforiver-reporting-matrix-nov-2024-variables.md#id-3.9.-reset-formats-for-selected-cells)&#x20;
+&#x20;3.9. [Reset formats for selected cells](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.9.-reset-formats-for-selected-cells)&#x20;
 
-&#x20;3.10. [Populate missing FC with PY/PL](inforiver-reporting-matrix-nov-2024-variables.md#id-3.10.-populate-missing-fc-with-py-pl)&#x20;
+&#x20;3.10. [Populate missing FC with PY/PL](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.10.-populate-missing-fc-with-py-pl)&#x20;
 
-&#x20;3.11. [Right-to-left support](inforiver-reporting-matrix-nov-2024-variables.md#id-3.11.-right-to-left-support)&#x20;
+&#x20;3.11. [Right-to-left support](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.11.-right-to-left-support)&#x20;
 
-&#x20;3.12. [Localization settings](inforiver-reporting-matrix-nov-2024-variables.md#id-3.12.-localization-settings)&#x20;
+&#x20;3.12. [Localization settings](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.12.-localization-settings)&#x20;
 
-&#x20;3.13. [Hide repeating parent rows](inforiver-reporting-matrix-nov-2024-variables.md#id-3.13.-hide-repeating-parent-rows)&#x20;
+&#x20;3.13. [Hide repeating parent rows](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-3.13.-hide-repeating-parent-rows)&#x20;
 
-[**4. Annotations** ](inforiver-reporting-matrix-nov-2024-variables.md#id-4.-annotations)
+[**4. Annotations** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-4.-annotations)
 
-&#x20;4.1. [Identify notes added in the MOR layout ](inforiver-reporting-matrix-nov-2024-variables.md#id-4.1.-identify-notes-added-in-the-mor-layout)
+&#x20;4.1. [Identify notes added in the MOR layout ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-4.1.-identify-notes-added-in-the-mor-layout)
 
-[**5. Manage columns**](inforiver-reporting-matrix-nov-2024-variables.md#manage-columns)&#x20;
+[**5. Manage columns**](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#manage-columns)&#x20;
 
-&#x20;5.1. [Absolute moving average ](inforiver-reporting-matrix-nov-2024-variables.md#id-5.1.-absolute-moving-average)
+&#x20;5.1. [Absolute moving average ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-5.1.-absolute-moving-average)
 
-&#x20;5.2. [Flexible position for simulation percentage](inforiver-reporting-matrix-nov-2024-variables.md#id-5.2.-flexible-position-for-simulation-percentage)&#x20;
+&#x20;5.2. [Flexible position for simulation percentage](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-5.2.-flexible-position-for-simulation-percentage)&#x20;
 
-&#x20;5.3. [Empty measures and columns ](inforiver-reporting-matrix-nov-2024-variables.md#id-5.3.-empty-measures-and-columns)
+&#x20;5.3. [Empty measures and columns ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-5.3.-empty-measures-and-columns)
 
-[**6. Manage rows** ](inforiver-reporting-matrix-nov-2024-variables.md#manage-rows)
+[**6. Manage rows** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#manage-rows)
 
-&#x20;6.1. [Template rows retained after base rows removed](inforiver-reporting-matrix-nov-2024-variables.md#id-6.1.-template-rows-retained-after-base-rows-removed)&#x20;
+&#x20;6.1. [Template rows retained after base rows removed](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-6.1.-template-rows-retained-after-base-rows-removed)&#x20;
 
-&#x20;6.2. [Time intelligence formulae ](inforiver-reporting-matrix-nov-2024-variables.md#id-6.2.-time-intelligence-formulae)&#x20;
+&#x20;6.2. [Time intelligence formulae ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-6.2.-time-intelligence-formulae)&#x20;
 
-&#x20;6.3.  [Access the measure name in the formula ](inforiver-reporting-matrix-nov-2024-variables.md#id-6.3.-access-the-measure-name-in-the-formula)
+&#x20;6.3.  [Access the measure name in the formula ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-6.3.-access-the-measure-name-in-the-formula)
 
-&#x20;6.4. [Select rows based on date range](inforiver-reporting-matrix-nov-2024-variables.md#id-6.4.-select-rows-based-on-date-range)&#x20;
+&#x20;6.4. [Select rows based on date range](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-6.4.-select-rows-based-on-date-range)&#x20;
 
-[**7.  Variables** ](inforiver-reporting-matrix-nov-2024-variables.md#variables)
+[**7.  Variables** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#variables)
 
-[**8.  Groups for field parameters** ](inforiver-reporting-matrix-nov-2024-variables.md#field-parameters)
+[**8.  Groups for field parameters** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#field-parameters)
 
-[**9.  Aggregation - new column aggregation types – first and last** ](inforiver-reporting-matrix-nov-2024-variables.md#aggregation)
+[**9.  Aggregation - new column aggregation types – first and last** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#aggregation)
 
-[**10.  Filter context - context awareness for notes columns** ](inforiver-reporting-matrix-nov-2024-variables.md#filter-context)
+[**10.  Filter context - context awareness for notes columns** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#filter-context)
 
-&#x20;10.1. [Context awareness for notes columns ](inforiver-reporting-matrix-nov-2024-variables.md#id-10.1-context-awareness-for-notes-columns)
+&#x20;10.1. [Context awareness for notes columns ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-10.1-context-awareness-for-notes-columns)
 
-[**11. Design** ](inforiver-reporting-matrix-nov-2024-variables.md#design)
+[**11. Design** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#design)
 
-&#x20;11.1. [Hyperlinks in the header/footer ](inforiver-reporting-matrix-nov-2024-variables.md#id-11.1.-hyperlinks-in-the-header-footer)
+&#x20;11.1. [Hyperlinks in the header/footer ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-11.1.-hyperlinks-in-the-header-footer)
 
-&#x20;11.2. [Headers will be retained in the Report+ layout](inforiver-reporting-matrix-nov-2024-variables.md#id-11.2.-headers-will-be-retained-in-the-report-layout)&#x20;
+&#x20;11.2. [Headers will be retained in the Report+ layout](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-11.2.-headers-will-be-retained-in-the-report-layout)&#x20;
 
-&#x20;11.3. [Row category displayed for KPI ](inforiver-reporting-matrix-nov-2024-variables.md#id-11.3.-row-category-displayed-for-kpi)
+&#x20;11.3. [Row category displayed for KPI ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-11.3.-row-category-displayed-for-kpi)
 
-&#x20;11.4. [Show dimension category with markers](inforiver-reporting-matrix-nov-2024-variables.md#id-11.4.-show-dimension-category-with-markers)&#x20;
+&#x20;11.4. [Show dimension category with markers](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-11.4.-show-dimension-category-with-markers)&#x20;
 
-[**12. Conditional formatting for exports** ](inforiver-reporting-matrix-nov-2024-variables.md#conditional-formatting-exports)
+[**12. Conditional formatting for exports** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#conditional-formatting-exports)
 
-&#x20;12.1. [Conditional formatting for exports ](inforiver-reporting-matrix-nov-2024-variables.md#id-12.1.-conditional-formatting-for-exports)
+&#x20;12.1. [Conditional formatting for exports ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-12.1.-conditional-formatting-for-exports)
 
-&#x20;12.2. [Decimal precision for exports](inforiver-reporting-matrix-nov-2024-variables.md#id-12.2.-decimal-precision-for-exports)&#x20;
+&#x20;12.2. [Decimal precision for exports](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-12.2.-decimal-precision-for-exports)&#x20;
 
-[**13. Performance mode enhancements** ](inforiver-reporting-matrix-nov-2024-variables.md#performance-mode)
+[**13. Performance mode enhancements** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#performance-mode)
 
-[**14. Re-ordering rows** ](inforiver-reporting-matrix-nov-2024-variables.md#re-ordering)
+[**14. Re-ordering rows** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#re-ordering)
 
-[**15. Image URLs in measure headers**](inforiver-reporting-matrix-nov-2024-variables.md#image-urls)
+[**15. Image URLs in measure headers**](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#image-urls)
 
-[**16. Row gripper enhancements** ](inforiver-reporting-matrix-nov-2024-variables.md#row-gripper)
+[**16. Row gripper enhancements** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#row-gripper)
 
-&#x20;16.1. [Select descendants ](inforiver-reporting-matrix-nov-2024-variables.md#id-16.1.-select-descendants)
+&#x20;16.1. [Select descendants ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-16.1.-select-descendants)
 
-&#x20;16.2. [Edit/Delete measures in MOR layout ](inforiver-reporting-matrix-nov-2024-variables.md#id-16.2.-edit-delete-measures-in-mor-layout)
+&#x20;16.2. [Edit/Delete measures in MOR layout ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-16.2.-edit-delete-measures-in-mor-layout)
 
-&#x20;16.3. [Select column option ](inforiver-reporting-matrix-nov-2024-variables.md#id-16.3.-select-column-option)
+&#x20;16.3. [Select column option ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-16.3.-select-column-option)
 
-&#x20;16.4. [Multi-select row option in gripper](inforiver-reporting-matrix-nov-2024-variables.md#id-16.4.-multi-select-option-in-row-dimension-header-gripper)&#x20;
+&#x20;16.4. [Multi-select row option in gripper](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-16.4.-multi-select-option-in-row-dimension-header-gripper)&#x20;
 
-[**17. Reading view enhancements** ](inforiver-reporting-matrix-nov-2024-variables.md#reading-view)
+[**17. Reading view enhancements** ](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#reading-view)
 
-[**18. Convert native measures to visual columns**](inforiver-reporting-matrix-nov-2024-variables.md#view-enhancements)
+[**18. Convert native measures to visual columns**](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#view-enhancements)
 
-[**19. Other New Functions**](inforiver-reporting-matrix-nov-2024-variables.md#other-enhancements)
+[**19. Other New Functions**](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#other-enhancements)
 
-[**20. Other Enhancements**](inforiver-reporting-matrix-nov-2024-variables.md#id-20.-other-enhancements)
+[**20. Other Enhancements**](inforiver-reporting-matrix-nov-2024-v3.3-variables.md#id-20.-other-enhancements)
 
 ## 1.      Formatting
 
@@ -357,15 +357,7 @@ Use the GETLOCALELABEL function in the Title field and pass the Key specified in
 
 Notice how the row categories and column groups are implicitly changed to French and German.
 
-<div>
-
-<figure><img src="../.gitbook/assets/3.12.3. Francais.png" alt=""><figcaption><p>French</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/3.12.4. German.png" alt=""><figcaption><p>German</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/3.12.3. Francais.png" alt=""><figcaption><p>French</p></figcaption></figure> <figure><img src="../.gitbook/assets/3.12.4. German.png" alt=""><figcaption><p>German</p></figcaption></figure></div>
 
 #### **3.13. Hide repeating parent rows**&#x20;
 

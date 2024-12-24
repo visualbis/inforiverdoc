@@ -1,19 +1,19 @@
-# Inforiver Writeback Matrix October 2024 - v3.6
+# Inforiver Writeback Matrix October 2024 - v3.6 - Approval Workflows & Other Enhancements
 
 ### Release notes for Inforiver 3.6.:
 
-1. [Infobridge](inforiver-writeback-matrix-october-2024-v3.6.md#id-1.-infobridge)&#x20;
+1. [Infobridge](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-1.-infobridge)&#x20;
 
-* [Live stream single and multi-select values](inforiver-writeback-matrix-october-2024-v3.6.md#id-1.1.-live-stream-single-and-multi-select-values)&#x20;
-* [Select measures for new sources](inforiver-writeback-matrix-october-2024-v3.6.md#id-1.2.-select-measures-for-new-sources)&#x20;
-* [Flattening data](inforiver-writeback-matrix-october-2024-v3.6.md#id-1.3.-flattening-data)
+* [Live stream single and multi-select values](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-1.1.-live-stream-single-and-multi-select-values)&#x20;
+* [Select measures for new sources](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-1.2.-select-measures-for-new-sources)&#x20;
+* [Flattening data](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-1.3.-flattening-data)
 
-2. [No-code approval workflows](inforiver-writeback-matrix-october-2024-v3.6.md#id-2.-no-code-approval-workflows)
-3. [Adjustment workflow - UI enhancements](inforiver-writeback-matrix-october-2024-v3.6.md#id-3.-adjustment-workflow-ui-enhancements)
-4. [Other enhancements](inforiver-writeback-matrix-october-2024-v3.6.md#id-4.-other-enhancements)&#x20;
+2. [No-code approval workflows](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-2.-no-code-approval-workflows)
+3. [Adjustment workflow - UI enhancements](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-3.-adjustment-workflow-ui-enhancements)
+4. [Other enhancements](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-4.-other-enhancements)&#x20;
 
-* [Integrations for Dataverse destinations](inforiver-writeback-matrix-october-2024-v3.6.md#id-4.1.-integrations-for-dataverse-destinations)&#x20;
-* [French and Spanish support](inforiver-writeback-matrix-october-2024-v3.6.md#id-4.2.-french-and-spanish-support)
+* [Integrations for Dataverse destinations](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-4.1.-integrations-for-dataverse-destinations)&#x20;
+* [French and Spanish support](inforiver-writeback-matrix-october-2024-v3.6-approval-workflows-and-other-enhancements.md#id-4.2.-french-and-spanish-support)
 
 ### 1. Infobridge&#x20;
 
