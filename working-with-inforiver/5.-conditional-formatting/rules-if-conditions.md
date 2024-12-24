@@ -62,6 +62,12 @@ Business reporting may require withholding certain information to protect strate
 
 <figure><img src="../../.gitbook/assets/image (8) (9).png" alt=""><figcaption><p>Hiding values</p></figcaption></figure>
 
+* **Hatched fill pattern**
+
+Highlight your data with hatched cell backgrounds – this feature allows you to spotlight your data with hatched styling.
+
+<figure><img src="../../.gitbook/assets/image (1101).png" alt=""><figcaption><p>Hatched CF</p></figcaption></figure>
+
 ## Conditions
 
 ### 1. Number
