@@ -78,3 +78,9 @@ In the result below, only the selected rows and columns have been modified to me
 In the example below, goal-seek is applied on the target cell which uses a formula with a column referencing function, [COLUMN.PARENT](../../formula-syntax/identifiers/column.parent.md).&#x20;
 
 <figure><img src="../../.gitbook/assets/4.2.2..png" alt=""><figcaption><p>Goal Seek is applied on a target cell referencing a column</p></figcaption></figure>
+
+### Referencing forecasts
+
+Inforiver can adjust open forecasts to match a defined target value. Let’s consider a report that captures the projected revenue based on the quantity and sales. The report contains a forecasted quantity field as well as a projected quantity data input field. The formula uses the projected quantity for closed periods and the forecast quantity for open periods. When you set a goal for the Revenue measure, Inforiver will adjust the forecast quantity to align with the goal.
+
+<figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Forecat measures in goal seek</p></figcaption></figure>
