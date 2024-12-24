@@ -68,6 +68,10 @@ On enabling ragged hierarchy, additional options are displayed:
 
 Using this option you can choose to hide the rows if the category is blank, values are blank or both value and category are blank.
 
+If your reports contain rows that only have an Others measure but no actuals, you can choose to suppress that row. Navigate to Hierarchy Settings and set the **Hide Blanks** dropdown to ‘Visible Values’. When you select Ignore Measure in Null Suppression from the column gripper, notice how the highlighted row is hidden.
+
+<figure><img src="../.gitbook/assets/12.9. null-suppression-gif.gif" alt=""><figcaption><p>Null suppression</p></figcaption></figure>
+
 * #### Suppress zeros&#x20;
 
 If you enable this option, then the rows containing zeros will be suppressed.

@@ -593,7 +593,7 @@ Inforiver offers superior null handling capabilities, even for edge cases. If yo
 
 When you select Ignore Measure in Null Suppression from the column gripper, notice how the highlighted row is hidden.
 
-<figure><img src="../.gitbook/assets/12.9. null-suppression-gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12.9. null-suppression-gif (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## **13. Inforiver add-on visuals**
 
