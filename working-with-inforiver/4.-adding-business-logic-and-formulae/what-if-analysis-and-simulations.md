@@ -126,6 +126,12 @@ All the variances are in red because the negative variance formatting style has 
 
 <figure><img src="../../.gitbook/assets/image (897).png" alt=""><figcaption><p>Bulk simulation</p></figcaption></figure>
 
+## 4. **Variance for simulations**
+
+After simulating the values in a measure, you would also need to compare the variance between the original and simulated values. You can use Quick Formulas > Insert variance to instantly calculate the variance for simulated fields.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Variance for simulations</p></figcaption></figure>
+
 To learn more about simulations in Power BI, read this [blog](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/). &#x20;
 
 #### Resources

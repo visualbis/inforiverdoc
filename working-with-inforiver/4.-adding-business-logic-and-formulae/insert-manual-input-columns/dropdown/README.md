@@ -73,11 +73,11 @@ For organizations with a global presence, Inforiver allows you to provide transl
 
 You can configure and display the dropdown options based on the current language settings in Power BI. Navigate to Display Settings > General > Localization Settings to create necessary translation entries.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Localization settings</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Localization settings</p></figcaption></figure>
 
 You can use the GETLOCALELABEL function to retrieve the dropdown options and the column title in the language that the report consumer has selected. In the example, the locale is set to French and the options automatically are translated into French.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>GETLOCALELABEL function for single select</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>GETLOCALELABEL function for single select</p></figcaption></figure>
 
 ## 2. Editing the LOVs
 
@@ -153,7 +153,7 @@ When you create a single-select data input field, you can specify a default choi
 
 **Dimension**: You can choose to set a dimension category as the default value. Please be mindful that if you choose to source default values from a dimension, you will need to enable the **Allow user to add new option** checkbox.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Default values from a dimension</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Default values from a dimension</p></figcaption></figure>
 
 **Measure**: You can choose to set a measure as the default value. Please be mindful that if you choose to source default values from a measure, you will need to enable the **Allow user to add new option** checkbox.
 

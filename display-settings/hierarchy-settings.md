@@ -255,7 +255,7 @@ Notice the time taken when Inforiver pre-calculates the totals and subtotals:&#x
 
 When the total calculation is disabled, even large datasets can be fetched in milliseconds as shown in the screengrab below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
 
 **Resources**
 
