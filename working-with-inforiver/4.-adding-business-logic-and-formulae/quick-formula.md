@@ -4,13 +4,13 @@ Inforiver provides several one-click calculations for inserting columns and rows
 
 ### 1. Quick formula
 
-Columns/measures such as running total, % contribution to parent/grand total etc. can be inserted in a single click. These options can be accessed from the Insert tab -> Quick formula in the toolbar.
+Columns/measures such as running total, % contribution to parent/grand total, etc. can be inserted in a single click. These options can be accessed from the Insert tab > Quick formula.
 
-<figure><img src="../../.gitbook/assets/4.5.1 Quick formula.png" alt=""><figcaption><p>Quick formula columns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Quick formulas in Inforiver</p></figcaption></figure>
 
 When you write custom formulas, you can also reference quick formula measures in them.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### i) Running total
 
@@ -64,7 +64,7 @@ Ranks within groups can be added including ranks for subtotals as shown in the b
 
 #### viii) Insert variance
 
-The default variance calculated by Inforiver is based on the first measure added to the AC/PY/PL/FC fields. _Insert Variance_ can be used to calculate the variance between any native measures or formula fields in your report.
+The default variance calculated by Inforiver is based on the first measure added to the AC/PY/PL/FC fields. _Insert Variance_ can be used to calculate the variance between any native measures, simulations, or formula fields in your report.
 
 <figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption><p>Insert variance</p></figcaption></figure>
 
