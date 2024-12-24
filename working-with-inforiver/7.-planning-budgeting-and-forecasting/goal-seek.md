@@ -83,4 +83,4 @@ In the example below, goal-seek is applied on the target cell which uses a formu
 
 Inforiver can adjust open forecasts to match a defined target value. Let’s consider a report that captures the projected revenue based on the quantity and sales. The report contains a forecasted quantity field as well as a projected quantity data input field. The formula uses the projected quantity for closed periods and the forecast quantity for open periods. When you set a goal for the Revenue measure, Inforiver will adjust the forecast quantity to align with the goal.
 
-<figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Forecat measures in goal seek</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Forecast measures in goal seek</p></figcaption></figure>

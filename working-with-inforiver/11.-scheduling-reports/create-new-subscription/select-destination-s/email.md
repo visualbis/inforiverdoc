@@ -80,9 +80,13 @@ The report will be attached to the email. You can use the built-in variables for
 
 You can select the format in which you want the report to be sent.&#x20;
 
-Currently, we offer the following three options: 'PDF', 'Excel' and 'Preview images' of high quality.&#x20;
+Currently, we offer 5 options: PDF, Excel, PPT, Report Screenshot, and Preview images of high quality.&#x20;
 
-If you have selected either the 'All pages' option or more than one page in the 'Select' option of the 'Pages' option, then you can export the report as a merged file or as multiple files.
+Inforiver generates fully formatted, high-resolution PDF extracts of your reports. For large reports, this can result in very large files. You can choose to compress the extract and generate smaller files by selecting the **Compressed** option.
+
+<figure><img src="../../../../.gitbook/assets/image (1100).png" alt=""><figcaption><p>Compressed PDF option</p></figcaption></figure>
+
+If you have selected either the 'All pages' option or more than one page in the 'Select' option of the 'Pages' section, then you can export the report as a merged file or as multiple files.
 
 <figure><img src="../../../../.gitbook/assets/send-report-as.png" alt=""><figcaption><p>Send report as option</p></figcaption></figure>
 
