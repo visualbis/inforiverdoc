@@ -84,7 +84,15 @@ You can increase the thickness of the horizontal and vertical scrollbars using b
 
 <figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
 
-#### 1.15. Hide pinned base rows
+#### 1.15. Scaling in measure header
+
+When you choose the ‘Uniform’ number format, the scaling information (whether the numbers are in hundreds, thousands, millions, etc.) is not displayed in the measure headers and is mentioned only in the report header.
+
+To display the scaling factor in the measure headers when using uniform scaling, navigate to Display Settings > Misc and enable the **Scaling in Measure Header** toggle.
+
+<figure><img src="../.gitbook/assets/image (1102).png" alt=""><figcaption><p>Scaling in measure header</p></figcaption></figure>
+
+#### 1.16. Hide pinned base rows
 
 Inforiver’s _pin rows_ feature enables you to tag important rows in your data at the top of your report. Using this feature creates duplicate rows at the visual level (there is no change to your data). In the report below, notice how the pinned rows such as ‘Bookcases’ are repeated in the table below.&#x20;
 
@@ -94,7 +102,7 @@ You can enable the _**Hide pinned base rows**_ option to hide the actual row and
 
 <figure><img src="../.gitbook/assets/2.2.1. hide pinned rows output.png" alt=""><figcaption><p>Hide pinned base rows enabled</p></figcaption></figure>
 
-#### 1.16. Language
+#### 1.17. Language
 
 Inforiver supports English (the default language) and German language interfaces. You can choose one of the options. In the image below, **German** is selected to change all the menus, tabs, and options to the German language.
 
