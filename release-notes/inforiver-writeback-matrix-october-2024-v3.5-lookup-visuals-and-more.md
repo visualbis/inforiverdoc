@@ -95,11 +95,11 @@ We have added a new custom visual to simplify data referencing for semantic mode
 
 Infobridge gives you more control over data that has to be imported to the bridge. You can now select the required measures and scenarios while adding sources to the bridge.
 
-![Select measures and scenarios to be imported to bridge](../.gitbook/assets/0.png)
+![Select measures and scenarios to be imported to bridge](<../.gitbook/assets/0 (1).png>)
 
 You have the flexibility to add or remove measures and scenarios from the bridge at any point.
 
-![Manage measures and scenarios available in the bridge](../.gitbook/assets/1.png)
+![Manage measures and scenarios available in the bridge](<../.gitbook/assets/1 (1).png>)
 
 ### **1.2. Text measure support**
 
@@ -125,21 +125,21 @@ Integrating ‘Person’ measure between the visuals:
 
 Infobridge automatically refreshes whenever there are changes in the data input fields. Native measures must be manually refreshed. In the latest version, you may set a refresh schedule for native measures, ensuring your data is up-to-date and eliminating manual intervention.
 
-![Refresh Schedule](../.gitbook/assets/2.png)
+![Refresh Schedule](<../.gitbook/assets/2 (1).png>)
 
 You can view the refresh jobs and milestones from the history tab.
 
-![Refresh jobs](../.gitbook/assets/3.png)
+![Refresh jobs](<../.gitbook/assets/3 (1).png>)
 
 ### **1.5. Aggregate and concatenate text fields**
 
 Use the **Concat** option to aggregate strings from multiple rows into a single string, with a delimiter of your choice. For instance, you can concatenate all the accounts under a particular segment and analyze data at a higher granularity, without losing any information.
 
-!['Concat' option](../.gitbook/assets/4.png)
+!['Concat' option](<../.gitbook/assets/4 (1).png>)
 
 Individual accounts are rolled up at Account type level, providing a concise summary of the dataset.
 
-![Aggregated text records](../.gitbook/assets/5.png)
+![Aggregated text records](<../.gitbook/assets/5 (1).png>)
 
 The aggregated rows can then be consumed in other destination visuals.
 
@@ -147,13 +147,13 @@ The aggregated rows can then be consumed in other destination visuals.
 
 Infobridge now ships with IntelliSense, which provides real-time help suggestions in the formula editor while adding calculated measures in the bridge.
 
-![Formula - real-time help suggestions](../.gitbook/assets/6.png)
+![Formula - real-time help suggestions](<../.gitbook/assets/6 (1).png>)
 
 ### **1.7. Logical query groups**
 
 You can now group related data within Infobridge – allowing you to efficiently manage and govern your data.
 
-![Query grouping](../.gitbook/assets/7.png)
+![Query grouping](<../.gitbook/assets/7 (1).png>)
 
 ### **1.8. Conditional columns**
 
