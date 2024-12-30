@@ -104,11 +104,11 @@ You can enable the _**Hide pinned base rows**_ option to hide the actual row and
 
 #### 1.17. Language
 
-Inforiver supports English (the default language) and German language interfaces. You can choose one of the options. In the image below, **German** is selected to change all the menus, tabs, and options to the German language.
+Inforiver supports English (the default language), German, French, and Spanish interfaces. You can choose one of the options. In the report below,  all the menus, tabs, and options in Inforiver have been switched to French.
 
-<figure><img src="../.gitbook/assets/5.1. German language-final.png" alt=""><figcaption><p>German language interface</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Selecting the language</p></figcaption></figure>
 
-#### 1.18. Explorer cross filtering
+#### 1.18. Explorer cross-filtering
 
 Inforiver allows you to dynamically filter and analyze data within the visual with the [KPI explorer](../working-with-inforiver/3.-basic-interactions/explore-and-filter-data/explorer.md) feature. Consider that you have a dashboard containing multiple Inforiver visuals, including Analytics+. When the Explorer cross filtering option is enabled, the KPI explorer selections made in one Inforiver visual will automatically filter the data in all the Inforiver visuals on that page.&#x20;
 

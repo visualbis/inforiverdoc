@@ -73,11 +73,11 @@ For organizations with a global presence, Inforiver allows you to provide transl
 
 You can configure and display the dropdown options based on the current language settings in Power BI. Navigate to Display Settings > General > Localization Settings to create necessary translation entries.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Localization settings</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Localization settings</p></figcaption></figure>
 
 You can use the GETLOCALELABEL function to retrieve the dropdown options and the column title in the language that the report consumer has selected. In the example, the locale is set to French and the options automatically are translated into French.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>GETLOCALELABEL function for single select</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>GETLOCALELABEL function for single select</p></figcaption></figure>
 
 ## 2. Editing the LOVs
 

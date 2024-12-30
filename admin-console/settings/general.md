@@ -66,6 +66,6 @@ Enabling this option will allow editing the native values in the visual.
 
 Inforiver generates an access token when you login. Users would need to login again once the token expires. The token expiry time limit can be configured - the access tokens will be refreshed automatically in the backend, provided it is within the configured refresh token expiry limit.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Configurable expiration token</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1098).png" alt=""><figcaption><p>Configurable expiration token</p></figcaption></figure>
 
 In this section, we have covered the general settings. Navigate to the next chapter to learn more about the [writeback settings.](writeback.md)
