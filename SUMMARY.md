@@ -188,6 +188,7 @@
     * [Managed DB](admin-console/settings/managed-db.md)
     * [Assets](admin-console/settings/assets.md)
   * [Onboarding actions](admin-console/onboarding-actions.md)
+  * [Writeback](admin-console/writeback.md)
 * [Display settings](display-settings/README.md)
   * [General settings](display-settings/general-settings.md)
   * [Hierarchy settings](display-settings/hierarchy-settings.md)
