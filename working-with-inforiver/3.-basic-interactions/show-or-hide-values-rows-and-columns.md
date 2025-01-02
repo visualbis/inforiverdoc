@@ -85,3 +85,26 @@ You can select the measure header and click on the hide icon if you do not want 
 To enable hidden or skipped rows, navigate to the Show/hide dropdown > Rows section and click on the respective icon to display the row again in your report.
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Displaying hidden rows</p></figcaption></figure>
+
+## 7. Displaying measures for specific time periods
+
+You can use the **Show/hide Measures** interface to display the data for a particular period. You can create and save specific time ranges for measures and instantly access them like bookmarks.
+
+You will need to enter a name for the measure time range, choose the measures to display, and select the time interval.&#x20;
+
+{% hint style="info" %}
+Disable the **Show** toggle to hide measures for a specific time frame.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (1116).png" alt=""><figcaption><p>Creating time ranges to display measures</p></figcaption></figure>
+
+You can leverage the date picker to select the time range.
+
+<figure><img src="../../.gitbook/assets/image (1117).png" alt=""><figcaption><p>Date picker</p></figcaption></figure>
+
+You can also display measures for relative time periods like last n days/weeks/months/years.
+
+<figure><img src="../../.gitbook/assets/image (1118).png" alt=""><figcaption><p>Defining relative time frames</p></figcaption></figure>
+
+After you create and save a measure time range, you can instantly switch between them and analyze your data.
+
