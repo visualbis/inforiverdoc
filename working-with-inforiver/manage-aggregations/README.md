@@ -50,13 +50,13 @@ Choosing 'None' performs no aggregations for the selected measure or hierarchy. 
 
 #### Minimum
 
-'Minimum' aggregation displays the minimum value of the immediate child node as the aggregate. In the below example, the 'Computers' category displays the minimum value of its immediate child nodes which is 'Computers Accessories'.
+'Minimum' aggregation displays the minimum value of the immediate child nodes as the aggregate. In the below example, the 'Computers' category displays the minimum value of its immediate child nodes which is 'Computers Accessories'.
 
 <figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption><p>Minimum aggregation type at report level</p></figcaption></figure>
 
 #### Maximum
 
-'Maximum' aggregation displays the maximum value of the immediate child node as the aggregate. In the below image, the 'Computers' category displays the maximum value of its immediate child nodes which is 'Projectors and Screens'.
+'Maximum' aggregation displays the maximum value of the immediate child nodes as the aggregate. In the below image, the 'Computers' category displays the maximum value of its immediate child nodes which is 'Projectors and Screens'.
 
 <figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption><p>Maximum aggregation type at report level</p></figcaption></figure>
 
@@ -111,6 +111,22 @@ Note that weighted average is a row aggregation method – only the total and su
 {% hint style="info" %}
 'Weighted Average' aggregation can be applied only to data input, formula, and forecast measures.&#x20;
 {% endhint %}
+
+#### First
+
+This aggregation type is often used in time-series data or any sequential dataset. The 'First' aggregation type displays the first value from the set of immediate child nodes. This is especially useful when we need to record the dataset's initial state or value.&#x20;
+
+In the example below, we have captured the first month's value in a year.
+
+<figure><img src="../../.gitbook/assets/image (1111).png" alt=""><figcaption><p>'First' aggregation type </p></figcaption></figure>
+
+#### Last
+
+This aggregation type is used in time-series data or any sequential dataset. The 'Last' aggregation type displays the last value or the latest value from the set of immediate child nodes. This is useful when we need the most recent value in a dataset, especially when budgeting for the following year by carrying over the previous year's value.&#x20;
+
+In the example below, we have captured the value from the last month of the year.
+
+<figure><img src="../../.gitbook/assets/image (1112).png" alt=""><figcaption><p>'Last' aggregation type</p></figcaption></figure>
 
 #### Resources
 

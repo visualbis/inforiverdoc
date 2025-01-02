@@ -28,45 +28,63 @@ If you want to calculate the running total for all leaf nodes,  irrespective of 
 
 #### ii) Percentage running total
 
-This formula is a variant of the running total quick formula. The running total is first calculated in the background at each level of the hierarchy after which it is displayed as a percentage of the total/subtotal.
+This formula is a variant of the running total quick formula. The running total is first calculated in the background at each level of the hierarchy, after which it is displayed as a percentage of the total/subtotal.
 
 <figure><img src="../../.gitbook/assets/image (500).png" alt=""><figcaption><p>Percentage running total formula</p></figcaption></figure>
 
-#### iii) % Contribution to parent
+#### iii)  %Growth/Decline
 
-In addition to choosing to insert as a visual measure/column and the base value, a progress bar can be enabled along with percentage and/or value to display.&#x20;
+This option allows you to insert visual measures or a column that calculates the required percentage growth or decline of the chosen measure.
+
+<figure><img src="../../.gitbook/assets/image (1115).png" alt=""><figcaption><p>%Growth/Decline</p></figcaption></figure>
+
+#### iv) % Contribution to parent
+
+Use this option to quickly calculate each member's contribution to their parent's total value. In addition to choosing to insert as a visual measure/column and the base value, a progress bar can be enabled along with a percentage and/or value to display.&#x20;
 
 <figure><img src="../../.gitbook/assets/4.5.4(2) Quick formula.png" alt=""><figcaption><p>% Contribution of 2022 Actuals to parent</p></figcaption></figure>
 
-#### iv) % Contribution to grand total
+#### v) % Contribution to grand total
 
 Contribution to the grand total can be inserted as shown below. To insert % contribution only for a selected category instead of all the categories or only for the column grand total, choose the 'Visual column' option and the corresponding column.&#x20;
 
 <figure><img src="../../.gitbook/assets/4.5.5(2) Quick formula.png" alt=""><figcaption><p>% Contribution to grand total as visual column</p></figcaption></figure>
 
-#### v) Lead/lag
+#### vi) Lead/lag
 
 You can perform a lead /lag calculation to shift any trend data by 'n' periods. This helps you quickly perform downstream variance calculations such as QoQ growth, YoY growth, etc. for each period.
 
 <figure><img src="../../.gitbook/assets/4.5.6 Quick formula.png" alt=""><figcaption><p>Lead/lag calculations</p></figcaption></figure>
 
-#### vi) Overall ranking
+#### vii) Overall ranking
 
 Ranks can be added across different groups in a single click. Choose to insert as a measure or column and the base measure. Note that there are no ranks applied for the subtotals.&#x20;
 
 <figure><img src="../../.gitbook/assets/4.5.7 Quick formula.png" alt=""><figcaption><p>Overall ranking</p></figcaption></figure>
 
-#### vii) Ranking within a group
+#### viii) Ranking within a group
 
 Ranks within groups can be added including ranks for subtotals as shown in the below image.
 
 <figure><img src="../../.gitbook/assets/4.5.8 Quick formula.png" alt=""><figcaption><p>Ranking within group</p></figcaption></figure>
 
-#### viii) Insert variance
+#### ix) Insert variance
 
 The default variance calculated by Inforiver is based on the first measure added to the AC/PY/PL/FC fields. _Insert Variance_ can be used to calculate the variance between any native measures, simulations, or formula fields in your report.
 
 <figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption><p>Insert variance</p></figcaption></figure>
+
+#### x) Empty Column
+
+This option allows you to insert an empty column into the report to improve readability and visual appeal. Values cannot be entered in this column.
+
+<figure><img src="../../.gitbook/assets/image (1113).png" alt=""><figcaption><p>Empty Column</p></figcaption></figure>
+
+#### xi) Empty Measure
+
+This option allows you to insert empty measures into the report to improve readability and visual appeal. Values cannot be entered in these measures.
+
+<figure><img src="../../.gitbook/assets/image (1114).png" alt=""><figcaption><p>Empty Measure</p></figcaption></figure>
 
 ### 2. Smart analysis
 
