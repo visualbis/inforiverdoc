@@ -14,7 +14,7 @@ In addition, there is also an 'Insert New' option which lets you insert calculat
 
 The **Manage Measures** side panel has a **Settings** tab that lets you control and configure important settings concerning the rows and measures, such as user permissions, time interval mapping, and row ID mapping.
 
-<figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Measure settings</p></figcaption></figure>
 
 ### 2.1. Data input access
 
@@ -88,7 +88,7 @@ You can retain point-in-time measure values with the new scheduled backup featur
 
 Navigate to Manage Measures > Settings > Schedule Backups for Measure to create monthly, weekly, or daily schedules.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Creating a measure backup schedule</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Creating a measure backup schedule</p></figcaption></figure>
 
 * **Start and End date:** Specify the time frame during which the measure should be backed up.
 * **Schedule Time:** The time and timezone at which the backup job should be triggered.
@@ -110,4 +110,4 @@ Measure backups will work only after the report is saved in Power BI. The report
 
 The image below shows a report with backed-up measures:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Measure backups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Measure backups</p></figcaption></figure>
