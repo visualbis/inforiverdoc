@@ -6,7 +6,7 @@ Inforiver provides several one-click calculations for inserting columns and rows
 
 Columns/measures such as running total, % contribution to parent/grand total, etc. can be inserted in a single click. These options can be accessed from the Insert tab > Quick formula.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Quick formulas in Inforiver</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Quick formulas in Inforiver</p></figcaption></figure>
 
 When you write custom formulas, you can also reference quick formula measures in them.
 

@@ -75,7 +75,7 @@ Navigate to the Insert ribbon and click the Bulk Edit option from the Cell secti
 
 **STEP 2:** Use the dimension category dropdowns to select the categories for which you need to update values. You can select multiple categories for each dimension. As you make selections, you'll notice the report getting filtered dynamically.
 
-<figure><img src="../../.gitbook/assets/Untitled Project (1) (2).gif" alt=""><figcaption><p>Choosing dimensions and measures</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled Project (1) (2) (1).gif" alt=""><figcaption><p>Choosing dimensions and measures</p></figcaption></figure>
 
 **STEP 3:** Select the row hierarchy level at which the value should be updated.&#x20;
 

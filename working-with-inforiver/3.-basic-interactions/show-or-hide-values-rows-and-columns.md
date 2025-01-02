@@ -90,7 +90,7 @@ To enable hidden or skipped rows, navigate to the Show/hide dropdown > Rows sect
 
 You can use the **Show/hide Measures** interface to display the data for a particular period. You can create and save specific time ranges for measures and instantly access them like bookmarks.
 
-You will need to enter a name for the measure time range, choose the measures to display, and select the time interval.&#x20;
+You will need to enter a name to identify the measure time range, choose the measures to display, and select the time interval.&#x20;
 
 {% hint style="info" %}
 Disable the **Show** toggle to hide measures for a specific time frame.
@@ -108,3 +108,4 @@ You can also display measures for relative time periods like last n days/weeks/m
 
 After you create and save a measure time range, you can instantly switch between them and analyze your data.
 
+<figure><img src="../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Switching between time ranges</p></figcaption></figure>
