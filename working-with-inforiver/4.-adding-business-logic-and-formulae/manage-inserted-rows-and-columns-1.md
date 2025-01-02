@@ -81,3 +81,25 @@ The report below shows the default mapping, followed by the results of the write
 After manually mapping the row dimension to a constant ID like the Product ID, any changes made in the report are also effectively captured in the writeback. In the image below, you can see the updated records in the report that are also reflected in the writeback data.
 
 <figure><img src="../../.gitbook/assets/1.5.2. rowID-2.png" alt=""><figcaption><p>Writeback data after row ID mapping and data changes</p></figcaption></figure>
+
+### 2.4. Schedule backup for measure
+
+You can retain point-in-time measure values with the new scheduled backup feature. The measure values are captured as separate read-only visual columns within the same visual. With this feature, you can easily calculate historical variances and analyze fluctuations in your numbers.
+
+Navigate to Manage Measures > Settings > Schedule Backups for Measure to create monthly, weekly, or daily schedules.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Creating a measure backup schedule</p></figcaption></figure>
+
+* **Start and End date:** Specify the time frame during which the measure should be backed up.
+* **Schedule Time:** The time and timezone at which the backup job should be triggered.
+* **Frequency**: Opt for daily/weekly/monthly schedules.&#x20;
+* For daily backups, you can specify the number of backups to create. For weekly schedules, you can select the day of the week to take a backup. For monthly schedules, you can specify which day of the month to take a backup on and additionally opt to take a backup on the last day of the month as well.
+
+<div><figure><img src="../../.gitbook/assets/image (1103).png" alt=""><figcaption><p>Daily schedule</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2025-01-02_14h26_57.png" alt=""><figcaption><p>Weekly schedule</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2025-01-02_14h27_10.png" alt=""><figcaption><p>Monthly schedule</p></figcaption></figure></div>
+
+* **Measures**: Select the measures that need to be backed up.
+* **Backup name:** Enter the name of the backup field.
+
+You can run ad-hoc backups by clicking the **Run now** icon.
+
+<figure><img src="../../.gitbook/assets/image (1104).png" alt=""><figcaption><p>Ad hoc backups</p></figcaption></figure>
