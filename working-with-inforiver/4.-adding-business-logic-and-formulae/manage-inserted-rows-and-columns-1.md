@@ -88,7 +88,7 @@ You can retain point-in-time measure values with the new scheduled backup featur
 
 Navigate to Manage Measures > Settings > Schedule Backups for Measure to create monthly, weekly, or daily schedules.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Creating a measure backup schedule</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Creating a measure backup schedule</p></figcaption></figure>
 
 * **Start and End date:** Specify the time frame during which the measure should be backed up.
 * **Schedule Time:** The time and timezone at which the backup job should be triggered.
@@ -103,3 +103,11 @@ Navigate to Manage Measures > Settings > Schedule Backups for Measure to create 
 You can run ad-hoc backups by clicking the **Run now** icon.
 
 <figure><img src="../../.gitbook/assets/image (1104).png" alt=""><figcaption><p>Ad hoc backups</p></figcaption></figure>
+
+{% hint style="info" %}
+Measure backups will work only after the report is saved in Power BI. The report should also be created in a common workspace.
+{% endhint %}
+
+The image below shows a report with backed-up measures:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Measure backups</p></figcaption></figure>
