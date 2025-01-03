@@ -1,6 +1,6 @@
 # Manage queries
 
-You can manage Infobridge queries by hovering over a query name to access the context menu. From there, you can duplicate, group, delete, or refresh the query.
+A source such as an Inforiver report or an Excel file can be used to create multiple queries. You can manage Infobridge queries by hovering over a query name to access the context menu. From there, you can duplicate, group, delete, or refresh the query.
 
 <figure><img src="../.gitbook/assets/image (1088).png" alt=""><figcaption><p>Query management context menu</p></figcaption></figure>
 
