@@ -4,7 +4,7 @@ You can have historical and current data in one visual and may have configured y
 
 To demonstrate this feature, we created a Forecast for 2025. [Learn more about forecasting with Inforiver](../working-with-inforiver/7.-planning-budgeting-and-forecasting/).
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating an Inforiver forecast</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating an Inforiver forecast</p></figcaption></figure>
 
 The target visual contains historical/current sales for 2022, 2023, and 2024.  Let's look at how to import the 2025 forecast from the previous visual into this target report.
 

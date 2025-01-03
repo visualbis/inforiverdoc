@@ -2,7 +2,7 @@
 
 Your reports can undergo changes like the creation of new scenarios or measures even after you create a bridge You can refresh the data in a source, pull additional measures/scenarios, and schedule refreshes for native measures from the **Manage Source** interface.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Manage source window</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Manage source window</p></figcaption></figure>
 
 ### 1. Manually refreshing the source
 
