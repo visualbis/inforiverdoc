@@ -1,4 +1,4 @@
-# Inforiver Writeback Matrix December 2024 - Merge rows, new rounding functions & More
+# Inforiver Writeback Matrix December 2024 - v3.7 - Merge rows, new rounding functions & More
 
 We are excited to present the new Merge Rows feature that enables you to seamlessly sync your visual-level and native row data. We've also added variations to the ROUND function along with enhancements across Infobridge, MoR layout, and data inputs to bring you a superior business reporting experience.&#x20;
 
@@ -14,7 +14,7 @@ The <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (
 Data input fields will be locked for editing until the row is merged.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Merging visual rows with native rows</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Merging visual rows with native rows</p></figcaption></figure>
 
 Notice how the merge icon disappears and the data input field becomes editable after merging the EURIBOR row. When you merge rows, static rows are replaced with native rows however data inputs are retained.
 
@@ -31,22 +31,22 @@ In business intelligence reporting, accuracy and precision in handling numerical
 * The **ROUNDUP** function always rounds a number up, away from zero. Use ROUNDUP when you always need a higher estimate, such as in budgeting or safety margins.
 * The **ROUNDDOWN** function always rounds a number down, toward zero. Use ROUNDDOWN for conservative estimates, like minimizing costs.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Rounding functions in Inforiver</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Rounding functions in Inforiver</p></figcaption></figure>
 
 ## 3. Checkboxes in MOR layout
 
 Inforiver's popular Measure on Rows layout now supports checkboxes in addition to data input types like numeric values, text fields, dropdown menus and Last updated at/by metadata.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Checkboxes in MOR layout</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Checkboxes in MOR layout</p></figcaption></figure>
 
 ## 4. Actionable error messages in Infobridge
 
 Have you ever encountered data processing error messages that were too technical and left you at a loss? Infobridge has been updated with clearer, actionable error messages designed to help you quickly pinpoint and resolve the issue.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Simplified error messages in Infobridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Simplified error messages in Infobridge</p></figcaption></figure>
 
 ## 5. Total and subtotals for non-numeric data inputs
 
 You can input data in the total and subtotal rows for non-numeric fields without having to tweak any settings. The **Allow entry on total/subtotal rows** is pre-enabled to ensure a smooth experience. &#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Total and subtotal entries for non-numeric data input fields</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Total and subtotal entries for non-numeric data input fields</p></figcaption></figure>

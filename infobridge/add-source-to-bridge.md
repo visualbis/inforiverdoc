@@ -1,4 +1,4 @@
-# Add Source to Bridge
+# Add source to bridge
 
 InfoBridge offers powerful data integration. It allows you to import and consolidate data from a variety of sources, including Inforiver, ValQ\*, CSV, Excel, JSON, and Parquet files, as well as online services such as Power BI\*, OneDrive, and files via HTTPS.
 
@@ -22,15 +22,15 @@ When you are working on a report and want to add it to a bridge for integration 
 
 You can search for the required bridge using the lookup folder or search box.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Find the bridge in the lookup folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Find the bridge in the lookup folder</p></figcaption></figure>
 
 Select the required bridge in the lookup folder, view the bridge details and then click **Add** to add the report to the bridge.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Add to bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Add to bridge</p></figcaption></figure>
 
 The source is added to the bridge as _Query 2_ since the bridge already has a query from Source 1. Click **Apply** to save changes.
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>second source added to bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>second source added to bridge</p></figcaption></figure>
 
 
 

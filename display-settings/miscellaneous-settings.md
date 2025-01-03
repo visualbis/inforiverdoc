@@ -82,7 +82,7 @@ If this option is enabled, report users in the reading view can update native me
 
 You can increase the thickness of the horizontal and vertical scrollbars using by enabling this option.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Increase scroll thickness</p></figcaption></figure>
 
 #### 1.15. Scaling in measure header
 
@@ -106,7 +106,7 @@ You can enable the _**Hide pinned base rows**_ option to hide the actual row and
 
 Inforiver supports English (the default language), German, French, and Spanish interfaces. You can choose one of the options. In the report below,  all the menus, tabs, and options in Inforiver have been switched to French.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (5) (1).png" alt=""><figcaption><p>Selecting the language</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (5) (1) (1).png" alt=""><figcaption><p>Selecting the language</p></figcaption></figure>
 
 #### 1.18. Explorer cross-filtering
 

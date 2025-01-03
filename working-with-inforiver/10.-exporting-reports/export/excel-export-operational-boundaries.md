@@ -14,13 +14,13 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 1.4. Signed row headers that are enabled by turning on the Sign in Headers display setting will not be captured.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Signed row headers, blend measures and hatched cells</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Signed row headers, blend measures and hatched cells</p></figcaption></figure>
 
 1.5. Multiple colors in a single cell (when you run simulations or apply conditional formatting)  cannot be exported. The contents of the entire cell will have the same color in the exported file.&#x20;
 
 In this example, the positive and negative simulation percentages are exported in black. The number and text have the same color in the export for the classification-based conditional formatting.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver report with multiple colors in each cell</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_16h36_41.png" alt=""><figcaption><p>Excel extract with single-color cells</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver report with multiple colors in each cell</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_16h36_41.png" alt=""><figcaption><p>Excel extract with single-color cells</p></figcaption></figure></div>
 
 ### 2. Display and themes
 
@@ -28,11 +28,11 @@ In this example, the positive and negative simulation percentages are exported i
 
 2.2. You can enable Rails for ease of selection and formatting but cannot export them.
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rails and pinned rows in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_14h35_17.png" alt=""><figcaption><p>Excel export without rails and pinned rows</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rails and pinned rows in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_14h35_17.png" alt=""><figcaption><p>Excel export without rails and pinned rows</p></figcaption></figure></div>
 
 2.3. Row-level charts cannot be exported. Bar charts&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row-level charts in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row-level charts in Inforiver</p></figcaption></figure>
 
 2.4. Themes cannot be applied for Excel exports.
 
@@ -44,7 +44,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 3.2. Excel exports cannot capture serial numbers assigned to notes in Inforiver. The export will contain only a note indicator. Hover over the note indicator to view the content.
 
-<div><figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Numbered notes in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h19_01.png" alt=""><figcaption><p>Notes indicators in Excel</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Numbered notes in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h19_01.png" alt=""><figcaption><p>Notes indicators in Excel</p></figcaption></figure></div>
 
 &#x20;3.3. Excel exports cannot capture rich text formatting applied to notes.
 
@@ -52,7 +52,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 3.4. You can enable marker mode for highlighting data points. Markers however cannot be captured in exports.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Marker mode in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Marker mode in Inforiver</p></figcaption></figure>
 
 ### 4. Data volume
 
@@ -72,11 +72,11 @@ In this example, the positive and negative simulation percentages are exported i
 
 7.1. When you export to Excel, you have 3 options: export the entire report, export with expand/collapse for hierarchies, and expand the current state of the report. All these options are available in the default Hierarchy layout however some export options will be disabled based on the layout chosen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Export options in table layout</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Export options in table layout</p></figcaption></figure>
 
 7.2. Selected columns - only the Current State export option will be enabled if you want to export selected columns.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Current state export option for selected columns</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption><p>Current state export option for selected columns</p></figcaption></figure>
 
 ### 8. Icons
 
@@ -84,7 +84,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 Only 3 conditions will be supported in such scenarios.
 
-<div><figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom icons with additional ranges used in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h44_46.png" alt=""><figcaption><p>Icons in Excel export </p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom icons with additional ranges used in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h44_46.png" alt=""><figcaption><p>Icons in Excel export </p></figcaption></figure></div>
 
 8.2. Color customizations - If you have overridden the default colors, Excel may substitute different icons or change the color.
 
@@ -92,11 +92,11 @@ Only 3 conditions will be supported in such scenarios.
 
 8.3. Icon repetition -  If the same icon is used multiple times with different colors, only the colors that Excel supports will be exported.
 
-<div><figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Same icons with different colors applied in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h50_56.png" alt=""><figcaption><p>Icon color changed in Excel export</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Same icons with different colors applied in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h50_56.png" alt=""><figcaption><p>Icon color changed in Excel export</p></figcaption></figure></div>
 
 8.4. Rating icons are not supported. The Excel export will not have any icons when ratings are applied.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rating icons in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rating icons in Inforiver</p></figcaption></figure>
 
 ### 9. Pagination
 

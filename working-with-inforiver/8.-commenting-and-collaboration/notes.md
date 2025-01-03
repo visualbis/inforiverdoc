@@ -161,7 +161,7 @@ c) There are a number of indicator types such as numbered, lettered, arrow etc. 
 
 The notes indicator can be set at the report level (as shown above), in which case all notes in a report would have the same indicator. You can set individual indicators for each note as well.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Notes indicator</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Notes indicator</p></figcaption></figure>
 
 ## 9. Marker mode
 

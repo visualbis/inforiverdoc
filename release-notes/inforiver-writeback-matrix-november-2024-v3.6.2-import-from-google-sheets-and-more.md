@@ -1,4 +1,4 @@
-# Inforiver Writeback Matrix November 2024: Import from Google Sheets & More
+# Inforiver Writeback Matrix November 2024 - v3.6.2 - Import from Google Sheets & More
 
 Data integration in Power BI just got easier with the new Infobridge support for Google Sheets and Lookup Visuals. This latest release offers enhanced stability with options to download container logs and export/import queries.&#x20;
 
@@ -24,7 +24,7 @@ Infobridge now provides support for importing single and multi-select data from 
 
 You can preview up to 30k rows within Infobridge. This allows you to load a larger volume of data before integrating it with other visuals.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 The preview limit is configurable and can be adjusted from the Admin console.
 

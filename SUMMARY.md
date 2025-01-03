@@ -175,6 +175,7 @@
     * [Duplicating Writeback Matrix Visuals - Best Practices](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/duplicating-writeback-matrix-visuals-best-practices.md)
     * [Recommended practices while working with Power BI desktop](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/recommended-practices-while-working-with-power-bi-desktop.md)
   * [16. Approval workflows](working-with-inforiver/16.-approval-workflows.md)
+  * [17. Collaborative adjustment workflows](working-with-inforiver/17.-collaborative-adjustment-workflows.md)
 * [Admin Console](admin-console/README.md)
   * [Manage Profile](admin-console/manage-profile.md)
   * [User management](admin-console/user-management.md)
