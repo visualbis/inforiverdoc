@@ -28,7 +28,7 @@ The lookup visual is a more efficient solution that overcomes the drawbacks of c
 
 When you choose the Lookup Visual option, you must specify the visual name in the configuration. In this case, we are populating dropdown options for the manager’s name – so we’ve selected the corresponding visual name.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select the lookup visual name</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select the lookup visual name</p></figcaption></figure>
 
 **STEP 2:** Assign the dimension field to source dropdown options&#x20;
 
@@ -36,7 +36,7 @@ Next, select the **Column Label** field – the options in the dropdown will be 
 
 Note: If your lookup table has no ID field, use the same label field (in this example, Manager Name) as Column ID.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Assigning the Label and ID</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assigning the Label and ID</p></figcaption></figure>
 
 **STEP 3:** Click Add to apply the configuration and create the dropdown.
 
