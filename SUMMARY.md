@@ -351,7 +351,7 @@
   * [Integrating forecasts](infobridge/integrating-forecasts.md)
   * [Query transformations](infobridge/query-transformations/README.md)
     * [Pivot data](infobridge/query-transformations/pivot-data.md)
-    * [Flatten data](infobridge/query-transformations/flatten-data.md)
+    * [Unnest](infobridge/query-transformations/unnest.md)
 * [Accessibility shortcut keys](accessibility-shortcut-keys.md)
 * [Inforiver Reporting Matrix FAQs](inforiver-reporting-matrix-faqs.md)
 * [Inforiver Writeback Matrix FAQs](inforiver-writeback-matrix-faqs.md)

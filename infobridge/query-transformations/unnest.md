@@ -1,4 +1,12 @@
-# Flatten data
+---
+description: >-
+  Learn how to use the Unnest transformation to convert delimited values into
+  separate rows and flatten your data.
+---
+
+# Unnest
+
+## Using the Unnest transformation to flatten your data
 
 You can leverage the **Unnest** transformation to flatten your data. For instance, when you have multi-select options or comma-separated text values in your report, you can split your values into multiple rows.
 
