@@ -12,11 +12,11 @@ We often need to summarize our data to identify metrics like the 'Total number o
 
 Let's look at a classic Employee table to demonstrate how the Group by function works.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1136).png" alt=""><figcaption><p>Sample employee table</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1136) (1).png" alt=""><figcaption><p>Sample employee table</p></figcaption></figure>
 
 Management would want to focus on metrics like the average salary by region or the minimum experience in each department. To capture insights like these, we need to group and aggregate the employee data, as shown.
 
-<figure><img src="../../.gitbook/assets/image (1138).png" alt=""><figcaption><p>Summarized and aggregated data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1138) (1).png" alt=""><figcaption><p>Summarized and aggregated data</p></figcaption></figure>
 
 Let's look at how we can aggregate your planning data with Infobridge.
 

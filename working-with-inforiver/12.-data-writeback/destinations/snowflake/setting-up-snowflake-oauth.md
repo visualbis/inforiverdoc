@@ -49,7 +49,7 @@ DESC SECURITY INTEGRATION MY_INTEGRATION_NAME;
 
 You will be redirected to the Snowflake login page, where you need to enter your Username and Password to connect.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Snowflake Sign in</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Snowflake Sign in</p></figcaption></figure>
 
 ### 4. Enter Account/DB/Schema/Warehouse details
 
@@ -60,12 +60,12 @@ After specifying the integration details for OAuth and signing into Snowflake, y
 * **Account**: Enter the name of your Snowflake server. Example: https://\<account>.snowflakecomputing.com/
 * **Database and Schema:** Snowflake Database and schema name where the writeback table will be created.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Snowflake database and schema</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Snowflake database and schema</p></figcaption></figure>
 
 * **Warehouse:** The Snowflake compute warehouse.
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Snowflake warehouses</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Snowflake warehouses</p></figcaption></figure>
 
 * **Role**: The user role associated with the Snowflake username.  Ensure this role has “USAGE” and “CREATE TABLE” permissions. This is mandatory to be able to writeback from Inforiver to Snowflake.
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Snowflake roles</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Snowflake roles</p></figcaption></figure>

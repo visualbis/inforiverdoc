@@ -6,7 +6,7 @@ Inforiver's Excel-like formula engine supports a wide range of functions (logica
 
 You can use the formula menu to quickly locate the formula you are looking for. Click the _fx_ button to open the formula menu.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Formula menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption><p>Formula menu</p></figcaption></figure>
 
 ### Replicating formulas
 
