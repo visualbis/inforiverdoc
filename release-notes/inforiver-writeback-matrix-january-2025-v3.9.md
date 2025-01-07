@@ -4,6 +4,12 @@
 
 
 
+## Data input
+
+### Parent rows as calculated rows
+
+With Inforiver, you can add organizational hierarchies or product lines on the fly with the Insert Rows feature. In the latest version, you have the flexibility to apply calculations on parent rows.
+
 ## Formatting
 
 ### Conditional formatting for charts
