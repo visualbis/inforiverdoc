@@ -352,6 +352,7 @@
   * [Query transformations](infobridge/query-transformations/README.md)
     * [Pivot data](infobridge/query-transformations/pivot-data.md)
     * [Unnest](infobridge/query-transformations/unnest.md)
+    * [Group by](infobridge/query-transformations/group-by.md)
 * [Accessibility shortcut keys](accessibility-shortcut-keys.md)
 * [Inforiver Reporting Matrix FAQs](inforiver-reporting-matrix-faqs.md)
 * [Inforiver Writeback Matrix FAQs](inforiver-writeback-matrix-faqs.md)
