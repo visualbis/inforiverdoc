@@ -124,3 +124,10 @@ When you convert a measure to a percentage or vice-versa, Inforiver will provide
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
+### Ungroup and remove group in row gripper
+
+You can use the row gripper to flatten custom row hierarchies. Notice how the parent _Operations_ group is removed and the child categories are converted into parent categories after ungrouping.
+
+<figure><img src="../.gitbook/assets/Ungroup.gif" alt=""><figcaption></figcaption></figure>
+
+The Remove Group option will delete the parent category.
