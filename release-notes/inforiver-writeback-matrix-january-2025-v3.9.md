@@ -130,4 +130,4 @@ You can use the row gripper to flatten custom row hierarchies. Notice how the pa
 
 <figure><img src="../.gitbook/assets/Ungroup.gif" alt=""><figcaption></figcaption></figure>
 
-The Remove Group option will delete the parent category.
+The Remove Group option will delete the parent category i.e. remove the selected level of the hierarchy including all child records.
