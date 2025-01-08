@@ -20,7 +20,7 @@ You notice that the measure and scenario selection window has a more user-friend
 
 ## Data input
 
-Refined UI for data input rows
+### Refined UI for data input rows
 
 \-          Row gripper and Toolbar options
 
@@ -52,6 +52,18 @@ The **List** view displays rows in the order that they were inserted.
 
 <figure><img src="../.gitbook/assets/image (1155).png" alt=""><figcaption></figcaption></figure>
 
+\-          Add child rows and sibling rows
+
+You can instantly add child rows and sibling(at the same level of the hierarchy) rows right from the Manage Rows side pane.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+\-          Search and filter custom rows
+
+Use the Search and Filter options to search for a particular row category or display rows based on the type.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Parent rows as calculated rows
 
 With Inforiver, you can add organizational hierarchies or product lines on the fly with the Insert Rows feature. In the latest version, you have the flexibility to apply custom calculations on parent rows. In earlier versions, we would need to manually enter values for data input rows.
@@ -72,7 +84,7 @@ Visualize your numbers better with inline charts in your matrix reports. You can
 
 You can highlight row headers with conditional formatting when your actuals satisfy pre-defined conditions. Select _Row Headers_ from the **Apply to** dropdown. You can use conditional formatting to set a border, font style, font color, and cell background for row headers.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Conditional formatting icons & text for date measures
 
@@ -98,13 +110,13 @@ When you sort measures from the column gripper, you'll notice that the sort icon
 
 With Inforiver, you can select the data displayed in header charts and KPIs. In the latest version, you can refer to visual measures, formulae, forecasts, simulations, and data inputs in header charts and KPIs.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Custom date formatting for non-hierarchical dates
 
 You can now use custom date formats when you have non-hierarchical date fields in your dataset.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Aggregation notification while converting to percentages
 

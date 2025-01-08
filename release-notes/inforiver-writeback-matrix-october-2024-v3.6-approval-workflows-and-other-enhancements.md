@@ -29,7 +29,7 @@ In the report below, we’ve sourced the bonus component and payout status from 
 
 When you create a new source from within Infobridge, you will be able to select the measures that are required instead of cascading unnecessary measures.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure selection</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure selection</p></figcaption></figure>
 
 #### 1.3. Flattening data
 
@@ -63,4 +63,4 @@ You can control connections to Dataverse from the My Integrations page in the Ad
 
 Inforiver is now available for French and Spanish users.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Language selection</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Language selection</p></figcaption></figure>
