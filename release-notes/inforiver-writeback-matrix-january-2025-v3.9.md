@@ -4,11 +4,61 @@
 
 
 
+## Infobridge
+
+### Automatic retry for data preparation jobs
+
+The Inforiver suite is being constantly upgraded to provide a seamless user experience. In the latest version, you'll notice that when an initial data preparation job fails in Infobridge, it will automatically be re-triggered once.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1149).png" alt=""><figcaption><p>Automatic retry</p></figcaption></figure>
+
+### Measure and scenario selection interface&#x20;
+
+You notice that the measure and scenario selection window has a more user-friendly interface.&#x20;
+
+<figure><img src="../.gitbook/assets/Untitled Project (11).gif" alt=""><figcaption></figcaption></figure>
+
 ## Data input
+
+Refined UI for data input rows
+
+\-          Row gripper and Toolbar options
+
+The Insert custom row options from the row gripper are now more accessible and better organized. Some of the options have also been renamed to make them more user-oriented – ‘Static rows’ to ‘Data Input’ and ‘Calculated rows’ to ‘Formula’.
+
+Similar to the Row gripper options, the Insert Row options from the toolbar have also been reorganized to streamline your experience.
+
+<figure><img src="../.gitbook/assets/image (1151).png" alt=""><figcaption><p>Insert row options,</p></figcaption></figure>
+
+\-          Changing the row type
+
+You have the flexibility to switch between data input, calculated, and aggregated rows at any time with the new Row Type dropdown. For instance, you may have used a formula and referred to the values of an existing row dimension while creating the row. You can easily change it to data input and enter values without having to create a new data input row.
+
+<figure><img src="../.gitbook/assets/image (1152).png" alt=""><figcaption></figcaption></figure>
+
+\-          Convert to template rows
+
+You can also convert a custom row to a template row – i.e. the row will be available across all levels of the hierarchy. For instance, you may create a product line specific to a particular region. You can use the Templated option to replicate the same product line across all regions.
+
+<figure><img src="../.gitbook/assets/image (1153).png" alt=""><figcaption></figcaption></figure>
+
+\-          Row management interface
+
+The **Manage Rows** interface has been redesigned to enable you to efficiently govern custom rows in your Inforiver reports. Each type of row: calculated, aggregated, data input, and template can be identified based on the row icons. Use the Tree View to easily identify the hierarchy level where a specific row was created.
+
+<figure><img src="../.gitbook/assets/image (1154).png" alt=""><figcaption></figcaption></figure>
+
+The **List** view displays rows in the order that they were inserted.
+
+<figure><img src="../.gitbook/assets/image (1155).png" alt=""><figcaption></figcaption></figure>
 
 ### Parent rows as calculated rows
 
-With Inforiver, you can add organizational hierarchies or product lines on the fly with the Insert Rows feature. In the latest version, you have the flexibility to apply calculations on parent rows.
+With Inforiver, you can add organizational hierarchies or product lines on the fly with the Insert Rows feature. In the latest version, you have the flexibility to apply custom calculations on parent rows. In earlier versions, we would need to manually enter values for data input rows.
+
+Select _Formula_ from the **Row Type** dropdown. You can enter custom calculations and refer to row dimensions categories.
+
+<figure><img src="../.gitbook/assets/image (1150).png" alt=""><figcaption><p>Calculated parent rows</p></figcaption></figure>
 
 ## Formatting
 
