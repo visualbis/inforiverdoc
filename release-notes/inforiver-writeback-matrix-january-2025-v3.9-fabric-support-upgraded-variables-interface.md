@@ -144,6 +144,52 @@ You can now persist the status of your child job runs and save it to your deskto
 
 <figure><img src="../.gitbook/assets/export-jobs.png" alt=""><figcaption></figcaption></figure>
 
+## 5. Excel-like nested sorting
+
+We’ve upgraded the Inforiver Sorting algorithm to provide advanced nested sorting options. You can sort your data based on multiple dimensions or measures. Please bear in mind that you can either sort based on row dimensions or based on measures, not both together.
+
+<figure><img src="../.gitbook/assets/5.1. nested-sorting.png" alt=""><figcaption></figcaption></figure>
+
+## Commenting and collaboration
+
+With Inforiver’s Comments feature, you can allow users to collaborate and add more context to your reports. It doesn’t stop at that – you can set priorities for comments, post replies, schedule comment digests, and assign permissions. In this version, the Comment settings have been re-structured to enhance accessibility.
+
+<figure><img src="../.gitbook/assets/3.1. commentary.png" alt=""><figcaption></figcaption></figure>
+
+You can create starred comments, filter based on resolved/starred/your threads, and sort comments on priority/creation time from the View All Comments side pane.
+
+## 7. Performance mode
+
+Inforiver’s differentiated architecture enables faster processing of large hierarchies, ensuring optimal performance while creating reports with complex hierarchical data. To efficiently analyze extensive hierarchical datasets without compromising on performance, we recommend switching to the new Performance Table layout.
+
+<figure><img src="../.gitbook/assets/7.1. performance-mode.png" alt=""><figcaption></figcaption></figure>
+
+Note: This layout can be applied only when the report does not contain any column dimensions.
+
+## 8. Audit log enhancements
+
+Inforiver’s audit log feature now captures a much higher level of information:
+
+\- User details along with timestamp when the report is modified. &#x20;
+
+\- Changes to settings like default values will be recorded in the audit trail for custom columns and rows,
+
+\- Measure resets will be recorded.
+
+<figure><img src="../.gitbook/assets/audit-log-measure-options.png" alt=""><figcaption></figcaption></figure>
+
+## 9. Visual formulas
+
+#### 9.1. Normal distribution formulae
+
+Normal distribution is widely used in financial reports and analysis for performance benchmarking, portfolio risk management, interest rate modeling, and other purposes. The latest version of Inforiver allows you to use normal and inverse distribution formulae.
+
+<figure><img src="../.gitbook/assets/normal-distribution.png" alt=""><figcaption></figcaption></figure>
+
+Supported formulae:
+
+<figure><img src="../.gitbook/assets/normal-dist-function-list.png" alt=""><figcaption></figcaption></figure>
+
 ## Formatting
 
 ### Conditional formatting for charts
@@ -172,34 +218,50 @@ Enhance the visual appeal of your reports with icons and symbols in measures hea
 
 ## Other enhancements
 
-### Sort icon upgrade
+#### - Sort icon upgrade
 
 When you sort measures from the column gripper, you'll notice that the sort icons have been upgraded to a more intuitive version.
 
 <figure><img src="../.gitbook/assets/image (1137).png" alt=""><figcaption><p>New sort icons</p></figcaption></figure>
 
-### Refer to visual measures, simulations, and forecasts in headers
+#### - Refer to visual measures, simulations, and forecasts in headers
 
 With Inforiver, you can select the data displayed in header charts and KPIs. In the latest version, you can refer to visual measures, formulae, forecasts, simulations, and data inputs in header charts and KPIs.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Custom date formatting for non-hierarchical dates
+#### - Custom date formatting for non-hierarchical dates
 
 You can now use custom date formats when you have non-hierarchical date fields in your dataset.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Aggregation notification while converting to percentages
+#### - Aggregation notification while converting to percentages
 
 When you convert a measure to a percentage or vice-versa, Inforiver will provide a link in the notification that will allow you to easily switch to native aggregation if needed.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-### Ungroup and remove group in row gripper
+#### - Ungroup and remove group in row gripper
 
 You can use the row gripper to flatten custom row hierarchies. Notice how the parent _Operations_ group is removed and the child categories are converted into parent categories after ungrouping.
 
 <figure><img src="../.gitbook/assets/Ungroup.gif" alt=""><figcaption></figcaption></figure>
 
 The Remove Group option will delete the parent category i.e. remove the selected level of the hierarchy including all child records.
+
+#### -  WAF compatibility
+
+Infobridge, Inforiver, and Editable can now work together with client-side Web Application Firewalls (WAF) to stay secure. [Learn more about WAF compatibility in Inforiver](https://docs.inforiver.com/inforiver-enterprise-on-prem/how-to-guides/application-gateway-integration#for-web-application-firewall-waf-support-you-must-consider-things-like).
+
+#### - Performance boost for allocations
+
+Significant performance optimizations will enable you to seamlessly distribute and allocate forecasts/data inputs for up to 1 million cells.&#x20;
+
+#### - Unlock cells in the Read view
+
+Report users will be able to lock and unlock cells in read view. They will not however be able to unlock cells that were locked by the report author.
+
+#### - Functions for Display Settings
+
+Report authors can choose to give users access to certain display settings like ragged hierarchy, semantic formatting, and null/zero handling with scripts. When used with variables, users will be able to turn these settings on or off although they cannot directly access display settings.
