@@ -1,26 +1,70 @@
-# Inforiver Writeback Matrix January 2025 - v3.9
+# Inforiver Writeback Matrix January 2025 - v3.9 - Fabric support, upgraded variables interface
 
 
 
 
 
-## Infobridge
+## 1. Infobridge
 
-### Automatic retry for data preparation jobs
+#### 1.1. Support for Fabric Lakehouse sources
+
+We’ve expanded Infobridge data integration capabilities – you can now import Fabric Lakehouse tables and cascade them into your connected planning reports in Inforiver!
+
+Enter the workspace, Lakehouse, and table name to integrate the Lakehouse source. Please bear in mind that Fabric Lakehouse needs to be in “Connected” state in the Admin console > My Integrations section.
+
+<figure><img src="../.gitbook/assets/1.1.import-fabric-lakehouse-sources.png" alt=""><figcaption><p>Fabric lakehouse support</p></figcaption></figure>
+
+#### 1.2. Writeback to Fabric SQL destinations
+
+Inforiver’s signature Writeback can now connect to Fabric SQL destinations. You can consolidate Inforiver reports and connected planning reports from Infobridge into Fabric SQL destinations.
+
+<figure><img src="../.gitbook/assets/1.2. Fabric-SQL-writeback.png" alt=""><figcaption><p>Writeback to Fabric</p></figcaption></figure>
+
+#### 1.3. Visual column support
+
+Inforiver reports often contain visual columns like tax rates or multiplier factors. Infobridge supports visual columns as well – you can integrate visual columns into your connected planning reports.
+
+Note: the visual column will be treated as a visual measure within Infobridge, with the same values repeated for each column dimension category.
+
+<figure><img src="../.gitbook/assets/1.3. visual-column-infobridge.png" alt=""><figcaption></figcaption></figure>
+
+#### 1.4. Context-aware connected planning
+
+Connected planning reports often have varying granularities. For example, you may have a regional budget that is cascaded into a global budget target report. The target report is likely to have slicers on dimensions like quarters, product lines, tax segments, etc.
+
+Inforiver’s built-in context awareness has been extended to Infobridge sources - enabling context-aware connected planning. Let’s look at a quick demonstration. Our bridge contains quarterly Discounts that we need to integrate into our yearly profitability report.
+
+<figure><img src="../.gitbook/assets/1.4.1. bridge-discount-data.png" alt=""><figcaption></figcaption></figure>
+
+The target Yearly Profitability report contains data at year-level. Before integrating the discounts from Infobridge, let’s use Inforiver’s Super Filter visual to set up context awareness in the target.&#x20;
+
+<figure><img src="../.gitbook/assets/1.4.2. target-report-context-awareness.png" alt=""><figcaption></figcaption></figure>
+
+The target visual has data at a higher granularity, i.e. year-level and the source bridge has quarterly data. When we create an integration to the discount bridge, we need to map the Quarter dimension to the filter context measure in the target profitability visual.
+
+<figure><img src="../.gitbook/assets/1.4.3. manage-integration.png" alt=""><figcaption></figcaption></figure>
+
+Note: When you need to import a measure/column from Infobridge, the filter context measure needs to be mapped to the column dimension. When you import rows and have a slicer for row dimensions, the filter context measure should be mapped to the row dimension.
+
+Notice how the Infobridge measure, Discount, also changes in response to slicer selections.
+
+<figure><img src="../.gitbook/assets/1.4.4. context-aware-data-integration.gif" alt=""><figcaption></figcaption></figure>
+
+#### 1.5. Automatic retry for data preparation jobs
 
 The Inforiver suite is being constantly upgraded to provide a seamless user experience. In the latest version, you'll notice that when an initial data preparation job fails in Infobridge, it will automatically be re-triggered once.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1149).png" alt=""><figcaption><p>Automatic retry</p></figcaption></figure>
 
-### Measure and scenario selection interface&#x20;
+#### 1.5. Measure and scenario selection interface&#x20;
 
-You notice that the measure and scenario selection window has a more user-friendly interface.&#x20;
+You'll notice that the measure and scenario selection window has a more user-friendly interface.&#x20;
 
 <figure><img src="../.gitbook/assets/Untitled Project (11).gif" alt=""><figcaption></figcaption></figure>
 
-## Data input
+## 2. Data input
 
-### Refined UI for data input rows
+#### 2.1. Refined UI for data input rows
 
 \-          Row gripper and Toolbar options
 
@@ -56,21 +100,49 @@ The **List** view displays rows in the order that they were inserted.
 
 You can instantly add child rows and sibling(at the same level of the hierarchy) rows right from the Manage Rows side pane.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 \-          Search and filter custom rows
 
 Use the Search and Filter options to search for a particular row category or display rows based on the type.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Parent rows as calculated rows
+#### 2.2. Parent rows as calculated rows
 
 With Inforiver, you can add organizational hierarchies or product lines on the fly with the Insert Rows feature. In the latest version, you have the flexibility to apply custom calculations on parent rows. In earlier versions, we would need to manually enter values for data input rows.
 
 Select _Formula_ from the **Row Type** dropdown. You can enter custom calculations and refer to row dimensions categories.
 
 <figure><img src="../.gitbook/assets/image (1150).png" alt=""><figcaption><p>Calculated parent rows</p></figcaption></figure>
+
+## 3.     Variables
+
+Variables accept user input and enable report users to navigate hierarchies, apply filters, run scripts, perform dynamic calculations, and rank data on the fly. The new easy-to-navigate UI ensures a smooth experience for creating and maintaining your variables.
+
+<figure><img src="../.gitbook/assets/3.1. variables.png" alt=""><figcaption></figcaption></figure>
+
+See how variables can make report navigation and editing easier without creating Inforiver filters or manually editing the header or visual measures.
+
+<figure><img src="../.gitbook/assets/3.2. variables-gif.gif" alt=""><figcaption></figcaption></figure>
+
+## 4. Scheduler
+
+#### 4.1. Cancel parent job option
+
+If your subscription job is running long or you need to make additional modifications to your report before sending it out, you can use the new Cancel Job option in the scheduler. This will immediately abort the subscription and cancel both the parent and child jobs without having to abort each child job individually.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+You’ll notice that the status of all your jobs is changed to Failed.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 4.2. Export jobs
+
+You can now persist the status of your child job runs and save it to your desktop. Click the Export Jobs button to create an Excel extract.  &#x20;
+
+<figure><img src="../.gitbook/assets/export-jobs.png" alt=""><figcaption></figcaption></figure>
 
 ## Formatting
 
@@ -84,7 +156,7 @@ Visualize your numbers better with inline charts in your matrix reports. You can
 
 You can highlight row headers with conditional formatting when your actuals satisfy pre-defined conditions. Select _Row Headers_ from the **Apply to** dropdown. You can use conditional formatting to set a border, font style, font color, and cell background for row headers.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Conditional formatting icons & text for date measures
 
@@ -110,13 +182,13 @@ When you sort measures from the column gripper, you'll notice that the sort icon
 
 With Inforiver, you can select the data displayed in header charts and KPIs. In the latest version, you can refer to visual measures, formulae, forecasts, simulations, and data inputs in header charts and KPIs.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Custom date formatting for non-hierarchical dates
 
 You can now use custom date formats when you have non-hierarchical date fields in your dataset.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Aggregation notification while converting to percentages
 
