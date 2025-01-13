@@ -359,7 +359,7 @@
 * [Video tutorials](video-tutorials.md)
 * [Resources](resources.md)
 * [Release Notes](release-notes/README.md)
-  * [Inforiver Writeback Matrix January 2025 - v3.9](release-notes/inforiver-writeback-matrix-january-2025-v3.9.md)
+  * [Inforiver Writeback Matrix January 2025 - v3.9 - Fabric support, upgraded variables interface](release-notes/inforiver-writeback-matrix-january-2025-v3.9-fabric-support-upgraded-variables-interface.md)
   * [Inforiver Writeback Matrix December 2024- v3.8 - Improved Scheduler Performance & Other Enhancements](release-notes/inforiver-writeback-matrix-december-2024-v3.8-improved-scheduler-performance-and-other-enhancements.md)
   * [Inforiver Writeback Matrix December 2024 - v3.7 - Merge rows, new rounding functions & More](release-notes/inforiver-writeback-matrix-december-2024-v3.7-merge-rows-new-rounding-functions-and-more.md)
   * [Inforiver Writeback Matrix November 2024 - v3.6.2 - Import from Google Sheets & More](release-notes/inforiver-writeback-matrix-november-2024-v3.6.2-import-from-google-sheets-and-more.md)
