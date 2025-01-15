@@ -62,7 +62,7 @@ When you change this to 'In rows', the measures are displayed as shown below.&#x
 
 To re-order rows while using Measure in rows layout, you can click on row gripper and drag the rows to be re-ordered. Another way to do this is via the ‘Manage rows’ popup screen. Click on the gripper and drag and drop the measures as desired.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Re-ordering rows using Manage Rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Re-ordering rows using Manage Rows</p></figcaption></figure>
 
 ### b. In columns
 
