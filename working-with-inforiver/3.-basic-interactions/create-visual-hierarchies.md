@@ -12,29 +12,33 @@ In the below example, the columns are to be grouped and named Revenue, Profitabi
 The group icon is greyed out until a row or column is selected.
 {% endhint %}
 
-a) Select the columns to be grouped as Revenue. In the 'Insert' tab, click on '**Group**' and then '**Add new group**'. The other options in the dropdown will be covered in the next section.
+**STEP 1:** Select the columns to be grouped as Revenue. In the 'Insert' tab, click on **Group** and enter a label.  Click 'Apply'.
 
-<figure><img src="../../.gitbook/assets/3.7.2 Column groups.png" alt=""><figcaption><p>Adding a column group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1157).png" alt=""><figcaption><p>Creating a custom measure group</p></figcaption></figure>
 
-b) Enter a label for the group as shown below and click 'Apply'.
+**STEP 2:** The column group gets created and it can be formatted using the 'Style' and 'Alignment' options as shown below.
 
-<figure><img src="../../.gitbook/assets/3.7.3 Column groups.png" alt=""><figcaption><p>Naming the group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
 
-c) The column group gets created and it can be formatted using the 'Style' and 'Alignment' options as shown below.
+**STEP 3:** The other groups can be created and formatted as shown.
 
-<figure><img src="../../.gitbook/assets/3.7.4 Column groups.png" alt=""><figcaption><p>Groups can be formatted using Style and Alignment options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
 
-d) The other groups can be created and formatted as shown.
+**STEP 4:** Enable the **Column Group Expand/Collapse Icon** option from Display settings. You can expand and collapse column groups by clicking the <img src="../../.gitbook/assets/image (669).png" alt="" data-size="line">icon.
 
-<figure><img src="../../.gitbook/assets/3.7.5 Column groups.png" alt=""><figcaption><p>Three column groups created</p></figcaption></figure>
-
-e) You can expand and collapse column groups by clicking the <img src="../../.gitbook/assets/image (669).png" alt="" data-size="line">icon.
-
-<figure><img src="../../.gitbook/assets/image (670).png" alt=""><figcaption><p>Expanded column groups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1160).png" alt=""><figcaption><p>Expand/collapse column groups</p></figcaption></figure>
 
 The values in the grouped measures will not be displayed when a group is collapsed.
 
 <figure><img src="../../.gitbook/assets/image (671).png" alt=""><figcaption><p>Collapsed column group</p></figcaption></figure>
+
+**STEP 5:** When you have column dimensions assigned and you want the group to be created across all dimensions, check the **Group Across Columns** option.
+
+<figure><img src="../../.gitbook/assets/image (1161).png" alt=""><figcaption><p>Group across columns option</p></figcaption></figure>
+
+Notice how the Revenue group is created across all the column dimension categories.
+
+<figure><img src="../../.gitbook/assets/image (1162).png" alt=""><figcaption><p>Creating groups across column dimensions</p></figcaption></figure>
 
 ## 2. Group rows
 
