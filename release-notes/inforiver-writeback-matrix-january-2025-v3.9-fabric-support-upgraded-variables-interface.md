@@ -10,7 +10,7 @@
 
 We’ve expanded Infobridge data integration capabilities – you can now import Fabric Lakehouse tables and cascade them into your connected planning reports in Inforiver!
 
-Enter the workspace, Lakehouse, and table name to integrate the Lakehouse source. Please bear in mind that Fabric Lakehouse needs to be in “Connected” state in the Admin console > My Integrations section.
+Enter the workspace, Lakehouse, and table name to integrate the Lakehouse source. Please bear in mind that Fabric Lakehouse and Azure Data Lake Storage need to be in “Connected” state in the Admin console > My Integrations section.
 
 <figure><img src="../.gitbook/assets/1.1.import-fabric-lakehouse-sources.png" alt=""><figcaption><p>Fabric lakehouse support</p></figcaption></figure>
 
@@ -100,13 +100,13 @@ The **List** view displays rows in the order that they were inserted.
 
 You can instantly add child rows and sibling(at the same level of the hierarchy) rows right from the Manage Rows side pane.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-          Search and filter custom rows
 
 Use the Search and Filter options to search for a particular row category or display rows based on the type.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2. Parent rows as calculated rows
 
@@ -115,6 +115,12 @@ With Inforiver, you can add organizational hierarchies or product lines on the f
 Select _Formula_ from the **Row Type** dropdown. You can enter custom calculations and refer to row dimensions categories.
 
 <figure><img src="../.gitbook/assets/image (1150).png" alt=""><figcaption><p>Calculated parent rows</p></figcaption></figure>
+
+#### 2.3. Disable insert row should not allow entry for parent dimensions
+
+If you have hierarchical row dimensions and want to disable row insertion for a specific dimension, this will automatically disable row insertion for all levels above it.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 3.     Variables
 
@@ -132,11 +138,11 @@ See how variables can make report navigation and editing easier without creating
 
 If your subscription job is running long or you need to make additional modifications to your report before sending it out, you can use the new Cancel Job option in the scheduler. This will immediately abort the subscription and cancel both the parent and child jobs without having to abort each child job individually.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 You’ll notice that the status of all your jobs is changed to Failed.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.2. Export jobs
 
@@ -150,13 +156,21 @@ We’ve upgraded the Inforiver Sorting algorithm to provide advanced nested sort
 
 <figure><img src="../.gitbook/assets/5.1. nested-sorting.png" alt=""><figcaption></figcaption></figure>
 
-## Commenting and collaboration
+## 6. Commenting and collaboration
+
+#### 6.1. Comments settings revamp
 
 With Inforiver’s Comments feature, you can allow users to collaborate and add more context to your reports. It doesn’t stop at that – you can set priorities for comments, post replies, schedule comment digests, and assign permissions. In this version, the Comment settings have been re-structured to enhance accessibility.
 
 <figure><img src="../.gitbook/assets/3.1. commentary.png" alt=""><figcaption></figcaption></figure>
 
 You can create starred comments, filter based on resolved/starred/your threads, and sort comments on priority/creation time from the View All Comments side pane.
+
+#### 6.2. Marker mode enhancements
+
+When you create notes in Inforiver, you can enable marker mode to highlight important observations while presenting your report. You can now set the color, shape, and width of markers.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 7. Performance mode
 
@@ -190,59 +204,59 @@ Supported formulae:
 
 <figure><img src="../.gitbook/assets/normal-dist-function-list.png" alt=""><figcaption></figcaption></figure>
 
-## Formatting
+## 10. Formatting
 
-### Conditional formatting for charts
+#### 10.1. Conditional formatting for charts
 
 Visualize your numbers better with inline charts in your matrix reports. You can now apply conditional formatting for inline charts, enabling stakeholders to identify trends and outliers easily. &#x20;
 
 <figure><img src="../.gitbook/assets/image (1138).png" alt=""><figcaption><p>Conditional formatting for inline charts</p></figcaption></figure>
 
-### Conditional formatting for row headers
+#### 10.2. Conditional formatting for row headers
 
 You can highlight row headers with conditional formatting when your actuals satisfy pre-defined conditions. Select _Row Headers_ from the **Apply to** dropdown. You can use conditional formatting to set a border, font style, font color, and cell background for row headers.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Conditional formatting icons & text for date measures
+#### 10.3. Conditional formatting icons & text for date measures
 
 You can use icons and text to highlight date measures with conditional formatting.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Icons in visual measures, columns, and rows
+#### 10.4. Icons in visual measures, columns, and rows
 
 Enhance the visual appeal of your reports with icons and symbols in measures headers, column headers, and inserted rows. You can copy the preferred icon and paste it in the title section.
 
 <figure><img src="../.gitbook/assets/image (1136).png" alt=""><figcaption><p>Using symbols in measure and row headers</p></figcaption></figure>
 
-## Other enhancements
+## 11. Other enhancements
 
-#### - Sort icon upgrade
+#### 11.1. Sort icon upgrade
 
 When you sort measures from the column gripper, you'll notice that the sort icons have been upgraded to a more intuitive version.
 
 <figure><img src="../.gitbook/assets/image (1137).png" alt=""><figcaption><p>New sort icons</p></figcaption></figure>
 
-#### - Refer to visual measures, simulations, and forecasts in headers
+#### 11.2. Refer to visual measures, simulations, and forecasts in headers
 
 With Inforiver, you can select the data displayed in header charts and KPIs. In the latest version, you can refer to visual measures, formulae, forecasts, simulations, and data inputs in header charts and KPIs.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### - Custom date formatting for non-hierarchical dates
+#### 11.3. Custom date formatting for non-hierarchical dates
 
 You can now use custom date formats when you have non-hierarchical date fields in your dataset.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### - Aggregation notification while converting to percentages
+#### 11.4. Aggregation notification while converting to percentages
 
 When you convert a measure to a percentage or vice-versa, Inforiver will provide a link in the notification that will allow you to easily switch to native aggregation if needed.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### - Ungroup and remove group in row gripper
+#### 11.5. Ungroup and remove group in row gripper
 
 You can use the row gripper to flatten custom row hierarchies. Notice how the parent _Operations_ group is removed and the child categories are converted into parent categories after ungrouping.
 
@@ -250,18 +264,36 @@ You can use the row gripper to flatten custom row hierarchies. Notice how the pa
 
 The Remove Group option will delete the parent category i.e. remove the selected level of the hierarchy including all child records.
 
-#### -  WAF compatibility
+#### 11.6. WAF compatibility
 
 Infobridge, Inforiver, and Editable can now work together with client-side Web Application Firewalls (WAF) to stay secure. [Learn more about WAF compatibility in Inforiver](https://docs.inforiver.com/inforiver-enterprise-on-prem/how-to-guides/application-gateway-integration#for-web-application-firewall-waf-support-you-must-consider-things-like).
 
-#### - Performance boost for allocations
+#### 11.7. Performance boost for allocations
 
 Significant performance optimizations will enable you to seamlessly distribute and allocate forecasts/data inputs for up to 1 million cells.&#x20;
 
-#### - Unlock cells in the Read view
+#### 11.8. Unlock cells in the Read view
 
 Report users will be able to lock and unlock cells in read view. They will not however be able to unlock cells that were locked by the report author.
 
-#### - Functions for Display Settings
+#### 11.9. Functions for Display Settings
 
 Report authors can choose to give users access to certain display settings like ragged hierarchy, semantic formatting, and null/zero handling with scripts. When used with variables, users will be able to turn these settings on or off although they cannot directly access display settings.
+
+#### 11.10. Search bar for scenarios and semantic models
+
+We've added a search bar to enable you to quickly locate dimensions while creating scenarios or fetching options from a semantic model.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### 11.12. Semantic formatting from column gripper
+
+You can override the global semantic model format set in Display settings and apply individual semantic formatting for measures from the column gripper.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### 11.13. Sign in headers for all templates
+
+The Sign in Headers option could be applied only to IBCS templates in earlier versions. You can now use it for all Inforiver templates.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

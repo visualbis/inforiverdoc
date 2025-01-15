@@ -26,7 +26,7 @@ This option is for user management configuration where you can add/remove users 
 
 Power BI permissions, data flow tracking between InfoBridge and Inforiver, and organization group configurations are all managed with consent under this section. Clicking **Configure** will take you to the appropriate settings page and enable the permissions.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Consents configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Consents configuration</p></figcaption></figure>
 
 ### 3. Writeback/sync
 
