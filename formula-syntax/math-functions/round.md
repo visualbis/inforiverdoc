@@ -12,7 +12,7 @@ round(value, significance)
 
 value - Required. The number to be rounded.
 
-significance - Optional. The decimal places to which the number should be rounded. If this argument is missing, it is considered as 0.
+significance - Optional. The decimal places to which the number should be rounded. If this argument is missing, it is considered as 1.
 
 ## Example
 
