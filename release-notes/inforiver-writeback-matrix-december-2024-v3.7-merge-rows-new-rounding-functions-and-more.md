@@ -31,13 +31,13 @@ In business intelligence reporting, accuracy and precision in handling numerical
 * The **ROUNDUP** function always rounds a number up, away from zero. Use ROUNDUP when you always need a higher estimate, such as in budgeting or safety margins.
 * The **ROUNDDOWN** function always rounds a number down, toward zero. Use ROUNDDOWN for conservative estimates, like minimizing costs.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Rounding functions in Inforiver</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Rounding functions in Inforiver</p></figcaption></figure>
 
 ## 3. Checkboxes in MOR layout
 
 Inforiver's popular Measure on Rows layout now supports checkboxes in addition to data input types like numeric values, text fields, dropdown menus and Last updated at/by metadata.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Checkboxes in MOR layout</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>Checkboxes in MOR layout</p></figcaption></figure>
 
 ## 4. Actionable error messages in Infobridge
 
@@ -49,4 +49,4 @@ Have you ever encountered data processing error messages that were too technical
 
 You can input data in the total and subtotal rows for non-numeric fields without having to tweak any settings. The **Allow entry on total/subtotal rows** is pre-enabled to ensure a smooth experience. &#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Total and subtotal entries for non-numeric data input fields</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p>Total and subtotal entries for non-numeric data input fields</p></figcaption></figure>

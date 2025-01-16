@@ -72,7 +72,7 @@ You can also add a source from the console.
 
 **STEP 5:** The details of the visual are displayed. Select the scenarios and measures to import and click **Add.**
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Select scenarios and measures</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Select scenarios and measures</p></figcaption></figure>
 
 The source is added to the bridge as below.
 

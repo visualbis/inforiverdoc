@@ -23,7 +23,7 @@ Infobridge now supports single and multi-select data input fields. For multi-dim
 
 In the report below, we’ve sourced the bonus component and payout status from Infobridge for the YTD earnings report.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p>Live streaming single and multi select values</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Live streaming single and multi select values</p></figcaption></figure>
 
 #### 1.2. Select measures for new sources
 
@@ -35,7 +35,7 @@ When you create a new source from within Infobridge, you will be able to select 
 
 Infobridge has a new **Unnest** function, that you can leverage to flatten your data. For instance, when you have multi-select options or comma-separated text values in your report, you can split your values into multiple rows.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Unnest in Infobridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Unnest in Infobridge</p></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ With Inforiver, you can setup no-code multi-level approval workflows that give a
 
 The upgraded interface for the adjustments workflow makes it simpler to track and manage adjustments. You can filter adjustments based on their status and view them based on various criteria like assignee/assigner/unassigned adjustments.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adjustment workflow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adjustment workflow</p></figcaption></figure>
 
 ### 4. Other enhancements
 
@@ -57,7 +57,7 @@ The upgraded interface for the adjustments workflow makes it simpler to track an
 
 You can control connections to Dataverse from the My Integrations page in the Admin console. When you disconnect the integration, the Dataverse destinations in all reports will be removed.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Integrations for Dataverse</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Integrations for Dataverse</p></figcaption></figure>
 
 #### 4.2. French and Spanish support
 

@@ -10,7 +10,7 @@ The following KPI card was created earlier. Let's now create another KPI card fr
 
 **STEP 1:** Hover over the header and go to edit mode by clicking the **Edit** option in the context menu.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Editing the header</p></figcaption></figure>
 
 **STEP 2:** The **Header & Footer** tab is enabled. Let's remove the default header and choose KPI from the **Type** dropdown.
 

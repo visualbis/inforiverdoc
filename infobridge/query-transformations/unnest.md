@@ -12,7 +12,7 @@ You can leverage the **Unnest** transformation to flatten your data. For instanc
 
 Let's look at an example to demonstrate how the Unnest function works. Consider a table that captures the orders placed. The investment products purchased by each customer are separated by commas.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Orders table</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Orders table</p></figcaption></figure>
 
 An account manager may need to add details specific to each investment instrument, like an interest rate. They would need each product in a separate row to enter the rates as shown below. This is where the Unnest function can be used.
 

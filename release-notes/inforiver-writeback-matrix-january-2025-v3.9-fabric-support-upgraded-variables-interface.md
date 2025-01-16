@@ -120,7 +120,7 @@ Select _Formula_ from the **Row Type** dropdown. You can enter custom calculatio
 
 If you have hierarchical row dimensions and want to disable row insertion for a specific dimension, this will automatically disable row insertion for all levels above it.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3.     Variables
 
@@ -138,7 +138,7 @@ See how variables can make report navigation and editing easier without creating
 
 If your subscription job is running long or you need to make additional modifications to your report before sending it out, you can use the new Cancel Job option in the scheduler. This will immediately abort the subscription and cancel both the parent and child jobs without having to abort each child job individually.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 You’ll notice that the status of all your jobs is changed to Failed.
 
@@ -171,6 +171,12 @@ You can create starred comments, filter based on resolved/starred/your threads, 
 When you create notes in Inforiver, you can enable marker mode to highlight important observations while presenting your report. You can now set the color, shape, and width of markers.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 6.3. Delete option in notes column
+
+You can delete a particular note in the Notes column by hovering over it and clicking the <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">icon.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 7. Performance mode
 
@@ -248,7 +254,7 @@ In the Customize tab, you have options to apply common scaling for all measures 
 
 You can use the handy date picker when you need to filter writeback logs between specific create time ranges.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## 12. Other enhancements
 
@@ -274,7 +280,7 @@ You can now use custom date formats when you have non-hierarchical date fields i
 
 When you convert a measure to a percentage or vice-versa, Inforiver will provide a link in the notification that will allow you to easily switch to native aggregation if needed.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.5. Ungroup and remove group in row gripper
 
@@ -334,16 +340,40 @@ You will now be able to filter data input text fields with an 'IN' clause - allo
 
 You can now leverage options like contains/does not contain, begins with/ does bit begin with, ends with/ does not end with, is empty/is not empty.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **12.15. RGB color format in color picker**
 
 When you set a custom color, you can specify RGB and RGBA formats in the color picker.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **12.16. Empty rows resize**
 
 You will now be able to resize empty rows up to 4px.
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+**12.17. Grand totals to be rendered for bar, pin, and waterfall**
+
+Inforiver can render bar, pin, and waterfall charts in the column grand total. Enable the **Charts on column grand total** option from Display Settings to plot charts.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**12.18. MoR column width**
+
+You will be able to manually enter the column width in the MoR layout. Navigate to **Manage Rows > Settings > Manage Columns** and enter the value in the Width field.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+**12.19. Measure header label in MoR layout**
+
+When you don't have row dimensions assigned in the MoR layout, you can set a custom measure header. Navigate to Display Settings > Measure Header Label and input the label of your choice.
+
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**12.20. Custom row total/subtotal label in outline layout**
+
+You can set custom labels for the row totals and subtotals in the outline layout as well.  The row dimension category can be used as the prefix/suffix and you can input a title of your choice in the textbox.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

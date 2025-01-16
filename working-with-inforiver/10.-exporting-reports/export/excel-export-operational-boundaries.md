@@ -32,7 +32,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 2.3. Row-level charts cannot be exported. Bar charts&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row-level charts in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row-level charts in Inforiver</p></figcaption></figure>
 
 2.4. Themes cannot be applied for Excel exports.
 
@@ -52,7 +52,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 3.4. You can enable marker mode for highlighting data points. Markers however cannot be captured in exports.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Marker mode in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Marker mode in Inforiver</p></figcaption></figure>
 
 ### 4. Data volume
 
@@ -72,11 +72,11 @@ In this example, the positive and negative simulation percentages are exported i
 
 7.1. When you export to Excel, you have 3 options: export the entire report, export with expand/collapse for hierarchies, and expand the current state of the report. All these options are available in the default Hierarchy layout however some export options will be disabled based on the layout chosen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Export options in table layout</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Export options in table layout</p></figcaption></figure>
 
 7.2. Selected columns - only the Current State export option will be enabled if you want to export selected columns.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption><p>Current state export option for selected columns</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Current state export option for selected columns</p></figcaption></figure>
 
 ### 8. Icons
 
@@ -84,7 +84,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 Only 3 conditions will be supported in such scenarios.
 
-<div><figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom icons with additional ranges used in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h44_46.png" alt=""><figcaption><p>Icons in Excel export </p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom icons with additional ranges used in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h44_46.png" alt=""><figcaption><p>Icons in Excel export </p></figcaption></figure></div>
 
 8.2. Color customizations - If you have overridden the default colors, Excel may substitute different icons or change the color.
 
@@ -92,11 +92,11 @@ Only 3 conditions will be supported in such scenarios.
 
 8.3. Icon repetition -  If the same icon is used multiple times with different colors, only the colors that Excel supports will be exported.
 
-<div><figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Same icons with different colors applied in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h50_56.png" alt=""><figcaption><p>Icon color changed in Excel export</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Same icons with different colors applied in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h50_56.png" alt=""><figcaption><p>Icon color changed in Excel export</p></figcaption></figure></div>
 
 8.4. Rating icons are not supported. The Excel export will not have any icons when ratings are applied.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rating icons in Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rating icons in Inforiver</p></figcaption></figure>
 
 ### 9. Pagination
 

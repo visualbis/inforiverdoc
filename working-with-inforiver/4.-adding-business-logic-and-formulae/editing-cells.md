@@ -57,7 +57,7 @@ You can also rename row categories by double-clicking on them.&#x20;
 
 The same row category may be repeated at each hierarchy level for hierarchical datasets. When you try to rename such categories at one level, Inforiver displays a prompt to confirm whether the category should be renamed across all levels or only at that level.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Renaming Row Categories</p></figcaption></figure>
 
 ### 5. Bulk edit
 

@@ -16,7 +16,7 @@ Click on the **Refresh Source** option to manually trigger a refresh.
 
 When you create a bridge, you can select the scenarios and measures that you want to expose outside the visual. You can add measures and scenarios at any point from the General tab. Select them and click Update to pull in additional measures.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding measures and scenarios to a bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding measures and scenarios to a bridge</p></figcaption></figure>
 
 ### 3. Setup a refresh schedule
 
