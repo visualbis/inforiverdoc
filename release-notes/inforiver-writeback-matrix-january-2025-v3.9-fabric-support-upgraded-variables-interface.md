@@ -266,6 +266,12 @@ You can highlight non-numeric measures using the **is blank/is not blank** condi
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+#### 10.9. Background for classification text
+
+If you've opted for classification formatting, you can choose to enable a background for the text. This option is only available for text classification, not icons or ratings.
+
+<figure><img src="../.gitbook/assets/image (1163).png" alt=""><figcaption></figcaption></figure>
+
 ## 11. Admin console
 
 #### 11.1. Date picker for Writeback logs filter
@@ -402,11 +408,21 @@ When you lock cells after making a slicer selection, the locks will be retained 
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-**12.21. Filter while fetching data**
+**12.22. Filter while fetching data**
 
 When you apply Inforiver filters on large datasets, there is a remote chance that users may glimpse unfiltered data as it is being loaded into Inforiver. If your data is confidential, you can enable the **Filter while fetching data** option in Display Settings to ensure that data is not exposed.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+**12.23. Column filters for date measures**
+
+You can now apply column filters to narrow down date measures easily.&#x20;
+
+**12.24. Expand column to last level**&#x20;
+
+When you have a column hierarchy in your reports, enable the **Expand column to Last Level** toggle in Display Settings to automatically expand the hierarchy when the report is loaded.
+
+<figure><img src="../.gitbook/assets/image (1164).png" alt=""><figcaption></figcaption></figure>
 
 ## 13. Writeback
 
