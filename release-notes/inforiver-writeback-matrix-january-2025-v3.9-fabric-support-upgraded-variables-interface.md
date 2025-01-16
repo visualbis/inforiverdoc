@@ -100,13 +100,13 @@ The **List** view displays rows in the order that they were inserted.
 
 You can instantly add child rows and sibling(at the same level of the hierarchy) rows right from the Manage Rows side pane.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-          Search and filter custom rows
 
 Use the Search and Filter options to search for a particular row category or display rows based on the type.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2. Parent rows as calculated rows
 
@@ -142,7 +142,7 @@ If your subscription job is running long or you need to make additional modifica
 
 You’ll notice that the status of all your jobs is changed to Failed.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.2. Export jobs
 
@@ -170,7 +170,7 @@ You can create starred comments, filter based on resolved/starred/your threads, 
 
 When you create notes in Inforiver, you can enable marker mode to highlight important observations while presenting your report. You can now set the color, shape, and width of markers.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 7. Performance mode
 
@@ -216,13 +216,13 @@ Visualize your numbers better with inline charts in your matrix reports. You can
 
 You can highlight row headers with conditional formatting when your actuals satisfy pre-defined conditions. Select _Row Headers_ from the **Apply to** dropdown. You can use conditional formatting to set a border, font style, font color, and cell background for row headers.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.3. Conditional formatting icons & text for date measures
 
 You can use icons and text to highlight date measures with conditional formatting.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.4. Icons in visual measures, columns, and rows
 
@@ -240,7 +240,7 @@ Highlight your data input fields like number, dropdown, and person columns with 
 
 In the Customize tab, you have options to apply common scaling for all measures or individual scaling for each measure.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 11. Admin console
 
@@ -248,7 +248,7 @@ In the Customize tab, you have options to apply common scaling for all measures 
 
 You can use the handy date picker when you need to filter writeback logs between specific create time ranges.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 12. Other enhancements
 
@@ -262,13 +262,13 @@ When you sort measures from the column gripper, you'll notice that the sort icon
 
 With Inforiver, you can select the data displayed in header charts and KPIs. In the latest version, you can refer to visual measures, formulae, forecasts, simulations, and data inputs in header charts and KPIs.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.3. Custom date formatting for non-hierarchical dates
 
 You can now use custom date formats when you have non-hierarchical date fields in your dataset.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.4. Aggregation notification while converting to percentages
 
@@ -304,32 +304,46 @@ Report authors can choose to give users access to certain display settings like 
 
 We've added a search bar to enable you to quickly locate dimensions while creating scenarios or fetching options from a semantic model.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.11. Semantic formatting from column gripper
 
 You can override the global semantic model format set in Display settings and apply individual semantic formatting for measures from the column gripper.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 11.12. Sign in headers for all templates
 
 The Sign in Headers option could be applied only to IBCS templates in earlier versions. You can now use it for all Inforiver templates.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.13. Enhancements to minimal with tabs toolbar
 
 Crop issues in the Customize tab while using the Minimal with tabs toolbar have been fixed.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.14. IN clause for data input text filters**
 
 You will now be able to filter data input text fields with an 'IN' clause - allowing you to easily narrow down your data.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.15. Additional options for Inforiver filters**
 
 You can now leverage options like contains/does not contain, begins with/ does bit begin with, ends with/ does not end with, is empty/is not empty.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+**12.15. RGB color format in color picker**
+
+When you set a custom color, you can specify RGB and RGBA formats in the color picker.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**12.16. Empty rows resize**
+
+You will now be able to resize empty rows up to 4px.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
