@@ -106,7 +106,7 @@ You can instantly add child rows and sibling(at the same level of the hierarchy)
 
 Use the Search and Filter options to search for a particular row category or display rows based on the type.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2. Parent rows as calculated rows
 
@@ -142,7 +142,7 @@ If your subscription job is running long or you need to make additional modifica
 
 You’ll notice that the status of all your jobs is changed to Failed.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.2. Export jobs
 
@@ -170,7 +170,7 @@ You can create starred comments, filter based on resolved/starred/your threads, 
 
 When you create notes in Inforiver, you can enable marker mode to highlight important observations while presenting your report. You can now set the color, shape, and width of markers.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 6.3. Delete option in notes column
 
@@ -246,7 +246,13 @@ Highlight your data input fields like number, dropdown, and person columns with 
 
 In the Customize tab, you have options to apply common scaling for all measures or individual scaling for each measure.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 10.7. Padding for stacked bar charts
+
+You can set custom padding between the stacks in a stacked bar chart.&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## 11. Admin console
 
@@ -268,7 +274,7 @@ When you sort measures from the column gripper, you'll notice that the sort icon
 
 With Inforiver, you can select the data displayed in header charts and KPIs. In the latest version, you can refer to visual measures, formulae, forecasts, simulations, and data inputs in header charts and KPIs.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.3. Custom date formatting for non-hierarchical dates
 
@@ -334,7 +340,7 @@ Crop issues in the Customize tab while using the Minimal with tabs toolbar have 
 
 You will now be able to filter data input text fields with an 'IN' clause - allowing you to easily narrow down your data.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.15. Additional options for Inforiver filters**
 
@@ -358,13 +364,13 @@ You will now be able to resize empty rows up to 4px.
 
 Inforiver can render bar, pin, and waterfall charts in the column grand total. Enable the **Charts on column grand total** option from Display Settings to plot charts.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.18. MoR column width**
 
 You will be able to manually enter the column width in the MoR layout. Navigate to **Manage Rows > Settings > Manage Columns** and enter the value in the Width field.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.19. Measure header label in MoR layout**
 
@@ -377,3 +383,4 @@ When you don't have row dimensions assigned in the MoR layout, you can set a cus
 You can set custom labels for the row totals and subtotals in the outline layout as well.  The row dimension category can be used as the prefix/suffix and you can input a title of your choice in the textbox.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
