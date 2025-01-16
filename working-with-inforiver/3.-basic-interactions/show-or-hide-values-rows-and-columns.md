@@ -108,4 +108,4 @@ You can also display measures for relative time periods like last n days/weeks/m
 
 After you create and save a measure time range, you can instantly switch between them and analyze your data.
 
-<figure><img src="../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Switching between time ranges</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled Project (8).gif" alt=""><figcaption><p>Switching between time ranges</p></figcaption></figure>
