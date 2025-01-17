@@ -382,13 +382,13 @@ You will now be able to resize empty rows up to 4px.
 
 Inforiver can render bar, pin, and waterfall charts in the column grand total. Enable the **Charts on column grand total** option from Display Settings to plot charts.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.18. MoR column width**
 
 You will be able to manually enter the column width in the MoR layout. Navigate to **Manage Rows > Settings > Manage Columns** and enter the value in the Width field.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 **12.19. Measure header label in MoR layout**
 

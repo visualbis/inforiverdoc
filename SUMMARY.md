@@ -176,6 +176,8 @@
     * [Recommended practices while working with Power BI desktop](working-with-inforiver/15.-managing-inforiver-writeback-matrix-visuals/recommended-practices-while-working-with-power-bi-desktop.md)
   * [16. Approval workflows](working-with-inforiver/16.-approval-workflows.md)
   * [17. Collaborative adjustment workflows](working-with-inforiver/17.-collaborative-adjustment-workflows.md)
+  * [18. Variables](working-with-inforiver/18.-variables/README.md)
+    * [Variable types](working-with-inforiver/18.-variables/variable-types.md)
 * [Admin Console](admin-console/README.md)
   * [Manage Profile](admin-console/manage-profile.md)
   * [User management](admin-console/user-management.md)
