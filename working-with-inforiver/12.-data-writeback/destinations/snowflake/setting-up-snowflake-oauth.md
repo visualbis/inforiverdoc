@@ -49,7 +49,7 @@ DESC SECURITY INTEGRATION MY_INTEGRATION_NAME;
 
 You will be redirected to the Snowflake login page, where you need to enter your Username and Password to connect.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Snowflake Sign in</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Snowflake Sign in</p></figcaption></figure>
 
 ### 4. Enter Account/DB/Schema/Warehouse details
 

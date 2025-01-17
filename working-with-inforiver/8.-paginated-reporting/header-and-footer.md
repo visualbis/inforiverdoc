@@ -93,7 +93,7 @@ Use the **Insert** dropdown menu to add the predefined text elements listed belo
 * **Symbols**: Insert symbols denoting trademark or copyright or choose an emoji.
 * **Data Field:** Select any dimension or measure. The dimension values and measure totals are displayed in the header.
 
-<div><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Types of elements</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_14h52_18.png" alt=""><figcaption><p>Inserting pre-defined text elements in the header</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Types of elements</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_14h52_18.png" alt=""><figcaption><p>Inserting pre-defined text elements in the header</p></figcaption></figure></div>
 
 The image below shows various predefined text elements inserted in the header.
 
@@ -115,7 +115,7 @@ Before looking at creating header/footer elements from scratch, let's see how to
 
 If you choose a KPI preset, any selections made in the [KPI explorer](../3.-basic-interactions/explore-and-filter-data/explorer.md) will be reflected in the header as well.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>KPI explorer selection reflected in presets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>KPI explorer selection reflected in presets</p></figcaption></figure>
 
 ### 4.2. Footer preset
 

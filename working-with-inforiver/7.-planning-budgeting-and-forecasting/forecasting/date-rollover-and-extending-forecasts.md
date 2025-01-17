@@ -28,7 +28,7 @@ This field displays the period to be closed - it will change based on the Close 
 
 When you close a period, you can choose to extend the forecast. In this case, we generated a forecast from Jan to Dec 2024. When we close the January period, we can extend the forecast to 2025.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption><p>Extend forecast range option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (2) (1) (1) (1).png" alt=""><figcaption><p>Extend forecast range option</p></figcaption></figure>
 
 #### 5. Duration
 

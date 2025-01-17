@@ -43,7 +43,7 @@ Infobridge has a new **Unnest** function, that you can leverage to flatten your 
 
 With Inforiver, you can setup no-code multi-level approval workflows that give additional control over values updated in reports. Navigate to Display Settings > Misc > Approval Workflow > Setup Approvals. You can quickly create workflows to send emails or set the value for connected dropdowns based on the approval status.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Setting up a multi-level approval workflow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Setting up a multi-level approval workflow</p></figcaption></figure>
 
 ### 3. Adjustment workflow - UI enhancements
 

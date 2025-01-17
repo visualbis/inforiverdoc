@@ -20,7 +20,7 @@ If you have multiple forecast measures in your report, from the Distribute to dr
 
 There are two methods for distribution, we'll look at an example for each of them.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (2).png" alt=""><figcaption><p>Distribution method</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Distribution method</p></figcaption></figure>
 
 &#x20;In this scenario, both Feb and March have the same forecast values, so equal distribution and distribution by weights would have the same outcome. The deficit of 47k has been distributed equally between the Feb and March forecasts and added to the existing forecasted value.
 

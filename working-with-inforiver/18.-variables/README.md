@@ -2,6 +2,10 @@
 
 Analysts are often faced with the challenging task of navigating large datasets that span across multiple dimension categories and time frames - this is where Inforiver variables can save the day. Variables offer a range of options to efficiently traverse your datasets, apply filters, and even run ad-hoc scripts. Variables are graphical controls like buttons, checkboxes, or steppers that can accept user input to perform actions like setting a filter or changing the layout.&#x20;
 
+See how variables can make report navigation and editing easier without creating Inforiver filters or manually editing the header or visual measures.
+
+<figure><img src="../../.gitbook/assets/2.2. variables-gif.gif" alt=""><figcaption><p>Variable controls in Inforiver</p></figcaption></figure>
+
 Let's take a deep dive into Inforiver variables.
 
 ## 1. Creating variables

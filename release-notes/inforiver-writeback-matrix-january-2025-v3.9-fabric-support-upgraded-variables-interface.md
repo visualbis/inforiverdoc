@@ -234,7 +234,7 @@ You can highlight row headers with conditional formatting when your actuals sati
 
 You can use icons and text to highlight date measures with conditional formatting.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.4. Icons in visual measures, columns, and rows
 
@@ -252,7 +252,7 @@ Highlight your data input fields like number, dropdown, and person columns with 
 
 In the Customize tab, you have options to apply common scaling for all measures or individual scaling for each measure.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.7. Padding for stacked bar charts
 
@@ -352,13 +352,13 @@ The Sign in Headers option could be applied only to IBCS templates in earlier ve
 
 Crop issues in the Customize tab while using the Minimal with tabs toolbar have been fixed.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **12.14. IN clause for data input text filters**
 
 You will now be able to filter data input text fields with an 'IN' clause - allowing you to easily narrow down your data.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.15. Additional options for Inforiver filters**
 

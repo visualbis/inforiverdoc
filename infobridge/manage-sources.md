@@ -10,7 +10,7 @@ Changes to data input fields in your reports are automatically reflected in Info
 
 Click on the **Refresh Source** option to manually trigger a refresh.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refreshing the source</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refreshing the source</p></figcaption></figure>
 
 ### 2. Adding new scenarios or measures to a bridge
 
