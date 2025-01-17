@@ -45,7 +45,7 @@ Inforiver delivers a variety of features that have repeatedly been [requested in
 
 In essence, these features are not available in Power BI today. While some can be implemented using workarounds, many of these are simply not achievable even with DAX and PowerQuery scripting.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Deliver functionality missing in Power BI
 

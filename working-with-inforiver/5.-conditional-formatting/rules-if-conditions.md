@@ -50,7 +50,7 @@ Display icons to apply conditional formatting on your data. You can also use cus
 
 You can position the text/icons with respect to the cell values. You can also choose to display only the icons or text and hide the cell values.
 
-<figure><img src="../../.gitbook/assets/Untitled Project (1) (1).gif" alt=""><figcaption><p>Using icons and text</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled Project (1) (1) (1).gif" alt=""><figcaption><p>Using icons and text</p></figcaption></figure>
 
 When you use icons, you have an additional option to align your icons in the grid. By default, the icons are left aligned.
 

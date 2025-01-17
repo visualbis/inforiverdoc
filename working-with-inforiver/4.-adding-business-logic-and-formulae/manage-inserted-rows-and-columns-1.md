@@ -50,7 +50,7 @@ In the example below, we’ve applied formatting, added notes, and comments, and
 
 The visual elements were lost after the product names were renamed to _Fruit Juices_ and _Chai & Coffee_ respectively.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2) (1).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2) (1) (1).png" alt=""><figcaption><p>When the row dimension 'Product Name' is renamed</p></figcaption></figure>
 
 To avoid this, let us map the dimension IDs to a constant dimension, such as the _Product ID_ instead of the _Product Name_. To do so, navigate to **Insert -> Manage Measures -> Settings -> Row ID mapping   -> Manage**.
 

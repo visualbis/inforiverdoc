@@ -26,19 +26,7 @@ COLUMN_PERIOD.START
 //Returns the start date for a month, quarter, or year
 ```
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Month level</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/year (1).png" alt=""><figcaption><p>Year level</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Quarter (1).png" alt=""><figcaption><p>Quarter level</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Month level</p></figcaption></figure> <figure><img src="../../.gitbook/assets/year (1).png" alt=""><figcaption><p>Year level</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Quarter (1).png" alt=""><figcaption><p>Quarter level</p></figcaption></figure></div>
 
 ## 2. COLUMN\_PERIOD.END
 
@@ -59,16 +47,4 @@ COLUMN_PERIOD.END
 //Returns the end date for a month, quarter, or year
 ```
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption><p>Year level</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Quarter (2).png" alt=""><figcaption><p>Quarter level</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/month.png" alt=""><figcaption><p>Month level</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (3) (1) (1) (2) (1).png" alt=""><figcaption><p>Year level</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Quarter (2).png" alt=""><figcaption><p>Quarter level</p></figcaption></figure> <figure><img src="../../.gitbook/assets/month.png" alt=""><figcaption><p>Month level</p></figcaption></figure></div>

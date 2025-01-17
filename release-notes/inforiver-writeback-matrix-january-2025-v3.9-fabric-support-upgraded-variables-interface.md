@@ -126,7 +126,7 @@ If you have hierarchical row dimensions and want to disable row insertion for a 
 
 Measure backup jobs have dedicated logs that show the status of the backup, milestones, and the backups that are deleted when the limit is reached. Click the **View jobs** option from the Schedule Measure Backup side pane.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3.     Variables
 
@@ -346,7 +346,7 @@ You can override the global semantic model format set in Display settings and ap
 
 The Sign in Headers option could be applied only to IBCS templates in earlier versions. You can now use it for all Inforiver templates.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.13. Enhancements to minimal with tabs toolbar
 
@@ -382,19 +382,19 @@ You will now be able to resize empty rows up to 4px.
 
 Inforiver can render bar, pin, and waterfall charts in the column grand total. Enable the **Charts on column grand total** option from Display Settings to plot charts.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.18. MoR column width**
 
 You will be able to manually enter the column width in the MoR layout. Navigate to **Manage Rows > Settings > Manage Columns** and enter the value in the Width field.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.19. Measure header label in MoR layout**
 
 When you don't have row dimensions assigned in the MoR layout, you can set a custom measure header. Navigate to Display Settings > Measure Header Label and input the label of your choice.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.20. Custom row total/subtotal label in outline layout**
 
@@ -453,7 +453,7 @@ You now have separate options to suppress native measures and Inforiver measures
 
 When the number of rows being written back exceeds a threshold, you'll need to enable a temporary staging table in the destination config. Writeback will fail unless the staging table option is enabled.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 13.2. Email notification for scheduled writeback failures
 

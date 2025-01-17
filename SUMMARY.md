@@ -179,6 +179,7 @@
   * [18. Variables](working-with-inforiver/18.-variables/README.md)
     * [Variable types](working-with-inforiver/18.-variables/variable-types/README.md)
       * [Number](working-with-inforiver/18.-variables/variable-types/number.md)
+      * [Select](working-with-inforiver/18.-variables/variable-types/select.md)
 * [Admin Console](admin-console/README.md)
   * [Manage Profile](admin-console/manage-profile.md)
   * [User management](admin-console/user-management.md)
