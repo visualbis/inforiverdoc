@@ -120,13 +120,13 @@ Select _Formula_ from the **Row Type** dropdown. You can enter custom calculatio
 
 If you have hierarchical row dimensions and want to disable row insertion for a specific dimension, this will automatically disable row insertion for all levels above it.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.4. View logs and status of measure backups
 
 Measure backup jobs have dedicated logs that show the status of the backup, milestones, and the backups that are deleted when the limit is reached. Click the **View jobs** option from the Schedule Measure Backup side pane.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 3.     Variables
 
@@ -180,7 +180,7 @@ When you create notes in Inforiver, you can enable marker mode to highlight impo
 
 #### 6.3. Delete option in notes column
 
-You can delete a particular note in the Notes column by hovering over it and clicking the <img src="../.gitbook/assets/image (4) (1) (5).png" alt="" data-size="line">icon.
+You can delete a particular note in the Notes column by hovering over it and clicking the <img src="../.gitbook/assets/image (4) (1) (5) (1).png" alt="" data-size="line">icon.
 
 <figure><img src="../.gitbook/assets/image (5) (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -258,7 +258,7 @@ In the Customize tab, you have options to apply common scaling for all measures 
 
 You can set custom padding between the stacks in a stacked bar chart.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.8. Is Blank/is not blank for non-numeric measures
 
@@ -382,31 +382,31 @@ You will now be able to resize empty rows up to 4px.
 
 Inforiver can render bar, pin, and waterfall charts in the column grand total. Enable the **Charts on column grand total** option from Display Settings to plot charts.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 **12.18. MoR column width**
 
 You will be able to manually enter the column width in the MoR layout. Navigate to **Manage Rows > Settings > Manage Columns** and enter the value in the Width field.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.19. Measure header label in MoR layout**
 
 When you don't have row dimensions assigned in the MoR layout, you can set a custom measure header. Navigate to Display Settings > Measure Header Label and input the label of your choice.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.20. Custom row total/subtotal label in outline layout**
 
 You can set custom labels for the row totals and subtotals in the outline layout as well.  The row dimension category can be used as the prefix/suffix and you can input a title of your choice in the textbox.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.21. Filter context - locked cells**
 
 When you lock cells after making a slicer selection, the locks will be retained even after changing the selection.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 **12.22. Filter while fetching data**
 
@@ -453,7 +453,7 @@ You now have separate options to suppress native measures and Inforiver measures
 
 When the number of rows being written back exceeds a threshold, you'll need to enable a temporary staging table in the destination config. Writeback will fail unless the staging table option is enabled.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 13.2. Email notification for scheduled writeback failures
 
