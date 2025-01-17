@@ -424,6 +424,29 @@ When you have a column hierarchy in your reports, enable the **Expand column to 
 
 <figure><img src="../.gitbook/assets/image (1164).png" alt=""><figcaption></figcaption></figure>
 
+**12.25. Frozen measure header and row categories for exports**
+
+Measure headers and row categories will be frozen by default for Excel exports.
+
+**12.26. Extended time limits for open forecasts**
+
+You can generate forecasts for longer time periods:
+
+| FORECAST TYPE | MAXIMUM TIME RANGE |
+| ------------- | ------------------ |
+| YEAR          | 25 years           |
+| HALF YEAR     | 20 years           |
+| QUARTER       | 15 years           |
+| MONTH         | 10 years           |
+| WEEK          | 5 years            |
+| DAY           | 2 years            |
+
+**12.30. Suppress NULL options in MoR**
+
+You now have separate options to suppress native measures and Inforiver measures that are null.
+
+<figure><img src="../.gitbook/assets/image (1167).png" alt=""><figcaption></figcaption></figure>
+
 ## 13. Writeback
 
 #### 13.1. Enforce staging table if payload exceeds a threshold
@@ -432,3 +455,6 @@ When the number of rows being written back exceeds a threshold, you'll need to e
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
+#### 13.2. Email notification for scheduled writeback failures
+
+An email notification will be generated when a scheduled writeback fails.
