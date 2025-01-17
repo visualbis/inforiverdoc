@@ -36,7 +36,7 @@ This formula is a variant of the running total quick formula. The running total 
 
 This option allows you to insert visual measures or a column that calculates the required percentage growth or decline of the chosen measure.
 
-<figure><img src="../../.gitbook/assets/image (1115).png" alt=""><figcaption><p>%Growth/Decline</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1115) (1).png" alt=""><figcaption><p>%Growth/Decline</p></figcaption></figure>
 
 #### iv) % Contribution to parent
 
@@ -78,13 +78,13 @@ The default variance calculated by Inforiver is based on the first measure added
 
 This option allows you to insert an empty column into the report to improve readability and visual appeal. Values cannot be entered in this column.
 
-<figure><img src="../../.gitbook/assets/image (1113).png" alt=""><figcaption><p>Empty Column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1113) (1).png" alt=""><figcaption><p>Empty Column</p></figcaption></figure>
 
 #### xi) Empty Measure
 
 This option allows you to insert empty measures into the report to improve readability and visual appeal. Values cannot be entered in these measures.
 
-<figure><img src="../../.gitbook/assets/image (1114).png" alt=""><figcaption><p>Empty Measure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1114) (1).png" alt=""><figcaption><p>Empty Measure</p></figcaption></figure>
 
 ### 2. Smart analysis
 

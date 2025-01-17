@@ -6,44 +6,44 @@ In this section, you need to provide all the report-related details and configur
 
 ### i) Select report
 
-In the first drop-down, select the Power BI workspace in which the report you want to schedule is published.
+In the first drop-down, choose the Power BI workspace where the report you want to schedule is published.
 
-The 'Workspace' and 'Report' fields will get auto-populated with the workspace and report name of the report. If you want to schedule a different report, you can update the details here.
+If you schedule the subscription from the Power BI report, the 'Workspace' and 'Report' fields will be auto-populated with the workspace and report names, respectively. If you wish to schedule a different report, you can update the details here.
 
-<figure><img src="../../../.gitbook/assets/select-workspace (1).png" alt=""><figcaption><p>Select workspace option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Select workspace</p></figcaption></figure>
 
 Based on the selection made in the first drop-down, the second drop-down gets populated with reports available in the selected workspace.&#x20;
 
 In the second drop-down, select the report for which you want to create a subscription.
 
-<figure><img src="../../../.gitbook/assets/select-report.png" alt=""><figcaption><p>Select report option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Select report </p></figcaption></figure>
 
 ### ii) Pages
 
-Here you can select the pages of the report to schedule.&#x20;
+Here you can choose which pages of the report to schedule.&#x20;
 
-* **All pages** - Schedule all the pages of the report&#x20;
-* **Select** - If this option is chosen, then a drop-down becomes available in which you can select the pages that you want to schedule. More than one page can be selected.
+* **All pages:** Send all the pages of the report.
+* **Select:** If you select this option, a drop-down menu appears, allowing you to choose which pages to schedule and send. Multiple pages can be selected.
 
-<figure><img src="../../../.gitbook/assets/select-pages.png" alt=""><figcaption><p>Select pages option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Select pages</p></figcaption></figure>
 
 ### iii) Include hidden pages&#x20;
 
-You can publish reports which contain hidden pages as well. While setting up the subscription, you will have an option to include hidden pages.&#x20;
+You can also publish reports containing hidden pages. When you set up your subscription, you will have the option to include hidden pages.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (527).png" alt=""><figcaption><p>Include hidden pages</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1114).png" alt=""><figcaption><p>Include hidden pages</p></figcaption></figure>
 
 ### iv) Row-level security
 
-Enabling this option will export the report based on the row-level security applied. If this option is enabled, initially a consent email will be sent to the selected recipients and only after the approval of the consent email, the scheduled reports will be sent to the recipients.
+Enabling this option will export the report based on the row-level security applied. If this option is enabled, initially a consent email will be sent to the selected recipients, and only after the approval of the consent email will the scheduled reports be sent to the recipients.
 
-Recipients with 'Admin' and 'Member' access roles will be able to view the entire report whereas the recipients with 'Viewer' access would be able to view only the relevant data based on their role.&#x20;
+Recipients with 'Admin' and 'Member' access roles will be able to view the entire report, whereas the recipients with 'Viewer' access would be able to view only the relevant data based on their role.&#x20;
 
 You can manage the roles of the members using the 'Manage roles' option under the 'Modelling' tab in the Power BI toolbar.
 
 <figure><img src="../../../.gitbook/assets/manage-roles.png" alt=""><figcaption><p>Manage roles option</p></figcaption></figure>
 
-For example, in the following image, the 'Report Viewer' role has been set to view only the data related to the 'United states' region.
+For example, in the following image, the 'Report Viewer' role has been set to view only the data related to the 'United States' region.
 
 <figure><img src="../../../.gitbook/assets/rls.png" alt=""><figcaption><p>Applying security roles</p></figcaption></figure>
 
@@ -59,7 +59,7 @@ You can learn more about row-level security and how to define user roles and rul
 
 ### v) Report plus layout
 
-You can create subscriptions based on the Report+ categories.  In this report, we have two categories - Beverages and Water. The records corresponding to these categories can be sent to different email IDs.&#x20;
+You can create subscriptions based on the Report+ categories. In this report, we have two categories: beverages and water. The records corresponding to these categories can be sent to different email IDs.&#x20;
 
 You can learn more about Report+ [here](../../8.-paginated-reporting/report-layouts-report+.md).
 

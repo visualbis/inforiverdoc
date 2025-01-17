@@ -126,7 +126,7 @@ If you have hierarchical row dimensions and want to disable row insertion for a 
 
 Measure backup jobs have dedicated logs that show the status of the backup, milestones, and the backups that are deleted when the limit is reached. Click the **View jobs** option from the Schedule Measure Backup side pane.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3.     Variables
 
@@ -180,9 +180,9 @@ When you create notes in Inforiver, you can enable marker mode to highlight impo
 
 #### 6.3. Delete option in notes column
 
-You can delete a particular note in the Notes column by hovering over it and clicking the <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line">icon.
+You can delete a particular note in the Notes column by hovering over it and clicking the <img src="../.gitbook/assets/image (4) (1) (5).png" alt="" data-size="line">icon.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (14).png" alt=""><figcaption></figcaption></figure>
 
 ## 7. Performance mode
 
@@ -258,13 +258,13 @@ In the Customize tab, you have options to apply common scaling for all measures 
 
 You can set custom padding between the stacks in a stacked bar chart.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.8. Is Blank/is not blank for non-numeric measures
 
 You can highlight non-numeric measures using the **is blank/is not blank** conditions. We've set a hatched background for the cells with blank customer names.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.9. Background for classification text
 
@@ -364,19 +364,19 @@ You will now be able to filter data input text fields with an 'IN' clause - allo
 
 You can now leverage options like contains/does not contain, begins with/ does bit begin with, ends with/ does not end with, is empty/is not empty.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (14).png" alt=""><figcaption></figcaption></figure>
 
 **12.15. RGB color format in color picker**
 
 When you set a custom color, you can specify RGB and RGBA formats in the color picker.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (15).png" alt=""><figcaption></figcaption></figure>
 
 **12.16. Empty rows resize**
 
 You will now be able to resize empty rows up to 4px.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (13).png" alt=""><figcaption></figcaption></figure>
 
 **12.17. Grand totals to be rendered for bar, pin, and waterfall**
 
@@ -394,25 +394,25 @@ You will be able to manually enter the column width in the MoR layout. Navigate 
 
 When you don't have row dimensions assigned in the MoR layout, you can set a custom measure header. Navigate to Display Settings > Measure Header Label and input the label of your choice.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **12.20. Custom row total/subtotal label in outline layout**
 
 You can set custom labels for the row totals and subtotals in the outline layout as well.  The row dimension category can be used as the prefix/suffix and you can input a title of your choice in the textbox.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 **12.21. Filter context - locked cells**
 
 When you lock cells after making a slicer selection, the locks will be retained even after changing the selection.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.22. Filter while fetching data**
 
 When you apply Inforiver filters on large datasets, there is a remote chance that users may glimpse unfiltered data as it is being loaded into Inforiver. If your data is confidential, you can enable the **Filter while fetching data** option in Display Settings to ensure that data is not exposed.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (20).png" alt=""><figcaption></figcaption></figure>
 
 **12.23. Column filters for date measures**
 
@@ -430,5 +430,5 @@ When you have a column hierarchy in your reports, enable the **Expand column to 
 
 When the number of rows being written back exceeds a threshold, you'll need to enable a temporary staging table in the destination config. Writeback will fail unless the staging table option is enabled.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 

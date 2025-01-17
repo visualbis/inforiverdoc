@@ -1,46 +1,52 @@
 # Manage your subscriptions
 
-You can manage all your subscriptions from the Inforiver console. Click on 'Manage subscriptions' in an Inforiver report as shown below. You can also access your subscriptions directly from the Inforiver Console.
+You can manage all your subscriptions from the Inforiver console.&#x20;
 
-<figure><img src="../../.gitbook/assets/manage subscription.png" alt=""><figcaption><p>Manage subscriptions option</p></figcaption></figure>
+Click on **Manage subscriptions** in an Inforiver report as shown below.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Manage Subscription</p></figcaption></figure>
+
+You can also access your subscriptions directly from the Inforiver Console.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Accessing subscriptions from the console</p></figcaption></figure>
 
 ## 1. View & filter subscriptions
 
-The 'My subscriptions' page contains a list of all your subscriptions. For each subscription, the following details are displayed.
+The 'My subscriptions' page contains a list of all your subscriptions. For each subscription, the following details are displayed:
 
 ### a) Subscription details
 
-**i) Name**  - The name of the subscription
+**i) Name**  - The name of the subscription.
 
-**ii) Workspace** - The name of the workspace the subscription belongs to
+**ii) Workspace -** The name of the workspace in which the subscribed report is available.
 
-**iii) Report** - The name of the report in the workspace
+**iii) Report** - The name of the report in the workspace.
 
-**iv) Owner**  - The owner of the subscription
+**iv) Owner**  - The owner of the subscription.
 
-**v) Next job** - The date and the time of the next run
+**v) Next job** - The date and the time of the next run.
 
-**vi) Last job** - The date and time of the previous run
+**vi) Last job** - The date and time of the previous run.
 
-**vii) Status** - This displays the current status of the subscription
+**vii) Status** - This displays the current status of the subscription.
 
-**viii) Actions** - The following options are available under the 'Actions' option
+**viii) Actions -** The menu where you can perform the following options:
 
 #### **Run**&#x20;
 
-Clicking on the play icon will open up a 'Run now' modal. Click the 'Run now' button in the modal to run the subscription instantly.
+Clicking on the play icon will open a 'Run now' modal. Click the **Run now** button to run the subscription instantly.
 
-<figure><img src="../../.gitbook/assets/run-subscription.png" alt=""><figcaption><p>Run subscription</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Run subscription</p></figcaption></figure>
 
 #### **Pause**&#x20;
 
-Clicking on the pause icon will open up a 'Pause' modal.  Click the 'Pause' button in the modal to pause the subscription.
+Click the **Pause** button in the modal to pause the subscription.
 
 <figure><img src="../../.gitbook/assets/pause-subscription.png" alt=""><figcaption><p>Pause subscription</p></figcaption></figure>
 
 #### **Delete**&#x20;
 
-Clicking on the delete icon will open up a 'Delete' modal.  Click the 'Delete' button in the modal to delete the subscription.
+Clicking on the delete icon will open up a 'Delete' modal. Click the 'Delete' button in the modal to delete the subscription.
 
 <figure><img src="../../.gitbook/assets/delete-subscription (1).png" alt=""><figcaption><p>Delete subscription</p></figcaption></figure>
 
@@ -104,16 +110,14 @@ Clicking on this option will reset all the applied filters.
 
 Clicking on the name of any subscription in the 'My subscriptions' page will display all the subscription details of the report. By default, the 'Summary' tab is shown.
 
-<figure><img src="../../.gitbook/assets/subscription-summary.png" alt=""><figcaption><p>Subscription summary page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1165).png" alt=""><figcaption><p>Subscription Summary</p></figcaption></figure>
 
-The following options are present at the top bar of this page
+The following options are available at the top bar of this page:
 
-<figure><img src="../../.gitbook/assets/subscription-summary-options.png" alt=""><figcaption><p>subscription summary options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1166).png" alt=""><figcaption><p>Options in the summary</p></figcaption></figure>
 
-* **Run now -** Clicking on this icon will run the job subscription instantly
-* **Pause subscription -** Clicking on this icon will pause the subscription
-* **Send test email -** Using this option, you can send a test email to verify if the scheduled reports are being sent as expected and in the expected format. \
-  \
+* **Run now -** Clicking on this icon will run the job subscription instantly.
+* **Send test email -** Using this option, you can send a test email to verify if the scheduled reports are being sent as expected and in the expected format.\
   Clicking on this option will open up a 'Send test email' modal in which you can specify all the required details to send a test email and click on the send button.
 
 <figure><img src="../../.gitbook/assets/send-test-email.png" alt=""><figcaption><p>Send test email</p></figcaption></figure>
@@ -130,43 +134,105 @@ The following options are present at the top bar of this page
 
 This tab displays all the jobs for the selected subscription.
 
-<figure><img src="../../.gitbook/assets/my-subscription-jobs.png" alt=""><figcaption><p>Job lists</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1115).png" alt=""><figcaption><p>Jobs list</p></figcaption></figure>
 
-Clicking on the job ID will provide an overall summary of the job. The 'Run details' section contains information about all the scheduled job runs.&#x20;
+Clicking on the job ID will provide an overall summary of the job. The 'Run details' section provides detailed information about the scheduled job runs.
 
-<figure><img src="../../.gitbook/assets/job-summary.png" alt=""><figcaption><p>Job summary</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1116).png" alt=""><figcaption><p>Job summary</p></figcaption></figure>
 
-The 'Milestones' section contains a flow about all
+### c) Milestones
 
-* **Start job -** This indicates the start of the job along with the date and time at which this milestone happened.
-* **Validation -** This milestone indicates the verification and validation of the access token, report access, and report data. \
-  \
-  This option has the 'View events' link. Clicking on this link will display the validation status of each of these three verifications.
+A milestone represents the stages within the scheduled job progress. It consists of multiple levels, with each level providing a clear indication of the job's advancement to the user.
 
-<figure><img src="../../.gitbook/assets/token-view-events.png" alt=""><figcaption><p>Token validation events</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1117).png" alt=""><figcaption><p>Milestones</p></figcaption></figure>
 
-* **Load report -** This milestone indicates that the data/report has been loaded for further processing and data collection.
-* **Collect visual data -** This milestone indicates the collection of all the visual data of the report including the bookmark, excel, and pdf data. \
-  \
-  This option has a 'View events' link. Clicking on this link will display detailed information and page configuration of the collected visual data including the page/visual from which the data was collected, and the task status.
+#### Sub-Milestones
 
-<figure><img src="../../.gitbook/assets/collect-data-events.png" alt=""><figcaption><p>Collect visual data events</p></figcaption></figure>
+Sub-milestones refer to a group of smaller activities or tasks that, when completed, collectively contribute to achieving an individual milestone. These sub-milestones help break down larger milestones into more manageable steps, tracking progress at a granular level while still contributing to the overall goal.
 
-* **Generate attachment -** Indicates that the PDF/excel attachment has been generated. This option has a 'View events' link. \
-  \
-  Clicking on this link will display detailed information about the generated attachments, the page it belongs to, the file status as well as the task status.
+Milestone details for both legacy mode and current mode subscriptions are provided below. It denotes the indication and progress for all types of jobs, such as single jobs or a parent with multiple child jobs.
 
-<figure><img src="../../.gitbook/assets/attachments-events.png" alt=""><figcaption><p>Generate attachments events</p></figcaption></figure>
+#### Milestones Details
 
-* **Deliver to destinations -** Indicates that the scheduled job report is delivered to the destination
+Milestones & sub-milestones will be provided with a specified time stamp to track the duration of the process. It applies to various job flows, like single jobs and parent jobs with multiple job processing.
 
-<figure><img src="../../.gitbook/assets/report-milestones (1).png" alt=""><figcaption><p>Milestone details</p></figcaption></figure>
+The 'Milestones' section contains step-by-step event flow of the scheduled run as follows:
 
-If a job run fails, then the 'Milestones' section has a 'Re-Run Job' button available at the top right corner of the section. Clicking on this option will re-run the failed job.
+#### 1. Initial Job Data Setup
 
-<figure><img src="../../.gitbook/assets/milestone-rerun.png" alt=""><figcaption><p>Milestone re-run job option</p></figcaption></figure>
+The system preprocesses the scheduled job configuration data to extract and organize the necessary information required to initiate the job. This includes:
 
-Also for failed jobs, an additional section called the 'Error details' section becomes available. This section contains information about errors that occurred during the job run and an indication of which milestone failed during the job run.&#x20;
+**·** **Job Initialization:** Extracting key details from the pre-processed scheduled job configuration data to start the job execution process.
+
+#### 2. Refresh Data Service
+
+This process handles refreshing the dataset based on the configuration:
+
+**· Refresh Execution:** If the **refresh dataset service** is enabled, the system updates the dataset to ensure the latest data is used before proceeding with further tasks.
+
+**· Skip Condition:** If the refresh service is not enabled, the dataset refresh step is skipped, and the process continues with the existing data.
+
+#### 3. Collect Page Visuals
+
+The system processes embedding in a page-wise manner to ensure detailed tracking and configuration.
+
+<figure><img src="../../.gitbook/assets/image (1118).png" alt=""><figcaption><p>Collect Page Visuals</p></figcaption></figure>
+
+Key steps include:
+
+**1.1. Initiate Puppeteer Services**
+
+**· Start the Puppeteer Service:** Begin by activating the Puppeteer automation system to handle tasks like embedding a PowerBI report into the process.
+
+**· Embed the PowerBI Report:** Use Puppeteer to include the PowerBI report, ensuring it is accessible for all further actions.
+
+**1.2. Page Wise Dynamic Milestone**
+
+* Checks for page Limit settings
+* Track Page-Wise Progress: As the system works through each page, it does the following:
+
+&#x20;            \> Takes a screenshot of the overall report page.
+
+&#x20;            \> Records the number of visuals processed on that page to meet the condition limit.
+
+&#x20;            \> Handles specific actions for each visual, such as, running preview services for a quick overview and exporting data to PDF or Excel formats based on needs.
+
+**1.3. Combine and Merge Services**
+
+Combine and merge files:
+
+For PDF or Excel files if merging is enabled,
+
+* Merge the multiple files as per destination and store them in the desired location.
+* If a layout is provided, organize the PDF into a grid format (including the report screenshot pdf file)
+* Deliver the final combined document to the designated destination.
+
+**1.4. PPT Services**
+
+Generate PPT slides:
+
+* Use preview images generated for each page to create PowerPoint slides.
+* Once the slides are ready, a PowerPoint file is generated to the designated location.
+
+**Note:** All outputs—PPT slides, PDFs, or Excel files—are securely saved to their respective locations for easy access.
+
+#### 4.Deliver Destinations
+
+The system processes the selected destinations and their configurations to ensure seamless delivery of the generated files.
+
+**· Process Destination Configuration:** Retrieve the scheduled subscription configuration to determine the destinations where the outputs need to be delivered.
+
+**· Deliver Attachments:** Based on the configured destinations, send the generated attachments (PDFs, Excel files, PPT slides, etc.) to their respective locations.
+
+### d) Re-run failed job
+
+If a job run fails, then the 'Milestones' section has a 'Re-Run Job' button available at the top right corner of the section. Clicking on this option will rerun the failed job.
+
+<figure><img src="../../.gitbook/assets/image (1119).png" alt=""><figcaption><p>Re-run a failed job</p></figcaption></figure>
+
+### e) Error Details
+
+For failed jobs, an additional section called 'Error Details' becomes available. This section contains information about errors that occurred during the job run and an indication of which milestone failed during the job run.&#x20;
 
 This section includes the following details:
 
@@ -193,7 +259,7 @@ Clicking on this button will run the job only for the chosen email recipient.
 
 <figure><img src="../../.gitbook/assets/email-rerun-job.png" alt=""><figcaption><p>Email re-run jobs</p></figcaption></figure>
 
-### c) Consents
+### f) Consents
 
 This page becomes available only if the 'Refresh dataset' option is enabled during report creation.
 
@@ -203,7 +269,7 @@ This page contains a list of recipients who have accepted and not accepted the c
 
 <figure><img src="../../.gitbook/assets/consent-email.png" alt=""><figcaption><p>Consent email</p></figcaption></figure>
 
-### d) Unsubscribe
+### g) Unsubscribe
 
 This page contains a list of all the members who unsubscribed from the subscription along with the date of unsubscription.
 

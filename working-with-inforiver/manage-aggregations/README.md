@@ -118,7 +118,7 @@ This aggregation type is often used in time-series data or any sequential datase
 
 In the example below, we have captured the first month's value in a year.
 
-<figure><img src="../../.gitbook/assets/image (1111).png" alt=""><figcaption><p>'First' aggregation type </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1111) (1).png" alt=""><figcaption><p>'First' aggregation type </p></figcaption></figure>
 
 #### Last
 
@@ -126,7 +126,7 @@ This aggregation type is used in time-series data or any sequential dataset. The
 
 In the example below, we have captured the value from the last month of the year.
 
-<figure><img src="../../.gitbook/assets/image (1112).png" alt=""><figcaption><p>'Last' aggregation type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1112) (1).png" alt=""><figcaption><p>'Last' aggregation type</p></figcaption></figure>
 
 #### Resources
 

@@ -96,15 +96,15 @@ You will need to enter a name to identify the measure time range, choose the mea
 Disable the **Show** toggle to hide measures for a specific time frame.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1116).png" alt=""><figcaption><p>Creating time ranges to display measures</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1116) (1).png" alt=""><figcaption><p>Creating time ranges to display measures</p></figcaption></figure>
 
 You can leverage the date picker to select the time range.
 
-<figure><img src="../../.gitbook/assets/image (1117).png" alt=""><figcaption><p>Date picker</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1117) (1).png" alt=""><figcaption><p>Date picker</p></figcaption></figure>
 
 You can also display measures for relative time periods like last n days/weeks/months/years.
 
-<figure><img src="../../.gitbook/assets/image (1118).png" alt=""><figcaption><p>Defining relative time frames</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1118) (1).png" alt=""><figcaption><p>Defining relative time frames</p></figcaption></figure>
 
 After you create and save a measure time range, you can instantly switch between them and analyze your data.
 
