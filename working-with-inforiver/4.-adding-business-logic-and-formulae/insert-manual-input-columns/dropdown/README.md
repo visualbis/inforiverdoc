@@ -157,7 +157,7 @@ When you create a single-select data input field, you can specify a default choi
 
 **Measure**: You can choose to set a measure as the default value. Please be mindful that if you choose to source default values from a measure, you will need to enable the **Allow user to add new option** checkbox.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Default options from a measure</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Default options from a measure</p></figcaption></figure>
 
 ## 7. Using the dropdown
 

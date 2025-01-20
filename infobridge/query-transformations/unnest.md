@@ -24,7 +24,7 @@ Let's look at this Inforiver report that contains a multi-select data input fiel
 
 After importing the report into Infobridge and removing the Quarter column, let's apply the Unnest transformation. Choose Benchmark as the target column and comma as the delimiter.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Unnest transformation in Infobridge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Unnest transformation in Infobridge</p></figcaption></figure>
 
 Notice how each benchmark is flattened into a separate row. You can perform operations like creating a conditional column to set a rate for each benchmark.
 

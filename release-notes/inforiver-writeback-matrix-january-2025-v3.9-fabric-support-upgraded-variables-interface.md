@@ -234,7 +234,7 @@ You can highlight row headers with conditional formatting when your actuals sati
 
 You can use icons and text to highlight date measures with conditional formatting.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.4. Icons in visual measures, columns, and rows
 
@@ -252,7 +252,7 @@ Highlight your data input fields like number, dropdown, and person columns with 
 
 In the Customize tab, you have options to apply common scaling for all measures or individual scaling for each measure.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.7. Padding for stacked bar charts
 
@@ -334,13 +334,13 @@ Report authors can choose to give users access to certain display settings like 
 
 We've added a search bar to enable you to quickly locate dimensions while creating scenarios or fetching options from a semantic model.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.11. Semantic formatting from column gripper
 
 You can override the global semantic model format set in Display settings and apply individual semantic formatting for measures from the column gripper. The **Show (-ve) Sign** option has been replaced with the measure-level semantic formatting option in the column gripper.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 11.12. Sign in headers for all templates
 
@@ -358,7 +358,7 @@ Crop issues in the Customize tab while using the Minimal with tabs toolbar have 
 
 You will now be able to filter data input text fields with an 'IN' clause - allowing you to easily narrow down your data.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **12.15. Additional options for Inforiver filters**
 

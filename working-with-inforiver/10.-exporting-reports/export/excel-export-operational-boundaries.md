@@ -20,7 +20,7 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 In this example, the positive and negative simulation percentages are exported in black. The number and text have the same color in the export for the classification-based conditional formatting.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver report with multiple colors in each cell</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_16h36_41.png" alt=""><figcaption><p>Excel extract with single-color cells</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver report with multiple colors in each cell</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_16h36_41.png" alt=""><figcaption><p>Excel extract with single-color cells</p></figcaption></figure></div>
 
 ### 2. Display and themes
 
@@ -28,7 +28,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 2.2. You can enable Rails for ease of selection and formatting but cannot export them.
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rails and pinned rows in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_14h35_17.png" alt=""><figcaption><p>Excel export without rails and pinned rows</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rails and pinned rows in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_14h35_17.png" alt=""><figcaption><p>Excel export without rails and pinned rows</p></figcaption></figure></div>
 
 2.3. Row-level charts cannot be exported. Bar charts&#x20;
 
