@@ -148,7 +148,7 @@ If your subscription job is running long or you need to make additional modifica
 
 You’ll notice that the status of all your jobs is changed to Failed.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.2. Export jobs
 
@@ -176,7 +176,7 @@ You can create starred comments, filter based on resolved/starred/your threads, 
 
 When you create notes in Inforiver, you can enable marker mode to highlight important observations while presenting your report. You can now set the color, shape, and width of markers.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 6.3. Delete option in notes column
 
@@ -334,13 +334,13 @@ Report authors can choose to give users access to certain display settings like 
 
 We've added a search bar to enable you to quickly locate dimensions while creating scenarios or fetching options from a semantic model.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 12.11. Semantic formatting from column gripper
 
 You can override the global semantic model format set in Display settings and apply individual semantic formatting for measures from the column gripper. The **Show (-ve) Sign** option has been replaced with the measure-level semantic formatting option in the column gripper.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 11.12. Sign in headers for all templates
 

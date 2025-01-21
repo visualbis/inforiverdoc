@@ -18,12 +18,12 @@ This section outlines configurations specific to select variables.
 
 **STEP 1:** Create a select variable with the configuration shown below.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Create select variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Create select variable</p></figcaption></figure>
 
 **STEP 2:** Create an Inforiver filter that references the technical name of the select variable.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
 
 **STEP 3:** Select options from the variable and notice how the data gets filtered without having to update the Inforiver filter.
 
-<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1).gif" alt=""><figcaption><p>Filtering data with a select variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1) (1).gif" alt=""><figcaption><p>Filtering data with a select variable</p></figcaption></figure>
