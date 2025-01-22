@@ -6,9 +6,11 @@ This section outlines configurations specific to date range variables.
 
 **1.1. Value:** Assign a default date range for the variable.
 
-<figure><img src="../../../.gitbook/assets/image (1177).png" alt=""><figcaption><p>Creating a date range variable</p></figcaption></figure>
+**1.2. Enable date range:** Set a time frame within which the date range should be set. You can specify and start date that is lesser than the start date in the Value field and an end date that is greater than the end date in the Value field.
 
-#### 2. Examples <a href="#id-2.-examples" id="id-2.-examples"></a>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Creating date range variables</p></figcaption></figure>
+
+### 2. Examples <a href="#id-2.-examples" id="id-2.-examples"></a>
 
 **2.1. Filter data**
 
