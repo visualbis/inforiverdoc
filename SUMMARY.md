@@ -183,6 +183,7 @@
       * [Text](working-with-inforiver/18.-variables/variable-types/text.md)
       * [Date](working-with-inforiver/18.-variables/variable-types/date.md)
       * [Date range](working-with-inforiver/18.-variables/variable-types/date-range.md)
+      * [Boolean](working-with-inforiver/18.-variables/variable-types/boolean.md)
 * [Admin Console](admin-console/README.md)
   * [Manage Profile](admin-console/manage-profile.md)
   * [User management](admin-console/user-management.md)

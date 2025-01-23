@@ -100,13 +100,13 @@ The **List** view displays rows in the order that they were inserted.
 
 You can instantly add child rows and sibling(at the same level of the hierarchy) rows right from the Manage Rows side pane.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 \-          Search and filter custom rows
 
 Use the Search and Filter options to search for a particular row category or display rows based on the type.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2. Parent rows as calculated rows
 
@@ -234,7 +234,7 @@ You can highlight row headers with conditional formatting when your actuals sati
 
 You can use icons and text to highlight date measures with conditional formatting.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 10.4. Icons in visual measures, columns, and rows
 
