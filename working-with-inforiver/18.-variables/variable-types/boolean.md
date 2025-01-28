@@ -8,7 +8,7 @@ This section outlines configurations specific to date range variables.
 
 **1.2. Enable by default:** The toggle for the boolean variable will be in the enabled or active state by default.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Boolean toggle</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1120).png" alt=""><figcaption><p>Boolean toggle</p></figcaption></figure>
 
 ### 2. Examples <a href="#id-2.-examples" id="id-2.-examples"></a>
 
@@ -16,7 +16,7 @@ This section outlines configurations specific to date range variables.
 
 **STEP 1:** Create a date variable with the configuration shown.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Boolean variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Boolean variable</p></figcaption></figure>
 
 **STEP 2:** Create a calculated measure and reference the technical name of the boolean variable in the formula.
 

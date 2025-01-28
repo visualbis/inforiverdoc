@@ -10,7 +10,7 @@ This section outlines configurations specific to date range variables.
 
 **1.2. Enable date range:** Set a time frame within which the date range should be set. You can specify and start date that is lesser than the start date in the Value field and an end date that is greater than the end date in the Value field.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Creating date range variables</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (19).png" alt=""><figcaption><p>Creating date range variables</p></figcaption></figure>
 
 ### 2. Examples <a href="#id-2.-examples" id="id-2.-examples"></a>
 

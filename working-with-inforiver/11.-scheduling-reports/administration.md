@@ -2,33 +2,33 @@
 
 Inforiver provides a comprehensive and business-friendly user interface for managing and administering schedules. The 'All subscriptions' page is similar to the 'My subscriptions' page except for the fact that it is available only for admin users to view and manage the subscriptions of all other members.
 
-<figure><img src="../../.gitbook/assets/all-subscriptions.png" alt=""><figcaption><p>All subscriptions page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>All subscriptions page</p></figcaption></figure>
 
-The options available on the 'All subscriptions' page are the same as the ones available on the 'My subscriptions' page. Refer [Manage your subscriptions](manage-your-subscriptions.md) section to learn more about each of these options in detail.
+The options available on the 'All subscriptions' page are the same as the ones available on the 'My subscriptions' page. Refer to the [Manage your subscriptions](manage-your-subscriptions.md) section to learn more about each of these options in detail.
 
 {% hint style="info" %}
-'All subscriptions' and 'User management' pages are available only for admin users
+The 'All subscriptions' and 'User management' pages are available only to admin users.
 {% endhint %}
 
-You can also monitor, view, and gather insights into the subscriptions of other members.
+A subscription can contain multiple jobs. You can also monitor, view, and gather insights into the subscription jobs of other users.
 
 ## 1. Monitoring subscription jobs
 
-All the scheduled jobs will be displayed here. The 'Subscription jobs' page has the following columns.
+All scheduled jobs will be displayed on the **Jobs** page, along with their details.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10) (3).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
 
 ### a) Job details
 
-* **ID** - Unique ID of the scheduled job
-* **Subscription** - The name of the subscription
-* **Workspace** - the name of the workspace the subscription belongs to
-* **Report** -The name of the report
-* **Started by** - Name of the person who started the schedule
-* **Job type** - The job type of the schedule
-* **Started** - The date and the time the job started
-* **Duration -** The exact duration the job ran
-* **Status -** Displays the current status of the job
+* **ID:** The unique ID of the scheduled job.
+* **Subscription:** The name of the subscription.
+* **Workspace:** The name of the workspace the subscription belongs to.
+* **Report:** The name of the report.
+* **Started by:** Name of the person who started the schedule.
+* **Job type:** The job type of the schedule (one-time or scheduled).
+* **Started** At: The date and the time when the job started.
+* **Duration:** The exact duration of the job runtime.
+* **Status:** The current status of the job (success or failure).
 
 {% hint style="info" %}
 Each of these column values can be sorted in ascending/descending order by clicking on their respective column headers.
@@ -36,9 +36,9 @@ Each of these column values can be sorted in ascending/descending order by click
 
 Clicking on any of the scheduled job IDs will display a detailed summary of the job in the 'Summary' tab.
 
-<figure><img src="../../.gitbook/assets/subscription-summary (1).png" alt=""><figcaption><p>Subscription summary</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Subscription summary</p></figcaption></figure>
 
-Clicking on the 'Email' tab will display a summary of all the emails sent along with the delivered at date, time, status, filter and bookmarks.
+Clicking on the 'Email Jobs' tab will display a summary of all the emails sent along with the recipients, delivered date, time, status, filter, and bookmarks.
 
 <figure><img src="../../.gitbook/assets/all-subscriptions-email.png" alt=""><figcaption><p>Subscription jobs email summary</p></figcaption></figure>
 

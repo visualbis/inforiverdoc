@@ -28,4 +28,4 @@ After importing the report into Infobridge and removing the Quarter column, let'
 
 Notice how each benchmark is flattened into a separate row. You can perform operations like creating a conditional column to set a rate for each benchmark.
 
-<figure><img src="../../.gitbook/assets/image (1135).png" alt=""><figcaption><p>Output of Unnest transformation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1135) (1).png" alt=""><figcaption><p>Output of Unnest transformation</p></figcaption></figure>

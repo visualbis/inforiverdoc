@@ -232,14 +232,7 @@ If a job run fails, then the 'Milestones' section has a 'Re-Run Job' button avai
 
 ### e) Error Details
 
-For failed jobs, an additional section called 'Error Details' becomes available. This section contains information about errors that occurred during the job run and an indication of which milestone failed during the job run.&#x20;
-
-This section includes the following details:
-
-* **Milestone -** The milestone at which the error occurred
-* **Action -** The action that caused the error
-* **Message -** A brief description of the error message
-* **Page/visual -** The page or visual in which the error occurred&#x20;
+For failed jobs, an additional section called 'Error Details' becomes available. This section contains information about errors that occurred during the job run.
 
 The 'Error details' section has a 'Download logs' button at the top right corner of the section. Clicking on this button will download the error logs for the failed job run in a text file.
 

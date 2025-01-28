@@ -95,9 +95,9 @@ The next step is to review the settings and save them to start the subscription.
 
 ## 2. Dynamic Subscription
 
-With dynamic subscriptions, you can specify filters and regulate the dimension categories shared with users. With dynamic subscriptions, Inforiver can detect email IDs from your semantic models/CSV files and implicitly send the report to a specific user.
+With dynamic subscriptions, you can regulate the dimension categories shared with users. With dynamic subscriptions, Inforiver can detect email IDs from your semantic models/CSV files and implicitly send the relevant records to corresponding users.
 
-The 'Select Destinations' page has a 'Table Selection' option as below, when you choose dynamic subscription.
+The 'Select Destinations' page has a 'Table Selection' option as below when you choose dynamic subscription.
 
 <figure><img src="../../../../.gitbook/assets/image (916).png" alt=""><figcaption><p>Configure table</p></figcaption></figure>
 

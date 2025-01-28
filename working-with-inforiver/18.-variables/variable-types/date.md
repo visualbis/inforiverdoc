@@ -32,11 +32,11 @@ When you have date dimensions in your reports, you can use date variables to cre
 
 **STEP 1:** Create a date variable with the configuration shown below.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Create variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Create variable</p></figcaption></figure>
 
 **STEP 2:** Insert the variable in the header by navigating to the Header\&Footer ribbon > Insert > Variables.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Inserting a variable in the header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (3).png" alt=""><figcaption><p>Inserting a variable in the header</p></figcaption></figure>
 
 **STEP 3:** Users can instantly set a date in the report header by just selecting it from the variable. The header does not have to be edited each time.
 
