@@ -16,7 +16,7 @@ This section outlines configurations specific to date range variables.
 
 **STEP 1:** Create a date variable with the configuration shown.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Boolean variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (3).png" alt=""><figcaption><p>Boolean variable</p></figcaption></figure>
 
 **STEP 2:** Create a calculated measure and reference the technical name of the boolean variable in the formula.
 
