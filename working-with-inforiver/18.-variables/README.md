@@ -38,7 +38,7 @@ After you create variables, the variables side pane is displayed from where user
 
 You can create a calculated measure that references the value set in a variable. Each variable has a **Technical Name** that can be referenced in formulas.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Technical name of the variable</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (15).png" alt=""><figcaption><p>Technical name of the variable</p></figcaption></figure>
 
 In this example, the calculated measure, Tax will change based on the toggle variable.
 
