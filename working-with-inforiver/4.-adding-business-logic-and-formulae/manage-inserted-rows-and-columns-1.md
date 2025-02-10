@@ -111,3 +111,7 @@ Measure backups will work only after the report is saved in Power BI. The report
 The image below shows a report with backed-up measures:
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure backups</p></figcaption></figure>
+
+Measure backup jobs have dedicated logs that show the status of the backup, milestones, and the backups that are deleted when the limit is reached. Click the **View jobs** option from the Schedule Measure Backup side pane.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Scheduled measure bkp logs</p></figcaption></figure>

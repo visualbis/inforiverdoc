@@ -22,7 +22,7 @@ When you have date dimensions in your reports, you can use date variables to cre
 
 **STEP 2:** Create an Inforiver filter that references the technical name of the date variable.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
 
 **STEP 3:** Select dates from the variable to instantly filter your data.
 

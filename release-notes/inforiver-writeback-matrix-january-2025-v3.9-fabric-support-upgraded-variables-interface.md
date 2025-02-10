@@ -144,11 +144,11 @@ See how variables can make report navigation and editing easier without creating
 
 If your subscription job is running long or you need to make additional modifications to your report before sending it out, you can use the new Cancel Job option in the scheduler. This will immediately abort the subscription and cancel both the parent and child jobs without having to abort each child job individually.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 You’ll notice that the status of all your jobs is changed to Failed.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.2. Export jobs
 
