@@ -14,7 +14,7 @@ You can also access your subscriptions directly from the Inforiver Console.
 
 The 'My subscriptions' page contains a list of all your subscriptions. For each subscription, the following details are displayed:
 
-### a) Subscription details
+### 1.1. Subscription details
 
 **i) Name**  - The name of the subscription.
 
@@ -54,25 +54,25 @@ Here is a detailed breakdown of all the options available on this page. It has t
 
 <figure><img src="../../.gitbook/assets/my-subscription.png" alt=""><figcaption><p>My subscription page</p></figcaption></figure>
 
-### b) Search bar&#x20;
+### 1.2. Search bar&#x20;
 
 Using this search bar you can search for the subscription you need. If you have an enormous list of subscriptions this feature comes in handy.
 
 <figure><img src="../../.gitbook/assets/search-bar.png" alt=""><figcaption><p>Search bar option</p></figcaption></figure>
 
-### c) Workspace
+### 1.3. Workspace
 
 Using this drop-down you can filter the subscriptions based on the workspaces. Only the subscriptions of the selected workspaces will get displayed.
 
 <figure><img src="../../.gitbook/assets/workspace-selection.png" alt=""><figcaption><p>Workspace selection filter</p></figcaption></figure>
 
-### d) Report
+### 1.4. Report
 
 Using this drop-down you can filter the subscriptions based on the reports. Only the subscriptions of the selected reports will get displayed.
 
 <figure><img src="../../.gitbook/assets/report-filter.png" alt=""><figcaption><p>Report selection filter</p></figcaption></figure>
 
-### e) Status&#x20;
+### 1.5. Status&#x20;
 
 Using this drop-down you can filter the subscriptions based on their status. Only the subscriptions of the selected statuses will get displayed. This filter has the following options:
 
@@ -88,27 +88,27 @@ Click on the 'More' option to view additional filter options for the scheduler. 
 
 <figure><img src="../../.gitbook/assets/more-filter.png" alt=""><figcaption><p>More filter option</p></figcaption></figure>
 
-### **f) Destination**&#x20;
+### **1.6. Destination**&#x20;
 
 If you enable this option, a destination filter drop-down will appear, in which you can filter your subscriptions based on the destination type.
 
 <figure><img src="../../.gitbook/assets/destination-filter.png" alt=""><figcaption><p>Destination filter</p></figcaption></figure>
 
-### **g) Subscription type**&#x20;
+### **1.7. Subscription type**&#x20;
 
 If you enable this option, a subscription filter drop-down will appear, in which you can filter your subscriptions based on the subscription type. The available options are highlighted below.
 
 <figure><img src="../../.gitbook/assets/subscription-filter (1).png" alt=""><figcaption><p>Subscription filter</p></figcaption></figure>
 
-### h) Reset all&#x20;
+### 1.8. Reset all&#x20;
 
 Clicking on this option will reset all the applied filters.
 
 ## 2. Manage a subscription
 
-### a) Summary
+### 2.1. Summary
 
-Clicking on the name of any subscription in the 'My subscriptions' page will display all the subscription details of the report. By default, the 'Summary' tab is shown.
+Clicking on the name of any subscription on the 'My subscriptions' page will display all the subscription details in the report. By default, the 'Summary' tab is shown.
 
 <figure><img src="../../.gitbook/assets/image (1165).png" alt=""><figcaption><p>Subscription Summary</p></figcaption></figure>
 
@@ -130,7 +130,7 @@ The following options are available at the top bar of this page:
 
 <figure><img src="../../.gitbook/assets/delete-subscription.png" alt=""><figcaption><p>Delete subscription option</p></figcaption></figure>
 
-### **b) Jobs**
+### **2.2. Jobs**
 
 This tab displays all the jobs for the selected subscription.
 
@@ -140,7 +140,7 @@ Clicking on the job ID will provide an overall summary of the job. The 'Run deta
 
 <figure><img src="../../.gitbook/assets/image (1116).png" alt=""><figcaption><p>Job summary</p></figcaption></figure>
 
-### c) Milestones
+### 2.3. Milestones
 
 A milestone represents the stages within the scheduled job progress. It consists of multiple levels, with each level providing a clear indication of the job's advancement to the user.
 
@@ -180,13 +180,13 @@ The system processes embedding in a page-wise manner to ensure detailed tracking
 
 Key steps include:
 
-**1.1. Initiate Puppeteer Services**
+**i) Initiate Puppeteer Services**
 
 **· Start the Puppeteer Service:** Begin by activating the Puppeteer automation system to handle tasks like embedding a PowerBI report into the process.
 
 **· Embed the PowerBI Report:** Use Puppeteer to include the PowerBI report, ensuring it is accessible for all further actions.
 
-**1.2. Page Wise Dynamic Milestone**
+**ii) Page Wise Dynamic Milestone**
 
 * Checks for page Limit settings
 * Track Page-Wise Progress: As the system works through each page, it does the following:
@@ -197,7 +197,7 @@ Key steps include:
 
 &#x20;            \> Handles specific actions for each visual, such as, running preview services for a quick overview and exporting data to PDF or Excel formats based on needs.
 
-**1.3. Combine and Merge Services**
+**iii) Combine and Merge Services**
 
 Combine and merge files:
 
@@ -207,7 +207,7 @@ For PDF or Excel files if merging is enabled,
 * If a layout is provided, organize the PDF into a grid format (including the report screenshot pdf file)
 * Deliver the final combined document to the designated destination.
 
-**1.4. PPT Services**
+**iv) PPT Services**
 
 Generate PPT slides:
 
@@ -224,13 +224,23 @@ The system processes the selected destinations and their configurations to ensur
 
 **· Deliver Attachments:** Based on the configured destinations, send the generated attachments (PDFs, Excel files, PPT slides, etc.) to their respective locations.
 
-### d) Re-run failed job
+### 2.4. Cancel parent job
+
+If your subscription job is running long or you need to make additional modifications to your report before sending it out, you can use the new Cancel Job option in the scheduler. This will immediately abort the subscription and cancel both the parent and child jobs without having to cancel each child job individually.
+
+<figure><img src="../../.gitbook/assets/image (1181).png" alt=""><figcaption><p>Cancel job option</p></figcaption></figure>
+
+You’ll notice that the status of all your jobs is changed to Failed.
+
+<figure><img src="../../.gitbook/assets/image (1182).png" alt=""><figcaption></figcaption></figure>
+
+### 2.5. Re-run failed job
 
 If a job run fails, then the 'Milestones' section has a 'Re-Run Job' button available at the top right corner of the section. Clicking on this option will rerun the failed job.
 
 <figure><img src="../../.gitbook/assets/image (1119).png" alt=""><figcaption><p>Re-run a failed job</p></figcaption></figure>
 
-### e) Error Details
+### 2.6. Error Details
 
 For failed jobs, an additional section called 'Error Details' becomes available. This section contains information about errors that occurred during the job run.
 
@@ -252,7 +262,7 @@ Clicking on this button will run the job only for the chosen email recipient.
 
 <figure><img src="../../.gitbook/assets/email-rerun-job.png" alt=""><figcaption><p>Email re-run jobs</p></figcaption></figure>
 
-### f) Consents
+### 2.7. Consents
 
 This page becomes available only if the 'Refresh dataset' option is enabled during report creation.
 
@@ -262,7 +272,7 @@ This page contains a list of recipients who have accepted and not accepted the c
 
 <figure><img src="../../.gitbook/assets/consent-email.png" alt=""><figcaption><p>Consent email</p></figcaption></figure>
 
-### g) Unsubscribe
+### 2.8. Unsubscribe
 
 This page contains a list of all the members who unsubscribed from the subscription along with the date of unsubscription.
 
