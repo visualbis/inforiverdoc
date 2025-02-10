@@ -36,6 +36,8 @@ h) Sorting based on text and date columns is shown below.
 
 <div><figure><img src="../../.gitbook/assets/3.2.12 sorting.png" alt=""><figcaption><p>Sorting a text column</p></figcaption></figure> <figure><img src="../../.gitbook/assets/3.2.13 sorting.png" alt=""><figcaption><p>Sorting a date column</p></figcaption></figure></div>
 
+### Advanced sort
+
 Click the **Sort** button on the toolbar for advanced sorting options. You can sort your data based on multiple dimensions or measures. Please bear in mind that you can either sort based on row dimensions or based on measures, not both together.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Advanced sorting</p></figcaption></figure>
