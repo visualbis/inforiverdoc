@@ -22,7 +22,7 @@ This section outlines configurations specific to number variables.
 
 **STEP 1:** Create a numeric variable with the configuration shown below.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Create a numeric slider variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption><p>Create a numeric slider variable</p></figcaption></figure>
 
 **STEP 2:** Create a calculated measure and reference the technical name of the slider variable in the formula.
 

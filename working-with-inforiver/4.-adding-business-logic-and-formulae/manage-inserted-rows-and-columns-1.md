@@ -114,4 +114,4 @@ The image below shows a report with backed-up measures:
 
 Measure backup jobs have dedicated logs that show the status of the backup, milestones, and the backups that are deleted when the limit is reached. Click the **View jobs** option from the Schedule Measure Backup side pane.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Scheduled measure bkp logs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Scheduled measure bkp logs</p></figcaption></figure>
