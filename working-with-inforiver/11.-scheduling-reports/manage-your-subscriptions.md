@@ -226,7 +226,7 @@ The system processes the selected destinations and their configurations to ensur
 
 ### 2.4. Cancel parent job
 
-If your subscription job is running long or you need to make additional modifications to your report before sending it out, you can use the new Cancel Job option in the scheduler. This will immediately abort the subscription and cancel both the parent and child jobs without having to cancel each child job individually.
+If your subscription job is running long or you need to make additional modifications to your report before sending it out, you can use the Cancel Job option in the scheduler. This will immediately abort the subscription and cancel both the parent and child jobs without having to cancel each child job individually.
 
 <figure><img src="../../.gitbook/assets/image (1181).png" alt=""><figcaption><p>Cancel job option</p></figcaption></figure>
 
