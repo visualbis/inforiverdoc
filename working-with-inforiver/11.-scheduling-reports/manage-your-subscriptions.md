@@ -272,7 +272,13 @@ This page contains a list of recipients who have accepted and not accepted the c
 
 <figure><img src="../../.gitbook/assets/consent-email.png" alt=""><figcaption><p>Consent email</p></figcaption></figure>
 
-### 2.8. Unsubscribe
+### 2.8. Export jobs
+
+You can persist the status of your child job runs and save it to your desktop. Click the Export Jobs button to create an Excel extract.
+
+<figure><img src="../../.gitbook/assets/image (1183).png" alt=""><figcaption><p>Export jobs</p></figcaption></figure>
+
+### 2.9. Unsubscribe
 
 This page contains a list of all the members who unsubscribed from the subscription along with the date of unsubscription.
 
