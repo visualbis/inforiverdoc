@@ -10,7 +10,7 @@ This section outlines configurations specific to select variables.
 
 **1.2. Assign values:** Enable this toggle to assign values to each option. The value associated with the option will be taken when the variable is referenced.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Select variable configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Select variable configuration</p></figcaption></figure>
 
 ### 2. Examples <a href="#id-2.-examples" id="id-2.-examples"></a>
 
@@ -22,7 +22,7 @@ This section outlines configurations specific to select variables.
 
 **STEP 2:** Create an Inforiver filter that references the technical name of the select variable.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (3) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (3) (1) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
 
 **STEP 3:** Select options from the variable and notice how the data gets filtered without having to update the Inforiver filter.
 

@@ -58,7 +58,7 @@ Using Inforiver, you can implement key features available in other BI tools but 
 5. Lasso and reverse lasso selections like Qlik and Tableau​
 6. Small-multiple tables with Excel-like formatting ​
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6. The best no-code writeback in the industry
 

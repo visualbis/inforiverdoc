@@ -32,7 +32,7 @@ In the image below, after resizing the canvas to a much smaller size, out of the
 
 You can add non-numeric measures like dates and text fields and display them in your reports. The first value is displayed in the total/subtotal cell by default, which may be irrelevant in an aggregated row. You can choose to leave the totals and subtotals blank for non-numeric fields by enabling this property.
 
-<div><figure><img src="../.gitbook/assets/image (4) (1) (1) (2).png" alt=""><figcaption><p>Non-numeric fields displayed as totals/subtotals</p></figcaption></figure> <figure><img src="../.gitbook/assets/numeric non-numeric.png" alt=""><figcaption><p>Totals/subtotals left blank for non-numeric fields</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (4) (1) (1) (2) (1).png" alt=""><figcaption><p>Non-numeric fields displayed as totals/subtotals</p></figcaption></figure> <figure><img src="../.gitbook/assets/numeric non-numeric.png" alt=""><figcaption><p>Totals/subtotals left blank for non-numeric fields</p></figcaption></figure></div>
 
 #### 1.4. Combine column headers&#x20;
 
@@ -259,7 +259,7 @@ Notice the time taken when Inforiver pre-calculates the totals and subtotals:&#x
 
 When the total calculation is disabled, even large datasets can be fetched in milliseconds as shown in the screengrab below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After Disabling the Total API</p></figcaption></figure>
 
 **Resources**
 

@@ -25,7 +25,7 @@ Here you can choose which pages of the report to schedule.&#x20;
 * **All pages:** Send all the pages of the report.
 * **Select:** If you select this option, a drop-down menu appears, allowing you to choose which pages to schedule and send. Multiple pages can be selected.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Select pages</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Select pages</p></figcaption></figure>
 
 ### iii) Include hidden pages&#x20;
 
