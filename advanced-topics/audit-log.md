@@ -26,6 +26,14 @@ Let's look at some of the changes that are captured in the audit log below:
 
 <figure><img src="../.gitbook/assets/Measure remove.png" alt=""><figcaption><p>Measure removed</p></figcaption></figure>
 
+1.5. The audit log also captures the details listed below:
+
+* User details along with timestamp when the report is modified.
+* Changes to settings like default values will be recorded in the audit trail for data input columns/measures and rows.
+* Measure resets will be recorded.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Audit log</p></figcaption></figure>
+
 {% hint style="info" %}
 In the 'Home' tab, changes are captured only for the 'Show/Hide' option and number formatting options available in the 'Number' section.
 
