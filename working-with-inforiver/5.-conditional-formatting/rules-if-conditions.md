@@ -14,6 +14,10 @@ Refer to the [Create Rule](create-rule-basic-settings.md) section to get started
 
 <figure><img src="../../.gitbook/assets/FormatByRules.png" alt=""><figcaption><p>Format by rules</p></figcaption></figure>
 
+**STEP 4:** When you have inline charts in your reports, conditional formatting rules can be applied to the chart labels or the chart itself. Select the desired option(s) from the **Impact on** lis&#x74;**.** Notice how the bars for subcategories with sales > 20k are highlighted in blue.
+
+<figure><img src="../../.gitbook/assets/image (1206).png" alt=""><figcaption><p>Impact on</p></figcaption></figure>
+
 Let's look at examples for each of these options.
 
 ## Style
