@@ -38,13 +38,23 @@ The table option shows categories in a tabular format, without any expand-collap
 
 <figure><img src="../../.gitbook/assets/2.2.2 Layout options.png" alt=""><figcaption><p>Table layout</p></figcaption></figure>
 
-### d. Stepped
+### d. Performance mode
+
+{% hint style="info" %}
+This feature is coming soon and will be part of the 3.9 release
+{% endhint %}
+
+Inforiver’s differentiated architecture enables faster processing of large hierarchies, ensuring optimal performance while creating reports with complex hierarchical data. To efficiently analyze extensive hierarchical datasets without compromising on performance, we recommend switching to the new Performance Table layout.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Performance layout for hierarchies</p></figcaption></figure>
+
+### e. Stepped
 
 The stepped layout is similar to the outline layout in that each category is listed in a column. The difference is in the availability of a separate total row for each branch of the hierarchy.
 
 <figure><img src="../../.gitbook/assets/inforiver-navigation-layout-stepped.png" alt=""><figcaption><p>Stepped layout</p></figcaption></figure>
 
-### e. Drilldown
+### f. Drilldown
 
 The drill down layout lets you explore one branch at a time in the hierarchy. This is also an ideal option when you have a huge volume of rows.
 
