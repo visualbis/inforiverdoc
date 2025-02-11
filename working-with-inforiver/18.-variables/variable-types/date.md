@@ -8,7 +8,7 @@ This section outlines configurations specific to date variables.
 
 **1.1. Value:** Assign a default value for the date variable.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Date variable creation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (3).png" alt=""><figcaption><p>Date variable creation</p></figcaption></figure>
 
 ### 2. Examples <a href="#id-2.-examples" id="id-2.-examples"></a>
 
@@ -18,7 +18,7 @@ When you have date dimensions in your reports, you can use date variables to cre
 
 **STEP 1:** Create a date variable with the configuration shown below.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Create a date variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Create a date variable</p></figcaption></figure>
 
 **STEP 2:** Create an Inforiver filter that references the technical name of the date variable.
 

@@ -20,7 +20,7 @@ This section outlines configurations specific to text variables.
 
 **STEP 2:** Insert the text variable in the header - navigate to the Header\&Footer ribbon > Insert > Variables > select the variable to use.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (3).png" alt=""><figcaption><p>Insert variable in the header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (3) (1).png" alt=""><figcaption><p>Insert variable in the header</p></figcaption></figure>
 
 **STEP 3:** Notice how the summary in the header changes as we update the text in the variable.
 

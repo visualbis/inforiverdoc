@@ -74,32 +74,28 @@ To delete all the comments in the report, click on **Delete all comments**.
 
 ## 2. Comment digest
 
-Users can schedule periodic commentary digests to quickly analyze the conversations, tasks and exceptions. Scheduling these digests is out-of-the-box with flexible frequency options and does not require the involvement of IT.&#x20;
+Users can schedule periodic commentary digests to quickly analyze the conversations, tasks, and exceptions. Scheduling these digests is out-of-the-box with flexible frequency options and does not require the involvement of IT.&#x20;
 
-a) Comments digest can be accessed through the 'Comments' dropdown -> 'Settings' -> 'Comment digest' tab. Click on 'Setup comment digest'.
+Click **Setup comment digest** from the Digest tab of the Comments Settings side panel.
 
-<figure><img src="../../../.gitbook/assets/8.2.4.15 comment digest.png" alt=""><figcaption><p>Comment digest configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Setup comment digest</p></figcaption></figure>
 
-b) You can see the default settings in the below image.
+Settings for comments digest.
 
-<figure><img src="../../../.gitbook/assets/8.2.4.16 comment digest.png" alt=""><figcaption><p>Comment digest default settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Comments digest settings</p></figcaption></figure>
 
-c) The available options are -&#x20;
+The available options are -&#x20;
 
 1. Start and end date - Can be selected using the date picker
 2. Schedule time - Time and time zone can be set
-3. Frequency - Daily, weekly and monthly digests can be scheduled
+3. Frequency - Daily, weekly, and monthly digests can be scheduled
 4. Recipients - Email addresses of recipients&#x20;
-
-d) Once you customize as per requirement, click 'Save'.
-
-<figure><img src="../../../.gitbook/assets/8.2.4.17 comment digest.png" alt=""><figcaption><p>Customizing comment digest settings</p></figcaption></figure>
 
 {% hint style="info" %}
 Distribution Lists can also be added as recipients.&#x20;
 {% endhint %}
 
-e) A sample comment digest is shown below.
+A sample comment digest is shown below.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.18 comment digest.png" alt=""><figcaption><p>Sample comment digest</p></figcaption></figure>
 

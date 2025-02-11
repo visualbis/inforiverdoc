@@ -22,7 +22,7 @@ This section outlines configurations specific to select variables.
 
 **STEP 2:** Create an Inforiver filter that references the technical name of the select variable.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (3) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (3) (1) (1).png" alt=""><figcaption><p>Create an Inforiver filter</p></figcaption></figure>
 
 **STEP 3:** Select options from the variable and notice how the data gets filtered without having to update the Inforiver filter.
 
