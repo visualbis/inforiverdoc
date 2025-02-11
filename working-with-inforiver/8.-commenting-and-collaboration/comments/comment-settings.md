@@ -78,11 +78,11 @@ Users can schedule periodic commentary digests to quickly analyze the conversati
 
 Click **Setup comment digest** from the Digest tab of the Comments Settings side panel.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Setup comment digest</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Setup comment digest</p></figcaption></figure>
 
 Settings for comments digest.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Comments digest settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Comments digest settings</p></figcaption></figure>
 
 The available options are -&#x20;
 
@@ -98,5 +98,15 @@ Distribution Lists can also be added as recipients.&#x20;
 A sample comment digest is shown below.
 
 <figure><img src="../../../.gitbook/assets/8.2.4.18 comment digest.png" alt=""><figcaption><p>Sample comment digest</p></figcaption></figure>
+
+## 3. Permissions
+
+By default, all users within the domain can add comments, lock/unlock threads, and create starred comments. To provide access only to specific users within the domain, select the **Specific users** option. A new field gets enabled where you can add the users.
+
+* **Commentary access:** Specify the users who have permission to add comments to the report.
+* **Lock/unlock threads:** Specify the users who can lock and unlock comment threads.
+* **Starred comments:** Specify the users who can create starred comments.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Commentary permissions</p></figcaption></figure>
 
 In the next section, we'll look at [data writeback](../../12.-data-writeback/).
