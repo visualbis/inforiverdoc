@@ -16,7 +16,7 @@ The Inforiver Lookup visual works in tandem with the Matrix visuals. It can be d
 
 To configure the visual, simply drag the dimension with dropdown options from your semantic model into the Dimension field. You can add multiple lookup visuals for a single Inforiver Matrix visual.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding lookup visuals and assigning dimensions</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding lookup visuals and assigning dimensions</p></figcaption></figure>
 
 #### 3. Sourcing single-select and multi-select options from the Lookup visual  <a href="#h-sourcing-single-select-and-multi-select-options-from-the-lookup-visual-nbsp" id="h-sourcing-single-select-and-multi-select-options-from-the-lookup-visual-nbsp"></a>
 
