@@ -72,45 +72,25 @@ We've also opted to change the chart type to a bullet. Notice that the columns u
 
 ### 2.3. **Manual data selection**
 
+{% hint style="info" %}
+You can refer to visual measures, formulae, forecasts, simulations, and data inputs in header charts and KPIs.
+{% endhint %}
+
 **STEP 1:** To render the chart using manual data selection, click the Manual button.
 
 You have 3 options for manually selecting the data for header charts:&#x20;
 
 * **Dynamic**: You can select rows from the table to populate the chart on the fly. The chart is rendered dynamically as the selection changes.&#x20;
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (843).png" alt=""><figcaption><p>Dynamic data selection option</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/ManualDataSelection.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (843).png" alt=""><figcaption><p>Dynamic data selection option</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/ManualDataSelection.gif" alt=""><figcaption></figcaption></figure></div>
 
 * **Partial select:** The selected rows are shown as a portion of the grand total row in the chart, essentially the grand total and the contribution of the selected rows.&#x20;
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (844).png" alt=""><figcaption><p>Partial select option</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2024-07-31_11h30_17.png" alt=""><figcaption><p>Chart rendered based on partial selection</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (844).png" alt=""><figcaption><p>Partial select option</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-07-31_11h30_17.png" alt=""><figcaption><p>Chart rendered based on partial selection</p></figcaption></figure></div>
 
 * **Random selection:** You can manually select individual cells that will be used to drive the chart. Each selection will be rendered as a separate bar.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (845).png" alt=""><figcaption><p>Random selection</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2024-07-31_11h43_32.png" alt=""><figcaption><p>Random cell selection</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (845).png" alt=""><figcaption><p>Random selection</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-07-31_11h43_32.png" alt=""><figcaption><p>Random cell selection</p></figcaption></figure></div>
 
 ## 3. Chart types
 
