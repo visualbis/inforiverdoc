@@ -14,55 +14,49 @@ Click on the 'Display' dropdown. You can see the three types of classifications 
 
 ### 1. Text
 
-Many times, it may become essential to categorize performance. A common technique used by enterprises to categorize inventory, vendors or materials is [ABC analysis](https://en.wikipedia.org/wiki/ABC\_analysis). Inforiver delivers this capability right out of the box.&#x20;
+Many times, it may become essential to categorize performance. A common technique used by enterprises to categorize inventory, vendors or materials is [ABC analysis](https://en.wikipedia.org/wiki/ABC_analysis). Inforiver delivers this capability right out of the box.&#x20;
 
-a) Select 'ABC' from the 'Display' dropdown. Let's go with the default settings. Click 'Apply'.
+1.1. Select 'ABC' from the **Display** dropdown. Let's go with the default settings. Click Apply.
 
 <figure><img src="../../.gitbook/assets/5.4.3 Classification.png" alt=""><figcaption><p>ABC analysis</p></figcaption></figure>
 
-b) The rows are classified and the text is displayed on the left of the data.
+1.2. The rows are classified and the text is displayed on the left of the data.
 
 <figure><img src="../../.gitbook/assets/5.4.4 Classification.png" alt=""><figcaption><p>ABC analysis</p></figcaption></figure>
 
-**Show as new column**
-
-c) You can also have the classifications appear in a separate column if required. Check the 'Show as new column' checkbox.
+1.3. You can also have the classifications appear in a separate column if required. Check the **Show as new column** checkbox.
 
 <figure><img src="../../.gitbook/assets/5.4.5 Classification.png" alt=""><figcaption><p>Display text in new column</p></figcaption></figure>
 
-#### **Apply to charts**
-
-d) When there are charts in the column where classification is to be applied, check the 'Apply to charts' checkbox. In the below image, 2021 Actuals are visualized using bar charts and the colors defined for the ABC ranges are used for formatting.
+1.4. When there are charts in the column where classification is to be applied, check the **Apply to charts** checkbox. In the below image, 2021 Actuals are visualized using bar charts, and the colors defined for the ABC ranges are used for formatting.
 
 <figure><img src="../../.gitbook/assets/5.4.6 Classification.png" alt=""><figcaption><p>Classification applied to charts</p></figcaption></figure>
 
-#### **Text position**
+1.5. you can choose to enable a background for the text. The **Enable background** option is only available for text classification, not icons or ratings.
 
-e) You can also choose to display only the classification text by clicking on 'Only text' in the 'Text position' dropdown.
+<figure><img src="../../.gitbook/assets/image (1207).png" alt=""><figcaption><p>Enable background</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/5.4.7 Classification.png" alt=""><figcaption><p>Displaying only text</p></figcaption></figure>
+1.6. You can also choose to display only the classification text by selecting _Only Text_ from the **Text position** dropdown.
 
-#### **Color for**
+<figure><img src="../../.gitbook/assets/image (1208).png" alt=""><figcaption></figcaption></figure>
 
-f) You can see two new fields getting enabled as shown below. Let's apply the 'Color for' font and add 'Percentage text' on the left. You can see the contribution percentage displayed on the left along with the text.&#x20;
+1.7. When you choose the _Only Text_ option, you can choose to apply the color to the font, background, or both.
 
-<figure><img src="../../.gitbook/assets/5.4.8 Classification.png" alt=""><figcaption><p>Only text along with percentages</p></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/image (1209).png" alt=""><figcaption><p>Color for font</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2025-02-12_15h28_39.png" alt=""><figcaption><p>Color for background</p></figcaption></figure></div>
 
-g) Instead of color for the font, background color can also be applied. Select 'Background' in the 'Color for' dropdown.
+1.8. You can display the percentage contribution to the left or right of the text using the **Percentage text** dropdown.
 
-<figure><img src="../../.gitbook/assets/5.4.9 Classification.png" alt=""><figcaption><p>Background color for ABC classification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1210).png" alt=""><figcaption><p>Percentage text option</p></figcaption></figure>
 
-#### Classification ranges
-
-h) You can define custom ranges using the 'Add range', 'Text editor', 'Color picker' and 'Reverse text/color order' options as shown below.
+1.9. You can define custom ranges as shown below. Click the **Add Range** button to create an additional range of values.
 
 <figure><img src="../../.gitbook/assets/5.4.10 Classification.png" alt=""><figcaption><p>Customizing the ranges</p></figcaption></figure>
 
-i) Ranges can also be defined using numeric values. Click on the 'Value' option. The values get populated automatically based on the defined percentages, but they can be further edited.
+1.10. Ranges can also be defined using numeric values. Click on the 'Value' option. The values get populated automatically based on the defined percentages, but they can be further edited.
 
 <figure><img src="../../.gitbook/assets/5.4.11 Classification.png" alt=""><figcaption><p>Ranges based on numeric values</p></figcaption></figure>
 
-j) You can delete specific ranges or reset all changes using the icons highlighted in the below image.&#x20;
+1.11. You can delete specific ranges or reset all changes using the icons highlighted in the below image.&#x20;
 
 <figure><img src="../../.gitbook/assets/5.4.12 Classification.png" alt=""><figcaption><p>Deleting and resetting ranges</p></figcaption></figure>
 
