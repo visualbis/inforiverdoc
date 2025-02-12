@@ -184,7 +184,7 @@ The minimum and maximum padding values are 0 and 100 respectively.
 
 ### 7. Custom date format
 
-You can set a specific date format for hierarchical date dimensions in rows or columns. Enable the Custom Date Format option to select the format from the Date category dropdown. This option can be used for flat date hierarchies and Power BI date hierarchies.
+You can set a specific date format for date dimensions in rows or columns. Enable the Custom Date Format option to select the format from the Date category dropdown. This option can be used for non-hierarchical date fields, flat date hierarchies, and Power BI date hierarchies.
 
 <figure><img src="../.gitbook/assets/image (520).png" alt=""><figcaption><p>Custom date format</p></figcaption></figure>
 
