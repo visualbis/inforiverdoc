@@ -64,15 +64,7 @@ As you can see in the footnotes, the measure Margin is actually Margin% and need
 
 To do this, let's select the column. % icon gets enabled. Once you click on the icon, the values get converted to percentages.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/2.4.1.9 Pct.png" alt=""><figcaption><p>Percentage option gets enabled on selecting a column/row/cell</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2.4.2.0 Pct.png" alt=""><figcaption><p>Margins are converted to percentage</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/2.4.1.9 Pct.png" alt=""><figcaption><p>Percentage option gets enabled on selecting a column/row/cell</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2.4.2.0 Pct.png" alt=""><figcaption><p>Margins are converted to percentage</p></figcaption></figure></div>
 
 
 
@@ -94,15 +86,7 @@ You can increase or decrease decimal places at a cell/row/column level.&#x20;
 
 Let's remove the decimals for the Sales and Price columns. Use Shift+Select to select the two columns and click on the 'Decrease decimal' icon twice. The decimals are removed. The 'Increase decimal' option can be used similarly to increase decimal places. &#x20;
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/2.4.1.13 Decrease decimal.png" alt=""><figcaption><p>Select the columns and decrease decimals</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2.4.1.14 Decrease decimal.png" alt=""><figcaption><p>Changes in decimal places are reflected</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/2.4.1.13 Decrease decimal.png" alt=""><figcaption><p>Select the columns and decrease decimals</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2.4.1.14 Decrease decimal.png" alt=""><figcaption><p>Changes in decimal places are reflected</p></figcaption></figure></div>
 
 
 
@@ -118,17 +102,9 @@ You can see the positive and negative options on enabling the toggle, as shown b
 
 You can also display positive and negative numbers in the formats shown below.
 
-<div>
+<div><figure><img src="../../../.gitbook/assets/2.4.1.17 Semantic formatting.png" alt=""><figcaption><p>Positive numbers formatting</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2.4.1.16 Semantic formatting.png" alt=""><figcaption><p>Negative numbers formatting</p></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/2.4.1.17 Semantic formatting.png" alt=""><figcaption><p>Positive numbers formatting</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2.4.1.16 Semantic formatting.png" alt=""><figcaption><p>Negative numbers formatting</p></figcaption></figure>
-
-</div>
-
-In the next section, we'll be covering [Cell & value formatting](cell-and-value-formatting.md).
+In the next section, we'll be covering [Cell & value formatting](cell-header-and-value-formatting.md).
 
 #### Resources
 

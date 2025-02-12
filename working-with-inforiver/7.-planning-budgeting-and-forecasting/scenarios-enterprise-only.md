@@ -184,7 +184,7 @@ Scenario 1 will be opened by default in reading view when users navigate to scen
 
 ### 3.10. Style formatting scenarios
 
-You can manually format the newly created scenarios using the [cell and value formatting styles](../2.-displaying-information/basic-formatting/cell-and-value-formatting.md) or the [column styles](../8.-paginated-reporting/display-and-themes.md#iii-column-style) as well as copy the style from the Base or any other existing scenarios.
+You can manually format the newly created scenarios using the [cell and value formatting styles](../2.-displaying-information/basic-formatting/cell-header-and-value-formatting.md) or the [column styles](../8.-paginated-reporting/display-and-themes.md#iii-column-style) as well as copy the style from the Base or any other existing scenarios.
 
 The image below shows _Scenario 1_ created from _Base._&#x20;
 

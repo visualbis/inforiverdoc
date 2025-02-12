@@ -34,7 +34,7 @@ The preview limit is configurable and can be adjusted from the Admin console.
 
 Analyzing, monitoring, and sharing Infobridge logs has never been simpler. You can export Infobridge logs from the admin console by navigating to Insights > App Container Logs and selecting the type of logs you need. You have options to export writeback, transformation, and visual logs. This option is primarily intended for on-prem users and is not available for SaaS customers.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Export log files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Export log files</p></figcaption></figure>
 
 #### 5. **Export and import from Infobridge**
 

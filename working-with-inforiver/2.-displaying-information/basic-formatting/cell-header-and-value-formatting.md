@@ -1,6 +1,6 @@
-# Cell & value formatting
+# Cell, header & value formatting
 
-In Inforiver, you can change the font color, style, size, and text alignment in a cell, or apply formatting effects. These are available in the 'Home' tab of the toolbar in the 'Style' and 'Alignment' sections.
+In Inforiver Matrix, you can change the font color, style, size, and text alignment in a cell, or apply formatting effects. These are available in the 'Home' tab of the toolbar in the 'Style' and 'Alignment' sections.
 
 <figure><img src="../../../.gitbook/assets/image (380) (1).png" alt=""><figcaption><p>Style and alignment sections</p></figcaption></figure>
 
@@ -36,15 +36,7 @@ And use the font color option to change the foreground color or the font color o
 
 You can copy cell formatting using the 'Format painter' option just as in Excel. But Inforiver goes one step further. If you have applied formatting to a specific level like the Subcategory in the below example, you can apply it to all the other subcategories using the 'Apply format to level' option.&#x20;
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/2.4.2.4 format level 1.png" alt=""><figcaption><p>Apply format to level option</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2.4.2.4 format level 2.png" alt=""><figcaption><p>Format applied to level</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/2.4.2.4 format level 1.png" alt=""><figcaption><p>Apply format to level option</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2.4.2.4 format level 2.png" alt=""><figcaption><p>Format applied to level</p></figcaption></figure></div>
 
 #### f) Borders
 
@@ -93,6 +85,12 @@ You can choose the fit mode that is best suited for your data.
 <figure><img src="../../../.gitbook/assets/image (381) (1).png" alt=""><figcaption><p>Fit to header</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (382) (1).png" alt=""><figcaption><p>Best fit</p></figcaption></figure>
+
+## 3. Inserting icons in headers
+
+Enhance the visual appeal of your reports with icons and symbols in measures headers, column headers, and inserted rows. You can copy the preferred icon and paste it in the title section.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Inserting icons in headers</p></figcaption></figure>
 
 In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).
 
