@@ -161,3 +161,13 @@ h) Hide ruler
 In the Table and Stepped layout, [rails ](../actions/rails.md)are displayed in the report by default. If you do not require rails for formatting, a Hide ruler option has been added to the row gripper under the Actions section. This is primarily intended for report authors who are unaware of the rails option on the toolbar.
 
 <figure><img src="../../../.gitbook/assets/8.1. Hide ruler.png" alt=""><figcaption><p>Hide ruler</p></figcaption></figure>
+
+#### 8. Ungroup
+
+You can use the row gripper to flatten custom row hierarchies. Notice how the parent _Operations_ group is removed and the child categories are converted into parent categories after ungrouping.
+
+<figure><img src="../../../.gitbook/assets/Ungroup (1).gif" alt=""><figcaption><p>Ungroup</p></figcaption></figure>
+
+{% hint style="info" %}
+The Remove Group option will delete the parent category i.e. remove the selected level of the hierarchy including all child records.
+{% endhint %}
