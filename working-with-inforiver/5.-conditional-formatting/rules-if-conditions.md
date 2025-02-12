@@ -197,4 +197,12 @@ You can compare date dimensions against static dates using the Selected Date opt
 
 <figure><img src="../../.gitbook/assets/image (505).png" alt=""><figcaption><p>Compare against static dates</p></figcaption></figure>
 
+### 7. Conditional formatting for data input fields
+
+Highlight your data input fields like number, dropdown, and person columns with conditional formatting. When users enter values, you can specify rules to automatically apply formatting when the rules are satisfied e.g. spotlight the cells when the budget entered exceeds a certain limit.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Conditional formatting for data input fields</p></figcaption></figure>
+
+
+
 In the next section, we'll be covering [Color scale](color-scale.md).
