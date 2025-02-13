@@ -28,6 +28,8 @@ A side panel opens when creating a data input row. Type in the name of the categ
 
 Create a calculated row, data input row, or aggregated row by selecting the appropriate option from the dropdown.
 
+You have the flexibility to switch between data input, calculated, and aggregated rows at any time with the Row Type dropdown. For instance, you may have used a formula and referred to the values of an existing row dimension while creating the row. You can easily change it to data input and enter values without having to create a new data input row.
+
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Row type</p></figcaption></figure>
 
 #### **iii. Insert as**
