@@ -10,15 +10,13 @@ Refer to [formula syntax](../../../formula-syntax/) for a detailed list of funct
 
 Let us take this example, where we have sales data by category and subcategory. Let's insert a row for Specialty Beverages which is calculated as the minimum of the other subcategories in Beverages across quarters.
 
-<figure><img src="../../../.gitbook/assets/4.1.1 Calculated row.png" alt=""><figcaption><p>Sales report</p></figcaption></figure>
+Select the Tea & Coffee row above which we need to insert the row. In the Insert tab, click on the **Insert Row** dropdown. Select the Formula option.
 
-a) Select the Tea & Coffee row above which we need to insert the row. In the 'Insert' tab, click on the 'Insert row' dropdown. Click on 'Calculated row'.
+<figure><img src="../../../.gitbook/assets/image (1212).png" alt=""><figcaption><p>Inserting a calculated row</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4.1.2 Calculated row.png" alt=""><figcaption><p>Inserting a calculated row</p></figcaption></figure>
+A blank row gets inserted and a side panel opens up as shown.
 
-b) A blank row gets inserted and a side panel opens up as shown.
-
-<figure><img src="../../../.gitbook/assets/4.1.3 Calculated row.png" alt=""><figcaption><p>Calculated row side panel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1213).png" alt=""><figcaption><p>Create calculated row</p></figcaption></figure>
 
 ### 1. Formula editor
 
@@ -58,17 +56,15 @@ h) Finish typing the formula as shown below.
 To see the underlying logic for calculated data, click on the cell to preview the formulae applied in the formula bar.
 {% endhint %}
 
-While you can use the [SUM](../../../formula-syntax/math-functions/sum.md) and [AVERAGE](../../../formula-syntax/math-functions/average.md) functions to calculate the sum and average of rows respectively, you can also use the **Insert Sum of rows** and **Insert Avg of rows** options from the 'Insert Row' menu.
+While you can use the [SUM](../../../formula-syntax/math-functions/sum.md) and [AVERAGE](../../../formula-syntax/math-functions/average.md) functions to calculate the sum and average of rows respectively, you can also use the **Aggregation** option from the 'Insert Row' menu.
 
-Select the desired rows first holding down the Ctrl key and then select **Insert Sum of rows.**
+Select a parent-level row and choose the **Aggregation** option from the Insert Row menu.
 
-<figure><img src="../../../.gitbook/assets/image (517) (1).png" alt=""><figcaption><p>Choose <strong>Insert Sum of rows</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1214).png" alt=""><figcaption><p>Inserting aggregated rows</p></figcaption></figure>
 
-A new row containing the sum of the selected rows is created as shown below. You can use the side panel to make any additional changes. Observe how the formula editor has been automatically populated with the selected rows.
+Select the aggregation type from the dropdown menu.
 
-<figure><img src="../../../.gitbook/assets/image (518) (1).png" alt=""><figcaption><p>New Calculated Row - Sum</p></figcaption></figure>
-
-Similarly, for calculating and inserting the average of rows, use **Insert Avg of rows.**
+<figure><img src="../../../.gitbook/assets/image (1215).png" alt=""><figcaption><p>Creating a custom aggregated row</p></figcaption></figure>
 
 Any errors in the formula can be easily located with clear and concise error messages. In the maximized formula editor view, you will also notice line numbers, allowing you to quickly locate and fix errors.
 
