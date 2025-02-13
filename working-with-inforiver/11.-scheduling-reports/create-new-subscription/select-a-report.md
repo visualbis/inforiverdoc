@@ -10,13 +10,13 @@ In the first drop-down, choose the Power BI workspace where the report you want 
 
 If you schedule the subscription from the Power BI report, the 'Workspace' and 'Report' fields will be auto-populated with the workspace and report names, respectively. If you wish to schedule a different report, you can update the details here.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select workspace</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select workspace</p></figcaption></figure>
 
 Based on the selection made in the first drop-down, the second drop-down gets populated with reports available in the selected workspace.&#x20;
 
 In the second drop-down, select the report for which you want to create a subscription.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select report </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select report </p></figcaption></figure>
 
 ### ii) Pages
 
@@ -25,7 +25,7 @@ Here you can choose which pages of the report to schedule.&#x20;
 * **All pages:** Send all the pages of the report.
 * **Select:** If you select this option, a drop-down menu appears, allowing you to choose which pages to schedule and send. Multiple pages can be selected.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Select pages</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select pages</p></figcaption></figure>
 
 ### iii) Include hidden pages&#x20;
 
