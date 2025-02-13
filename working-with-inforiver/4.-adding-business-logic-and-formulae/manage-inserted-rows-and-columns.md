@@ -1,10 +1,10 @@
 # Manage inserted rows
 
-Rows inserted in the visual such as calculations, static rows, template rows or data input rows can be managed using the **Manage Rows** option.&#x20;
+Rows inserted in the visual such as calculations, static rows, template rows, or data input rows can be managed using the **Manage Rows** option.&#x20;
 
 ## 1. Rows
 
-Inserted rows such as static, calculated, etc. can be managed from the **Rows** tab. A list of the inserted rows is displayed. The following operations can be performed:
+Inserted rows such as static, calculated, etc. can be managed from the **Rows** tab. A list of the inserted rows is displayed. Each type of row: calculated, aggregated, data input, and template can be identified by the row icons. The following operations can be performed:
 
 a) Edit - Formulae or other properties can be modified.
 
@@ -14,7 +14,27 @@ c) Show/hide row - Inserted rows can be hidden temporarily.
 
 d) Show/hide row indicator - The pencil icon beside the inserted rows can be hidden.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Managing rows</p></figcaption></figure>
+e) Add rows - You can instantly add child rows and sibling(at the same level of the hierarchy) rows right from the Manage Rows side pane.
+
+Hover over the row to view these options.
+
+<figure><img src="../../.gitbook/assets/image (1225).png" alt=""><figcaption><p>Row management operations</p></figcaption></figure>
+
+f) Search and filter custom rows - Use the Search and Filter options to search for a particular row category or display rows based on the type.
+
+<figure><img src="../../.gitbook/assets/image (1226).png" alt=""><figcaption><p>Search and filter for custom rows</p></figcaption></figure>
+
+* **Tree view**
+
+Use the Tree View to easily identify the hierarchy level where a specific row was created.
+
+<figure><img src="../../.gitbook/assets/image (1223).png" alt=""><figcaption><p>Tree view</p></figcaption></figure>
+
+* **List view**
+
+The **List** view displays rows in the order that they were inserted.
+
+<figure><img src="../../.gitbook/assets/image (1224).png" alt=""><figcaption><p>List view</p></figcaption></figure>
 
 ## 2. Row settings
 
@@ -22,7 +42,7 @@ The **Manage Rows** side panel has a **Row Settings** tab that lets you configur
 
 ### 2.1. Insert row configuration
 
-You can set category-based rules on rows that are bulk inserted. For example, you can disable row insertion for certain row dimension categories, enforce distinct values, or source categories from an Excel spreadsheet. [Learn more about bulk inserting rows.](insert-manual-input-rows.md#id-2.-bulk-insert-static-rows)
+You can set category-based rules on rows that are bulk-inserted. For example, you can disable row insertion for certain row dimension categories, enforce distinct values, or source categories from an Excel spreadsheet. [Learn more about bulk inserting rows.](insert-manual-input-rows.md#id-2.-bulk-insert-static-rows)
 
 ### 2.2. Insert Row Access
 

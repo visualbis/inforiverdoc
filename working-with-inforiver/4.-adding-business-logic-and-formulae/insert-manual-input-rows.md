@@ -34,7 +34,9 @@ You have the flexibility to switch between data input, calculated, and aggregate
 
 #### **iii. Insert as**
 
-Select the Single Row option to insert one data input row. Select the Templated option to replicate the row category across all levels of the hierarchy. The image below shows how template rows are rendered.
+Select the Single Row option to insert one data input row. Select the Templated option to replicate the row category across all levels of the hierarchy. For instance, you may create a product line specific to a particular region. You can use the Templated option to replicate the same product line across all regions.
+
+The image below shows how template rows are rendered.
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Template rows</p></figcaption></figure>
 
