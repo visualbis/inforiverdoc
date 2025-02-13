@@ -4,11 +4,11 @@ You can manage all your subscriptions from the Inforiver console.&#x20;
 
 Click on **Manage subscriptions** in an Inforiver report as shown below.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Manage Subscription</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Manage Subscription</p></figcaption></figure>
 
 You can also access your subscriptions directly from the Inforiver Console.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Accessing subscriptions from the console</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Accessing subscriptions from the console</p></figcaption></figure>
 
 ## 1. View & filter subscriptions
 
@@ -36,7 +36,7 @@ The 'My subscriptions' page contains a list of all your subscriptions. For each 
 
 Clicking on the play icon will open a 'Run now' modal. Click the **Run now** button to run the subscription instantly.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Run subscription</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Run subscription</p></figcaption></figure>
 
 #### **Pause**&#x20;
 

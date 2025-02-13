@@ -8,33 +8,41 @@ To address such scenarios, Inforiver allows you to insert static rows in matrix-
 
 
 
-## 1. Insert static row
+## 1. Insert data input row
 
-The option to insert rows is available in the 'Insert' tab. Note however that the 'Insert row' option is greyed out.
+You can insert data input rows from the Insert tab > Insert Row menu. Please bear in mind that the Insert Row button will be disabled until you select a row in your report. Select the Number option from the Data Input sub-menu.
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Data input - Number</p></figcaption></figure>
 
-Select a row as shown below. The 'Insert row' option gets enabled. Click on the dropdown as shown. You can see a list of the available options. Click on 'Static row'.&#x20;
+Another way to insert static rows is by using the row gripper. The gripper icon is highlighted when you hover over a row. Click on it, then select the Insert > Data Input option.
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Inserting data input rows from the gripper</p></figcaption></figure>
 
-Another way to insert static rows is by using the row gripper. The gripper icon is highlighted when you hover over a row. Click on it, then select the 'Add static row' option in the _insert_ section.
+#### 1.1. Data input row properties
 
-<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+A side panel opens when creating a data input row. Type in the name of the category in the **Title** textbox and click Create. You will see an empty record created above the row that was selected.
 
-#### 1.1. Static row properties
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Data input row created</p></figcaption></figure>
 
-A side panel opens when creating a static now, as shown below. Type in the name of the category and click 'Create'. You will see an empty record created above the row that was selected before the 'Insert Row' operation.&#x20;
+#### **i. Row type**
 
-<figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+Create a calculated row, data input row, or aggregated row by selecting the appropriate option from the dropdown.
 
-#### **i. Scaling factor**
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Row type</p></figcaption></figure>
+
+#### **iii. Insert as**
+
+Select the Single Row option to insert one data input row. Select the Templated option to replicate the row category across all levels of the hierarchy. The image below shows how template rows are rendered.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Template rows</p></figcaption></figure>
+
+#### **iv. Scaling factor**
 
 You can set the scaling factor for the static row depending on the data that is expected to be entered. It is set to Auto by default.
 
-#### **ii. Include in total**
+#### **v. Include in total**
 
-When the 'Include in total' option is enabled, any values that we type in for the new row also update the parent row 'Germany'.&#x20;
+When the 'Include in total' option is enabled, any values we type in for the new row also contribute to the parent row,  in this case, 'Canada'.&#x20;
 
 #### **iii. Distribute parent value to children**
 
@@ -44,11 +52,17 @@ The 'Distribute parent value to children' option ensures that if a value is ente
 
 You can enable the Bind for Cross filter/RLS option – this ensures that cross-filter selections and RLS settings apply to calculated/manual input rows that reference other rows. For example, if this option is not enabled, a manager handling Canada accounts can view a manually inserted row that references US data or an inserted region that is manually created at the visual level. [Learn more about binding rows.](insert-calculated-rows/#id-6.-bind-for-cross-filter-rls)
 
+**v. Default value**
+
+You can either enter a static value or select another row to source default values.
+
+<div><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Static default value</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2025-02-13_11h44_51.png" alt=""><figcaption><p>Default values from another row</p></figcaption></figure></div>
+
 #### 1.2. **Delete a static row**
 
-To delete a static row, hover over the row and click on the row gripper. Select the 'Delete Row' option.
+To delete a static row, hover over the row and click on the row gripper. Select the 'Delete Row' option. You can also delete rows from the **Manage Rows** interface that will be covered in subsequent sections.
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Deleting a static row</p></figcaption></figure>
 
 ## 2. Bulk insert static rows
 
@@ -126,11 +140,11 @@ You can also insert rows and their leaf categories from semantic models. The pro
 
 **STEP 1:** To pick and upload row categories from a semantic model, navigate to Insert > Manage Rows > Insert Row Settings > Insert Row Configuration > Manage. Select **Options list from Semantic Model** from the 'Category' dropdown.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
 
 **STEP 2:** The **Add options from Semantic model** window opens. In the **Table Connection** tab, select the workspace, semantic model and the table you need to connect to. Click **Next.**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Table Connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Table Connection</p></figcaption></figure>
 
 **STEP 3:** Go to the **Options configuration** tab and choose the column from the connected table that will be used as the option label. In the example below, we have chosen the column 'Category' from the table 'Contoso-Product'. This column's members will be used to populate the 'Categories' row level.\
 \
@@ -140,7 +154,7 @@ Then click **Add**.
 
 Because of this filter, when you insert a row and add a sub-category first, you will be prompted with the category to which it belongs.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options configuration</p></figcaption></figure>
 
 {% hint style="info" %}
 Configuring filter options is optional. By adding it, we ensure that the dropdown list for each category displays only the relevant sub-categories and vice-versa. For example, if you choose "Cellphones" as the category, only the sub-categories under "Cellphones" will be displayed, not other categories.
@@ -150,11 +164,11 @@ Similarly, when you choose a sub-category, you can add it only under the relevan
 
 **STEP** **5: F**ollow the same steps from 1 to 4 for SubCategory dimension.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure></div>
 
-<div align="right"><figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options Configuration</p></figcaption></figure></div>
+<div align="right"><figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options Configuration</p></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration done</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration done</p></figcaption></figure>
 
 Once the configuration is completed as shown in the image above, you can follow the steps in sections 2.1/2.2 to insert the configured row categories into your visual.
 
