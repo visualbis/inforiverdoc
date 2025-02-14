@@ -58,7 +58,7 @@ You can position the text/icons with respect to the cell values. You can also ch
 
 When you use icons, you have an additional option to align your icons in the grid. By default, the icons are left aligned.
 
-<div><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aligning icons</p></figcaption></figure> <figure><img src="../../.gitbook/assets/conditional-formatting-icon-alignment-left-2048x1159.png" alt=""><figcaption><p>Left-align option disabled</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aligning icons</p></figcaption></figure> <figure><img src="../../.gitbook/assets/conditional-formatting-icon-alignment-left-2048x1159.png" alt=""><figcaption><p>Left-align option disabled</p></figcaption></figure></div>
 
 * **Hiding values**
 
@@ -201,12 +201,12 @@ You can compare date dimensions against static dates using the Selected Date opt
 
 Highlight your data input fields like number, dropdown, and person columns with conditional formatting. When users enter values, you can specify rules to automatically apply formatting when the rules are satisfied e.g. spotlight the cells when the budget entered exceeds a certain limit.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Conditional formatting for data input fields</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Conditional formatting for data input fields</p></figcaption></figure>
 
 ### 8. Rules for non-numeric measures
 
 You can apply conditional formatting to non-numeric measures using conditions like **is blank/is not blank/contains/does not contain,** etc. In this example, we've set a hatched background for the cells with blank customer names.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the next section, we'll be covering [Color scale](color-scale.md).
