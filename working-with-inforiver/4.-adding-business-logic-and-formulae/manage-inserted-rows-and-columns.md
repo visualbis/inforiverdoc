@@ -24,15 +24,15 @@ f) Search and filter custom rows - Use the Search and Filter options to search f
 
 <figure><img src="../../.gitbook/assets/image (1226).png" alt=""><figcaption><p>Search and filter for custom rows</p></figcaption></figure>
 
-* **Tree view**
+**Tree view**
 
 Use the Tree View to easily identify the hierarchy level where a specific row was created.
 
 <figure><img src="../../.gitbook/assets/image (1223).png" alt=""><figcaption><p>Tree view</p></figcaption></figure>
 
-* **List view**
+**List view**
 
-The **List** view displays rows in the order that they were inserted.
+The **List** view displays rows in the order in which they were inserted.
 
 <figure><img src="../../.gitbook/assets/image (1224).png" alt=""><figcaption><p>List view</p></figcaption></figure>
 
