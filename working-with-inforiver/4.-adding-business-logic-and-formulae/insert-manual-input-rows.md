@@ -12,17 +12,17 @@ To address such scenarios, Inforiver allows you to insert static rows in matrix-
 
 You can insert data input rows from the Insert tab > Insert Row menu. Please bear in mind that the Insert Row button will be disabled until you select a row in your report. Select the Number option from the Data Input sub-menu.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Data input - Number</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Data input - Number</p></figcaption></figure>
 
 Another way to insert static rows is by using the row gripper. The gripper icon is highlighted when you hover over a row. Click on it, then select the Insert > Data Input option.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Inserting data input rows from the gripper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Inserting data input rows from the gripper</p></figcaption></figure>
 
 #### 1.1. Data input row properties
 
 A side panel opens when creating a data input row. Type in the name of the category in the **Title** textbox and click Create. You will see an empty record created above the row that was selected.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Data input row created</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Data input row created</p></figcaption></figure>
 
 #### **i. Row type**
 
@@ -30,7 +30,7 @@ Create a calculated row, data input row, or aggregated row by selecting the appr
 
 You have the flexibility to switch between data input, calculated, and aggregated rows at any time with the Row Type dropdown. For instance, you may have used a formula and referred to the values of an existing row dimension while creating the row. You can easily change it to data input and enter values without having to create a new data input row.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Row type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Row type</p></figcaption></figure>
 
 #### **iii. Insert as**
 
@@ -38,7 +38,7 @@ Select the Single Row option to insert one data input row. Select the Templated 
 
 The image below shows how template rows are rendered.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Template rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Template rows</p></figcaption></figure>
 
 #### **iv. Scaling factor**
 
@@ -60,19 +60,19 @@ You can enable the Bind for Cross filter/RLS option – this ensures that cross-
 
 You can either enter a static value or select another row to source default values.
 
-<div><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Static default value</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2025-02-13_11h44_51.png" alt=""><figcaption><p>Default values from another row</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Static default value</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2025-02-13_11h44_51.png" alt=""><figcaption><p>Default values from another row</p></figcaption></figure></div>
 
 #### 1.2. **Delete a static row**
 
 To delete a static row, hover over the row and click on the row gripper. Select the 'Delete Row' option. You can also delete rows from the **Manage Rows** interface that will be covered in subsequent sections.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Deleting a static row</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Deleting a static row</p></figcaption></figure>
 
 ## 2. Bulk insert static rows
 
 You can bulk-insert leaf-level rows or hierarchies using the Insert rows option.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Insert rows option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Insert rows option</p></figcaption></figure>
 
 ### 2.1. Inserting child rows
 
@@ -83,11 +83,11 @@ There are 2 ways to add new rows:
 * To insert a new row, click the <img src="../../.gitbook/assets/image (762).png" alt="" data-size="line">icon that appears on hovering near the parent category.
 * Click Add New, then choose whether to insert a single row or bulk insert 5/10 rows.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Bulk insert row categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Bulk insert row categories</p></figcaption></figure>
 
 The <mark style="color:green;">TJOrg, HDTabmble,</mark> and <mark style="color:green;">DC</mark> rows are created when you click Save. You can enter values in these rows. The <img src="../../.gitbook/assets/image (764).png" alt="" data-size="line">icon denotes manually inserted rows.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Entering values for data input rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Entering values for data input rows</p></figcaption></figure>
 
 ### 2.2. Inserting a hierarchy
 
@@ -146,11 +146,11 @@ You can also insert rows and their leaf categories from semantic models. The pro
 
 **STEP 1:** To pick and upload row categories from a semantic model, navigate to Insert > Manage Rows > Insert Row Settings > Insert Row Configuration > Manage. Select **Options list from Semantic Model** from the 'Category' dropdown.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
 
 **STEP 2:** The **Add options from Semantic model** window opens. In the **Table Connection** tab, select the workspace, semantic model and the table you need to connect to. Click **Next.**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Table Connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Table Connection</p></figcaption></figure>
 
 **STEP 3:** Go to the **Options configuration** tab and choose the column from the connected table that will be used as the option label. In the example below, we have chosen the column 'Category' from the table 'Contoso-Product'. This column's members will be used to populate the 'Categories' row level.\
 \
@@ -160,7 +160,7 @@ Then click **Add**.
 
 Because of this filter, when you insert a row and add a sub-category first, you will be prompted with the category to which it belongs.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options configuration</p></figcaption></figure>
 
 {% hint style="info" %}
 Configuring filter options is optional. By adding it, we ensure that the dropdown list for each category displays only the relevant sub-categories and vice-versa. For example, if you choose "Cellphones" as the category, only the sub-categories under "Cellphones" will be displayed, not other categories.
@@ -170,11 +170,11 @@ Similarly, when you choose a sub-category, you can add it only under the relevan
 
 **STEP** **5: F**ollow the same steps from 1 to 4 for SubCategory dimension.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure></div>
 
-<div align="right"><figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options Configuration</p></figcaption></figure></div>
+<div align="right"><figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options Configuration</p></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration done</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration done</p></figcaption></figure>
 
 Once the configuration is completed as shown in the image above, you can follow the steps in sections 2.1/2.2 to insert the configured row categories into your visual.
 
@@ -220,7 +220,7 @@ Please note that you cannot create blank parent nodes for child nodes that are n
 
 This option can be used to insert a single user-defined level for hierarchical data. Only one row is created while using this option, unlike the Insert Rows(s) option, where you can define the hierarchy structure with multiple nested levels and rows. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Add a new level to the hierarchy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Add a new level to the hierarchy</p></figcaption></figure>
 
 After creating a custom hierarchy level, you can insert static rows, calculated rows, aggregated rows, etc. as demonstrated in the example below.&#x20;
 

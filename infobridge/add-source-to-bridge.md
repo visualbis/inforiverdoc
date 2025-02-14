@@ -22,7 +22,7 @@ When you are working on a report and want to add it to a bridge for integration 
 
 You can search for the required bridge using the lookup folder or search box.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Find the bridge in the lookup folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption><p>Find the bridge in the lookup folder</p></figcaption></figure>
 
 Select the required bridge in the lookup folder, view the bridge details, and then click **Add** to import the report into the bridge.
 
@@ -72,11 +72,11 @@ You can also add a source from the console.
 
 **STEP 5:** The details of the visual are displayed. Select the scenarios and measures to import and click **Add.**
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select scenarios and measures</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select scenarios and measures</p></figcaption></figure>
 
 The source is added to the bridge as below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Source added to the bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Source added to the bridge</p></figcaption></figure>
 
 ## 2. Add other sources to the bridge <a href="#adding-different-sources-to-the-bridge" id="adding-different-sources-to-the-bridge"></a>
 
