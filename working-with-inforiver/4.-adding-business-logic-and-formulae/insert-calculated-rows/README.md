@@ -1,6 +1,6 @@
 # Insert calculated rows
 
-Inforiver provides an option to insert calculated rows using an intuitive formula editor. The Excel-like formula engine supports 50+ functions (logical, boolean, math functions and more). The formula editor provides syntax, examples and features such as autocomplete, multi-line support and more to help users create, and troubleshoot formulas.
+Inforiver provides an option to insert calculated rows using an intuitive formula editor. The Excel-like formula engine supports 50+ functions (logical, boolean, math functions, and more). The formula editor provides syntax, examples, and features such as autocomplete, multi-line support, and more to help users create, and troubleshoot formulas.
 
 {% embed url="https://lumel.wistia.com/medias/n67puv7p0m" %}
 
@@ -17,6 +17,10 @@ Select the Tea & Coffee row above which we need to insert the row. In the Insert
 A blank row gets inserted and a side panel opens up as shown.
 
 <figure><img src="../../../.gitbook/assets/image (1213).png" alt=""><figcaption><p>Create calculated row</p></figcaption></figure>
+
+You can also create parent rows as calculated rows.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1227).png" alt=""><figcaption><p>Parent rows as calculated rows</p></figcaption></figure>
 
 ### 1. Formula editor
 
