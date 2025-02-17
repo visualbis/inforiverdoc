@@ -24,4 +24,4 @@ This section outlines configurations specific to text variables.
 
 **STEP 3:** Notice how the summary in the header changes as we update the text in the variable.
 
-<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1).gif" alt=""><figcaption><p>Using text variables in Inforiver reports</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1).gif" alt=""><figcaption><p>Using text variables in Inforiver reports</p></figcaption></figure>
