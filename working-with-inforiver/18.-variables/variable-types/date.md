@@ -40,4 +40,4 @@ When you have date dimensions in your reports, you can use date variables to cre
 
 **STEP 3:** Users can instantly set a date in the report header by just selecting it from the variable. The header does not have to be edited each time.
 
-<figure><img src="../../../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Setting a header date using variables</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (11).gif" alt=""><figcaption><p>Setting a header date using variables</p></figcaption></figure>

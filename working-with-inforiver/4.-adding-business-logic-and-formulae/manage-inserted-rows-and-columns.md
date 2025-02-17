@@ -64,11 +64,11 @@ You can set row-level permissions to edit rows of Data Input and Forecast column
 
 **STEP 2:** Select the **All** radio button to set row edit permissions for all the forecasts and data input fields in your report. To grant access to specific measures, check the **Selected** radio button and choose the measure.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select measures to grant access</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select measures to grant access</p></figcaption></figure>
 
 **STEP 3:** Specify users who will have elevated access to edit all rows, irrespective of the categories assigned to email IDs in the semantic model.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>User selection for elevated edit access</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>User selection for elevated edit access</p></figcaption></figure>
 
 **STEP 4:** Map the dimension category in the semantic model to the row dimension category in your report. Click **Save & Preview**.
 

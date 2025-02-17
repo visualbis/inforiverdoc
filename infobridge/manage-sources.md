@@ -2,7 +2,7 @@
 
 Your reports can undergo changes like the creation of new scenarios or measures even after you create a bridge You can refresh the data in a source, pull additional measures/scenarios, and schedule refreshes for native measures from the **Manage Source** interface.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Manage source window</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Manage source window</p></figcaption></figure>
 
 ### 1. Manually refreshing the source
 
@@ -10,13 +10,13 @@ Changes to data input fields in your reports are automatically reflected in Info
 
 Click on the **Refresh Source** option to manually trigger a refresh.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refreshing the source</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refreshing the source</p></figcaption></figure>
 
 ### 2. Adding new scenarios or measures to a bridge
 
 When you create a bridge, you can select the scenarios and measures that you want to expose outside the visual. You can add measures and scenarios at any point from the General tab. Select them and click Update to pull in additional measures.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding measures and scenarios to a bridge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding measures and scenarios to a bridge</p></figcaption></figure>
 
 ### 3. Setup a refresh schedule
 
@@ -26,10 +26,10 @@ Infobridge auto-refreshes whenever there are changes in the data input fields. N
 * Specify a start and end date for the schedule.
 * Define a time to trigger the refresh.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refresh schedule</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refresh schedule</p></figcaption></figure>
 
 ### 4. Refresh history
 
 View the refresh jobs and milestones from the history tab.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refresh history</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Refresh history</p></figcaption></figure>
