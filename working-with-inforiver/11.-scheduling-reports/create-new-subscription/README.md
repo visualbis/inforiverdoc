@@ -48,7 +48,7 @@ Starting a new subscription (standard or dynamic) takes you to the 'New subscrip
 
 Click on the 'Pencil' icon on the top of the 'New subscription' page to edit the name of the subscription.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver subscription name</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver subscription name</p></figcaption></figure>
 
 In the upcoming pages, we will discuss the tabs in detail.
 

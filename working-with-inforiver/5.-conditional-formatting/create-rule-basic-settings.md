@@ -11,7 +11,7 @@ In this section, we'll cover some of the **basic settings** related to condition
 2. The rule can be renamed by editing the **Title** field.
 3. You can apply conditional formatting to the row headers, rows, column headers, or columns/measures. Choose the desired option in the **Apply to** field. For example, if you opt to apply conditional formatting for row headers, you will be able to select the row dimensions that will be impacted by conditional formatting.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Conditional formatting for row headers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Conditional formatting for row headers</p></figcaption></figure>
 
 
 

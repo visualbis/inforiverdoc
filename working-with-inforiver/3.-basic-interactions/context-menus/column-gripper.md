@@ -6,11 +6,11 @@ You can use the column gripper context menu to quickly sort or show/hide fields 
 
 You can use the _Sort_ option to sort your data in ascending/descending order or apply an absolute sort.  For hierarchical datasets, sorting is applied to the child rows for each level of the hierarchy.
 
-<figure><img src="../../../.gitbook/assets/image (27) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sort option</p></figcaption></figure>
 
 In the example, the Jan > Profit measure has been sorted in ascending order.
 
-<figure><img src="../../../.gitbook/assets/image (28) (4).png" alt=""><figcaption><p>Jan>Profit sorted in ascending order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sorted data for the Profit column</p></figcaption></figure>
 
 #### ii) Insert
 
@@ -24,7 +24,17 @@ Learn more about [data input](../../4.-adding-business-logic-and-formulae/insert
 
 <figure><img src="../../../.gitbook/assets/image (29) (2).png" alt=""><figcaption></figcaption></figure>
 
-#### iii) Pin column
+#### iii) Change to visual column
+
+When you assign measures or dimensions to the AC/PY/PL/FC/Others parameters, the native measures and dimensions are displayed for each column dimension category. You can display them as visual columns by selecting the **Change to visual column** option.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Change to visual column option</p></figcaption></figure>
+
+Notice how the Profit measure has been converted into a visual column.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Native measure converted into a visual column</p></figcaption></figure>
+
+#### iv) Pin column
 
 The pin column option allows you to tag important columns right at the beginning of your report - saving you the effort required to scroll back and forth.
 
