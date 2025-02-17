@@ -2,7 +2,7 @@
 
 Inforiver provides a comprehensive and business-friendly user interface for managing and administering schedules. The 'All subscriptions' page is similar to the 'My subscriptions' page except for the fact that it is available only for admin users to view and manage the subscriptions of all other members.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>All subscriptions page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>All subscriptions page</p></figcaption></figure>
 
 The options available on the 'All subscriptions' page are the same as the ones available on the 'My subscriptions' page. Refer to the [Manage your subscriptions](manage-your-subscriptions.md) section to learn more about each of these options in detail.
 
@@ -16,7 +16,7 @@ A subscription can contain multiple jobs. You can also monitor, view, and gather
 
 All scheduled jobs will be displayed on the **Jobs** page, along with their details.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Subscription jobs</p></figcaption></figure>
 
 ### a) Job details
 
@@ -36,7 +36,7 @@ Each of these column values can be sorted in ascending/descending order by click
 
 Clicking on any of the scheduled job IDs will display a detailed summary of the job in the 'Summary' tab.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Subscription summary</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Subscription summary</p></figcaption></figure>
 
 Clicking on the 'Email Jobs' tab will display a summary of all the emails sent along with the recipients, delivered date, time, status, filter, and bookmarks.
 
