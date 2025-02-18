@@ -345,6 +345,7 @@
     * [DISPLAY SETTINGS](formula-syntax/scripting-functions/display-settings/README.md)
       * [SETSUPPRESSZEROS](formula-syntax/scripting-functions/display-settings/setsuppresszeros.md)
       * [SETRAGGEDHIERARCHY](formula-syntax/scripting-functions/display-settings/setraggedhierarchy.md)
+      * [SINGLECHILD](formula-syntax/scripting-functions/display-settings/singlechild.md)
   * [Miscellaneous functions](formula-syntax/miscellaneous-functions/README.md)
     * [FETCH](formula-syntax/miscellaneous-functions/fetch.md)
     * [LOOKUP](formula-syntax/miscellaneous-functions/lookup.md)
