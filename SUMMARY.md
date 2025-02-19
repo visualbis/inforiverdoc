@@ -348,6 +348,7 @@
       * [SETRAGGEDHIERARCHY](formula-syntax/scripting-functions/display-settings/setraggedhierarchy.md)
       * [SEPARATOR](formula-syntax/scripting-functions/display-settings/separator.md)
       * [SETCOMBINECOLUMNHEADER](formula-syntax/scripting-functions/display-settings/setcombinecolumnheader.md)
+      * [SEMANTICFORMAT](formula-syntax/scripting-functions/display-settings/semanticformat.md)
       * [SHOWNULLAS](formula-syntax/scripting-functions/display-settings/shownullas.md)
       * [SHOWZEROAS](formula-syntax/scripting-functions/display-settings/showzeroas.md)
       * [SINGLECHILD](formula-syntax/scripting-functions/display-settings/singlechild.md)
