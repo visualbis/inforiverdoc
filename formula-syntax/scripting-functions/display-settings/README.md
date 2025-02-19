@@ -6,6 +6,7 @@ Report authors can choose to give users access to certain display settings like 
 | ---------------------------------------------------- | -------------------------------------------------------------------------- |
 | [SETSUPPRESSZEROS](setsuppresszeros.md)              | Suppress rows that contain only 0.                                         |
 | [SETRAGGEDHIERARCHY](setraggedhierarchy.md)          | Hide blank categories when you have uneven/unbalanced hierarchical data.   |
-| [SINGLECHILD](singlechild.md)                        | Select which nodes to display when a parent hierarchy has only one child.  |
 | [SETCOMBINECOLUMNHEADER](setcombinecolumnheader.md)  | Combine the column headers and measure labels to display compact headers.  |
 | [SEPARATOR](separator.md)                            | Set custom delimiters for decimals and thousands.                          |
+| [SHOWZEROAS](showzeroas.md)                          | Customize how to display zeroes in your reports                            |
+| [SINGLECHILD](singlechild.md)                        | Select which nodes to display when a parent hierarchy has only one child.  |
