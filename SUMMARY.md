@@ -343,6 +343,7 @@
     * [SHOWCLOSEDFORECAST](formula-syntax/scripting-functions/showclosedforecast.md)
     * [TOPN](formula-syntax/scripting-functions/topn.md)
     * [DISPLAY SETTINGS](formula-syntax/scripting-functions/display-settings/README.md)
+      * [SETBLANKLABEL](formula-syntax/scripting-functions/display-settings/setblanklabel.md)
       * [SETSUPPRESSZEROS](formula-syntax/scripting-functions/display-settings/setsuppresszeros.md)
       * [SETRAGGEDHIERARCHY](formula-syntax/scripting-functions/display-settings/setraggedhierarchy.md)
       * [SEPARATOR](formula-syntax/scripting-functions/display-settings/separator.md)

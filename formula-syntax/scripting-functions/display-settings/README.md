@@ -4,6 +4,7 @@ Report authors can choose to give users access to certain display settings like 
 
 | NAME                                                 | DESCRIPTION                                                                |
 | ---------------------------------------------------- | -------------------------------------------------------------------------- |
+| [SETBLANKLABEL](setblanklabel.md)                    | Replace blank row or column categories with custom text.                   |
 | [SETSUPPRESSZEROS](setsuppresszeros.md)              | Suppress rows that contain only 0.                                         |
 | [SETRAGGEDHIERARCHY](setraggedhierarchy.md)          | Hide blank categories when you have uneven/unbalanced hierarchical data.   |
 | [SETCOMBINECOLUMNHEADER](setcombinecolumnheader.md)  | Combine the column headers and measure labels to display compact headers.  |
