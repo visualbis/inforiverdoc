@@ -347,6 +347,7 @@
       * [SETRAGGEDHIERARCHY](formula-syntax/scripting-functions/display-settings/setraggedhierarchy.md)
       * [SEPARATOR](formula-syntax/scripting-functions/display-settings/separator.md)
       * [SETCOMBINECOLUMNHEADER](formula-syntax/scripting-functions/display-settings/setcombinecolumnheader.md)
+      * [SHOWNULLAS](formula-syntax/scripting-functions/display-settings/shownullas.md)
       * [SHOWZEROAS](formula-syntax/scripting-functions/display-settings/showzeroas.md)
       * [SINGLECHILD](formula-syntax/scripting-functions/display-settings/singlechild.md)
   * [Miscellaneous functions](formula-syntax/miscellaneous-functions/README.md)

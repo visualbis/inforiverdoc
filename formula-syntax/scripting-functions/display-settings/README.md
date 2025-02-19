@@ -8,5 +8,6 @@ Report authors can choose to give users access to certain display settings like 
 | [SETRAGGEDHIERARCHY](setraggedhierarchy.md)          | Hide blank categories when you have uneven/unbalanced hierarchical data.   |
 | [SETCOMBINECOLUMNHEADER](setcombinecolumnheader.md)  | Combine the column headers and measure labels to display compact headers.  |
 | [SEPARATOR](separator.md)                            | Set custom delimiters for decimals and thousands.                          |
+| [SHOWNULLAS](shownullas.md)                          | Customize how to display null values in your reports                       |
 | [SHOWZEROAS](showzeroas.md)                          | Customize how to display zeroes in your reports                            |
 | [SINGLECHILD](singlechild.md)                        | Select which nodes to display when a parent hierarchy has only one child.  |
