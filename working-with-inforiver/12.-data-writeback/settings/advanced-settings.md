@@ -41,3 +41,13 @@ You need not use the column names from the dataset while writing back, you can s
 In the example, we have renamed <mark style="color:green;">Segment</mark> to <mark style="color:orange;">Category</mark> and <mark style="color:green;">Product</mark> to <mark style="color:orange;">Brand</mark>. <mark style="color:green;">COGS</mark> has been expanded to <mark style="color:orange;">Cost of goods sold</mark>.
 
 <figure><img src="../../../.gitbook/assets/image (906).png" alt=""><figcaption><p>Renaming WB fields</p></figcaption></figure>
+
+### 3. Schedule writeback
+
+Inforiver will trigger writeback at the specified time you select without any manual intervention. You can specify the email IDs to be notified if a scheduled writeback job fails.
+
+<figure><img src="../../../.gitbook/assets/image (1251).png" alt=""><figcaption></figcaption></figure>
+
+You can monitor the schedule history and view logs from the admin console. Click on **View jobs** to see the logs.
+
+<figure><img src="../../../.gitbook/assets/image (1252).png" alt=""><figcaption><p>Scheduled writeback logs</p></figcaption></figure>
