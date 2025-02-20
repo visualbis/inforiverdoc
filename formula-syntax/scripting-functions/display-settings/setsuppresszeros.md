@@ -19,7 +19,7 @@ SETSUPPRESSZEROS(TRUE) //Suppresses zeroes
 SETSUPPRESSZEROS(FALSE) //Displays zeroes
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Set suppress zeroes</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Set suppress zeroes</p></figcaption></figure>
 
 Notice how the _Depreciation_ row that only contains zeroes is suppressed when the SuppressZeroes button is clicked and displayed again when the DisplayZeroes button is clicked. The buttons use the SETSUPPRESSZERO script internally to hide and display zero values.
 
