@@ -75,7 +75,8 @@ b) Once this option is selected, the 2023 Budget values are updated automaticall
 Values in data input columns can be locked either at a cell level or including all children (at a subtotal/total level). The cells that are locked are not affected by any of the allocation methods.
 
 {% hint style="info" %}
-A child node can be locked only when [row aggregation type](insert-manual-input-columns/insert-manual-input-columns.md#i-insert-a-new-empty-series) is set to Sum or Average.
+* A child node can be locked only when [row aggregation type](insert-manual-input-columns/insert-manual-input-columns.md#i-insert-a-new-empty-series) is set to Sum or Average.
+* Report users will be able to lock and unlock cells in read view. They will not however be able to unlock cells that were locked by the report author.
 {% endhint %}
 
 ### i) Lock this cell
