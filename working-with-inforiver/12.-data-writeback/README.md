@@ -84,6 +84,10 @@ After performing an initial writeback, you may need to add or remove visual para
 
 <figure><img src="../../.gitbook/assets/1.5. Writeback table mismatch.png" alt=""><figcaption><p>Table mismatch notification</p></figcaption></figure>
 
+When the number of rows being written back exceeds a threshold, you'll need to enable a temporary staging table in the destination config. Writeback will fail unless the staging table option is enabled.
+
+<figure><img src="../../.gitbook/assets/image (1248).png" alt=""><figcaption><p>Notification to enable temporary staging table</p></figcaption></figure>
+
 **STEP 7:** Click the logs button to navigate to the writeback log console and view details like the milestones, payload size, duration of the writeback, etc. [Learn more about writeback logs.](logs.md)
 
 <figure><img src="../../.gitbook/assets/image (683).png" alt=""><figcaption><p>Writeback logs</p></figcaption></figure>
