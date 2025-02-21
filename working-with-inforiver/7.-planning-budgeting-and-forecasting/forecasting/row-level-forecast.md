@@ -40,9 +40,9 @@ Select the Templated option when the row categories repeat across all levels of 
 
 **2.1. Target periods:** The forecast time frame is configured when you [create a forecast measure](../forecasting.md#id-1.-generating-a-forecast). You can configure the entire row forecast with a single time range or split the forecast period into multiple time frames. Use the **Add Range** link to create additional forecast ranges.
 
-<div><figure><img src="broken-reference" alt=""><figcaption><p>Forecast for a single range</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-20_17h43_21.png" alt=""><figcaption><p>Forecast split across time ranges</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/2025-02-20_17h43_21.png" alt=""><figcaption><p>Forecast split across time ranges</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-21_10h12_34.png" alt=""><figcaption><p>Single configuration for the entire forecast period</p></figcaption></figure></div>
 
-When you split the forecast time range, you need to create time ranges that span the entire forecasting period. For example, if your forecasting period is Jan 2025 - Dec 2025, you will need to cover this entire time period when you split it. Inforiver will display a red error icon and will not allow you to create the forecast until all the time ranges are configured.
+When you split the forecast time range, you must create time ranges spanning the entire forecasting period. For example, if your forecasting period is Jan 2025 - Dec 2025, you must cover this entire time period when you split it. Inforiver will display a red error icon and will not allow you to create the forecast until all the time ranges are configured.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Splitting the forecast time frame</p></figcaption></figure>
 
@@ -58,4 +58,10 @@ When you split the forecast time range, you need to create time ranges that span
 
 * **Period range:** The forecast values will be copied from the range specified. In this case, we are sourcing the forecast for Jan 2025 to Mar 2025 from Oct 2024 to Dec 2024.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Period range config</p></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Period range config</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-21_10h16_28.png" alt=""><figcaption><p>Period range forecast</p></figcaption></figure></div>
+
+* **Single period:** The values from the selected period are used to populate the forecast.
+
+<div><figure><img src="../../../.gitbook/assets/image (1265).png" alt=""><figcaption><p>Single period config</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-21_10h35_12.png" alt=""><figcaption><p>Single period forecast</p></figcaption></figure></div>
+
+*
