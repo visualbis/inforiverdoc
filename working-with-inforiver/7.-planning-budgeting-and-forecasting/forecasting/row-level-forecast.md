@@ -64,4 +64,6 @@ When you split the forecast time range, you must create time ranges spanning the
 
 <div><figure><img src="../../../.gitbook/assets/image (1265).png" alt=""><figcaption><p>Single period config</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-21_10h35_12.png" alt=""><figcaption><p>Single period forecast</p></figcaption></figure></div>
 
-*
+* **Average of period range:** Use the average of the selected period range to populate the forecast.
+
+<div><figure><img src="../../../.gitbook/assets/image (1267).png" alt=""><figcaption><p>Average of period range config</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-21_11h16_11.png" alt=""><figcaption><p>Average of period range forecast</p></figcaption></figure></div>
