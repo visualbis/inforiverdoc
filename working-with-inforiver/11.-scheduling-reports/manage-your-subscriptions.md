@@ -4,7 +4,7 @@ You can manage all your subscriptions from the Inforiver console.&#x20;
 
 Click on **Manage subscriptions** in an Inforiver report as shown below.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Manage Subscription</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Manage Subscription</p></figcaption></figure>
 
 You can also access your subscriptions directly from the Inforiver Console.
 
