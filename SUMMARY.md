@@ -8,7 +8,7 @@
     * [Installing Inforiver for your organization (Org visual)](introduction-to-inforiver/get-started/installing-inforiver-for-your-organization-org-visual.md)
     * [Inforiver Writeback Matrix pre-requisites](introduction-to-inforiver/get-started/inforiver-writeback-matrix-pre-requisites/README.md)
       * [Whitelist Inforiver IPs](introduction-to-inforiver/get-started/inforiver-writeback-matrix-pre-requisites/whitelist-inforiver-ips.md)
-      * [Admin consent for Inforiver's entra ID](introduction-to-inforiver/get-started/inforiver-writeback-matrix-pre-requisites/admin-consent-for-inforivers-entra-id/README.md)
+      * [Admin consent for Inforiver's Entra ID](introduction-to-inforiver/get-started/inforiver-writeback-matrix-pre-requisites/admin-consent-for-inforivers-entra-id.md)
         * [Basic consent](introduction-to-inforiver/get-started/inforiver-writeback-matrix-pre-requisites/admin-consent-for-inforivers-entra-id/basic-consent.md)
         * [Full admin consent](introduction-to-inforiver/get-started/inforiver-writeback-matrix-pre-requisites/admin-consent-for-inforivers-entra-id/full-admin-consent.md)
     * [Inforiver Customer Portal](introduction-to-inforiver/get-started/inforiver-customer-portal/README.md)
