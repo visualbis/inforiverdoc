@@ -5,7 +5,7 @@ In addition to [number](insert-manual-input-columns.md) and [dropdown](dropdown/
 Let's cover them one by one.
 
 {% hint style="info" %}
-If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to start inserting a number column.&#x20;
+If you are using Inforiver Writeback Matrix, you need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to start inserting a number column.&#x20;
 {% endhint %}
 
 ## 1. Text
@@ -190,4 +190,4 @@ The date column is inserted with the specified fiscal month and date.
 
 <figure><img src="../../../.gitbook/assets/image (741).png" alt=""><figcaption><p>Date column inserted</p></figcaption></figure>
 
-In the next section, we'll cover the [data input features available only in Inforiver Enterprise](writeback-matrix-features.md).
+In the next section, we'll cover the data input features available only in Inforiver Writeback Matrix.
