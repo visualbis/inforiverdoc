@@ -1,6 +1,6 @@
 # Infobridge
 
-Inforiver Enterprise 3.0 comes with Infobridge, a no-code data integration, preparation, and transformation engine, transforming it into an advanced real-time collaborative and integrated planning and business reporting suite.
+Inforiver Writeback Matrix, version 3.0 comes with Infobridge, a no-code data integration, preparation, and transformation engine, transforming it into an advanced real-time collaborative and integrated planning and business reporting suite.
 
 Infobridge lets you connect to multiple data sources and consolidate them into a single, unified report. It has a user-friendly transformation interface to perform some common data transformations on the data sources such as append, merge, pivot, and unpivot columns, group by, etc.
 
@@ -26,7 +26,7 @@ All the above use-cases typically require composite modeling, ETL and automation
 
 ## Infobridge integration with Inforiver
 
-In the 3.0 enterprise version, we have added an InfoBridge tab in the Inforiver visual. In the context of Inforiver, one of InfoBridge's capabilities is to integrate data from separate visuals and write it back to a single table. This involves creating a bridge, adding sources to it, managing the integration, and performing writeback. Hence the guide is organized as follows:
+In the 3.0 version of Inforiver Writeback Matrix, we have added an InfoBridge tab in the Inforiver visual. In the context of Inforiver, one of InfoBridge's capabilities is to integrate data from separate visuals and write it back to a single table. This involves creating a bridge, adding sources to it, managing the integration, and performing writeback. Hence the guide is organized as follows:
 
 1. [**Create Bridge:**](create-bridge.md) In Infobridge, a bridge is a workspace environment with a data transformation editor that allows you to integrate multiple data sources and transform them. You can create as many bridges based on how you want to integrate or prepare your data. The process of creating a new bridge is described in this section.
 2. [**Add Source to Bridge:**](add-source-to-bridge.md) Data can come from different sources in various file formats. This section explains the steps to add and connect to different data sources.
