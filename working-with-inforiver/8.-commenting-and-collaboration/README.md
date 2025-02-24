@@ -6,13 +6,13 @@ Data-level commentary is very common in real-life scenarios. Inforiver delivers 
 
 <figure><img src="../../.gitbook/assets/8.0.1 Overview.png" alt=""><figcaption><p>Key highlights of Inforiver for commenting &#x26; collaboration</p></figcaption></figure>
 
-Both notes & comments in Inforiver are dynamic – in that, they are tied to a specific data point, row or measure. Filtering the report makes the comment appear at the appropriate location – as it is always tied to the data.
+Both notes & comments in Inforiver are dynamic – in that, they are tied to a specific data point, row, or measure. Filtering the report makes the comment appear at the appropriate location – as it is always tied to the data.
 
 But the similarities stop there. [Notes](notes.md) & [Comments](comments.md) in Inforiver are different in the following ways:
 
 1. You can respond to a comment, but not to a note.
 2. Comments are collaborative, while notes are only used to annotate/provide additional context to data
-3. Commentary needs users to be authenticated with Office365 and hence is available only with Inforiver Enterprise. Notes are supported in both Inforiver Matrix and Enterprise.
+3. Commentary needs users to be authenticated with Office365 and hence is available only with Inforiver Writeback Matrix. Notes are supported in both Inforiver Reporting Matrix and Writeback Matrix.
 
 #### Resources
 
