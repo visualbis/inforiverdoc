@@ -1,6 +1,6 @@
 # Images
 
-Images can be added to the header/footer either from your local files or from the assets in your organization's workspace. The second option is available only in Inforiver Enterprise. Admins of the Inforiver Enterprise workspace will be able to upload images using the [Admin console](../../../admin-console/) which can be used by all the other users in the workspace.
+Images can be added to the header/footer either from your local files or from the assets in your organization's workspace. The second option is available only in Inforiver Writeback Matrix. Admins of the Inforiver Writeback Matrix workspace will be able to upload images using the [Admin console](../../../admin-console/) which can be used by all the other users in the workspace.
 
 Let's look at the steps to add images.
 
