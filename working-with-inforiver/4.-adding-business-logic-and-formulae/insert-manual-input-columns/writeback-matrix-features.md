@@ -6,7 +6,7 @@ As mentioned in the [manual input columns](../insert-manual-input-columns.md) se
 2. Track changes at row level using the last updated at/by columns
 
 {% hint style="info" %}
-You need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to access the Enterprise features.
+You need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to access the Writeback Matrix features.
 {% endhint %}
 
 Let's take a detailed look.
