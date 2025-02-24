@@ -1,6 +1,6 @@
 # Working with Inforiver
 
-This guide for Inforiver Matrix and Enterprise is intended for users across departments and functions who are looking to leverage Power BI for enhanced data exploration, visualizations, analysis, visual calculations, what-if simulations, budgeting and more. To know more about the use cases supported by Inforiver, refer to this [page](../).&#x20;
+This guide for Inforiver Reporting Matrix and Writeback Matrix is intended for users across departments and functions who are looking to leverage Power BI for enhanced data exploration, visualizations, analysis, visual calculations, what-if simulations, budgeting and more. To know more about the use cases supported by Inforiver, refer to this [page](../).&#x20;
 
 While this guide can be used as a quick reference for specific features, it is also structured as an end-to-end self-paced Inforiver training. The guide is organized as follows.
 
