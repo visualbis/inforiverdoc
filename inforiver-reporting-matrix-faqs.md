@@ -22,7 +22,7 @@ By August 2022 - we switched to the Inforiver font family from Antikor Mono as o
 
 #### 5. Using Display, I can set or change preferences/settings for General, Hierarchy, or Numbers. Can I save my changes permanently or do I have to change settings for each new report? <a href="#headline-604-2838" id="headline-604-2838"></a>
 
-With our enterprise edition – you can save your theme, settings, etc., and it would automatically download them based on your user profile as a corporate theme and default settings. This is possible only with the enterprise edition because we need a DB and server to store and retrieve this configuration.
+With our Inforiver Writeback Matrix edition, you can save your theme, settings, etc., and it would automatically download them based on your user profile as a corporate theme and default settings. This is possible only with the Writeback Matrix edition because we need a DB and server to store and retrieve this configuration.
 
 #### 6. Can I use Inforiver for budgeting/forecasting? <a href="#headline-608-2838" id="headline-608-2838"></a>
 
@@ -35,7 +35,7 @@ Refer to\
 2\. Advanced Forecasting & What-If Simulations in Microsoft Power BI - [5 ways to run dynamic what-if simulations in Power BI](https://inforiver.com/blog/general/5-ways-to-run-dynamic-what-if-simulations-in-power-bi/)\
 3\. Entering Forecasts, Comments, and Write Back - [Forecasting Multiple Items with Seasonality in Power BI](https://inforiver.com/blog/general/forecast-multiple-items-with-seasonality-power-bi/)
 
-However, we suggest using Inforiver to gather your budgets, forecasts, plans, and variance comments using row-level security just like we gather them using Excel spreadsheets.[ ValQ](https://valq.com/) is our recommended advanced planning solution for enterprise use cases. We are working on modernizing ValQ and Integrating with Inforiver where you collect forecast and commentary inputs. ValQ is a separate offering and requires separate purchases for customers needing a full-blown XP\&A or FP\&A or Value Driver Planning solution.
+However, we suggest using Inforiver to gather your budgets, forecasts, plans, and variance comments using row-level security just like we gather them using Excel spreadsheets.[ ValQ](https://valq.com/) is our recommended advanced planning solution for Writeback Matrix use cases. We are working on modernizing ValQ and Integrating with Inforiver where you collect forecast and commentary inputs. ValQ is a separate offering and requires separate purchases for customers needing a full-blown XP\&A or FP\&A or Value Driver Planning solution.
 
 #### 7. Which edition supports export to Excel? <a href="#headline-647-2838" id="headline-647-2838"></a>
 
