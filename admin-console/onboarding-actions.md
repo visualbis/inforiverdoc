@@ -48,4 +48,4 @@ If you try to disconnect the integrations,  a pop-up opens with a warning messag
 Another way to access 'Integrations' is to click on 'My profile' and then select 'My Integrations'.
 {% endhint %}
 
-In the next section, we'll be covering [Enterprise themes.](../advanced-topics/enterprise-themes.md)
+In the next section, we'll be covering [Enterprise themes.](../advanced-topics/writeback-matrix-themes.md)
