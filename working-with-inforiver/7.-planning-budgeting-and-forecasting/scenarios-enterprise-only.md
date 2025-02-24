@@ -70,7 +70,7 @@ The scenario tab has the following options to configure the scenario-related set
 
 ### 3.1. Create scenario
 
-This option lets you create a new scenario. Clicking on this option will open up the 'Create scenario' modal. You can learn more about how to create a scenario [here](scenarios-writeback-matrix-only.md#1.-create-a-scenario).
+This option lets you create a new scenario. Clicking on this option will open up the 'Create scenario' modal. You can learn more about how to create a scenario [here](scenarios-enterprise-only.md#1.-create-a-scenario).
 
 <figure><img src="../../.gitbook/assets/create-scenario-2.png" alt=""><figcaption><p>Create scenario option</p></figcaption></figure>
 
