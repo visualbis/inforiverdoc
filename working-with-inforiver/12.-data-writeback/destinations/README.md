@@ -1,5 +1,5 @@
 ---
-description: Setting up writeback destinations in Inforiver Enterprise
+description: Setting up writeback destinations in Inforiver Writeback Matrix.
 ---
 
 # Destinations
