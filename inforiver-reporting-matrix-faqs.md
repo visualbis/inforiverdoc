@@ -39,7 +39,7 @@ However, we suggest using Inforiver to gather your budgets, forecasts, plans, an
 
 #### 7. Which edition supports export to Excel? <a href="#headline-647-2838" id="headline-647-2838"></a>
 
-All editions support formatted paginated export to Excel in WYSIWYG with structure, format, and notes as is. The Premium edition provides additional customization options for Export to Excel, and they support Export to PDF too. Note: Export to PDF and Excel is possible only in Power BI service. Once you publish your reports, the options should be enabled.
+All editions support formatted paginated export to Excel in WYSIWYG with structure, format, and notes as is. The Reporting Matrix edition provides additional customization options for Export to Excel, and they support Export to PDF too. Note: Export to PDF and Excel is possible only in Power BI service. Once you publish your reports, the options should be enabled.
 
 #### 8. What is the performance on large datasets? <a href="#headline-647-2838" id="headline-647-2838"></a>
 
