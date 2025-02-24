@@ -1,12 +1,12 @@
 # Ad-hoc emails
 
-When you export the report as a 'PDF' or as an 'Excel' file, you can either save the report to your computer or send it as an email.
+When you export the report as a PDF or as an Excel file, you can either save the report to your computer or send it as an email.
 
 {% hint style="info" %}
-Ad-hoc emails are supported only in Inforiver Enterprise
+Ad-hoc emails are supported only in Inforiver Writeback Matrix.
 {% endhint %}
 
-If you select the 'Send to Email' option, you will be asked to authenticate with your Microsoft 365 account.&#x20;
+If you select the **Send to Email** option, you will be asked to authenticate with your Microsoft 365 account.&#x20;
 
 <figure><img src="../../.gitbook/assets/send-to-email.png" alt=""><figcaption><p>Send to email authentication option</p></figcaption></figure>
 
