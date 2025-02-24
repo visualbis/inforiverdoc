@@ -1,6 +1,6 @@
 # Reading mode
 
-Inforiver Enterprise allows a user to perform writeback even when the report is in reading view. This can be enabled by checking the 'Writeback Tab' option in the Allowed User Controls menu.&#x20;
+Inforiver Writeback Matrix allows a user to perform writeback even when the report is in reading view. This can be enabled by checking the 'Writeback Tab' option in the Allowed User Controls menu.&#x20;
 
 This means that if there are users in the workspace that have "Viewer" access, they would still be able to perform writeback to configured destinations. Users with edit mode access can allow/restrict others from performing writeback in read mode from Export -> Settings.&#x20;
 
@@ -44,11 +44,11 @@ Clicking this option will display the measures as rows instead of columns.
 
 ### 7. Frequently asked questions
 
-#### a. In Inforiver Enterprise, a user makes a change to a data input column in read mode and closes the report. Would he be able to see the latest data the next time he reopens it?
+#### a. In Inforiver Writeback Matrix, a user makes a change to a data input column in read mode and closes the report. Would he be able to see the latest data the next time he reopens it?
 
 Yes, he would be able to. Inforiver captures adjustments to data input columns and saves them in its backend application DB. This works regardless the report is in read or edit mode. If a user makes any changes (provided he has access to make changes to data input columns in read mode) to data input columns, Inforiver stores the latest value in its backend DB. Upon reopening, Inforiver fetches the latest data input column values from the backend DB and loads the report with the latest data.
 
-#### b. What happens to RLS for users using Inforiver Enterprise?
+#### b. What happens to RLS for users using Inforiver Writeback Matrix?
 
 Inforiver respects the RLS applied in the original Power BI dataset. Inforiver Matrix will only display rows that a user is supposed to see. Please note RLS in Power BI works only for users in "Viewer" mode in the Power BI workspace.&#x20;
 
