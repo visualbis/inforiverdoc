@@ -18,7 +18,7 @@ The **Manage Measures** side panel has a **Settings** tab that lets you control 
 
 ### 2.1. Data input access
 
-Inforiver enterprise allows setting explicit read/write access for specific users on data input and forecast columns.&#x20;
+Inforiver Writeback Matrix allows setting explicit read/write access for specific users on data input and forecast columns.&#x20;
 
 To set it, click **Insert -> Manage Measures -> Settings** **->** **Manage** in the **Data Input Access.** You can add the required users in the pop-up window.
 
