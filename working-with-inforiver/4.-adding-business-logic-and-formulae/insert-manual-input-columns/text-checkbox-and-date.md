@@ -56,15 +56,7 @@ For example, if you choose email as _Field Validation_ and the data entered is n
 
 Blank fields do not add value and are likely to reduce the appeal of a report. You can choose to use default values instead of displaying blank text data input fields. You can either enter a static default value or assign a dimension.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption><p>Static default value</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2024-08-12_11h51_11.png" alt=""><figcaption><p>Dimension as a default value</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption><p>Static default value</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-08-12_11h51_11.png" alt=""><figcaption><p>Dimension as a default value</p></figcaption></figure></div>
 
 
 
@@ -198,4 +190,4 @@ The date column is inserted with the specified fiscal month and date.
 
 <figure><img src="../../../.gitbook/assets/image (741).png" alt=""><figcaption><p>Date column inserted</p></figcaption></figure>
 
-In the next section, we'll cover the [data input features available only in Inforiver Enterprise](enterprise-features.md).
+In the next section, we'll cover the [data input features available only in Inforiver Enterprise](writeback-matrix-features.md).

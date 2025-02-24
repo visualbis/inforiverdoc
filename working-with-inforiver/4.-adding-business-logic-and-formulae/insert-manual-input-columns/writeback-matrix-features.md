@@ -1,6 +1,6 @@
-# Enterprise features
+# Writeback Matrix features
 
-As mentioned in [manual input columns](../insert-manual-input-columns.md), Inforiver Enterprise provides additional features compared to Inforiver Premium Matrix.
+As mentioned in the [manual input columns](../insert-manual-input-columns.md) section, Inforiver Writeback Matrix provides additional features compared to Inforiver Reporting Matrix.
 
 1. Data type - Person
 2. Track changes at row level using the last updated at/by columns
@@ -13,7 +13,7 @@ Let's take a detailed look.
 
 ## 1. Person
 
-In the 'Data input' dropdown, you can now see an additional type called Person. Once a data input column is added in Inforiver Enterprise, two columns – Last updated at and last updated by get enabled. These are covered in [track changes at the row level](enterprise-features.md#2.-track-changes-at-row-level).
+In the Data Input dropdown, you can see an additional type called Person. Once a data input column is added in Inforiver Writeback Matrix, two columns – Last updated at and last updated by get enabled. These are covered in [track changes at the row level](writeback-matrix-features.md#2.-track-changes-at-row-level).
 
 <figure><img src="../../../.gitbook/assets/4.4.4.2 Person.png" alt=""><figcaption><p>Data input column type - Person</p></figcaption></figure>
 
