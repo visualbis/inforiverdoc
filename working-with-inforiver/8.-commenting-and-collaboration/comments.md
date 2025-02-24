@@ -8,7 +8,7 @@ The below image shows a sales report - monthly sales trend for product subcatego
 
 ## Login using O365
 
-As mentioned earlier, collaborative commenting is supported only in Inforiver Enterprise. The first step in using comments is to log in using your O365 account.
+As mentioned earlier, collaborative commenting is supported only in Inforiver Writeback Matrix. The first step in using comments is to log in using your O365 account.
 
 a) Click on 'Sign in' in the top right of the toolbar. You can see a prompt asking you to log in with your Office 365 account. Click 'Sign in with Office 365'.
 
