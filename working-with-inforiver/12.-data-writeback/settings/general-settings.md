@@ -73,7 +73,7 @@ The **Custom Filter** configuration window has the following options:
 
 You can writeback data based on the last updated date, for example, writeback only the data that was updated after, before, or on a specific date. Choose the ‘Last Updated At’ option in the custom filter type:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Writeback filter based on last update date</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Writeback filter based on last update date</p></figcaption></figure>
 
 * **Add filter:** This option allows you to add multiple filter conditions.
 * **Combinators:** AND or OR operators are available for filter logic creation.

@@ -2,17 +2,17 @@
 
 To install the certified Inforiver visuals from Microsoft AppSource, follow the steps below.
 
-1. Click the '...' icon in the Visualizations pane and select 'Get more visuals.'
+1. Click the '...' icon in the Visualizations pane and select **Get more visuals**.
 
 <figure><img src="../../.gitbook/assets/Get more visuals (1).png" alt=""><figcaption><p>Get the visual from AppSource</p></figcaption></figure>
 
-2. Navigate to the 'AppSource visuals' tab and type Inforiver in the search box. Select Inforiver Premium.
+2. Navigate to the **AppSource visuals** tab and type Inforiver in the search box. Select Inforiver Reporting Matrix.
 
-<figure><img src="../../.gitbook/assets/Inforiver visuals.png" alt=""><figcaption><p>Select Inforiver Premium</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Select the Inforiver Reporting Matirx visual</p></figcaption></figure>
 
-3. Click 'Add.'
+3. Click **Add**.
 
-<figure><img src="../../.gitbook/assets/Add Premium.png" alt=""><figcaption><p>Add the Inforiver Premium visual</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Add the Reporting Matrix Visual</p></figcaption></figure>
 
 4. The visual gets added.
 
