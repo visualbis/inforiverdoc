@@ -1,10 +1,10 @@
 # Get Started
 
-In this guide, we'll be covering Inforiver Matrix and Enterprise. A quick introduction to the two products is given below. For more details, refer to the links or the [website](https://inforiver.com/).
+In this guide, we'll be covering the Inforiver Reporting Matrix and Writeback Matrix. A quick introduction to the two products is given below. For more details, refer to the links or the [website](https://inforiver.com/).
 
 ## Overview
 
-[Inforiver Reporting Matrix](https://inforiver.com/reporting-matrix/) - For management, financial, IBCS, and paginated reporting, data exploration, excel-like pivot analysis, visual-level formula calculations, what-if analysis, simulations, forecasting, and formatted export to PDF/Excel. The reporting matrix is a Microsoft-certified visual.
+[Inforiver Reporting Matrix](https://inforiver.com/reporting-matrix/) - For management, financial, IBCS, and paginated reporting, data exploration, excel-like pivot analysis, visual-level formula calculations, what-if analysis, simulations, forecasting, and formatted export to PDF/Excel. The Reporting Matrix is a Microsoft-certified visual.
 
 [Inforiver Writeback Matrix](https://inforiver.com/writeback-matrix/) - For advanced data input (forecasts, text, drop-down lists, etc.), writeback, commenting & collaboration, report scheduling & bursting. Highly useful for use cases such as what-if analysis, simulations, sales forecasting, planning, forecasting, budgeting, and more. Comes in two editions – SaaS and On-Premise.
 
@@ -17,7 +17,7 @@ You can try Inforiver for free or purchase licenses through the two ways listed 
 
 ## 1. Microsoft Appsource
 
-Inforiver Matrix and Enterprise visuals can be downloaded from Appsource. Free trials are available through Microsoft Appsource _only for certain pricing tiers_.
+Inforiver Reporting Matrix and Writeback Matrix visuals can be downloaded from Appsource. Free trials are available through Microsoft Appsource _only for certain pricing tiers_.
 
 * Follow the steps [here](https://learn.microsoft.com/en-us/power-bi/developer/visuals/import-visual) to download a free version (only for Power BI Desktop). Note: Search for “Inforiver” in the import AppSource visuals section:
 * To purchase and manage licenses through Microsoft [AppSource](https://appsource.microsoft.com/marketplace/apps?page=1\&product=power-bi-visuals), read this [blog](https://powerbi.microsoft.com/en-au/blog/introducing-a-new-way-to-purchase-licensed-power-bi-visuals-and-manage-licenses-through-microsoft-platforms/). Navigate to the Appsource admin portal: [https://admin.microsoft.com/Adminportal/Home?#/subscriptions](https://admin.microsoft.com/Adminportal/Home?#/subscriptions)
@@ -25,7 +25,7 @@ Inforiver Matrix and Enterprise visuals can be downloaded from Appsource. Free t
 
 ## 2. Inforiver website
 
-The latest features and hotfixes are available on the Inforiver website before they are released on AppSource. You can download and install the Matrix and Enterprise visuals directly from the website if you do not require certified visuals.
+The latest features and hotfixes are available on the Inforiver website before they are released on AppSource. You can download and install the Reporting Matrix and Writeback Matrix visuals directly from the website if you do not require certified visuals.
 
 ### STEP 1: Download Inforiver
 
@@ -47,7 +47,7 @@ Check your spam folder or whitelist [no-reply@inforiver.com](mailto:no-reply@inf
 
 If that doesn’t work, reach out to your IT team and ask them to whitelist the domain at the firewall level. You will start receiving subsequent emails from us in your inbox.
 
-If you still have difficulties, reach out to us [here](https://inforiver.com/contact-us/).
+If you are still having difficulties, reach out to us [here](https://inforiver.com/contact-us/).
 
 ### STEP 2:  Install Inforiver
 
