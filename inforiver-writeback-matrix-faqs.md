@@ -2,7 +2,7 @@
 
 ### A) General
 
-#### 1. Is there any installation required for the enterprise edition (SaaS)? <a href="#headline-413-134" id="headline-413-134"></a>
+#### 1. Is there any installation required for the Writeback Matrix SaaS edition? <a href="#headline-413-134" id="headline-413-134"></a>
 
 For the SaaS version, there is no installation required. Learn more about the SaaS version [here](https://inforiver.com/enterprise/on-premise-vs-saas/).
 
@@ -18,7 +18,7 @@ You can log in to the admin console by visiting [https://addons.inforiver.com/](
 
 We are currently on monthly release cycles; we might be shifting to quarterly releases in the future.&#x20;
 
-#### 5. Do I need to be on a Power BI Premium workspace for the enterprise functionality to work? <a href="#headline-452-2838" id="headline-452-2838"></a>
+#### 5. Do I need to be on a Power BI Premium workspace for the Writeback Matrix functionality to work? <a href="#headline-452-2838" id="headline-452-2838"></a>
 
 We don't have any requirements on Power BI capacity ​for the Writeback Matrix features. One limitation that shared capacity customers might have is if they use the scheduler and want to perform a refresh dataset more than the allowed limit (8 times a day), it wouldn't work.
 
@@ -26,7 +26,7 @@ We don't have any requirements on Power BI capacity ​for the Writeback Matrix 
 
 Inforiver requires certain permissions to access resources in your organization which must be granted by the O365 admin.
 
-<figure><img src=".gitbook/assets/FAQ Enterprise permissions.png" alt=""><figcaption><p>Permissions for Inforiver Enterprise</p></figcaption></figure>
+<figure><img src=".gitbook/assets/FAQ Enterprise permissions.png" alt=""><figcaption><p>Permissions for Inforiver Writeback Matrix</p></figcaption></figure>
 
 #### 7. How to resolve the error showing that the app requires admin consent while logging in? <a href="#headline-623-2838" id="headline-623-2838"></a>
 
@@ -52,7 +52,7 @@ When individual users or small teams on the SaaS edition exceed the business tra
 
 The report creator has to sign in while creating the report. Without creators signing in, other users will view the report but will not be able to save any changes made to the report. Interactions with the report would mimic using a free version of Inforiver.&#x20;
 
-#### 13. Do I need to manually add enterprise users in the _User Management_ console?
+#### 13. Do I need to manually add Writeback Matrix users in the _User Management_ console?
 
 Once you have assigned the user a license from AppSource, when the user signs in for the first time, they will be automatically added to the Inforiver [User Management](admin-console/user-management.md) page.
 
@@ -156,7 +156,7 @@ Custom [scheduling of reports](working-with-inforiver/11.-scheduling-reports/) t
 
 #### 2. Is there an ability to burst reports using scheduling? <a href="#headline-529-2838" id="headline-529-2838"></a>
 
-Yes. With Inforiver Enterprise Edition (either as SaaS or On-Premise) – you can set up comprehensive schedules, multiple destinations, and multiple output types (Excel, PDF, Image) for bursting your paginated reports.&#x20;
+Yes. With Inforiver Writeback Matrix (either as SaaS or On-Premise) – you can set up comprehensive schedules, multiple destinations, and multiple output types (Excel, PDF, Image) for bursting your paginated reports.&#x20;
 
 #### 3. Is it possible to email group mailboxes? <a href="#headline-533-2838" id="headline-533-2838"></a>
 
@@ -182,9 +182,9 @@ Yes. With the built-in page break feature in Inforiver – the scheduler can han
 
 Yes, report filters can be included in the email subject/body.&#x20;
 
-#### 9. Can I manually email the paginated reports without requiring Inforiver Enterprise? <a href="#headline-744-4237" id="headline-744-4237"></a>
+#### 9. Can I manually email the paginated reports without requiring Inforiver Writeback Matrix? <a href="#headline-744-4237" id="headline-744-4237"></a>
 
-Yes. With Inforiver Matrix (Premium Edition) – you could manually download the paginated Inforiver PDF export and email your recipients.&#x20;
+Yes. With Inforiver Reporting Matrix, you can manually download the paginated Inforiver PDF export and email your recipients.&#x20;
 
 #### 10. How much volume of data does the scheduler support? <a href="#headline-808-4237" id="headline-808-4237"></a>
 
@@ -192,9 +192,9 @@ Inforiver is optimized for 30,000 rows or about 1,000 pages long. Inforiver is s
 
 ### E) On-Premise <a href="#headline-824-4237" id="headline-824-4237"></a>
 
-#### 1. Is there any installation required for the Enterprise On-Premise edition? <a href="#headline-827-4237" id="headline-827-4237"></a>
+#### 1. Is there any installation required for the Writeback Matrix On-Premise edition? <a href="#headline-827-4237" id="headline-827-4237"></a>
 
-Self-hosting within your network in a private azure tenant requires you to deploy our solutions from the Azure Marketplace. Detailed installation and configuration steps for Enterprise On-Premise are available for download[ here](https://inforiver.com/enterprise/on-premise-vs-saas/).\
+Self-hosting within your network in a private Azure tenant requires you to deploy our solutions from the Azure Marketplace. Detailed installation and configuration steps for Writeback Matrix On-Premise are available for download[ here](https://inforiver.com/enterprise/on-premise-vs-saas/).\
 For further queries, feel free to [reach out to us.](https://inforiver.com/contact-us/)
 
 #### 2. Can Inforiver walk us through the setup and administrative processes of the product? <a href="#headline-831-4237" id="headline-831-4237"></a>
@@ -203,7 +203,7 @@ Yes, we will provide a walk-through in our initial discovery call and we will he
 
 #### 3. What documentation will Inforiver provide on the installation and maintenance? <a href="#headline-835-4237" id="headline-835-4237"></a>
 
-Detailed installation and configuration steps for Enterprise On-Premise are available for download[ here](https://inforiver.com/enterprise/on-premise-vs-saas/). For further queries, feel free [to reach out to us.](https://inforiver.com/contact-us/)
+Detailed installation and configuration steps for Writeback Matrix On-Premise are available for download[ here](https://inforiver.com/enterprise/on-premise-vs-saas/). For further queries, feel free [to reach out to us.](https://inforiver.com/contact-us/)
 
 #### 4. What access would Inforiver (company) require to the Inforiver (product) container/VM installed within our Azure? <a href="#headline-839-4237" id="headline-839-4237"></a>
 
@@ -295,6 +295,6 @@ We need the following resources in Azure:&#x20;
 
 Pricing would be based on the estimation [here](https://azure.microsoft.com/en-us/pricing/calculator/?shared-estimate=3e1628c326a84286b7074812b1eb367f). Pricing is subject to change from Azure itself and also based on your component’s usage. &#x20;
 
-#### 20. How does product support work with Inforiver Enterprise (On-Premise)? <a href="#headline-905-4237" id="headline-905-4237"></a>
+#### 20. How does product support work with Inforiver Writeback Matrix (On-Premise)? <a href="#headline-905-4237" id="headline-905-4237"></a>
 
-You can purchase Inforiver Enterprise as a paid add-on, and it is meant for enterprises that require faster turnaround times and assurance. For more details, refer to [https://inforiver.com/support/](https://inforiverstage.wpengine.com/support/). &#x20;
+You can purchase Inforiver Writeback Matrix as a paid add-on, and it is meant for enterprises that require faster turnaround times and assurance. For more details, refer to [https://inforiver.com/support/](https://inforiverstage.wpengine.com/support/). &#x20;
