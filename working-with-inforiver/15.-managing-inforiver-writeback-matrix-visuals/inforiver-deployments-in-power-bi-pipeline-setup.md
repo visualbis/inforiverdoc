@@ -12,7 +12,7 @@ PowerBI Deployment pipelines enable creators to develop and test Power BI conten
 
 You can follow the steps outlined in **section 1 to** [**deploy Inforiver visuals with Power BI deployment pipelines**.](inforiver-deployments-in-power-bi-pipeline-setup.md#1.-setup-inforiver-with-powerbi-deployment-pipelines)
 
-Each time you deploy a report from a lower environment to a higher environment (E.g., development to test), the Inforiver visual ID that is assigned to the visual in the lower environment gets assigned to the higher environment. As a result, the enterprise data and settings such as custom columns, comments, and writeback configurations from lower stages get mapped to the visual in the higher stage.
+Each time you deploy a report from a lower environment to a higher environment (E.g., development to test), the Inforiver visual ID that is assigned to the visual in the lower environment gets assigned to the higher environment. As a result, the Writeback Matrix data and settings such as custom columns, comments, and writeback configurations from lower stages get mapped to the visual in the higher stage.
 
 To prevent consumers from using the visual with the lower environment’s visual ID, we need to follow additional steps to [**detach the visual**](inforiver-deployments-in-power-bi-pipeline-setup.md#2.-detach-the-visual) and for [**pipeline recovery**](inforiver-deployments-in-power-bi-pipeline-setup.md#3.-pipeline-recovery-config) which are outlined in **sections 2 and 3.**&#x20;
 
