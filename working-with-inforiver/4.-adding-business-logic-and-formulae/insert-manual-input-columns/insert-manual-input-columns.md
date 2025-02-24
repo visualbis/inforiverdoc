@@ -7,7 +7,7 @@ _\*The Advanced Copy feature will be available soon._&#x20;
 Let's first look at the steps to insert a numeric data input column. The steps to copy another column as a data input column are covered in '[Copy as data input](insert-manual-input-columns.md#id-4.-copy-as-data-input)'.
 
 {% hint style="info" %}
-If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to start inserting a number column.&#x20;
+If you are using Inforiver Writeback Matrix, you need to [sign in](../insert-manual-input-columns.md#1.-sign-in) to start inserting a number column.&#x20;
 {% endhint %}
 
 ## 1. Create a column
@@ -15,7 +15,7 @@ If you are using Inforiver Enterprise, you need to [sign in](../insert-manual-in
 Select the 'Number' option in the Data Input dropdown. You will see four different options to create a column:  Insert a new empty series, Copy from another series, Advanced copy, and Import from file. Let's go through each of these methods.
 
 {% hint style="info" %}
-Inforiver Enterprise edition has been used below to demonstrate the four ways of creating a data input column.
+Inforiver Writeback Matrix has been used below to demonstrate the four ways of creating a data input column.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (594).png" alt=""><figcaption><p>Insert number options</p></figcaption></figure>
