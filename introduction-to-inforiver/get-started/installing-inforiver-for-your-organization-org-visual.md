@@ -4,4 +4,4 @@ Your Power BI administrator must access the admin portal and install Inforiver u
 
 To add Inforiver under the “**My Organization**” Tab in Power BI, ask your Power BI Admin to follow the steps [here](https://docs.microsoft.com/en-us/power-bi/admin/organizational-visuals#organizational-visuals).
 
-In the next section, we'll cover the prerequisites for Inforiver enterprise.
+In the next section, we'll cover the prerequisites for Inforiver Writeback Matrix.
