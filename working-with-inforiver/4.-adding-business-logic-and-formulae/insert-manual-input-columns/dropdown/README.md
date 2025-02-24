@@ -14,7 +14,7 @@ The single-select and multi-select columns have two main differences:
 In this section, we'll cover single-select columns. The same steps can be followed for multi-select except for the two points mentioned above.
 
 {% hint style="info" %}
-If you are using Inforiver Enterprise, you need to [sign in](../../insert-manual-input-columns.md#1.-sign-in) to start inserting a dropdown column.
+If you are using Inforiver Writeback Matrix, you need to [sign in](../../insert-manual-input-columns.md#1.-sign-in) to start inserting a dropdown column.
 {% endhint %}
 
 Click on the 'Single Select' option in the dropdown.
