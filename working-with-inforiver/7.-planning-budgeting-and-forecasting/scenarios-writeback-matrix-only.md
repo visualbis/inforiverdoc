@@ -1,6 +1,6 @@
-# Scenarios (Enterprise only)
+# Scenarios (Writeback Matrix only)
 
-Inforiver Enterprise offers the ability to create new scenarios in edit and read modes based on an existing series for ad-hoc analysis. Once a scenario is created, you can either simulate or perform allocations on the native measures.
+Inforiver Writeback Matrix offers the ability to create new scenarios in edit and read modes based on an existing series for ad-hoc analysis. Once a scenario is created, you can either simulate or perform allocations on the native measures.
 
 Scenarios are interactive and can be edited unless it’s explicitly locked. They can be created in both reading and edit mode and can be shared with other users. You can writeback all or specific scenarios and enable automatic writeback if required.
 
@@ -70,7 +70,7 @@ The scenario tab has the following options to configure the scenario-related set
 
 ### 3.1. Create scenario
 
-This option lets you create a new scenario. Clicking on this option will open up the 'Create scenario' modal. You can learn more about how to create a scenario [here](scenarios-enterprise-only.md#1.-create-a-scenario).
+This option lets you create a new scenario. Clicking on this option will open up the 'Create scenario' modal. You can learn more about how to create a scenario [here](scenarios-writeback-matrix-only.md#1.-create-a-scenario).
 
 <figure><img src="../../.gitbook/assets/create-scenario-2.png" alt=""><figcaption><p>Create scenario option</p></figcaption></figure>
 

@@ -102,7 +102,7 @@ You can enable/disable the following options to show/hide in the toolbar under t
 
 #### 5. Scenario tab
 
-Enabling this option will display the 'Scenario' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Scenario' tab to expand it. This will display additional sub-options. To learn more about scenarios click [here](../../7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md).
+Enabling this option will display the 'Scenario' tab in the toolbar if the report is in reading view mode. Click on the caret icon to the right of the 'Scenario' tab to expand it. This will display additional sub-options. To learn more about scenarios click [here](../../7.-planning-budgeting-and-forecasting/scenarios-writeback-matrix-only.md).
 
 You can enable/disable the following options to show/hide in the toolbar under the 'Scenario' tab.&#x20;
 

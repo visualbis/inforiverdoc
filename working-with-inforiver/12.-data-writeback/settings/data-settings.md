@@ -50,7 +50,7 @@ Updated benchmark value of EURIBOR with the dependent rate auto-written back to 
 
 #### 3. Scenarios to be included for auto writeback
 
-This option will be displayed only if you have created a scenario. You can read more on how to create a scenario [here](../../7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md).
+This option will be displayed only if you have created a scenario. You can read more on how to create a scenario [here](../../7.-planning-budgeting-and-forecasting/scenarios-writeback-matrix-only.md).
 
 <figure><img src="../../../.gitbook/assets/scenario-wb.png" alt=""><figcaption></figcaption></figure>
 

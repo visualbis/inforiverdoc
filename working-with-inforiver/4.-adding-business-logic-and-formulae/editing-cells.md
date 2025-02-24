@@ -114,5 +114,5 @@ When editing data in bulk:
 {% endhint %}
 
 {% hint style="info" %}
-Bulk editing is available for simulation measures and scenarios so that simulations can be applied to specific categories and dimensions in one go. Refer these sections to learn more: [Bulk editing a simulation measure](what-if-analysis-and-simulations.md#id-3.-bulk-editing-a-simulation-measure) and [Bulk editing a scenario](../7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md#iv-bulk-editing-a-scenario).
+Bulk editing is available for simulation measures and scenarios so that simulations can be applied to specific categories and dimensions in one go. Refer these sections to learn more: [Bulk editing a simulation measure](what-if-analysis-and-simulations.md#id-3.-bulk-editing-a-simulation-measure) and [Bulk editing a scenario](../7.-planning-budgeting-and-forecasting/scenarios-writeback-matrix-only.md#iv-bulk-editing-a-scenario).
 {% endhint %}

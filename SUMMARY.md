@@ -87,7 +87,7 @@
   * [7. Planning, budgeting & forecasting](working-with-inforiver/7.-planning-budgeting-and-forecasting/README.md)
     * [What-if analysis & simulations](working-with-inforiver/4.-adding-business-logic-and-formulae/what-if-analysis-and-simulations.md)
     * [Goal Seek](working-with-inforiver/7.-planning-budgeting-and-forecasting/goal-seek.md)
-    * [Scenarios (Enterprise only)](working-with-inforiver/7.-planning-budgeting-and-forecasting/scenarios-enterprise-only.md)
+    * [Scenarios (Writeback Matrix only)](working-with-inforiver/7.-planning-budgeting-and-forecasting/scenarios-writeback-matrix-only.md)
     * [Budgeting & allocations](working-with-inforiver/4.-adding-business-logic-and-formulae/budgeting-and-allocations.md)
     * [Forecasting](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting.md)
       * [Date rollover and extending forecasts](working-with-inforiver/7.-planning-budgeting-and-forecasting/forecasting/date-rollover-and-extending-forecasts.md)
