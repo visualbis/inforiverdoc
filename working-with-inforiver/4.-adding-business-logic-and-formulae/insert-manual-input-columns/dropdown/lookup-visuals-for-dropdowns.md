@@ -12,11 +12,11 @@ The Inforiver Lookup visual has been designed to help you seamlessly integrate d
 
 The Inforiver Lookup visual works in tandem with the Matrix visuals. It can be downloaded from our [customer portal](https://inforiver.com/login/) for free and then [imported](https://docs.inforiver.com/introduction-to-inforiver/get-started/installing-inforiver-for-yourself) into Power BI.
 
-<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Download the ookup visual</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p>Download the ookup visual</p></figcaption></figure>
 
 To configure the visual, simply drag the dimension with dropdown options from your semantic model into the Dimension field. You can add multiple lookup visuals for a single Inforiver Matrix visual.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding lookup visuals and assigning dimensions</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding lookup visuals and assigning dimensions</p></figcaption></figure>
 
 #### 3. Sourcing single-select and multi-select options from the Lookup visual  <a href="#h-sourcing-single-select-and-multi-select-options-from-the-lookup-visual-nbsp" id="h-sourcing-single-select-and-multi-select-options-from-the-lookup-visual-nbsp"></a>
 
@@ -28,7 +28,7 @@ The lookup visual is a more efficient solution that overcomes the drawbacks of c
 
 When you choose the Lookup Visual option, you must specify the visual name in the configuration. In this case, we are populating dropdown options for the manager’s name – so we’ve selected the corresponding visual name.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select the lookup visual name</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select the lookup visual name</p></figcaption></figure>
 
 **STEP 2:** Assign the dimension field to source dropdown options&#x20;
 
@@ -36,7 +36,7 @@ Next, select the **Column Label** field – the options in the dropdown will be 
 
 Note: If your lookup table has no ID field, use the same label field (in this example, Manager Name) as Column ID.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assigning the Label and ID</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assigning the Label and ID</p></figcaption></figure>
 
 **STEP 3:** Click Add to apply the configuration and create the dropdown.
 
@@ -46,11 +46,11 @@ Let’s take a closer look at assigning a manager from the dropdown. Suppose a m
 
 With Inforiver, you can enforce data integrity by specifying filters while configuring dropdowns. Please be aware that to use filters, the dimension (in this case, Region) needs to be added to the Inforiver and Lookup visuals.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating filters</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating filters</p></figcaption></figure>
 
 Let’s look at the dropdown in action. With filters applied, notice how the options change dynamically based on the region.&#x20;
 
-<div><figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options for Central</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/dropdown-options-dynamic-population-1536x865.png" alt=""><figcaption><p>Options for East</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Options for Central</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/dropdown-options-dynamic-population-1536x865.png" alt=""><figcaption><p>Options for East</p></figcaption></figure></div>
 
 #### **5. Automatic cross-filtering**&#x20;
 
@@ -64,4 +64,4 @@ The lookup visual has the added capability to cross-filter data. The sample repo
 
 Disable the cross-filter option to pull all the data from the lookup visual, irrespective of the row dimension category in the matrix visual.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p>Disabling the cross filter</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Disabling the cross filter</p></figcaption></figure>
