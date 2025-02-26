@@ -10,7 +10,7 @@ The Inforiver console along with the admin portal provides an intuitive, sleek, 
 This section is organized as follows:
 
 1. **Manage Profile** -The 'My Profile' section in the Inforiver workspace allows you to view and manage your profile, integrations, writeback connections, and license details. Refer to [this page](manage-profile.md) to learn more.
-2. **User management** - As an admin, you can configure the workspace permissions, user roles and manage the user details. To learn more, refer to [user management](user-management.md).
+2. **User management** - As an admin, you can configure the workspace permissions, user roles and manage the user details. To learn more, refer to [user management](user-management/).
 3. **Settings** - You can configure the admin writeback connections, Inforiver managed DB, usage of assets, and other settings. To learn more, refer to [settings](settings/).
 4. **Onboarding actions** - You can review and manage users' details, configure the consents, and writeback/sync settings. To learn more, refer to [onboarding actions](onboarding-actions.md).
 

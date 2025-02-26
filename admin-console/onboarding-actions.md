@@ -18,7 +18,7 @@ Click on **Additional settings** to navigate to the settings page. These additio
 
 ### 1. Manage users&#x20;
 
-This option is for user management configuration where you can add/remove users and assign user roles. Clicking on **Manage** will navigate you to the [user management](user-management.md) page.
+This option is for user management configuration where you can add/remove users and assign user roles. Clicking on **Manage** will navigate you to the [user management](user-management/) page.
 
 <figure><img src="../.gitbook/assets/image (937).png" alt=""><figcaption><p>Manage Users</p></figcaption></figure>
 
