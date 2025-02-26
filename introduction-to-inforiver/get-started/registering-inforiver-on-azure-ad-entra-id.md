@@ -1,6 +1,6 @@
 # Registering Inforiver on Azure AD (Entra ID)
 
-Azure active directory app registration is required for every app that requires Microsoft to perform Identity and Access Management. Additionally, Inforiver uses multiple Office 365 APIs to fetch information like Power BI report metadata, user emails and groups, SharePoint, and OneDrive integration, etc that requires app registration to deploy Inforiver.
+Azure active directory app registration is required for every app that requires Microsoft to perform Identity and Access Management. Additionally, Inforiver uses multiple Office 365 APIs to fetch information like Power BI report metadata, user emails and groups, SharePoint, and OneDrive integration, etc. This requires app registration to deploy Inforiver successfully.
 
 ## Pre-requisite
 
