@@ -26,35 +26,35 @@ You can also create parent rows as calculated rows.&#x20;
 
 1.1. Rename the title and click on the formula editor. You can see a list of available functions in the Functions tab.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Enter the title</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Enter the title</p></figcaption></figure>
 
 1.2. As you start typing, Inforiver's IntelliSense narrows down the list of functions to match the entered text. Click on MIN.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select function</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select function</p></figcaption></figure>
 
 1.3. Inforiver displays the syntax for the function. Click on the arrow highlighted.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Formula syntax</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Formula syntax</p></figcaption></figure>
 
 1.4. Inforiver displays a description of the function and a detailed explanation of the arguments with examples.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Function description and examples</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Function description and examples</p></figcaption></figure>
 
 1.5. To insert a reference to a particular row, click on the row when the cursor is placed in the formula editor.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Referencing rows by selectingt them</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Referencing rows by selectingt them</p></figcaption></figure>
 
 1.6. The other way is to use the References tab. To access Soda, you need to type Beverages.Soda. As you start typing, the references get narrowed down. Select 'Beverages'.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Inserting a reference from the dropdown</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Inserting a reference from the dropdown</p></figcaption></figure>
 
 Select 'Soda' from the dropdown.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Referencing child records from the dropdown</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Referencing child records from the dropdown</p></figcaption></figure>
 
 1.7. The calculated row gets created as shown.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Formula row is inserted</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Formula row is inserted</p></figcaption></figure>
 
 {% hint style="info" %}
 To see the underlying logic for calculated data, click on the cell to preview the formulae applied in the formula bar.

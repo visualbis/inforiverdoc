@@ -18,6 +18,7 @@
       * [License Admin](introduction-to-inforiver/get-started/inforiver-customer-portal/license-admin.md)
     * [Licensing](introduction-to-inforiver/get-started/licensing/README.md)
       * [License renewal](introduction-to-inforiver/get-started/licensing/license-renewal.md)
+    * [Registering Inforiver on Azure AD (Entra ID)](introduction-to-inforiver/get-started/registering-inforiver-on-azure-ad-entra-id.md)
 * [Working with Inforiver](working-with-inforiver/README.md)
   * [1. Build your first Inforiver report](working-with-inforiver/1.-build-your-first-inforiver-report.md)
   * [2. Displaying information](working-with-inforiver/2.-displaying-information/README.md)

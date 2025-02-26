@@ -44,21 +44,21 @@ Select the Templated option when the row categories repeat across all levels of 
 
 When you split the forecast time range, you must create time ranges spanning the entire forecasting period. For example, if your forecasting period is Jan 2025 - Dec 2025, you must cover this entire time period when you split it. Inforiver will display a red error icon and will not allow you to create the forecast until all the time ranges are configured.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Splitting the forecast time frame</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Splitting the forecast time frame</p></figcaption></figure>
 
 **2.2. Set source:** You can opt for a blank forecast to manually enter values or refer to another row.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Configure a blank forecast or use the values from another row</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configure a blank forecast or use the values from another row</p></figcaption></figure>
 
 **2.3. Source row:** When you choose the **By Row** option in the previous step, you need to select the row whose values will populate the forecast.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Selecting the row category</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Selecting the row category</p></figcaption></figure>
 
 **2.4. Operation:** You can create forecasts using the following options:
 
 * **Period range:** The forecast values will be copied from the range specified. In this case, we are sourcing the forecast for Jan 2025 to Mar 2025 from Oct 2024 to Dec 2024.
 
-<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Period range config</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-21_10h16_28.png" alt=""><figcaption><p>Period range forecast</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Period range config</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-21_10h16_28.png" alt=""><figcaption><p>Period range forecast</p></figcaption></figure></div>
 
 * **Single period:** The values from the selected period are used to populate the forecast.
 
