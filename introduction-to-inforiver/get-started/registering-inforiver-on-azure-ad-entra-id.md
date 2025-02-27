@@ -20,7 +20,7 @@ Steps to create a self-signed certificate
 
 **STEP 4:** Click the **New Registration** tab in the top menu bar as shown.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Click the New registration tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Click the New registration tab</p></figcaption></figure>
 
 **STEP 5:** Enter an **Application Name** to be displayed to the users&#x20;
 
@@ -30,7 +30,7 @@ Steps to create a self-signed certificate
 
 **STEP 8:** Click Register to register the application.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Enter details to register the app</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (5).png" alt=""><figcaption><p>Enter details to register the app</p></figcaption></figure>
 
 ## Uploading your self-signed certificate
 

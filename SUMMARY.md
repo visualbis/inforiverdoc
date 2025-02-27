@@ -333,6 +333,7 @@
     * [HAS](formula-syntax/identifiers/has.md)
     * [HAS\_ALL](formula-syntax/identifiers/has_all.md)
     * [HAS\_SOME](formula-syntax/identifiers/has_some.md)
+    * [LEAVES](formula-syntax/identifiers/leaves.md)
     * [LEVEL](formula-syntax/identifiers/level.md)
     * [MATCH](formula-syntax/logical-functions/match.md)
     * [MEMBERS](formula-syntax/identifiers/members.md)
