@@ -364,6 +364,8 @@
   * [Miscellaneous functions](formula-syntax/miscellaneous-functions/README.md)
     * [FETCH](formula-syntax/miscellaneous-functions/fetch.md)
     * [LOOKUP](formula-syntax/miscellaneous-functions/lookup.md)
+  * [Measure/Column selection functions](formula-syntax/measure-column-selection-functions/README.md)
+    * [GETCOLBETWEENPERIODS](formula-syntax/measure-column-selection-functions/getcolbetweenperiods.md)
 * [Advanced topics](advanced-topics/README.md)
   * [Audit log](advanced-topics/audit-log.md)
   * [Backup & restore report config](advanced-topics/export-and-import-reports-backup.md)
