@@ -10,4 +10,6 @@ Lets explore the transformations available in Infobridge.
 
 [Add column](add-column.md): Add calculated measures and custom dimensions.
 
+[Pivot column](pivot-column.md): Convert row values from one column into multiple columns.
+
 [Unnest](unnest.md): Flatten your comma separated data into multiple rows.

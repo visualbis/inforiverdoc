@@ -390,6 +390,7 @@
     * [Pivot table](infobridge/data-transformations/pivot-table.md)
     * [Group by](infobridge/data-transformations/group-by.md)
     * [Add Column](infobridge/data-transformations/add-column.md)
+    * [Pivot column](infobridge/data-transformations/pivot-column.md)
     * [Unnest](infobridge/data-transformations/unnest.md)
   * [Query transformations](infobridge/query-transformations.md)
 * [Accessibility shortcut keys](accessibility-shortcut-keys.md)
