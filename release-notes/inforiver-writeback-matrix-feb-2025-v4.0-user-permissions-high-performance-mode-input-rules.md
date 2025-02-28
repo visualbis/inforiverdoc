@@ -4,27 +4,33 @@
 
 User management in Inforiver is now more secure and streamlined with our new, role-based access control policies.
 
-We’ve replaced the existing admin and member roles with a new set of user roles with defined access permissions. If you are an admin, you can assign roles to users (or Active Directory groups) to specify what they can or cannot do with their Inforiver reports.
+Previously, there were only admin and member roles. In this release, we have introduced additional user roles with clearly defined access permissions .
 
-For instance, an ‘input user’ can create data inputs, forecasts, scenarios, etc., while only an ‘input admin’ can change the related settings.
+If you are an admin, you can assign roles to users (or Active Directory groups) to specify what they can or cannot do with their Inforiver reports. For instance, an ‘input user’ can create data input entries, forecasts, scenarios, etc., while only an ‘input admin’ can change the related settings.
 
-![](<../.gitbook/assets/0 (2).png>)
+![Default user roles](<../.gitbook/assets/0 (2).png>)
+
+Here is a summary of default roles available and their associated permissions:
+
+<table><thead><tr><th>Roles</th><th width="483">Permissions</th></tr></thead><tbody><tr><td>Admin</td><td>Complete control within the product</td></tr><tr><td>Contributor</td><td>Member users have been migrated to this policy</td></tr><tr><td>Passive Viewer</td><td>View-only access to reports</td></tr><tr><td>Input Admin</td><td>Can create visual measures, modify data input settings and execute writeback</td></tr><tr><td>Input User</td><td>Can create data input entries, add comments, create bridge and execute writeback</td></tr><tr><td>Writeback Admin</td><td>Complete control over writeback settings</td></tr><tr><td>Forecast Admin</td><td>Can create forecast, bridge, input data entry and execute writeback</td></tr><tr><td>Subscription Admin</td><td>Create and manage subscriptions at tenant level</td></tr><tr><td>Subscription User</td><td>Create and manage report subscriptions</td></tr><tr><td>Infobridge Admin</td><td>Can create and manage bridge folders, enter data input and execute writeback</td></tr></tbody></table>
 
 In addition to these default roles, workspace admins can create custom roles and policies on a granular level, ensuring enhanced data governance and security.
 
-![](<../.gitbook/assets/1 (3).png>)
+![Add custom policy](<../.gitbook/assets/1 (3).png>)
 
 Note: Existing admins and members have been moved to the ‘Admin’ and ‘Contributor’ roles, respectively. Admins retain their permissions for user management and writeback settings, while contributors can access all report-level settings.
 
-You can refer to the documentation for the detailed roles and permissions matrix.
+You can refer to [this page](../admin-console/user-management/user-roles-and-permissions.md) to learn more about the default roles and their associated permissions.
 
 ## 2. Data Input
 
 ### 2.1. Input rules for data input and forecast measures
 
-While adding input and forecast columns to your report, you may need to set minimum and maximum limits to the column values. You can configure these limits and the distribution settings in the ‘Data Input’ and ‘Forecast’ side panels.
+Manage your planning and forecasting workflows proactively by setting clear business controls in the form of input rules. These rules can include setting minimum and maximum thresholds, locking and unlocking cells to prevent changes to key values, and changing the distribution method.
 
-Additionally, we have introduced a centralized menu option, ‘**Input Rules’**.
+When adding input and forecast columns to your report, you can configure these settings in the 'Data Input' and 'Forecast' side panels.
+
+Additionally, we have now introduced a centralized menu option, 'Input Rules' for effective and collaborative management of input and forecast rules.
 
 ![Input rules for Data Input and Forecast
 ](<../.gitbook/assets/2 (2).png>)
@@ -38,15 +44,15 @@ With this, you can:
 
 **Locking rule:** Configure which cells should be locked and restricted from changes during distribution and forecasting to ensure key values remain unchanged.
 
-![](<../.gitbook/assets/3 (2).png>)
+![Locking rule](<../.gitbook/assets/3 (2).png>)
 
 **Min-Max rule:** Set limits on the minimum and maximum values users can enter in these measures. These constraints ensure that the measure values do not fall below or exceed your specified limits during forecasting and distribution.
 
-![](<../.gitbook/assets/4 (2).png>)
+![Min-max rule](<../.gitbook/assets/4 (2).png>)
 
 **Distribution rule:** Choose whether to distribute the total equally or to use a weighted distribution. You can also define the period range from which the weights will be derived, as well as the target rows and columns where they will be applied.
 
-![](<../.gitbook/assets/5 (2).png>)
+![Distribution rule](../.gitbook/assets/2.4.inforiver-distribution-rule-settings.png)
 
 ## 3. Data streaming to Analytics+
 
@@ -80,15 +86,19 @@ Experience **three times faster writebacks** in Infobridge, with enhanced effici
 
 You can now add data sources from OneLake to Infobridge. Ensure that you’re connected to your Fabric Lakehouse and Azure Data Lake Storage from the ‘My Integrations’ page in the console, and you are good to go.
 
-![](../.gitbook/assets/9.gif)
+![OneLake as data source](../.gitbook/assets/9.gif)
 
 ### 5.3. Support for EDITABLE data source
 
-Infobridge can fetch data from EDITable.
+Infobridge can now fetch data from EDITable, enabling new possibilities for integrated and connected planning.
 
-[**EDITable**](https://inforiver.com/editable/) supports a wide range of cloud-based and on-premises databases, including Fabric Warehouse, Fabric SQL, Azure SQL, Snowflake, Amazon Redshift, BigQuery, Databricks, and PostgreSQL. The data tables from these destinations can now be imported into Infobridge via EDITable for real-time, integrated and connected planning.
+[EDITable](https://inforiver.com/editable/) supports a wide range of cloud-based and on-premises databases, including Fabric Warehouse, Fabric SQL, Azure SQL, Snowflake, Amazon Redshift, BigQuery, Databricks, and PostgreSQL. The data tables from these destinations can now be imported into Infobridge via EDITable for real-time and connected planning.
 
 ![](../.gitbook/assets/10.gif)
+
+For example, in the image below, we have integrated data from EDITable into a bridge. This data can be accessed live from an Inforiver report using the ‘LOOKUP’ function.This way, you can seamlessly connect to multiple data sources from your Inforiver report.
+
+<figure><img src="../.gitbook/assets/5.3.2.editable-data-integration.png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Writeback:
 
