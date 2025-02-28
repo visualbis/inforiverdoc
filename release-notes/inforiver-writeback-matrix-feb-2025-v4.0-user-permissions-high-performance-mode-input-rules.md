@@ -1,5 +1,9 @@
 # Inforiver Writeback Matrix Feb 2025 - v4.0 -  User permissions, High-performance mode, Input rules
 
+This release brings you significant updates such as the role-based access control, data input rules, high-performance mode, and much more. We have also added several other enhancements based on your feedback—specifically to the audit log, comment panel, and scheduler to enhance your overall experience with Inforiver.
+
+Thank you for your feedback, which inspires us to continuously improve and innovate our product.
+
 ## 1. Introducing user roles and permissions
 
 User management in Inforiver is now more secure and streamlined with our new, role-based access control policies.
@@ -74,7 +78,7 @@ This mode transforms the way the data input values are stored, retrieved, and up
 
 ![High performance mode](<../.gitbook/assets/8 (1).png>)
 
-Please remember to **enable this mode before creating any data input measures** or columns in your report. Switching between modes is not possible after data input columns are created and updated unless you delete them.
+Please remember to **enable this mode before creating any data input measures** or columns in your report. Switching between modes is not supported after data input columns are created and updated unless you delete them.
 
 ## 5. Infobridge
 
@@ -98,15 +102,13 @@ Infobridge can now fetch data from EDITable, enabling new possibilities for inte
 
 For example, in the image below, we have integrated data from EDITable into a bridge. This data can be accessed live from an Inforiver report using the ‘LOOKUP’ function.This way, you can seamlessly connect to multiple data sources from your Inforiver report.
 
-<figure><img src="../.gitbook/assets/5.3.2.editable-data-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.3.2.editable-data-integration.png" alt=""><figcaption><p>Lookup from Infobridge</p></figcaption></figure>
 
 ## 6. Writeback:
 
 ### 6.1. Seamless Auto-writeback
 
 No more distracting notifications and pauses during the auto-writeback process. The auto-writeback process is now seamless, with the event notifications displayed at the bottom of the visual.
-
-
 
 ## 7. Forecast
 
