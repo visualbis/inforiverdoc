@@ -14,7 +14,7 @@ Notice how a custom measure has been added to the bridge:
 
 <figure><img src="../../.gitbook/assets/image (1277).png" alt=""><figcaption><p>New measure added from Infobridge</p></figcaption></figure>
 
-## Add Dimension
+## 2. Add Dimension
 
 You can add dimensions directly in a bridge by writing an expression based on specific conditions. Enter the expression in the formula editor.
 
