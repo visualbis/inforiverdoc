@@ -24,6 +24,14 @@ A custom dimension is created in the bridge:
 
 <figure><img src="../../.gitbook/assets/image (1279).png" alt=""><figcaption><p>New dimension added from Infobridge</p></figcaption></figure>
 
-Split Column
+## 3. Split Column
+
+Split a dimension column into multiple dimensions based on a delimiter or position.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1280).png" alt=""><figcaption><p>Split option in Infobridge</p></figcaption></figure>
+
+In this example, the Benchmark dimension is a comma-separated field. We've used the delimiter option to split this field into 2 dimensions: Benchmark 1 and Benchmark 2.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1282).png" alt=""><figcaption><p>Splitting dimensions in Infobridge</p></figcaption></figure>
 
 Conditional Column
