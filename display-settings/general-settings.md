@@ -25,19 +25,19 @@ The canvas section contains options to set the overall appearance of the report.
 
 The theme option lets you change the theme of the Inforiver visual to 'Light' or 'Dark'. In the example, the Dark theme is chosen.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Dark theme</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Dark theme</p></figcaption></figure>
 
 #### ii) Background
 
 You can change the background color of the canvas using this option.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Background color option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Background color option</p></figcaption></figure>
 
 #### iii) Text
 
 You can change the color of the text/values in the visual using this option.
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Text color</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Text color</p></figcaption></figure>
 
 #### iv) Header text
 

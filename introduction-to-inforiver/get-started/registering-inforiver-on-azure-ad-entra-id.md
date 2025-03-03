@@ -42,7 +42,7 @@ Steps to create a self-signed certificate
 
 **STEP 4:** Click Add.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Environment variable settings
 
@@ -52,19 +52,19 @@ Add the variables listed below:
 
 * **O365\_APP\_CERTIFICATE\_CREDENTIALS**: Self-signed certificate body.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Environment variable for Certificate body</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (5).png" alt=""><figcaption><p>Environment variable for Certificate body</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>End of Certificate body</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>End of Certificate body</p></figcaption></figure>
 
 * **O365\_APP\_PRIVATE\_KEY:** Self-signed certificate private key.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Environment variable for RSA private key</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Environment variable for RSA private key</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>End of private key</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (6).png" alt=""><figcaption><p>End of private key</p></figcaption></figure>
 
 * **O365\_APP\_CERTIFICATE\_THUMBPRINT: T**humbprint value of self-signed certificate. This can be obtained from your Azure AD application Certificate section.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Add environment variables</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Add environment variables</p></figcaption></figure>
 
 Save the settings after all three environment variables are added. The appservice will restart automatically to reflect the changes.
 

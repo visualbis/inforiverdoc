@@ -18,7 +18,7 @@ Select all the categories at a particular hierarchy level using this option. You
 
 Selects the children under a particular row dimension category.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select descendants</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select descendants</p></figcaption></figure>
 
 #### - Select parent and descendants
 
@@ -76,7 +76,7 @@ You can use this option to set pagination based on the category i.e. your report
 
 We have used the _Add Row Break_ option to create one page corresponding to each category - Technology, Furnishings, and Office Supplies.
 
-<figure><img src="../../../.gitbook/assets/image (9) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 b) Hide Icon for level
 
@@ -124,7 +124,7 @@ The 'Furniture' row and all its children have been removed using the _Skip row_ 
 
 f) Skip and show row
 
-This option will exclude the selected row category from totals and subtotals, but the row will still be displayed. The <img src="../../../.gitbook/assets/image (10) (1).png" alt="" data-size="line">icon indicates that the row has been skipped.
+This option will exclude the selected row category from totals and subtotals, but the row will still be displayed. The <img src="../../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line">icon indicates that the row has been skipped.
 
 <figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Skip and show row</p></figcaption></figure>
 

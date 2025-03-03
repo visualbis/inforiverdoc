@@ -6,7 +6,7 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 1.1. Custom thousand and decimal separators can be enforced from display settings. These cannot be exported to Excel.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h15_35.png" alt=""><figcaption><p>Default comma separator in Excel export</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h15_35.png" alt=""><figcaption><p>Default comma separator in Excel export</p></figcaption></figure></div>
 
 1.2. You cannot blend columns in exports.
 
@@ -44,7 +44,7 @@ In this example, the positive and negative simulation percentages are exported i
 
 3.2. Excel exports cannot capture serial numbers assigned to notes in Inforiver. The export will contain only a note indicator. Hover over the note indicator to view the content.
 
-<div><figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption><p>Numbered notes in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h19_01.png" alt=""><figcaption><p>Notes indicators in Excel</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Numbered notes in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h19_01.png" alt=""><figcaption><p>Notes indicators in Excel</p></figcaption></figure></div>
 
 &#x20;3.3. Excel exports cannot capture rich text formatting applied to notes.
 
@@ -88,7 +88,7 @@ Only 3 conditions will be supported in such scenarios.
 
 8.2. Color customizations - If you have overridden the default colors, Excel may substitute different icons or change the color.
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h35_21.png" alt=""><figcaption><p>Icons and colors used in the Excel export</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h35_21.png" alt=""><figcaption><p>Icons and colors used in the Excel export</p></figcaption></figure></div>
 
 8.3. Icon repetition -  If the same icon is used multiple times with different colors, only the colors that Excel supports will be exported.
 

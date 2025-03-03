@@ -60,11 +60,11 @@ Clicking on the control on the side will give options to split the container ver
 
 On selecting the _Split panel to the right_ option, notice that a new cell is inserted to the right of the existing content.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>New cell inserted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>New cell inserted</p></figcaption></figure>
 
 **STEP 3:** The container height can be adjusted by hovering on the bottom border and dragging the handle. The width can be adjusted by dragging the handle that is enabled on hovering over the cell border.
 
-<div><figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Adjusting the container height</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Container width.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption><p>Adjusting the container height</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Container width.png" alt=""><figcaption></figcaption></figure></div>
 
 **STEP 4:** Click the plus icon to insert elements like Text, Image, Chart, and KPI which are covered in subsequent sections.
 
@@ -74,11 +74,11 @@ On selecting the _Split panel to the right_ option, notice that a new cell is in
 
 If you choose the _**Replace the selected Container**_ option, the chosen element (chart, text, KPI, images) will be inserted into that container.
 
-<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (1).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h47_12.png" alt=""><figcaption><p>Chart inserted into the chosen container</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (2).png" alt=""><figcaption><p>Replace selected container</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h47_12.png" alt=""><figcaption><p>Chart inserted into the chosen container</p></figcaption></figure></div>
 
 You can also choose to insert a new container to the right/left/top/bottom of the existing container. In the second image, notice how the chart is inserted in a new container below the currently selected container.
 
-<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (2).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h59_02.png" alt=""><figcaption><p>New container insrted below selected container</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (3).png" alt=""><figcaption><p>Insert new container option</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-07-31_12h59_02.png" alt=""><figcaption><p>New container insrted below selected container</p></figcaption></figure></div>
 
 **STEP 6:** After inserting an element, you can use the container controls to copy/paste the contents of a cell. You can also reset or delete a cell.
 
