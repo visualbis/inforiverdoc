@@ -1,14 +1,14 @@
-# Manage queries
+# 4. Manage queries
 
 A source such as an Inforiver report or an Excel file can be used to create multiple queries. You can manage Infobridge queries by hovering over a query name to access the context menu. From there, you can duplicate, group, delete, or refresh the query.
 
-<figure><img src="../.gitbook/assets/image (1088).png" alt=""><figcaption><p>Query management context menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1088).png" alt=""><figcaption><p>Query management context menu</p></figcaption></figure>
 
 ### 1. Re-run
 
 Re-executes the last step. In this example, we added two queries, so re-running the process will execute the append function again.
 
-<figure><img src="../.gitbook/assets/image (1090).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1090).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Refresh
 
@@ -16,9 +16,9 @@ Re-executes the last step. In this example, we added two queries, so re-running 
 * **Schedule refresh:** You can automate source refreshes by creating a schedule. Infobridge will trigger a refresh at the specified date and time.
 * **Refresh history:** View the logs and milestones related to source refresh jobs.
 
-[Learn more about managing sources](manage-sources.md).
+[Learn more about managing sources](../4.-manage-sources.md).
 
-<figure><img src="../.gitbook/assets/image (1091).png" alt=""><figcaption><p>Refresh options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1091).png" alt=""><figcaption><p>Refresh options</p></figcaption></figure>
 
 ### 3. Duplicate
 
@@ -30,10 +30,10 @@ Each bridge is assigned a unique identifier. You can use the identifier instead 
 
 ### 5. Copy query GUID
 
-The query GUID can be used to uniquely identify a particular query. The GUID is used when we need to lookup a value from a query without creating an integration. [Learn more about Infobridge lookups.](../formula-syntax/miscellaneous-functions/lookup.md)
+The query GUID can be used to uniquely identify a particular query. The GUID is used when we need to lookup a value from a query without creating an integration. [Learn more about Infobridge lookups.](../../formula-syntax/miscellaneous-functions/lookup.md)
 
 ### 6. Move to group
 
 You can now group related data within Infobridge, allowing you to logically group your queries. Notice how the queries related to sales and profits have been grouped together.
 
-<figure><img src="../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Grouping queries</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Grouping queries</p></figcaption></figure>
