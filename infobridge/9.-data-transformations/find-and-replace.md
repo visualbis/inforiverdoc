@@ -10,7 +10,8 @@ We'll look at the inputs required to replace the "Bovespa Index" benchmark with 
 
 * **Target columns:** You can select one or more columns from the dropdowns. These columns will be searched and replaced with the given value if the search string is found.
 * **Find**: The string to search for.
-* **Match Case:** You can opt for a fuzzy match, exact match or even provide a regular expression. Let's use a regex to replace all the Benchmarks that contain "FTSE".
+* **Match Case:** You can opt for a fuzzy match, exact match or even provide a regular expression. Let's use a regex to replace all the Benchmarks that contain "Bovespa Index".
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Benchmarks containing FTSE</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1293).png" alt=""><figcaption><p>Find and replace with regular expressions</p></figcaption></figure>
 
+* **Replace with:** The new string/value that will replace the search string.
