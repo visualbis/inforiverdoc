@@ -27,4 +27,4 @@ GETCOLBETWEENPERIODS(DATE.ADDMONTH(-6), DATE.ADDMONTH(2), [[Profit]])
 //Returns the profit measure for specified the date range 
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Getcolbetweenperiods</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Getcolbetweenperiods</p></figcaption></figure>

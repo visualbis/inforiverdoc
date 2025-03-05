@@ -14,4 +14,6 @@ Lets explore the transformations available in Infobridge.
 
 [Unnest](unnest.md): Flatten your comma separated data into multiple rows.
 
-Rename column: Change the name of any dimension or measure.
+[Rename column](rename-column.md): Change the name of any dimension or measure.
+
+[Find and replace: ](find-and-replace.md)Search for a string or value and replace it with another.

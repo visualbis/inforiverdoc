@@ -1,0 +1,16 @@
+# Find and Replace
+
+As the name implies, the Find and Replace option searches a particular dimension column for a string or value and replaces it with the given string. Let's consider a Global market report to demonstrate this.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Sample report</p></figcaption></figure>
+
+We'll look at the inputs required to replace the "Bovespa Index" benchmark with "S\&P 500" in the Benchmark column.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Find and Replace configuration</p></figcaption></figure>
+
+* **Target columns:** You can select one or more columns from the dropdowns. These columns will be searched and replaced with the given value if the search string is found.
+* **Find**: The string to search for.
+* **Match Case:** You can opt for a fuzzy match, exact match or even provide a regular expression. Let's use a regex to replace all the Benchmarks that contain "FTSE".
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Benchmarks containing FTSE</p></figcaption></figure>
+

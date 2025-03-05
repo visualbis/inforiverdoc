@@ -12,15 +12,15 @@ The Inforiver support team will share a license key file in JSON format with you
 
 **STEP 2:** Select the license theme file shared by the Inforiver support team.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>License key file from Inforiver</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>License key file from Inforiver</p></figcaption></figure>
 
 Sample license theme file:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Sample license key file</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Sample license key file</p></figcaption></figure>
 
 **STEP 3:**&#x59;ou'll get a pop-up notification once the theme file is added:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Notification after successfully importing the theme file</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Notification after successfully importing the theme file</p></figcaption></figure>
 
 After importing the theme file, the license key will automatically be updated in all the Inforiver Reporting Matrix visuals in that particular pbix file. The license will also be applied to any new Reporting Matrix visuals added to the Power BI report. You can verify that the license key has been updated from the Formal Visual pane.
 
