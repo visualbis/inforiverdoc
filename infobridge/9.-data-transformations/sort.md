@@ -1,6 +1,6 @@
 # Sort
 
-Sort your dimensions and measures in ascending or descending order. Select the column to be sorted and the sort order.
+You may need to change the sort order in the base report before cascading the report to the target visual. You can sort your dimensions and measures in ascending or descending order within Infobridge. Select the column to be sorted and the sort order.
 
 <figure><img src="../../.gitbook/assets/image (1297).png" alt=""><figcaption><p>Sorting in Infobridge</p></figcaption></figure>
 
