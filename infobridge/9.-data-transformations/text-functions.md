@@ -16,6 +16,34 @@ The city code is extracted from the area code and captured as a separate dimensi
 
 <figure><img src="../../.gitbook/assets/image (1305).png" alt=""><figcaption><p>Extracted text using the range option</p></figcaption></figure>
 
+**1.2. Length**
+
+Capture the text length in a separate dimension by choosing the **Length** option.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1306).png" alt=""><figcaption><p>Extract text length for a selected field in the report</p></figcaption></figure>
+
+The length of the "Category" column has been extracted into a new dimension titled "Category length".
+
+<figure><img src="../../.gitbook/assets/image (1307).png" alt=""><figcaption><p>Length of the Category dimension extracted into a new field</p></figcaption></figure>
+
+**1.3. First characters**
+
+Extract the first n characters from a text field. Let's pull the ID (first 5 characters) from the Customer ID field.
+
+<figure><img src="../../.gitbook/assets/image (1308).png" alt=""><figcaption><p>Customer ID field</p></figcaption></figure>
+
+Extract configuration to pull the first 5 characters from a field.
+
+<figure><img src="../../.gitbook/assets/image (1309).png" alt=""><figcaption><p>Extract ID from the Customer ID field</p></figcaption></figure>
+
+A new dimension containing the ID is created.
+
+<figure><img src="../../.gitbook/assets/image (1310).png" alt=""><figcaption><p>First 5 characters extracted into a new dimension</p></figcaption></figure>
+
+**1.4. Last characters**
+
+Similar to the first characters option, **Last Characters** will pull the last n characters from a string.&#x20;
+
 **1.5. Text before delimiters**
 
 Extracts the text before a specific delimiter. Let's extract the currency code from the "Discount Index" field.
