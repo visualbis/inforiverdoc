@@ -394,6 +394,7 @@
     * [Find and Replace](infobridge/9.-data-transformations/find-and-replace.md)
     * [Remove measure](infobridge/9.-data-transformations/remove-measure.md)
     * [Filter rows](infobridge/9.-data-transformations/filter-rows.md)
+    * [Sort](infobridge/9.-data-transformations/sort.md)
     * [Unnest](infobridge/9.-data-transformations/unnest.md)
   * [10. Integrating forecasts](infobridge/10.-integrating-forecasts.md)
   * [11. Collaborative adjustments](infobridge/11.-collaborative-adjustments.md)
