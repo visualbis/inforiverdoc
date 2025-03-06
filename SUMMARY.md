@@ -397,6 +397,7 @@
     * [Sort](infobridge/9.-data-transformations/sort.md)
     * [Text functions](infobridge/9.-data-transformations/text-functions.md)
     * [Unnest](infobridge/9.-data-transformations/unnest.md)
+    * [Round](infobridge/9.-data-transformations/round.md)
   * [10. Integrating forecasts](infobridge/10.-integrating-forecasts.md)
   * [11. Collaborative adjustments](infobridge/11.-collaborative-adjustments.md)
 * [Accessibility shortcut keys](accessibility-shortcut-keys.md)
