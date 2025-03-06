@@ -18,4 +18,4 @@ Click the Import button and choose the .bck file from your machine to import and
 
 The steps are imported into the target query.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Importing steps</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1329).png" alt=""><figcaption><p>Steps imported in target query</p></figcaption></figure>
