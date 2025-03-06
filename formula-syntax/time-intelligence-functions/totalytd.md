@@ -21,4 +21,4 @@ Range of data. When used with an aggregation function, it returns a scalar value
 
 Find below an example where the discount measure is calculated year-to-date.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>TOTALYTD</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>TOTALYTD</p></figcaption></figure>

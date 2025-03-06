@@ -398,6 +398,7 @@
     * [Text functions](infobridge/9.-data-transformations/text-functions.md)
     * [Unnest](infobridge/9.-data-transformations/unnest.md)
     * [Round](infobridge/9.-data-transformations/round.md)
+    * [Import and export](infobridge/9.-data-transformations/import-and-export.md)
   * [10. Integrating forecasts](infobridge/10.-integrating-forecasts.md)
   * [11. Collaborative adjustments](infobridge/11.-collaborative-adjustments.md)
 * [Accessibility shortcut keys](accessibility-shortcut-keys.md)

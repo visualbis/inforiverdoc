@@ -10,7 +10,7 @@ You can choose different options, such as range, length, first/last character, o
 
 Extracts text based on the start and end position of the string to be extracted. Let's extract the city code from the "AreaCode" column. We need to specify the starting position of the text to be extracted and the number of characters to extract.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Extract a range of data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Extract a range of data</p></figcaption></figure>
 
 The city code is extracted from the area code and captured as a separate dimension.
 
