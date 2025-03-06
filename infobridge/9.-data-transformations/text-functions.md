@@ -68,3 +68,39 @@ You'll see that a new dimension is created containing the text after the specifi
 
 <figure><img src="../../.gitbook/assets/image (1304).png" alt=""><figcaption></figcaption></figure>
 
+## 2. Format
+
+Use the format option to perform operations like changing the case, trimming or adding a prefix/suffix to your text data.
+
+<figure><img src="../../.gitbook/assets/image (1312).png" alt=""><figcaption><p>Text formatting options</p></figcaption></figure>
+
+#### 2.1. Changing the case
+
+We may need to change the case of source data to ensure data consistency or search accuracy for case-sensitive systems. Let's change the case of the "Category" and "Segment" fields to uppercase.
+
+<figure><img src="../../.gitbook/assets/image (1313).png" alt=""><figcaption><p>Changing the case of text fields</p></figcaption></figure>
+
+Notice how the data in both fields is in uppercase.
+
+<figure><img src="../../.gitbook/assets/image (1314).png" alt=""><figcaption><p>Data after converting to uppercase</p></figcaption></figure>
+
+#### 2.2. Trim
+
+Leading or trailing spaces can cause mismatches in comparisons and can lead to inconsistencies in your data. The Account field has trailing spaces, so we'll use the **Trim** option to remove them.
+
+<figure><img src="../../.gitbook/assets/image (1316).png" alt=""><figcaption><p>Formatting text - trim spaces</p></figcaption></figure>
+
+The trailing spaces in the Account field have now been trimmed:
+
+<figure><img src="../../.gitbook/assets/image (1317).png" alt=""><figcaption><p>Trimmed data</p></figcaption></figure>
+
+#### 2.3. Add prefix/suffix
+
+Adding a prefix or suffix can help in easy identification and categorization of data. They are also used in generating unique identifiers. Let's add a prefix to the Account number.
+
+<figure><img src="../../.gitbook/assets/image (1318).png" alt=""><figcaption><p>Adding a prefix or suffix</p></figcaption></figure>
+
+You'll notice that the account numbers have an "ACC" prefix added.
+
+<figure><img src="../../.gitbook/assets/image (1319).png" alt=""><figcaption><p>Prefix added to the Account field</p></figcaption></figure>
+
