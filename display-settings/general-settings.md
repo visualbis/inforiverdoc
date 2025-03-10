@@ -49,7 +49,7 @@ You can change the color of the header text in the visual using this option.
 
 This option allows you to set the outline for the visual. If you enable this option, a color picker is enabled. The color picker allows you to select the color of the outline. We have set a blue outline for the grid below.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Outline</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Outline</p></figcaption></figure>
 
 ### 4. Row highlight
 
@@ -95,7 +95,7 @@ You can remove the row highlight by selecting the 'off' option from the drop-dow
 
 Enable the _**Measure Only Highlight**_ option to remove the highlight from the categories and highlight just the measures.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row highlight is applied only to measures</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Row highlight is applied only to measures</p></figcaption></figure>
 
 ### 5. Gridlines
 

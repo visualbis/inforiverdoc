@@ -1,22 +1,22 @@
 ---
-description: In the module, we'll explore how to use append functions to
+description: >-
+  In the module, we'll explore how to use append functions to combine data with
+  the same structure from multiple tables.
 ---
 
 # Append
 
-### 1. Append queries
-
 You can have data sourced from multiple systems that need to be unified into a single table. Consider the employee bonus data from different departments:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>HR department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>HR department</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>IT department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>IT department</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Sales and marketing department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Sales and marketing department</p></figcaption></figure>
 
 We need to combine the department-wise data to get an organizational level view of the bonus allocated to each department. The **Append** function is used in such scenarios where the structure (data type and number of columns) of all the source tables is exactly the same. The table below shows the appended data from all departments.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Appended data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Appended data</p></figcaption></figure>
 
 We'll look at how to append data in Infobridge. The SALES bridge has regional sales from multiple countries.
 
