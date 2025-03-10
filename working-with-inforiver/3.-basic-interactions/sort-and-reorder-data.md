@@ -6,23 +6,23 @@ Inforiver provides the standard sorting options - ascending/descending and A->Z/
 
 **1.1.** To sort a column by ascending or descending, hover over the column header and click on the gripper. Select Sort -> Sort Desc.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorting from the column gripper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorting from the column gripper</p></figcaption></figure>
 
 **1.2.** You can see that the column gets sorted and there is an icon to denote the descending sort.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data</p></figcaption></figure>
 
 **1.3.** To undo the sorting, click **Remove Sort** from the column gripper. Alternatively, you can click the sort icon in the header to remove the sort.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Remove sort</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Remove sort</p></figcaption></figure>
 
 **1.4.** Similarly, sorting can also be applied to non-numeric columns. In a later section, we'll be covering how to insert data input columns such as text, dropdown, date, etc.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorting non numeric columns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorting non numeric columns</p></figcaption></figure>
 
 **1.5.** You can see that the dropdown column is sorted in ascending order both at the Category and Sub Category levels.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data for non-numeric fields</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data for non-numeric fields</p></figcaption></figure>
 
 **1.6.** Sorting based on text and date columns is shown below.
 
@@ -32,7 +32,7 @@ Inforiver provides the standard sorting options - ascending/descending and A->Z/
 
 Click the **Sort** button on the toolbar for advanced sorting options. You can sort your data based on multiple dimensions or measures. Please bear in mind that you can either sort based on row dimensions or based on measures, not both together.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Advanced sorting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Advanced sorting</p></figcaption></figure>
 
 ## 2. Reordering
 

@@ -33,7 +33,7 @@ Hover over the '?' icon to find help links on how to use filter/bookmark
 
 When you set the Filter/Bookmark option to 'Filter', a new input field becomes available next to the drop-down. In this field, you can specify the queries to filter the report.  The syntax for specifying a filter is **Table/Field eq 'value'**.
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating a subscription filter</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating a subscription filter</p></figcaption></figure>
 
 Click the 'Add new' option to add an additional filter/bookmark.
 
