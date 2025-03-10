@@ -2,8 +2,7 @@
 
 Rounding numeric data is important to ensure consistency and for readability. You would also need to round data to conform to industry standards.
 
-Inforidge offers 3 options: Round, Round Up, and Round Down.\
-
+Inforidge offers 3 options: Round, Round Up, and Round Down.
 
 * Use **ROUND** for standard rounding needs
 * The **ROUNDUP** function always rounds a number up, away from zero. Use ROUNDUP when you always need a higher estimate, such as in budgeting or safety margins.
