@@ -382,6 +382,7 @@
     * [Query transformations](infobridge/4.-manage-queries/query-transformations/README.md)
       * [Append](infobridge/4.-manage-queries/query-transformations/append.md)
       * [Join](infobridge/4.-manage-queries/query-transformations/join.md)
+      * [Duplicate](infobridge/4.-manage-queries/query-transformations/duplicate.md)
   * [4. Manage sources](infobridge/4.-manage-sources.md)
   * [5. Insert rows from bridge](infobridge/5.-insert-rows-from-bridge.md)
   * [6. Insert measure from bridge](infobridge/6.-insert-measure-from-bridge.md)
