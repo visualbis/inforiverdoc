@@ -39,3 +39,20 @@ In earlier versions, when a Reporting Matrix report was exported to Excel, manua
 The canvas rendering option enables fast interactions with the matrix, smooth scrolling, and quick rendering. In earlier versions, users would have to explicitly enable this option. It will be enabled by default in the latest version.
 
 <figure><img src="../.gitbook/assets/image (1341).png" alt=""><figcaption><p>Canvas rendering</p></figcaption></figure>
+
+#### Show child count
+
+If your reports have row hierarchies, you can now display the number of immediate children under each parent category. Enable the **Show Child Count** option from display settings.
+
+<figure><img src="../.gitbook/assets/image (1342).png" alt=""><figcaption><p>Show Child Count</p></figcaption></figure>
+
+#### Show descendants count
+
+You can also display the total number of children including the leaf nodes under a parent category. Enable the Show Descendants Count toggle from display settings.
+
+{% hint style="info" %}
+Prerequisite: the **Show Child Count** option should be enabled.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (1343).png" alt=""><figcaption><p>Show descendants count</p></figcaption></figure>
+
