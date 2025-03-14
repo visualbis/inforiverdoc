@@ -46,6 +46,18 @@ In earlier versions, when a Reporting Matrix report was exported to Excel, manua
 
 <figure><img src="../.gitbook/assets/image (1337).png" alt=""><figcaption><p>Negative signs in Excel exports</p></figcaption></figure>
 
+#### Word wrap options for export
+
+The latest version of the Reporting Matrix brings you word wrap options - specifically intended for reports that are formatted using table functions.&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Word wrap options in page setup</p></figcaption></figure>
+
+The **"Precise"** option enables word wrapping, ensuring that overflowing rows are wrapped onto the next line and fully visible in the PDF export. In contrast, the **"Auto"** option does not apply word wrapping, which may result in truncated data. The highlighted text in the screenshots depicts the difference between Auto and Precise word wrapping.
+
+<div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Auto word wrap</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-14_15h53_55.png" alt=""><figcaption><p>Precise word wrap</p></figcaption></figure></div>
+
+
+
 ### Display settings
 
 #### Enable canvas rendering
