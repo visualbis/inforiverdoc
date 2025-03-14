@@ -8,9 +8,23 @@ You can now create single select variables and use the dropdown to drive filters
 
 <figure><img src="../.gitbook/assets/image (1340).png" alt=""><figcaption><p>Single select variable</p></figcaption></figure>
 
-### Column formatting for time hierarchies
+### Formatting
 
-19550
+#### Column formatting for time hierarchies
+
+When column hierarchies are involved, Inforiver allows you to select a particular level of the hierarchy by right clicking that level and choosing **Select column** from the context menu.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1344).png" alt=""><figcaption><p>Select column option</p></figcaption></figure>
+
+This feature comes in handy when you need to apply formatting to a particular level of the hierarchy. We've highlighted Q4 for 2023 in yellow.
+
+For time dimensions, the formatting applied for a particular month or quarter will automatically be applied to the same month/quarter in future years, as and when the data becomes available. Select the **Apply format to Qtr 4**(the qtr or month will change according to your data) option from the format painter dropdown.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1345).png" alt=""><figcaption><p>Format painter - Apply to option</p></figcaption></figure>
+
+Notice how the formatting is automatically applied to 2024 Q4 when the data is available.
+
+<figure><img src="../.gitbook/assets/Untitled Project (26).gif" alt=""><figcaption><p>Formatting automatically applied to future periods</p></figcaption></figure>
 
 ### Aggregation
 
