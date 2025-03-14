@@ -70,3 +70,8 @@ Prerequisite: the **Show Child Count** option should be enabled.
 
 <figure><img src="../.gitbook/assets/image (1343).png" alt=""><figcaption><p>Show descendants count</p></figcaption></figure>
 
+#### Selection border
+
+You can optionally remove the border box that is rendered when a cell/column/row is selected. The border box will not be displayed when the Selection Border toggle is disabled from display settings.
+
+<div><figure><img src="../.gitbook/assets/image (1346).png" alt=""><figcaption><p>Selection border enabled</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-14_13h00_37.png" alt=""><figcaption><p>Border box removed</p></figcaption></figure></div>
