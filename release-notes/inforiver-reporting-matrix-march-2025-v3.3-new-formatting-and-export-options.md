@@ -1,16 +1,18 @@
-# Inforiver Reporting Matrix March 2025 - V3.3
+# Inforiver Reporting Matrix March 2025 - V3.3 -New formatting and export options
 
-### Variables
+The latest version of the Reporting Matrix delivers additional formatting and export options, enhancing the readability of your reports and PDF extracts. We've added a new variable type -single select - providing more flexibility in applying filters using variables. We've also introduced additional display settings options that will help you customize the look and feel of your reports.
 
-#### Single select variable
+### 1. Variables
 
-You can now create single select variables and use the dropdown to drive filters on your data.
+#### 1.1. Single select variable
+
+Variables offer highly interactive visual controls like buttons, checkboxes, and toggle switches,  allowing report users to apply filters or run scripts. You can now create single select variables and use the dropdown to drive filters on your data.
 
 <figure><img src="../.gitbook/assets/image (1340).png" alt=""><figcaption><p>Single select variable</p></figcaption></figure>
 
-### Formatting
+### 2. Formatting
 
-#### Column formatting for time hierarchies
+#### 2.1. Column formatting for time hierarchies
 
 When column hierarchies are involved, Inforiver allows you to select a particular level of the hierarchy by right clicking that level and choosing **Select column** from the context menu.&#x20;
 
@@ -26,9 +28,9 @@ Notice how the formatting is automatically applied to 2024 Q4 when the data is a
 
 <figure><img src="../.gitbook/assets/Untitled Project (26).gif" alt=""><figcaption><p>Formatting automatically applied to future periods</p></figcaption></figure>
 
-### Aggregation
+### 3. Aggregation
 
-#### First and last for row aggregation
+#### 3.1. First and last for row aggregation
 
 The latest version of Reporting Matrix ships with built-in support for first and last aggregation types for row-level aggregation. First and last aggregation is used to capture the starting and final values in trends - for instance, the initial and final revenue.
 
@@ -38,15 +40,15 @@ For First and Last aggregation types, the aggregated parent row will get updated
 
 <figure><img src="../.gitbook/assets/image (1338).png" alt=""><figcaption><p>First and last row aggregation</p></figcaption></figure>
 
-### Export
+### 4. Export
 
-#### Display negative signs in Excel export
+#### 4.1. Display negative signs in Excel export
 
 In earlier versions, when a Reporting Matrix report was exported to Excel, manually changing positive numbers to negative numbers would not be reflected in the cells. The negative sign would be displayed only in the toolbar when the cell was clicked. This issue has been rectified in the latest version.
 
 <figure><img src="../.gitbook/assets/image (1337).png" alt=""><figcaption><p>Negative signs in Excel exports</p></figcaption></figure>
 
-#### Word wrap options for export
+#### 4.2. Word wrap options for export
 
 The latest version of the Reporting Matrix brings you word wrap options - specifically intended for reports that are formatted using table functions.&#x20;
 
@@ -58,21 +60,21 @@ The **"Precise"** option enables word wrapping, ensuring that overflowing rows a
 
 
 
-### Display settings
+### 5. Display settings
 
-#### Enable canvas rendering
+#### 5.1. Enable canvas rendering
 
 The canvas rendering option enables fast interactions with the matrix, smooth scrolling, and quick rendering. In earlier versions, users would have to explicitly enable this option. It will be enabled by default in the latest version.
 
 <figure><img src="../.gitbook/assets/image (1341).png" alt=""><figcaption><p>Canvas rendering</p></figcaption></figure>
 
-#### Show child count
+#### 5.2. Show child count
 
 If your reports have row hierarchies, you can now display the number of immediate children under each parent category. Enable the **Show Child Count** option from display settings.
 
 <figure><img src="../.gitbook/assets/image (1342).png" alt=""><figcaption><p>Show Child Count</p></figcaption></figure>
 
-#### Show descendants count
+#### 5.3. Show descendants count
 
 You can also display the total number of children including the leaf nodes under a parent category. Enable the Show Descendants Count toggle from display settings.
 
@@ -82,7 +84,7 @@ Prerequisite: the **Show Child Count** option should be enabled.
 
 <figure><img src="../.gitbook/assets/image (1343).png" alt=""><figcaption><p>Show descendants count</p></figcaption></figure>
 
-#### Selection border
+#### 5.4. Selection border
 
 You can optionally remove the border box that is rendered when a cell/column/row is selected. The border box will not be displayed when the Selection Border toggle is disabled from display settings.
 
