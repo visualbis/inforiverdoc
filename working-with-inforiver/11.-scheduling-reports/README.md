@@ -33,3 +33,7 @@ In the following sections, we will look at how to set up and manage subscription
 1. **Create a new subscription:** You can create new subscriptions using an intuitive user interface. To learn more, refer to [create a new subscription](create-new-subscription/select-a-report.md).
 2. **Manage your subscriptions:** You can manage all your subscriptions from an easy-to-access dashboard. To learn more, refer to [manage your subscriptions](manage-your-subscriptions.md).
 3. **Administration** - Inforiver workspace admins can view and manage subscriptions created by all the users in the workspace. To learn more, refer to the [administration](administration.md).
+
+#### Resources
+
+[Power BI Report Delivery: Scheduling, Broadcasting and Bursting](https://inforiver.com/blog/enterprise/power-bi-report-delivery-scheduling-broadcasting-bursting/)
