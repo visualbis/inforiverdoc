@@ -6,7 +6,7 @@ As the name implies, the Find and Replace option searches a particular dimension
 
 We'll look at the inputs required to replace the "Bovespa Index" benchmark with "S\&P 500" in the Benchmark column.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Find and Replace configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Find and Replace configuration</p></figcaption></figure>
 
 * **Target columns:** You can select one or more columns from the dropdowns. These columns will be searched and replaced with the given value if the search string is found.
 * **Find**: The string to search for.

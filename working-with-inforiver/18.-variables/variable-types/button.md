@@ -12,7 +12,7 @@ This section outlines configurations specific to button variables.
 
 **1.2. Enable toggle scripts:** You can specify a set of actions to be applied when the button is enabled(Enabled Script) and another set of actions when the button is disabled(Disabled Script). The label on the button also changes based on the state of the button. The **Enabled Button Label,** **Disabled Button Label**, **Enabled Script**, and **Disabled Script** options will be available only when the **Enable toggle scripts** option is turned on.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enable toggle scripts</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enable toggle scripts</p></figcaption></figure>
 
 **1.3. Button label:** The text that is displayed on the button.
 
