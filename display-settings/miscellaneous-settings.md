@@ -134,6 +134,18 @@ Reports with RTL support improve the user experience for readers of RTL language
 
 <figure><img src="../.gitbook/assets/image (719) (1).png" alt=""><figcaption><p>Right to left layout</p></figcaption></figure>
 
+#### 1.18. Selection border
+
+You can optionally remove the border box that is rendered when a cell/column/row is selected. The border-box will not be displayed when the Selection Border toggle is disabled from display settings.
+
+<div><figure><img src="../.gitbook/assets/image (1354).png" alt=""><figcaption><p>Selection border box enabled</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-14_13h00_37 (1).png" alt=""><figcaption><p>Selection border box disabled</p></figcaption></figure></div>
+
+#### 1.19. Show column filter
+
+Easily filter your data by keying in the value in the search textboxes that are enabled when you turn on this toggle. Click the filter icon to select the comparison.
+
+<figure><img src="../.gitbook/assets/image (1356).png" alt=""><figcaption><p>Show column filter</p></figcaption></figure>
+
 ### 2. Status bar
 
 #### 2.1. Show status bar
