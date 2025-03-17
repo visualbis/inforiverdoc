@@ -92,6 +92,22 @@ Enhance the visual appeal of your reports with icons and symbols in measures hea
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inserting icons in headers</p></figcaption></figure>
 
+## 4. Auto-format for date dimensions
+
+When column hierarchies are involved, Inforiver allows you to select a particular level of the hierarchy by right clicking that level and choosing **Select column** from the context menu.
+
+<figure><img src="../../../.gitbook/assets/image (1347).png" alt=""><figcaption><p>Select column option</p></figcaption></figure>
+
+This feature comes in handy when you need to apply formatting to a particular level of the hierarchy. We've highlighted Q4 for 2023 in yellow.
+
+For time dimensions, the formatting applied for a particular month or quarter will automatically be applied to the same month/quarter in future years, as and when the data becomes available. Select the **Apply format to Qtr 4**(the qtr or month will change according to your data) option from the format painter dropdown.
+
+<figure><img src="../../../.gitbook/assets/image (1348).png" alt=""><figcaption><p>Format painter - apply to option</p></figcaption></figure>
+
+Notice how the formatting is automatically applied to 2024 Q4 when the data is available.
+
+<figure><img src="../../../.gitbook/assets/Untitled Project (27).gif" alt=""><figcaption><p>Formatting automatically applied to future periods</p></figcaption></figure>
+
 In the next section, we'll see how to handle [totals & subtotals](totals-and-subtotals.md).
 
 #### Resources
