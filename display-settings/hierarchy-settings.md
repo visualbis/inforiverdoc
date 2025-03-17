@@ -196,13 +196,23 @@ Enabling this option will display the count of child rows next to the name of th
 
 <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p>Show child count</p></figcaption></figure>
 
-#### 6.2. Top padding&#x20;
+#### 6.2. Show descendants count&#x20;
+
+You can also display the total number of children including the leaf nodes under a parent category.&#x20;
+
+{% hint style="info" %}
+Prerequisite: the **Show Child Count** option should be enabled.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (1353).png" alt=""><figcaption><p>Show descendants count</p></figcaption></figure>
+
+#### 6.3. Top padding&#x20;
 
 Using this option, you can configure the spacing/padding between row hierarchies.
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Top padding</p></figcaption></figure>
 
-#### 6.3. Expand/collapse&#x20;
+#### 6.4. Expand/collapse&#x20;
 
 This option lets you specify when the expand/collapse icons for the hierarchies have to be displayed.
 
@@ -211,13 +221,13 @@ This option lets you specify when the expand/collapse icons for the hierarchies 
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>Expand/Collapse icons</p></figcaption></figure>
 
-#### 6.4. Hide hierarchy icon
+#### 6.5. Hide hierarchy icon
 
 With this option, you can specify the fields for which you want to hide the hierarchy icon. All the fields are selected by default, and unselecting any field will hide the hierarchy icon for that field. In the below image, the 'Sub Category' field has been unselected, therefore the hierarchy icon for that field has been hidden.
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Hide hierarchy icon</p></figcaption></figure>
 
-#### 6.5. Grand total title&#x20;
+#### 6.6. Grand total title&#x20;
 
 {% hint style="info" %}
 The options related to Grand total can be seen only if the Row/Column Grand Total value has not been set to ‘Off’ under the ‘Totals’ option.&#x20;
@@ -227,7 +237,7 @@ You can set a custom title for the grand total in the textbox.
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>Grand total title</p></figcaption></figure>
 
-#### 6.6. Grand total height&#x20;
+#### 6.7. Grand total height&#x20;
 
 The value that you specify here will override the default height of the grand total row.
 
