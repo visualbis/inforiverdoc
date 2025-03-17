@@ -42,19 +42,19 @@ When the '**Column first**' option is chosen, the remaining columns for the firs
 
 b) Select the '**Page size**' from the drop-down - Available sizes are Letter, A3, A4, A5. Tabloid and Legal.
 
-c) You can select either Landscape or Portrait as page '**Orientation**'.
+c) Select either Landscape or Portrait as page '**Orientation**'.
 
-d) You can scale the page manually by percentages or automatically scale to fit all columns in a single page using the '**Scaling**' option.
+d) Scale the page manually by percentages or automatically scale to fit all columns in a single page using the '**Scaling**' option.
 
-e) You can apply a Narrow, Normal or Wide '**Margin**' as per the requirement.
+e) Apply a Narrow, Normal or Wide '**Margin**' as per the requirement.
 
-f) You can select 'Font' style from the available options in the dropdown. Custom fonts can also be used when exporting.
+f) Select 'Font' style from the available options in the dropdown. Custom fonts can also be used when exporting.
 
 {% hint style="info" %}
 If the data is customized with different fonts, the font chosen in the Settings panel is used for PDF export.
 {% endhint %}
 
-g) You can '**Show header and footer**' either only on the First Page or on Every Page
+g) You can '**Show header and footer**' either only on the First Page or on Every Page.
 
 h) You can create a cover page for your report by **First page image** toggle. Select a custom image to use as the cover page.
 
@@ -74,12 +74,22 @@ After exporting the report to a PDF, you will be able to see formatted comments 
 
 k)You can select the '**Include footnotes**' option to export the footnotes along with the table/matrix
 
-l) You can set the '**Footnote position**' as
+l) Set a custom '**Decimal Precision**' for the export.
+
+m) The **'Word Wrap'** options are specifically intended for reports that are formatted using table functions.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1351).png" alt=""><figcaption><p>Word wrap options</p></figcaption></figure>
+
+The **"Precise"** option enables word wrapping, ensuring that overflowing rows are wrapped onto the next line and fully visible in the PDF export. In contrast, the **"Auto"** option does not apply word wrapping, which may result in truncated data. The highlighted text in the screenshots depicts the difference between Auto and Precise word wrapping.
+
+<div><figure><img src="../../../.gitbook/assets/image (1352).png" alt=""><figcaption><p>Precise word wrap</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-03-14_15h54_15 (1).png" alt=""><figcaption><p>Auto word wrap</p></figcaption></figure></div>
+
+n) You can set the '**Footnote position**' as
 
 * Last Page: Footnotes get printed on the last page.
 * Dynamic: Based on the available space, footnotes get printed either on the same page where they are added or on the last page.
 
-m) Click on 'Update' to save your page setup selection. Click on 'Reset' to reset all your selections.&#x20;
+o) Click on 'Update' to save your page setup selection. Click on 'Reset' to reset all your selections.&#x20;
 
 ### 1.2. Exporting
 
