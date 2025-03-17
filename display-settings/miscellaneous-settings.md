@@ -204,7 +204,7 @@ The minimum and maximum values of column spacing are 0 and 20 respectively.
 
 #### 3.7. Pin icon
 
-You can select a custom icon for pinned rows and columns.
+You can select a custom icon for pinned rows and columns. Choose 'None' to remove the added pin icon.
 
 <figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption><p>Pin icon</p></figcaption></figure>
 

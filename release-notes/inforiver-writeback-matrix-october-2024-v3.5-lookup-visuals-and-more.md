@@ -351,7 +351,7 @@ In earlier versions, we delivered options to hide closed forecast periods and ap
 
 ### **5.1. All data input types supported in scenarios**
 
-You will be able to include all data input types like dropdowns, text fields, or checkboxes in scenarios – enabling you to see the full picture while running simulations on your data. In earlier versions, you would only be able to access numeric data input fields in scenarios. You will also be able to see measures added to the ‘Others’ parameter when we create scenarios.
+You will be able to include all data input types like dropdowns, text fields, or checkboxes in your **base case scenario** – enabling you to see the full picture while running simulations on your data. In earlier versions, you would only be able to access numeric data input fields in your base scenario. You will also be able to see measures added to the ‘Others’ parameter when we create scenarios.
 
 <figure><img src="../.gitbook/assets/5.1. scenario-all-data-inputs-accepted.png" alt=""><figcaption></figcaption></figure>
 

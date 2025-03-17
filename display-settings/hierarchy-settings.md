@@ -1,12 +1,12 @@
 # Hierarchy settings
 
-The hierarchy display settings are used to customize the appearance of the hierarchies in the report.
+The general display settings are used to customize the appearance of the report.
 
-In the Inforiver toolbar, navigate to the Home ribbon. The _Display_ option is available in the Actions section. Clicking on this option will open the Display side panel.
+In the Inforiver toolbar, navigate to the Home ribbon. The _Settings_ option is available in the 'Actions' section. Click **Settings > Display Settings** to open up the Display side panel.
 
 Click on the Hierarchy tab in this panel to view the hierarchy settings.
 
-<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1350).png" alt=""><figcaption><p>Hierarchy settings</p></figcaption></figure>
 
 Let's explore the options to customize hierarchies in your reports.
 
