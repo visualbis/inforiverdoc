@@ -48,7 +48,7 @@ When you split the forecast time range, you must create time ranges spanning the
 
 **2.2. Set source:** You can opt for a blank forecast to manually enter values or refer to another row.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configure a blank forecast or use the values from another row</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configure a blank forecast or use the values from another row</p></figcaption></figure>
 
 **2.3. Source row:** When you choose the **By Row** option in the previous step, you need to select the row whose values will populate the forecast.
 
