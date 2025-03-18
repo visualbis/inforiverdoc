@@ -14,7 +14,7 @@ Instead of using the built-in housekeeping columns, you can leverage the SETVALU
 
 In this example, we're capturing the user name when the approval checkbox is changed and the user email when the project status single select is changed.
 
-<div><figure><img src="../.gitbook/assets/image (1358).png" alt=""><figcaption><p>Capturing the user name in a text field</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-18_11h11_02.png" alt=""><figcaption><p>Capturing the user email in a text field</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (1361).png" alt=""><figcaption><p>Capturing the user name in a text field</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-18_11h11_02 (1).png" alt=""><figcaption><p>Capturing the email ID in a text field</p></figcaption></figure></div>
 
 The text fields can then be written back to the preferred destination(s).
 
