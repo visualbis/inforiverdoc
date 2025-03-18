@@ -16,6 +16,18 @@ Variables offer highly interactive visual controls like buttons, checkboxes, and
 
 <figure><img src="../.gitbook/assets/image (1340).png" alt=""><figcaption><p>Single select variable</p></figcaption></figure>
 
+#### 1.3. Functions for display settings
+
+Report authors can choose to give users access to certain display settings like ragged hierarchy, semantic formatting, and null/zero handling with scripts. When used with variables, users will be able to turn these settings on or off although they cannot directly access display settings.
+
+In this example, we've created 2 variables to enable and disable ragged hierarchy.
+
+<figure><img src="../.gitbook/assets/image (1363).png" alt=""><figcaption><p>Ragged hierarchy scripting function used in variables</p></figcaption></figure>
+
+Notice how the blank category rows are suppressed when the EnableRaggedHierarchy button is clicked and displayed again when the DisableRaggedhierarchy button is clicked.
+
+<figure><img src="../.gitbook/assets/Untitled Project (28).gif" alt=""><figcaption><p>Accessing display settings like ragged hierarchy through scripts in the reading view</p></figcaption></figure>
+
 ### 2. Formatting
 
 #### 2.1. Column formatting for hierarchical dimensions
