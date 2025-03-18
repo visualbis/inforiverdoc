@@ -58,11 +58,11 @@ In earlier versions, when a Reporting Matrix report was exported to Excel, manua
 
 The latest version of the Reporting Matrix brings you word wrap options - specifically intended for reports that are formatted using table functions.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Word wrap options in page setup</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Word wrap options in page setup</p></figcaption></figure>
 
 The **"Precise"** option enables word wrapping, ensuring that overflowing rows are wrapped onto the next line and fully visible in the PDF export. In contrast, the **"Auto"** option does not apply word wrapping, which may result in truncated data. The highlighted text in the screenshots depicts the difference between Auto and Precise word wrapping.
 
-<div><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Auto word wrap</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-14_15h53_55.png" alt=""><figcaption><p>Precise word wrap</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Auto word wrap</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-14_15h53_55.png" alt=""><figcaption><p>Precise word wrap</p></figcaption></figure></div>
 
 
 
@@ -95,3 +95,11 @@ Prerequisite: the **Show Child Count** option should be enabled.
 You can optionally remove the border box that is rendered when a cell/column/row is selected. The border box will not be displayed when the Selection Border toggle is disabled from display settings.
 
 <div><figure><img src="../.gitbook/assets/image (1346).png" alt=""><figcaption><p>Selection border enabled</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-14_13h00_37.png" alt=""><figcaption><p>Border box removed</p></figcaption></figure></div>
+
+### 6. Filtering data
+
+#### 6.1. Column filters on native date and text measures
+
+You can now filter native date and text measures with the column-level filters. The filter option was not available for date and text in earlier versions.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Column filter for date measure</p></figcaption></figure>
