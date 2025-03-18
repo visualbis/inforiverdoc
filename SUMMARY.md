@@ -414,7 +414,7 @@
 * [Resources](resources.md)
 * [Release Notes](release-notes/README.md)
   * [Inforiver Writeback Matrix March 2025 - v4.1](release-notes/inforiver-writeback-matrix-march-2025-v4.1.md)
-  * [Inforiver Reporting Matrix March 2025 - V3.3 -New formatting and export options](release-notes/inforiver-reporting-matrix-march-2025-v3.3-new-formatting-and-export-options.md)
+  * [Inforiver Reporting Matrix March 2025 - V3.3.3 -New formatting and export options](release-notes/inforiver-reporting-matrix-march-2025-v3.3.3-new-formatting-and-export-options.md)
   * [Inforiver Writeback Matrix Feb 2025 - v4.0 -  User permissions, High-performance mode, Input rules](release-notes/inforiver-writeback-matrix-feb-2025-v4.0-user-permissions-high-performance-mode-input-rules.md)
   * [Inforiver Writeback Matrix January 2025 - v3.9 - Fabric support, upgraded variables interface](release-notes/inforiver-writeback-matrix-january-2025-v3.9-fabric-support-upgraded-variables-interface.md)
   * [Inforiver Writeback Matrix December 2024- v3.8 - Improved Scheduler Performance & Other Enhancements](release-notes/inforiver-writeback-matrix-december-2024-v3.8-improved-scheduler-performance-and-other-enhancements.md)

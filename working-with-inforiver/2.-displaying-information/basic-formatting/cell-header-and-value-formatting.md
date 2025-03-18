@@ -92,7 +92,7 @@ Enhance the visual appeal of your reports with icons and symbols in measures hea
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inserting icons in headers</p></figcaption></figure>
 
-## 4. Auto-format for date dimensions
+## 4. Auto-format for column dimensions
 
 When column hierarchies are involved, Inforiver allows you to select a particular level of the hierarchy by right clicking that level and choosing **Select column** from the context menu.
 
@@ -100,7 +100,7 @@ When column hierarchies are involved, Inforiver allows you to select a particula
 
 This feature comes in handy when you need to apply formatting to a particular level of the hierarchy. We've highlighted Q4 for 2023 in yellow.
 
-For time dimensions, the formatting applied for a particular month or quarter will automatically be applied to the same month/quarter in future years, as and when the data becomes available. Select the **Apply format to Qtr 4**(the qtr or month will change according to your data) option from the format painter dropdown.
+For repeating dimensions, the formatting applied for a particular dimension can be automatically cascaded to other dimensions on the same level. For example, the formatting applied to a month or quarter will automatically be applied to the same month/quarter in future years, as and when the data becomes available. Select the **Apply format to Qtr 4**(the qtr or month will change according to your data) option from the format painter dropdown.
 
 <figure><img src="../../../.gitbook/assets/image (1348).png" alt=""><figcaption><p>Format painter - apply to option</p></figcaption></figure>
 

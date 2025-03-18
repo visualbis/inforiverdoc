@@ -1,10 +1,16 @@
-# Inforiver Reporting Matrix March 2025 - V3.3 -New formatting and export options
+# Inforiver Reporting Matrix March 2025 - V3.3.3 -New formatting and export options
 
-The latest version of the Reporting Matrix delivers additional formatting and export options, enhancing the readability of your reports and PDF extracts. We've added a new variable type -single select - providing more flexibility in applying filters using variables. We've also introduced additional display settings options that will help you customize the look and feel of your reports.
+The latest version of the Reporting Matrix delivers faster rendering and smoother interactions with the canvas rendering enhancement. Explore additional formatting and export options to improve the readability of your reports and PDF extracts. The powerful variables feature has been re-launched with a more intuitive, user-friendly, and simplified interface. We've also added a new variable type - the single select - providing more flexibility in applying filters using variables. We've introduced additional display settings options that will help you customize the look and feel of your reports.
 
 ### 1. Variables
 
-#### 1.1. Single select variable
+#### 1.1. Interface change for variable
+
+Leverage variables to create highly interactive, user-driven reports. The new simplified interface enables you to quickly integrate variables into your reports and easily maintain them.
+
+<figure><img src="../.gitbook/assets/image (1362).png" alt=""><figcaption><p>New interface for creating and editing variables</p></figcaption></figure>
+
+#### 1.2. Single select variable
 
 Variables offer highly interactive visual controls like buttons, checkboxes, and toggle switches,  allowing report users to apply filters or run scripts. You can now create single select variables and use the dropdown to drive filters on your data.
 
@@ -12,15 +18,15 @@ Variables offer highly interactive visual controls like buttons, checkboxes, and
 
 ### 2. Formatting
 
-#### 2.1. Column formatting for time hierarchies
+#### 2.1. Column formatting for hierarchical dimensions
 
-When column hierarchies are involved, Inforiver allows you to select a particular level of the hierarchy by right clicking that level and choosing **Select column** from the context menu.&#x20;
+When column hierarchies are involved, Inforiver allows you to select a particular level of the hierarchy by right-clicking that level and choosing **Select column** from the context menu.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1344).png" alt=""><figcaption><p>Select column option</p></figcaption></figure>
 
 This feature comes in handy when you need to apply formatting to a particular level of the hierarchy. We've highlighted Q4 for 2023 in yellow.
 
-For time dimensions, the formatting applied for a particular month or quarter will automatically be applied to the same month/quarter in future years, as and when the data becomes available. Select the **Apply format to Qtr 4**(the qtr or month will change according to your data) option from the format painter dropdown.&#x20;
+For repeating dimensions, the formatting applied for a particular dimension can be automatically cascaded to other dimensions on the same level. For example, the formatting applied to a month or quarter will automatically be applied to the same month/quarter in future years, as and when the data becomes available. Select the **Apply format to Qtr 4**(the qtr or month will change according to your data) option from the format painter dropdown.
 
 <figure><img src="../.gitbook/assets/image (1345).png" alt=""><figcaption><p>Format painter - Apply to option</p></figcaption></figure>
 
@@ -32,10 +38,10 @@ Notice how the formatting is automatically applied to 2024 Q4 when the data is a
 
 #### 3.1. First and last for row aggregation
 
-The latest version of Reporting Matrix ships with built-in support for first and last aggregation types for row-level aggregation. First and last aggregation is used to capture the starting and final values in trends - for instance, the initial and final revenue.
+The latest version of the Reporting Matrix ships with built-in support for first and last aggregation types for row-level aggregation. The first and last aggregation is used to capture the starting and final values in trends - for instance, the initial and final revenue.
 
 {% hint style="info" %}
-For First and Last aggregation types, the aggregated parent row will get updated automatically when child rows are re-ordered.
+For the First and Last aggregation types, the aggregated parent row will get updated automatically when child rows are re-ordered.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (1338).png" alt=""><figcaption><p>First and last row aggregation</p></figcaption></figure>
