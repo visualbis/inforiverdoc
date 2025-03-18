@@ -4,7 +4,7 @@ As part of this release, we've brought performance improvements in Infobridge an
 
 ### 1. Infobridge - Performance optimization for data input updates
 
-We've optimized the data preparation time for updates to data input values. Large datasets with more than 90k records can be processed faster. Data preparation that used to previously take a few minutes to complete, is now completed in seconds.
+We've optimized the data preparation time for updates to data input values. Large datasets with more than 90k records can be significantly processed faster. Data preparation that previously used to take a few minutes to complete, can now be completed in seconds.
 
 ### 2. Writeback for last updated user and email
 
