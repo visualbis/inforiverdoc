@@ -55,14 +55,12 @@ If your report has non-numeric data along with measures and all the measure valu
 Notice the row highlighted in the report below, all Sales values are null. You can suppress these rows with the **Ignore Measure in Null Suppression** option.
 
 {% hint style="info" %}
-The Hide Blanks option under Hierarchy settings should be&#x20;
+The Hide Blanks option under Hierarchy settings should be set to **Visible Values**.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rows with null measure values</p></figcaption></figure>
+Notice how the highlighted row with null measure values is suppressed after selecting the option.
 
-The row is suppressed after selecting the option.
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Suppressing rows with only null measure values</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (29).gif" alt=""><figcaption><p>Ignore measure in null suppression</p></figcaption></figure>
 
 #### 6. Stick Measure to Last
 
