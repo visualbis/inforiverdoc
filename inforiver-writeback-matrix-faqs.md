@@ -297,4 +297,4 @@ Pricing would be based on the estimation [here](https://azure.microsoft.com/en-u
 
 #### 20. How does product support work with Inforiver Writeback Matrix (On-Premise)? <a href="#headline-905-4237" id="headline-905-4237"></a>
 
-You can purchase Inforiver Writeback Matrix as a paid add-on, and it is meant for enterprises that require faster turnaround times and assurance. For more details, refer to [https://inforiver.com/support/](https://inforiverstage.wpengine.com/support/). &#x20;
+You can purchase Inforiver Writeback Matrix as a paid add-on, and it is meant for enterprises that require faster turnaround times and assurance. For more details, refer to [https://inforiver.com/support/](https://inforiver.com/support/). &#x20;
