@@ -76,7 +76,7 @@ k)You can select the '**Include footnotes**' option to export the footnotes alon
 
 l) Set a custom '**Decimal Precision**' for the export.
 
-m) The **'Word Wrap'** options are specifically intended for reports that are formatted using table functions.&#x20;
+m) The **'Word Wrap'** options are specifically intended for reports that are formatted using **table functions**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1351).png" alt=""><figcaption><p>Word wrap options</p></figcaption></figure>
 

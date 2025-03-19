@@ -68,7 +68,7 @@ In earlier versions, when a Reporting Matrix report was exported to Excel, manua
 
 #### 4.2. Word wrap options for export
 
-The latest version of the Reporting Matrix brings you word wrap options - specifically intended for reports that are formatted using table functions.&#x20;
+The latest version of the Reporting Matrix brings you word wrap options - specifically intended for reports that are formatted using **table functions**.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Word wrap options in page setup</p></figcaption></figure>
 
