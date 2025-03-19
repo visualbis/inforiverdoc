@@ -30,7 +30,7 @@ You can also create parent rows as calculated rows.&#x20;
 
 1.2. As you start typing, Inforiver's IntelliSense narrows down the list of functions to match the entered text. Click on MIN.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select function</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select function</p></figcaption></figure>
 
 1.3. Inforiver displays the syntax for the function. Click on the arrow highlighted.
 

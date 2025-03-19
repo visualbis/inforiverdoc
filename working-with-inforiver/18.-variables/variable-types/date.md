@@ -26,7 +26,7 @@ When you have date dimensions in your reports, you can use date variables to cre
 
 **STEP 3:** Select dates from the variable to instantly filter your data.
 
-<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1).gif" alt=""><figcaption><p>Filtering data with date variables</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1).gif" alt=""><figcaption><p>Filtering data with date variables</p></figcaption></figure>
 
 **2.2. Set a date in the header**
 

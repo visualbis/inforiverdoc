@@ -28,7 +28,7 @@ This section outlines configurations specific to multi-select variables.
 
 **STEP 3:** Select options from the variable and notice how the data gets filtered without having to update the Inforiver filter.
 
-<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1) (1) (2).gif" alt=""><figcaption><p>Filtering data with a select variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1) (1) (2) (1).gif" alt=""><figcaption><p>Filtering data with a select variable</p></figcaption></figure>
 
 ## 2. Single select
 
@@ -38,6 +38,6 @@ This section outlines configurations specific to multi-select variables.
 
 **1.2. Assign values:** Enable this toggle to assign values to each option. The value associated with the option will be taken when the variable is referenced.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Single select variable configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Single select variable configuration</p></figcaption></figure>
 
 You can set up filters using single-select variables, which is similar to how we do for multi-select variables.
