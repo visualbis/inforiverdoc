@@ -2,7 +2,7 @@
 
 ### 1. Configuration <a href="#id-1.-configuration" id="id-1.-configuration"></a>
 
-This section outlines configurations specific to date range variables.
+This section outlines configurations specific to boolean variables.
 
 **1.1. Assign values:** Enable this toggle to assign specific values for the active and inactive states. The true and false options will be displayed when the Assign values toggle is enabled. You can enter the values in the respective text boxes.
 
