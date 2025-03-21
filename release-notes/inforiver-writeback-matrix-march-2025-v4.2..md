@@ -4,7 +4,7 @@ The bug fixes that are deployed as part of this release have been listed below:
 
 ### Column header alignment:
 
-* The column headers were misaligned after migration when the report had a single column dimension in the measure on rows layout. The alignment issue has been rectified.
+* The column headers were misaligned when the report had a single column dimension in the measure on rows layout. The alignment issue has been rectified.
 
 ### Infobridge:
 
