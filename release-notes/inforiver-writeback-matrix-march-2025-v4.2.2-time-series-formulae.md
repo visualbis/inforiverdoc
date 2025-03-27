@@ -1,5 +1,7 @@
 # Inforiver Writeback Matrix March 2025 - v4.2.2 - Time series formulae
 
+In this release, explore the new range of time series formulas to gather business insights from your time-based data. We've also made Inforiver more secure with software version upgrades and API updates.
+
 ## New time series formulae
 
 We've introduced a range of easy-to-use formulas for manipulating time series data. Whether you are tracking financial trends, analyzing sales performance, or identifying anomalies, these formulas enable you to filter and compare data efficiently.
@@ -12,7 +14,13 @@ We've introduced a range of easy-to-use formulas for manipulating time series da
 
 <div><figure><img src="../.gitbook/assets/2025-03-28_00h37_58.png" alt=""><figcaption><p>MOVINGAVERAGE</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-28_00h35_17.png" alt=""><figcaption><p>MOVINGSUM</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-03-28_00h33_29.png" alt=""><figcaption><p>VALUEAT</p></figcaption></figure></div>
 
-## Other enhancements
+## Other enhancements and bug fixes
 
 * As part of our commitment to security, we have identified and resolved high-priority vulnerabilities, strengthening the overall security of the Inforiver Writeback Matrix.
-*
+* The LastUpdatedAt and LastUpdatedBy housekeeping columns were not reflecting changes made in slicer selections. This issue has been resolved.
+
+{% hint style="info" %}
+In this example, we've used the Power BI-certified Inforiver SuperFilter visual to filter the regions.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Context awareness for housekeeping columns</p></figcaption></figure>

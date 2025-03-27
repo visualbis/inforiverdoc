@@ -94,7 +94,7 @@ You may need to perform operations such as applying uniform formatting for a mea
 
 Use the Select Header option to apply custom formatting to the measure header.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1).gif" alt=""><figcaption><p>Select measure header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1).gif" alt=""><figcaption><p>Select measure header</p></figcaption></figure>
 
 #### 11. Number formatting
 

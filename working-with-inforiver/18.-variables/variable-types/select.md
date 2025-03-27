@@ -28,7 +28,7 @@ This section outlines configurations specific to multi-select variables.
 
 **STEP 3:** Select options from the variable and notice how the data gets filtered without having to update the Inforiver filter.
 
-<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1) (1) (2) (1).gif" alt=""><figcaption><p>Filtering data with a select variable</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled Project (1) (1) (1) (1) (2) (1) (1).gif" alt=""><figcaption><p>Filtering data with a select variable</p></figcaption></figure>
 
 ## 2. Single select
 

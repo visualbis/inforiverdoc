@@ -130,4 +130,4 @@ The Hide Blanks option under hierarchy settings should be set to **Visible Value
 
 Notice how the highlighted row that has null measure values is suppressed.
 
-<figure><img src="../.gitbook/assets/Untitled Project.gif" alt=""><figcaption><p>Ignore measure in null suppression</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled Project (1).gif" alt=""><figcaption><p>Ignore measure in null suppression</p></figcaption></figure>
