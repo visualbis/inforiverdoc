@@ -1,6 +1,6 @@
 # Inforiver Writeback Matrix March 2025 - v4.2.2 - Time series formulae
 
-In this release, explore the new range of time series formulas to gather business insights from your time-based data. We've also made Inforiver more secure with software version upgrades and API updates.
+In this release, explore the new range of time series formulas to gather business insights from your time-based data. We've also made Inforiver Writeback Matrix more secure with internal software version upgrades and API updates.
 
 ## New time series formulae
 
