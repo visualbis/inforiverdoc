@@ -56,9 +56,15 @@ In this example, the positive and negative simulation percentages are exported i
 
 ### 4. Data volume
 
-4.1. A maximum of 500k cells can be exported to Excel. For higher data volumes, we encourage you to use the scheduler.
+4.1. You can export a maximum of 500k cells to Excel, while PDF exports can support up to 100k cells. You can use either the Power BI filter or the [Inforiver filter](../../3.-basic-interactions/explore-and-filter-data/search-and-filter.md#id-2.-filter) to reduce the number of cells.
 
-4.2. For unlicensed versions of Inforiver, you will be able to export upto 500 rows to PDF and Excel.
+4.2. Also, the maximum file size that can be exported is 10 MB, that depends on page count, presence of images, logos, any applied formatting, etc.
+
+4.3. For unlicensed versions of Inforiver, you can export up to 500 rows to both PDF and Excel.
+
+{% hint style="info" %}
+For exporting higher data volumes, we encourage you to use the [scheduler](../../11.-scheduling-reports/).
+{% endhint %}
 
 ### 5. Visual measures and columns
 
