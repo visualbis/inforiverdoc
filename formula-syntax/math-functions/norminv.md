@@ -22,4 +22,4 @@ cumulative - If cumulative is TRUE, NORMDIST returns the cumulative distribution
 NORMINV(0.908788780,40, 1.5)
 ```
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inverse normal distribution</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inverse normal distribution</p></figcaption></figure>
