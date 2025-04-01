@@ -14,9 +14,17 @@ Let's look at a monthly sales report. The VALUEAT function can be applied to ret
 
 The SHIFT function returns the date after shifting the current month by a specified number of months. For January, the SHIFT function returns March 01st.&#x20;
 
+{% hint style="info" %}
+We have used months in these examples for demonstration purposes. Year and quarter are also supported in time series formulas.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>SHIFT and VALUEAT</p></figcaption></figure>
 
+In the same sales report, we can use the FILTER function with an aggregation formula like MIN/MAX/SUM to aggregate only the cells that satisfy a certain condition. In this scenario, we are summing up the sales only when the sales is greater than 1000. The FILTER measure is blank for the "Fasteners" row as none of the cells have sales > 1000.
 
+The AGGREGATE function has been used to find the minimum sales between 6 and 3 months before the current date.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1365).png" alt=""><figcaption><p>FILTER and AGGREGATE</p></figcaption></figure>
 
 ## Other enhancements and bug fixes
 
