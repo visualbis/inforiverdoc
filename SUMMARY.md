@@ -413,6 +413,7 @@
 * [Video tutorials](video-tutorials.md)
 * [Resources](resources.md)
 * [Release Notes](release-notes/README.md)
+  * [Inforiver Writeback Matrix April 2025 - v4.4.](release-notes/inforiver-writeback-matrix-april-2025-v4.4..md)
   * [Inforiver Writeback Matrix March 2025 - v4.3 - Time series formulae](release-notes/inforiver-writeback-matrix-march-2025-v4.3-time-series-formulae.md)
   * [Inforiver Writeback Matrix - March 2025 - v4.2](release-notes/inforiver-writeback-matrix-march-2025-v4.2.md)
   * [Inforiver Writeback Matrix March 2025 - v4.1](release-notes/inforiver-writeback-matrix-march-2025-v4.1.md)
