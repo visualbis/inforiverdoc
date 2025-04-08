@@ -33,7 +33,7 @@ In card view, you can track the details of the cells that have comments. When fi
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-You will be able to switch between 2 different views in the comments panel when you select number, alphabet, or priority as the comment indicator:
+You will be able to switch between 2 different views in the comments panel when you select number or alphabet as the comment indicator:
 
 * **List view:** Displays all the comments in the visual.&#x20;
 * **Card view:** Displays additional details like the reference to the cell to which the comment was added, assignee, and an option to reply to the comment.
