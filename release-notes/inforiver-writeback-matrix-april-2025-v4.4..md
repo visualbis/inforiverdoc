@@ -12,3 +12,16 @@ This option will be enabled only after creating an integration to a bridge
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (1366).png" alt=""><figcaption><p><strong>Show All Periods from Infobridge option</strong></p></figcaption></figure>
+
+In the bridge, we have the allocated budgets for 2023 and 2024 as well as the projected budgets for 2025.
+
+<figure><img src="../.gitbook/assets/image (1367).png" alt=""><figcaption><p>Projected and allocated budgets in the bridge</p></figcaption></figure>
+
+The target report contains the profits for 2023 and 2024. We need to integrate the budgets for 2023 and 2024 with this report. The projected budgets for 2025 are not required in this case.
+
+<figure><img src="../.gitbook/assets/image (1368).png" alt=""><figcaption><p>Target report </p></figcaption></figure>
+
+Since we've disabled the **Show All Periods from Infobridge** toggl&#x65;**,** when we insert the budget from the bridge, the budget will be inserted only for the time periods which exist in the target report.
+
+<figure><img src="../.gitbook/assets/image (1369).png" alt=""><figcaption><p>Inserting budgets for existing time periods</p></figcaption></figure>
+
