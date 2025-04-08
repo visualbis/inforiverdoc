@@ -18,5 +18,5 @@ This section outlines configurations specific to button variables.
 
 **1.4. Execute script:** You can use scripting functions to rank data, set conditional formatting, apply semantic formatting, handle nulls and zeroes, etc. [Learn more about scripting functions in Inforiver](../../../formula-syntax/scripting-functions/).
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Button variables</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Button variables</p></figcaption></figure>
 

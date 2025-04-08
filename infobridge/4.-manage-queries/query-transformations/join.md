@@ -15,7 +15,7 @@ Joins are widely used to fetch or lookup data from multiple tables based on a re
 
 We'll take a simple regional sales table to demonstrate joins.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Regional sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Regional sales</p></figcaption></figure>
 
 We can fetch the tax and rate type for each region based on the related column - rate type ID.
 

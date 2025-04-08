@@ -10,7 +10,7 @@ https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9189191
 
 Users can either use the **Copy Link** option highlighted in the screenshot below or open the consent URL and share it with the admin.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Admin approval notification</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Admin approval notification</p></figcaption></figure>
 
 **STEP 2:** Admins can approve the permissions listed in the screenshot to allow users to login.
 

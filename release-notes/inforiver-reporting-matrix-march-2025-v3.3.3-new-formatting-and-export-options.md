@@ -126,7 +126,7 @@ Notice the row highlighted in the report below, all Sales values are null. You c
 The Hide Blanks option under hierarchy settings should be set to **Visible Values**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ignore measure option in the row gripper</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Ignore measure option in the row gripper</p></figcaption></figure>
 
 Notice how the highlighted row that has null measure values is suppressed.
 

@@ -52,7 +52,7 @@ When you split the forecast time range, you must create time ranges spanning the
 
 **2.3. Source row:** When you choose the **By Row** option in the previous step, you need to select the row whose values will populate the forecast.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Selecting the row category</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Selecting the row category</p></figcaption></figure>
 
 **2.4. Operation:** You can create forecasts using the following options:
 

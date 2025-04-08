@@ -16,7 +16,7 @@ The Inforiver support team will share a license key file in JSON format with you
 
 Sample license theme file:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sample license key file</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sample license key file</p></figcaption></figure>
 
 **STEP 3:**&#x59;ou'll get a pop-up notification once the theme file is added:
 

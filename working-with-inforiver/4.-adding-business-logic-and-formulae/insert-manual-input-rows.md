@@ -22,7 +22,7 @@ Another way to insert static rows is by using the row gripper. The gripper icon 
 
 A side panel opens when creating a data input row. Type in the name of the category in the **Title** textbox and click Create. You will see an empty record created above the row that was selected.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Data input row created</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Data input row created</p></figcaption></figure>
 
 #### **i. Row type**
 
@@ -87,7 +87,7 @@ There are 2 ways to add new rows:
 
 The <mark style="color:green;">TJOrg, HDTabmble,</mark> and <mark style="color:green;">DC</mark> rows are created when you click Save. You can enter values in these rows. The <img src="../../.gitbook/assets/image (764).png" alt="" data-size="line">icon denotes manually inserted rows.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Entering values for data input rows</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Entering values for data input rows</p></figcaption></figure>
 
 ### 2.2. Inserting a hierarchy
 
@@ -154,7 +154,7 @@ You can also insert rows and their leaf categories from semantic models. The pro
 
 **STEP 2:** The **Add options from Semantic model** window opens. In the **Table Connection** tab, select the workspace, semantic model and the table you need to connect to. Click **Next.**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Table Connection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Table Connection</p></figcaption></figure>
 
 **STEP 3:** Go to the **Options configuration** tab and choose the column from the connected table that will be used as the option label. In the example below, we have chosen the column 'Category' from the table 'Contoso-Product'. This column's members will be used to populate the 'Categories' row level.\
 \

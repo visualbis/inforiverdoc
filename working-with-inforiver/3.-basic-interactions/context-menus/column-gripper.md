@@ -10,7 +10,7 @@ You can use the _Sort_ option to sort your data in ascending/descending order or
 
 In the example, the Jan > Profit measure has been sorted in ascending order.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data for the Profit column</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data for the Profit column</p></figcaption></figure>
 
 #### 2. Insert
 

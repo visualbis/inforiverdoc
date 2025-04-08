@@ -10,7 +10,7 @@ Inforiver provides the standard sorting options - ascending/descending and A->Z/
 
 **1.2.** You can see that the column gets sorted and there is an icon to denote the descending sort.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sorted data</p></figcaption></figure>
 
 **1.3.** To undo the sorting, click **Remove Sort** from the column gripper. Alternatively, you can click the sort icon in the header to remove the sort.
 

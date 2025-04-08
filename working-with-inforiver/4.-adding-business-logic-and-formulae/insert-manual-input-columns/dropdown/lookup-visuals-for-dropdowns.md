@@ -28,7 +28,7 @@ The lookup visual is a more efficient solution that overcomes the drawbacks of c
 
 When you choose the Lookup Visual option, you must specify the visual name in the configuration. In this case, we are populating dropdown options for the manager’s name – so we’ve selected the corresponding visual name.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select the lookup visual name</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select the lookup visual name</p></figcaption></figure>
 
 **STEP 2:** Assign the dimension field to source dropdown options&#x20;
 

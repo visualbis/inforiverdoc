@@ -20,7 +20,7 @@ An account manager may need to add details specific to each investment instrumen
 
 Let's look at this Inforiver report that contains a multi-select data input field with benchmarks.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver report with multi-select options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inforiver report with multi-select options</p></figcaption></figure>
 
 After importing the report into Infobridge and removing the Quarter column, let's apply the Unnest transformation. Choose Benchmark as the target column and comma as the delimiter.
 

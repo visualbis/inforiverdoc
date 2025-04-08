@@ -28,7 +28,7 @@ The AGGREGATE function has been used to find the minimum sales between 6 and 3 m
 
 We've used the MOVINGSUM and MOVINGAVERAGE to calculate the rolling sum and average of the sales measure over a defined period of time - in this case, 2 months. For January, the moving sum is the sum of the sales across January, February, and March. A similar calculation is used for moving average as shown below.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>MOVINGSUM and MOVINGAVERAGE</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>MOVINGSUM and MOVINGAVERAGE</p></figcaption></figure>
 
 ## Other enhancements and bug fixes
 
