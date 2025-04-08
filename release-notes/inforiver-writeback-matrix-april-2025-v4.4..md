@@ -1,6 +1,8 @@
 # Inforiver Writeback Matrix April 2025 - v4.4.
 
-### Match date periods in Infobridge
+With the 4.4 release, you now have greater control over your data — choose whether or not to import future periods from a bridge, depending on what works best for your report. We've also made minor UI improvements in the Comments feature.
+
+### 1. Match date periods in Infobridge
 
 Infobridge supports forecasts and allows you to capture projections or data for future time periods. Your target reports, however, may not require future data. We've added a new **Show All Periods from Infobridge** option in the Manage Measures side pane:&#x20;
 
@@ -24,6 +26,15 @@ The target report contains the profits for 2023 and 2024. We need to integrate t
 Since we've disabled the **Show All Periods from Infobridge** toggl&#x65;**,** when we insert the budget from the bridge, it will be inserted only for the time periods that exist in the target report.
 
 <figure><img src="../.gitbook/assets/image (1369).png" alt=""><figcaption><p>Inserting budgets for existing time periods</p></figcaption></figure>
+
+### 2. Comments UI changes
+
+You will be able to switch between 2 different views in the comments panel when you select number, alphabet, or priority as the comment indicator:
+
+* **List view:** Displays all the comments in the visual.&#x20;
+* **Card view:** Displays additional details like the reference to the cell to which the comment was added, assignee, and an option to reply to the comment.
+
+<div><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>List view</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-04-08_15h53_21.png" alt=""><figcaption><p>Card view</p></figcaption></figure></div>
 
 ### Bug fixes
 

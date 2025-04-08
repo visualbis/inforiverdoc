@@ -16,7 +16,7 @@ You can insert data input rows from the Insert tab > Insert Row menu. Please bea
 
 Another way to insert static rows is by using the row gripper. The gripper icon is highlighted when you hover over a row. Click on it, then select the Insert > Data Input option.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inserting data input rows from the gripper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inserting data input rows from the gripper</p></figcaption></figure>
 
 #### 1.1. Data input row properties
 
@@ -83,7 +83,7 @@ There are 2 ways to add new rows:
 * To insert a new row, click the <img src="../../.gitbook/assets/image (762).png" alt="" data-size="line">icon that appears on hovering near the parent category.
 * Click Add New, then choose whether to insert a single row or bulk insert 5/10 rows.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Bulk insert row categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Bulk insert row categories</p></figcaption></figure>
 
 The <mark style="color:green;">TJOrg, HDTabmble,</mark> and <mark style="color:green;">DC</mark> rows are created when you click Save. You can enter values in these rows. The <img src="../../.gitbook/assets/image (764).png" alt="" data-size="line">icon denotes manually inserted rows.
 
@@ -150,7 +150,7 @@ You can also insert rows and their leaf categories from semantic models. The pro
 
 **STEP 1:** To pick and upload row categories from a semantic model, navigate to Insert > Manage Rows > Insert Row Settings > Insert Row Configuration > Manage. Select **Options list from Semantic Model** from the 'Category' dropdown.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (4).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (5).png" alt=""><figcaption><p>Options list from semantic model</p></figcaption></figure>
 
 **STEP 2:** The **Add options from Semantic model** window opens. In the **Table Connection** tab, select the workspace, semantic model and the table you need to connect to. Click **Next.**
 
