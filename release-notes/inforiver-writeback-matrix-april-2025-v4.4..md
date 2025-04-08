@@ -4,8 +4,8 @@
 
 Infobridge supports forecasts and allows you to capture projections or data for future time periods. Your target reports, however, may not require future data. We've added a new **Show All Periods from Infobridge** option in the Manage Measures side pane:&#x20;
 
-* When the toggle is enabled, all the time periods available in the bridge will be imported into the target report.
-* When disabled, only the time periods in the bridge that exist in the target report will be imported.
+* When the toggle is enabled, all the time periods available in the bridge will be imported into the target report, irrespective of whether they exist in the target visual.
+* When disabled, only the time periods in the bridge that exist in the target visual will be imported.
 
 {% hint style="info" %}
 This option will be enabled only after creating an integration to a bridge
@@ -21,7 +21,12 @@ The target report contains the profits for 2023 and 2024. We need to integrate t
 
 <figure><img src="../.gitbook/assets/image (1368).png" alt=""><figcaption><p>Target report </p></figcaption></figure>
 
-Since we've disabled the **Show All Periods from Infobridge** toggl&#x65;**,** when we insert the budget from the bridge, the budget will be inserted only for the time periods which exist in the target report.
+Since we've disabled the **Show All Periods from Infobridge** toggl&#x65;**,** when we insert the budget from the bridge, it will be inserted only for the time periods that exist in the target report.
 
 <figure><img src="../.gitbook/assets/image (1369).png" alt=""><figcaption><p>Inserting budgets for existing time periods</p></figcaption></figure>
 
+### Bug fixes
+
+* Allocations made to numeric data input fields with default values were not being reflected in formulas that referenced the numeric measure. In the latest version, allocations will automatically be reflected in the formula without a page switch.
+* With Inforiver Matrix, you can update configured forecasts at any point with the reforecast option. The reforecast option, however, was not capturing native or formula measures that contained zeroes. This has been fixed.
+* Infobridge refreshes were not triggered when a non-zero value was replaced with a blank value during reforecasting. In the latest version, reforecasting to a blank value will be automatically updated in the bridge and target visual as well.
