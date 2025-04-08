@@ -30,7 +30,7 @@ Inforiver requires certain permissions to access resources in your organization 
 
 #### 7. How to resolve the error showing that the app requires admin consent while logging in? <a href="#headline-623-2838" id="headline-623-2838"></a>
 
-Your Office 365 administrator has restricted you from using apps that have been consented to by one of the administrators. Follow the steps outlined [here](https://lumel.notion.site/Microsoft-Login-Admin-Consent-b3b8eea861ff4070ab0d586f0b5cc3d7) for your administrator to approve.&#x20;
+Your Office 365 administrator has restricted you from using apps that have been consented to by one of the administrators. Follow the steps outlined [here ](introduction-to-inforiver/get-started/inforiver-writeback-matrix-pre-requisites/admin-consent-for-inforivers-entra-id.md)for your administrator to approve.&#x20;
 
 #### 8. How to resolve the error that shows 'connection timed out' when trying to connect to databases? <a href="#headline-953-4237" id="headline-953-4237"></a>
 
