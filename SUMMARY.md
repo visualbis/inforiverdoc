@@ -321,6 +321,7 @@
     * [TOTALYTD](formula-syntax/time-intelligence-functions/totalytd.md)
     * [TOTALQTD](formula-syntax/time-intelligence-functions/totalqtd.md)
     * [TOTALMTD](formula-syntax/time-intelligence-functions/totalmtd.md)
+    * [VALUEAT](formula-syntax/time-intelligence-functions/valueat.md)
     * [YTD](formula-syntax/time-intelligence-functions/ytd.md)
   * [Other operators](formula-syntax/other-operators.md)
   * [Identifiers](formula-syntax/identifiers/README.md)

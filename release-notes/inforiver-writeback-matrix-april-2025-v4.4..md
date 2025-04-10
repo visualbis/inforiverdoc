@@ -31,14 +31,14 @@ Since we've disabled the **Show All Periods from Infobridge** toggl&#x65;**,** w
 
 In card view, you can track the details of the cells that have comments. When filters are applied, the comment icon will turn blue, making it easy to spot filtered comments at a glance.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 You will be able to switch between 2 different views in the comments panel when you select number or alphabet as the comment indicator:
 
 * **List view:** Displays all the comments in the visual.&#x20;
 * **Card view:** Displays additional details like the reference to the cell to which the comment was added, assignee, and an option to reply to the comment.
 
-<div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>List view</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-04-08_15h53_21.png" alt=""><figcaption><p>Card view</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>List view</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-04-08_15h53_21.png" alt=""><figcaption><p>Card view</p></figcaption></figure></div>
 
 ### Bug fixes
 
