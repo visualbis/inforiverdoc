@@ -310,6 +310,7 @@
     * [LASTNQTR](formula-syntax/time-intelligence-functions/lastnqtr.md)
     * [LASTNYEAR](formula-syntax/time-intelligence-functions/lastnyear.md)
     * [MONTHPERIOD](formula-syntax/time-intelligence-functions/monthperiod.md)
+    * [MOVINGAVERAGE](formula-syntax/time-intelligence-functions/movingaverage.md)
     * [MOVINGSUM](formula-syntax/time-intelligence-functions/movingsum.md)
     * [MTD](formula-syntax/time-intelligence-functions/mtd.md)
     * [NEXTNDAY](formula-syntax/time-intelligence-functions/nextnday.md)

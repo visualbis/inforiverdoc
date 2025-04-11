@@ -29,7 +29,7 @@ MOVINGSUM([Profit], CURRENT_PERIOD, SHIFT(CURRENT_PERIOD, "2M"))
 MOVINGSUM([Sales], DATE(2024,4,1), DATE(2024,8,31) 
 ```
 
-We've used the MOVINGSUM to calculate the rolling sum of the profit measure for each month and 2 months after that month. For example, the MOVINGSUM for January would be the sum of the profits for January, February, and March.
+We've used MOVINGSUM to calculate the rolling sum of the profit measure for each month and 2 months after that month. For example, the MOVINGSUM for January would be the sum of the profits for January, February, and March.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>MOVINGSUM example</p></figcaption></figure>
 
