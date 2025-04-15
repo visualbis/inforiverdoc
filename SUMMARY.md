@@ -320,6 +320,7 @@
     * [QTD](formula-syntax/time-intelligence-functions/qtd.md)
     * [QTRPERIOD](formula-syntax/time-intelligence-functions/qtrperiod.md)
     * [YEARPERIOD](formula-syntax/time-intelligence-functions/yearperiod.md)
+    * [SHIFT](formula-syntax/time-intelligence-functions/shift.md)
     * [TOTALYTD](formula-syntax/time-intelligence-functions/totalytd.md)
     * [TOTALQTD](formula-syntax/time-intelligence-functions/totalqtd.md)
     * [TOTALMTD](formula-syntax/time-intelligence-functions/totalmtd.md)

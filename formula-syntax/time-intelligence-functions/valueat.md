@@ -12,7 +12,7 @@ VALUEAT([measure], <offset interval>)
 
 measure – The measure for which data has to be fetched. Required.
 
-offset interval - The date period for which to fetch the value. Required.
+offset interval - The preset format model, like month("M"), quarter("Q) or year("Y"). Required.
 
 ## Return value
 
