@@ -300,6 +300,7 @@
     * [FROMEXCELDATE](formula-syntax/date-functions/fromexceldate.md)
     * [MONTH](formula-syntax/date-functions/month.md)
     * [NOW](formula-syntax/date-functions/now.md)
+    * [PERIOD\_RANGE](formula-syntax/date-functions/period_range.md)
     * [TODAY](formula-syntax/date-functions/today.md)
     * [TOEXCELDATE](formula-syntax/date-functions/toexceldate.md)
     * [YEAR](formula-syntax/date-functions/year.md)
