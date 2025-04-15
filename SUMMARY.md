@@ -305,6 +305,7 @@
     * [YEAR](formula-syntax/date-functions/year.md)
   * [Time intelligence functions](formula-syntax/time-intelligence-functions/README.md)
     * [AGGREGATE](formula-syntax/time-intelligence-functions/aggregate.md)
+    * [FILTER](formula-syntax/time-intelligence-functions/filter.md)
     * [COLUMN\_PERIOD](formula-syntax/time-intelligence-functions/column_period.md)
     * [LASTNDAY](formula-syntax/time-intelligence-functions/lastnday.md)
     * [LASTNMONTH](formula-syntax/time-intelligence-functions/lastnmonth.md)
