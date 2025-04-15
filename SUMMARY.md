@@ -336,6 +336,8 @@
     * [COLUMN.PARENT](formula-syntax/identifiers/column.parent.md)
     * [COLUMNS](formula-syntax/identifiers/column.md)
     * [DESCENDANTS](formula-syntax/identifiers/descendants.md)
+    * [FORECAST.OPEN\_END](formula-syntax/identifiers/forecast.open_end.md)
+    * [FORECAST.OPEN\_START](formula-syntax/identifiers/forecast.open_start.md)
     * [GROUP INDEX](formula-syntax/identifiers/group-index.md)
     * [HAS](formula-syntax/identifiers/has.md)
     * [HAS\_ALL](formula-syntax/identifiers/has_all.md)
