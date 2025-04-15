@@ -6,7 +6,7 @@ You can use the column gripper context menu to quickly sort or show/hide fields 
 
 You can use the _Sort_ option to sort your data in ascending/descending order or apply an absolute sort.  For hierarchical datasets, sorting is applied to the child rows for each level of the hierarchy.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sort option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sort option</p></figcaption></figure>
 
 In the example, the Jan > Profit measure has been sorted in ascending order.
 

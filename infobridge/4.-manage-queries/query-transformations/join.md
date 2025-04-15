@@ -19,7 +19,7 @@ We'll take a simple regional sales table to demonstrate joins.&#x20;
 
 We can fetch the tax and rate type for each region based on the related column - rate type ID.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tax rate table</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tax rate table</p></figcaption></figure>
 
 The resultant joined table would look like this if we were to use an inner join. Notice how the LATAM record has been dropped as it does not have a matching rate in the second table.
 

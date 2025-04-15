@@ -23,6 +23,9 @@ Returns a date after shifting the input date by the specified number of months, 
 ```javascript
 CURRENT_PERIOD, SHIFT(CURRENT_PERIOD, "2M")
 //Shifts the date by 2 months
+
+SHIFT(TODAY(), "6M")
+//If the current date is 01/09/2023, it returns 01/03/2024
 ```
 
 We've used SHIFT to shift each month by 2 months. For example, for January, the SHIFT function returns March 01st.

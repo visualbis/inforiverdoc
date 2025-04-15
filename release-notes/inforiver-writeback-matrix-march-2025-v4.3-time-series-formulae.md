@@ -18,7 +18,7 @@ The SHIFT function returns the date after shifting the current month by a specif
 We have used months in these examples for demonstration purposes. Year and quarter are also supported in time series formulas.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>SHIFT and VALUEAT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>SHIFT and VALUEAT</p></figcaption></figure>
 
 In the same sales report, we can use the FILTER function with an aggregation formula like MIN/MAX/SUM to aggregate only the cells that satisfy a certain condition. In this scenario, we are summing up the sales only when the sales is greater than 1000. The FILTER measure is blank for the "Fasteners" row as none of the cells have sales > 1000.
 

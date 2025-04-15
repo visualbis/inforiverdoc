@@ -26,7 +26,8 @@ Returns the average of the measure over the specified date range.
 MOVINGAVERAGE([Profit], CURRENT_PERIOD, SHIFT(CURRENT_PERIOD, "2M"))
 //Calculates the sum of the profit for a particular month and 2 months after it
 
-MOVINGAVERAGE([Sales], DATE(2024,4,1), DATE(2024,8,31) 
+MOVINGAVERAGE([Sales], DATE(2024,4,1), DATE(2024,8,31))
+//Calculates the rolling average between April and August 2024 
 ```
 
 We've used MOVINGAVERAGE to calculate the rolling average of the profit measure for each month and 2 months after that month. For example, the MOVINGAVERAGE for January would be the average of the profits for January, February, and March.

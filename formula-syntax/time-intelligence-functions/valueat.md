@@ -30,7 +30,7 @@ VALUEAT([Sales], "1Q")
 
 Let's look at a monthly sales report. The VALUEAT function can be applied to return the value of the sales measure for a particular month(s) preceding or after the current month. This is useful in evaluating the financial performance relative to other periods.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Fetching the measure value for the previous month</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Fetching the measure value for the previous month</p></figcaption></figure>
 
 Similarly, we can fetch the sales value for the next quarter as shown in this example.
 
