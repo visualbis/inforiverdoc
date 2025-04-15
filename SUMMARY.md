@@ -344,6 +344,7 @@
     * [LOGGEDIN\_EMAIL](formula-syntax/identifiers/loggedin_email.md)
     * [LOGGEDIN\_NAME](formula-syntax/identifiers/loggedin_name.md)
     * [MATCH](formula-syntax/logical-functions/match.md)
+    * [MAXDATE](formula-syntax/identifiers/maxdate.md)
     * [MEMBERS](formula-syntax/identifiers/members.md)
     * [MINDATE](formula-syntax/identifiers/mindate.md)
     * [RELATIVE](formula-syntax/identifiers/relative.md)
