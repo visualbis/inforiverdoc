@@ -5,7 +5,7 @@ The Inforiver console along with the admin portal provides an intuitive, sleek, 
 1. The **Inforiver console** has options to manage your profile, users' details, subscriptions, export writeback logs, metrics, reports and review/configure onboarding actions.
 2. The **Admin Portal** contains exclusive configuration options for workspace admins, such as user management and other important settings, including general settings, forecast settings, asset management, writeback settings, uploading holiday calendar, and configuring API tokens for subscriptions.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (7).png" alt=""><figcaption><p>Inforiver console - Admin Portal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (8).png" alt=""><figcaption><p>Inforiver console - Admin Portal</p></figcaption></figure>
 
 This section is organized as follows:
 

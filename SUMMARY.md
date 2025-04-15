@@ -345,6 +345,7 @@
     * [LOGGEDIN\_NAME](formula-syntax/identifiers/loggedin_name.md)
     * [MATCH](formula-syntax/logical-functions/match.md)
     * [MEMBERS](formula-syntax/identifiers/members.md)
+    * [MINDATE](formula-syntax/identifiers/mindate.md)
     * [RELATIVE](formula-syntax/identifiers/relative.md)
     * [RELATIVE\_COLUMN](formula-syntax/identifiers/relative_column.md)
     * [ROW.PARENT](formula-syntax/identifiers/row.parent.md)

@@ -16,7 +16,7 @@ Let's see how we can pivot columns in Infobridge. The sample table contains coun
 
 Select "Product" from the **Category** dropdown. We'll leave default options for the **Operations** and **Values** fields unchanged.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Pivot column configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Pivot column configuration</p></figcaption></figure>
 
 Notice how each product is now a separate column.
 
