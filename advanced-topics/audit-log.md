@@ -32,7 +32,7 @@ Let's look at some of the changes that are captured in the audit log below:
 * Changes to settings like default values will be recorded in the audit trail for data input columns/measures and rows.
 * Measure resets will be recorded.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Audit log</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Audit log</p></figcaption></figure>
 
 {% hint style="info" %}
 In the 'Home' tab, changes are captured only for the 'Show/Hide' option and number formatting options available in the 'Number' section.

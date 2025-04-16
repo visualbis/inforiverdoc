@@ -127,15 +127,15 @@ Row-level notes can be added in a separate column.&#x20;
 
 6.1. Enable the **Notes Column** toggle from the Notes dropdown menu.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Notes column option</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Notes column option</p></figcaption></figure>
 
 6.2. A notes column gets added. Double-click on a cell and start typing in the rich text editor. You can apply formatting such as bold, italic, underline, font/background color, and hyperlinks.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding notes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding notes</p></figcaption></figure>
 
 6.3. You can delete a particular note in the Notes column by hovering over it and clicking the ![](https://docs.inforiver.com/~gitbook/image?url=https%3A%2F%2F3062809325-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FEbkCXCUXmtUq5tcnUtZE%252Fuploads%252FvMIIiGPx2KnaU92ZpPSQ%252Fimage.png%3Falt%3Dmedia%26token%3D750c9e29-6f91-48fa-b676-80672a88a2f0\&width=30\&dpr=4\&quality=100\&sign=3bb3eb66\&sv=2)icon.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Deleting notes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Deleting notes</p></figcaption></figure>
 
 ## 7. Hide notes
 

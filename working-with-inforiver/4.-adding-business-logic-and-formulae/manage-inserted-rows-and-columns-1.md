@@ -12,9 +12,9 @@ In addition, there is also an 'Insert New' option which lets you insert calculat
 
 ## 2. Settings
 
-The **Manage Measures** side panel has a **Settings** tab that lets you control and configure important settings concerning the rows and measures, such as user permissions, time interval mapping, and row ID mapping.
+The **Manage Measures** side panel has a **Settings** tab that lets you control and configure important settings concerning the rows and measures, such as user permissions, time interval mapping, row dimension ID mapping, etc.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Measure settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Settings pane</p></figcaption></figure>
 
 ### 2.1. Data input access
 
@@ -30,15 +30,15 @@ Access control for all the columns can also be set through the **Manage Columns*
 
 ### 2.2. Time interval mapping
 
-When you have a date hierarchy in your rows/columns, you can use the time interval mapping to verify the formats that Inforiver auto-detects. Hover over the<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (14).png" alt="" data-size="line">icon to view all the supported date formats.
+When you have a date hierarchy in your rows/columns, you can use the time interval mapping to verify the formats that Inforiver auto-detects. Hover over the<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (15).png" alt="" data-size="line">icon to view all the supported date formats.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Supported date formats</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Supported date formats</p></figcaption></figure>
 
 You can also choose whether to use Power BI sorting or Inforiver sorting. When the **Sort** toggle is enabled, any sorting changes made at Power BI level will not be reflected in the visual. In the example, notice how the Power BI sorting is not applied on the Quarter when the Sort toggle is enabled.
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Sort precedence</p></figcaption></figure>
 
-### 2.3. Row ID mapping
+### 2.3. Dimension ID mapping
 
 Inforiver automatically assigns a dimension ID to each row dimension to uniquely identify them. This mapping helps to track and manage them, especially during operations like writeback. Visual components such as formatting, notes, comments, and data inputs added to the rows are also linked to the dimension IDs.&#x20;
 
@@ -110,12 +110,35 @@ Measure backups will work only after the report is saved in Power BI. The report
 
 The image below shows a report with backed-up measures:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure backups</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Measure backups</p></figcaption></figure>
 
 Measure backup jobs have dedicated logs that show the status of the backup, milestones, and the backups that are deleted when the limit is reached. Click the **View jobs** option from the Schedule Measure Backup side pane.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>View jobs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>View jobs</p></figcaption></figure>
 
 Scheduled measure backup logs:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduled measure bkp logs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduled measure bkp logs</p></figcaption></figure>
+
+### 2.5. Show all periods from Infobridge
+
+Infobridge supports forecasts and allows you to capture projections or data for future time periods. Your target reports, however, may not require future data. The **Show All Periods from Infobridge** option in the Manage Measures side pane can be used to control whether time periods that do not exist in the target visual should be imported from Infobridge:
+
+* When the toggle is enabled, all the time periods available in the bridge will be imported into the target report, irrespective of whether they exist in the target visual.
+* When disabled, only the time periods in the bridge that exist in the target visual will be imported.
+
+This option will be enabled only after creating an integration to a bridge
+
+<figure><img src="https://docs.inforiver.com/~gitbook/image?url=https%3A%2F%2F3062809325-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FEbkCXCUXmtUq5tcnUtZE%252Fuploads%252FTTowA2D435slJbqwvFKy%252Fimage.png%3Falt%3Dmedia%26token%3Dde312faf-ff7b-4e0e-95d1-75b0fddc1b00&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=82c486ba&#x26;sv=2" alt=""><figcaption><p><strong>Show All Periods from Infobridge option</strong></p></figcaption></figure>
+
+In the bridge, we have the allocated budgets for 2023 and 2024 as well as the projected budgets for 2025.
+
+<figure><img src="https://docs.inforiver.com/~gitbook/image?url=https%3A%2F%2F3062809325-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FEbkCXCUXmtUq5tcnUtZE%252Fuploads%252FVxCBjgzyogTzEQbyf3rO%252Fimage.png%3Falt%3Dmedia%26token%3De8367d4b-c819-4948-93f1-b243ff10cfc3&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=502f17d5&#x26;sv=2" alt=""><figcaption><p>Projected and allocated budgets in the bridge</p></figcaption></figure>
+
+The target report contains the profits for 2023 and 2024. We need to integrate the budgets for 2023 and 2024 with this report. The projected budgets for 2025 are not required in this case.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Profits in the target visual</p></figcaption></figure>
+
+Since we've disabled the **Show All Periods from Infobridge** toggl&#x65;**,** when we insert the budget from the bridge, it will be inserted only for the time periods that exist in the target report.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Inserting budgets for existing time periods</p></figcaption></figure>

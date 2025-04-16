@@ -8,9 +8,9 @@ description: >-
 
 You can have data sourced from multiple systems that need to be unified into a single table. Consider the employee bonus data from different departments:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>HR department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>HR department</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>IT department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>IT department</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Sales and marketing department</p></figcaption></figure>
 

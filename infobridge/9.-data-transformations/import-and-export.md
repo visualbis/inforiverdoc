@@ -2,7 +2,7 @@
 
 You may have applied a series of transformations on a particular query, and the same transformations need to be re-applied on a different query - for instance, if you get similar data from different source systems. Infobridge supports re-usability by allowing you to export transformation steps and import them into another query.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Import and export options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Import and export options</p></figcaption></figure>
 
 ### 1. Exporting transformation steps
 
