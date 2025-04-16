@@ -5,7 +5,7 @@ The SHIFT formula returns the date after shifting a date either backwards or for
 ## Syntax
 
 ```javascript
-MOVINGSUM(inputDate, <offset interval>)
+SHIFT(inputDate, <offset interval>)
 ```
 
 ## Arguments
@@ -21,7 +21,7 @@ Returns a date after shifting the input date by the specified number of months, 
 ## Example
 
 ```javascript
-CURRENT_PERIOD, SHIFT(CURRENT_PERIOD, "2M")
+SHIFT(CURRENT_PERIOD, "2M")
 //Shifts the date by 2 months
 
 SHIFT(TODAY(), "6M")
