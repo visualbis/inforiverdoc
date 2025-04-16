@@ -18,6 +18,10 @@ This is the default writeback type for any writeback table. The Tidy (long) type
 
 This option stores the measures in the form of columns. As more measures are added, a proportional number of columns will be added to the writeback table to accommodate them. &#x20;
 
+{% hint style="info" %}
+Totals and subtotals will not be written back in the wide format.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/measure-on-columns.png" alt=""><figcaption><p>Inforiver Measure on columns writeback type</p></figcaption></figure>
 
 #### iii) Long with changes
