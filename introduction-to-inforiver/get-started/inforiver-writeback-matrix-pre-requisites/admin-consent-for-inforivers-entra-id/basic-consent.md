@@ -10,11 +10,11 @@ https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9189191
 
 Users can either use the **Copy Link** option highlighted in the screenshot below or open the consent URL and share it with the admin.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Admin approval notification</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Admin approval notification</p></figcaption></figure>
 
 **STEP 2:** Admins can approve the permissions listed in the screenshot to allow users to login.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Permissions required for user login</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Permissions required for user login</p></figcaption></figure>
 
 **STEP 3:** Additional permissions are required to add functionalities like inviting other users in the organization and connecting to Power BI with Inforiver. Admins can navigate to the consent URL:
 
@@ -24,7 +24,7 @@ https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9189191
 
 Admins need to provide all the permissions shown in the screenshot and check the ‘Consent on behalf of your organization’ option.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Power BI related permission</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Power BI related permission</p></figcaption></figure>
 
 Note: After clicking  Accept, admins may get a ‘Login Failed’ page, this is expected behavior if they aren’t a member of the Inforiver portal.
 
