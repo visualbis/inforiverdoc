@@ -15,19 +15,19 @@ Joins are widely used to fetch or lookup data from multiple tables based on a re
 
 We'll take a simple regional sales table to demonstrate joins.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Regional sales</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Regional sales</p></figcaption></figure>
 
 We can fetch the tax and rate type for each region based on the related column - rate type ID.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tax rate table</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tax rate table</p></figcaption></figure>
 
 The resultant joined table would look like this if we were to use an inner join. Notice how the LATAM record has been dropped as it does not have a matching rate in the second table.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Region table enriched with tax rates - inner join</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Region table enriched with tax rates - inner join</p></figcaption></figure>
 
 We can use a left outer join(or full outer join) to display the LATAM region, although it doesn't have a matching tax rate. The tax rate and rate type fields will be blank for the LATAM record when we use a left outer join.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Region data with tax rates - left join</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Region data with tax rates - left join</p></figcaption></figure>
 
 Let's look at a use case in Infobridge where we can apply joins. Our base report contains the actuals and plan across various regions. We need to get the tax rates for each month.
 

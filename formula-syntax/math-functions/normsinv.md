@@ -16,4 +16,4 @@ value - The measure for which to calculate the normal distribution. This is a re
 NORMSINV([Quantity])
 ```
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inverse standard normal distribution</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Inverse standard normal distribution</p></figcaption></figure>
