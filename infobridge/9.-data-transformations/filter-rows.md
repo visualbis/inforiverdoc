@@ -4,11 +4,11 @@ Add filters to retain only rows required in the target visuals. You can specify 
 
 Let's consider the sample report below to demonstrate how to filter data.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sample data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sample data</p></figcaption></figure>
 
 We can use the filter configuration shown below to retain only the rows with "Domestic" or "North America" as the global market and COGS > 200k.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filter config</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filter config</p></figcaption></figure>
 
 You need to specify the options listed below to configure a filter:
 

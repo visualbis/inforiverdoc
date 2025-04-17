@@ -8,11 +8,11 @@ description: >-
 
 You can have data sourced from multiple systems that need to be unified into a single table. Consider the employee bonus data from different departments:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>HR department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>HR department</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>IT department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>IT department</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Sales and marketing department</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Sales and marketing department</p></figcaption></figure>
 
 We need to combine the department-wise data to get an organizational level view of the bonus allocated to each department. The **Append** function is used in such scenarios where the structure (data type and number of columns) of all the source tables is exactly the same. The table below shows the appended data from all departments.&#x20;
 
