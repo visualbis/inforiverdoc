@@ -112,7 +112,7 @@ You can optionally remove the border box that is rendered when a cell/column/row
 
 You can now filter native date and text measures with the column-level filters. The filter option was not available for date and text in earlier versions.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Column filter for date measure</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Column filter for date measure</p></figcaption></figure>
 
 #### 6.2. Suppress nulls
 

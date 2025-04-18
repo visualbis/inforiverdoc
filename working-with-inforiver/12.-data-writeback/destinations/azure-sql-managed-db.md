@@ -6,8 +6,8 @@ Allows you to configure a writeback destination in Azure SQL Database that **exi
 
 After navigating to the writeback destination, enter a name for the writeback table.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Configuration for Inforiver managed Azure SQL</p></figcaption></figure>
 
 After saving the destination, the credentials to access this database will appear on the screen.&#x20;
 
-The user can use this information to access the database using SSMS, Azure Data Studio or other similar applications. Please note, each table that is configured will have its unique login credentials.&#x20;
+The user can use this information to access the database using SSMS, Azure Data Studio, or other similar applications. Please note, each table that is configured will have its unique login credentials.&#x20;

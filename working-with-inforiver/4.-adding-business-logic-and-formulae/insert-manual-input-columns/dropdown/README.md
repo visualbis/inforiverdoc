@@ -153,7 +153,7 @@ When you create a single-select data input field, you can specify a default choi
 
 **Dimension**: You can choose to set a dimension category as the default value. Please be mindful that if you choose to source default values from a dimension, you will need to enable the **Allow user to add new option** checkbox.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (4).png" alt=""><figcaption><p>Default values from a dimension</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (5).png" alt=""><figcaption><p>Default values from a dimension</p></figcaption></figure>
 
 **Measure**: You can choose to set a measure as the default value. Please be mindful that if you choose to source default values from a measure, you will need to enable the **Allow user to add new option** checkbox.
 
