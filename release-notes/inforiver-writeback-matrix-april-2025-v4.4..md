@@ -38,7 +38,7 @@ You will be able to switch between 2 different views in the comments panel when 
 * **List view:** Displays all the comments in the visual.&#x20;
 * **Card view:** Displays additional details like the reference to the cell to which the comment was added, assignee, and an option to reply to the comment.
 
-<div><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>List view</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-04-08_15h53_21.png" alt=""><figcaption><p>Card view</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>List view</p></figcaption></figure> <figure><img src="../.gitbook/assets/2025-04-08_15h53_21.png" alt=""><figcaption><p>Card view</p></figcaption></figure></div>
 
 ### Bug fixes
 

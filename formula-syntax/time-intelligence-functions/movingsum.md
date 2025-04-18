@@ -32,9 +32,9 @@ MOVINGSUM([Sales], DATE(2024,4,1), DATE(2024,8,31))
 
 We've used MOVINGSUM to calculate the rolling sum of the profit measure for each month and 2 months after that month. For example, the MOVINGSUM for January would be the sum of the profits for January, February, and March.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MOVINGSUM example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MOVINGSUM example</p></figcaption></figure>
 
 You can also use MOVINGSUM with forecasts to aggregate your measures over open and closed periods. In this example, we've aggregated the forecast measure for the open periods.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

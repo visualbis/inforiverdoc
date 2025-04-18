@@ -8,7 +8,7 @@ Discover the new features and innovations that make Inforiver Matrix the most po
 
 As businesses evolve, so too does the scope of their data. You may be expanding to new regions or adding new product lines - with the [Static Row](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-rows.md#id-1.-insert-static-row), [Insert Rows(s)](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-rows.md#id-2.-bulk-insert-static-rows), and [Row Hierarchy](../working-with-inforiver/4.-adding-business-logic-and-formulae/insert-manual-input-rows.md#id-3.-row-hierarchy) options, you can add dimension categories on the fly. When the same category exists at the visual level and in your semantic model, you will now be able to merge the rows from your dataset. &#x20;
 
-The <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (10).png" alt="" data-size="line">icon that indicates a manual input row will be replaced by<img src="../.gitbook/assets/image (1061).png" alt="" data-size="line">, which indicates a merged row for a row dimension category that is available in the source system. Click the icon to merge the row.
+The <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (1).png" alt="" data-size="line">icon that indicates a manual input row will be replaced by<img src="../.gitbook/assets/image (1061).png" alt="" data-size="line">, which indicates a merged row for a row dimension category that is available in the source system. Click the icon to merge the row.
 
 {% hint style="info" %}
 Data input fields will be locked for editing until the row is merged.
@@ -18,7 +18,7 @@ Data input fields will be locked for editing until the row is merged.
 
 Notice how the merge icon disappears and the data input field becomes editable after merging the EURIBOR row. When you merge rows, static rows are replaced with native rows however data inputs are retained.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (9).png" alt=""><figcaption><p>Merged row</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (10).png" alt=""><figcaption><p>Merged row</p></figcaption></figure>
 
 ## 2. New rounding functions: MROUND, ROUNDUP, and ROUNDDOWN
 

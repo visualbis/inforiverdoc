@@ -6,7 +6,7 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 1.1. Custom thousand and decimal separators can be enforced from display settings. These cannot be exported to Excel.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (11).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h15_35.png" alt=""><figcaption><p>Default comma separator in Excel export</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (12).png" alt=""><figcaption><p>Custom thousand separator in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_12h15_35.png" alt=""><figcaption><p>Default comma separator in Excel export</p></figcaption></figure></div>
 
 1.2. You cannot blend columns in exports.
 
@@ -14,7 +14,7 @@ Inforiver offers a vast range of formatting and visualization options within the
 
 1.4. Signed row headers that are enabled by turning on the Sign in Headers display setting will not be captured.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Signed row headers, blend measures and hatched cells</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Signed row headers, blend measures and hatched cells</p></figcaption></figure>
 
 1.5. Multiple colors in a single cell (when you run simulations or apply conditional formatting)  cannot be exported. The contents of the entire cell will have the same color in the exported file.&#x20;
 
@@ -94,7 +94,7 @@ Only 3 conditions will be supported in such scenarios.
 
 8.2. Color customizations - If you have overridden the default colors, Excel may substitute different icons or change the color.
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (9).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h35_21.png" alt=""><figcaption><p>Icons and colors used in the Excel export</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (11).png" alt=""><figcaption><p>Colors and custom icons in Inforiver</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2024-10-14_17h35_21.png" alt=""><figcaption><p>Icons and colors used in the Excel export</p></figcaption></figure></div>
 
 8.3. Icon repetition -  If the same icon is used multiple times with different colors, only the colors that Excel supports will be exported.
 
