@@ -45,7 +45,7 @@ DESC SECURITY INTEGRATION MY_INTEGRATION_NAME;
 
 **STEP 1:** Enter the **Integration Name**, **Client ID**, **Client Secret**, **Authorization URL**, and **Token URL** required for OAuth in the Inforiver console. Refer to the [previous section ](setting-up-snowflake-oauth.md#id-1.-creating-an-integration-in-snowflake)to learn more about fetching the integration details from Snowflake. Click **Connect**.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (4).png" alt=""><figcaption><p>Enter integration details for Snowflake</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (5).png" alt=""><figcaption><p>Enter integration details for Snowflake</p></figcaption></figure>
 
 You will be redirected to the Snowflake login page, where you need to enter your Username and Password to connect.
 

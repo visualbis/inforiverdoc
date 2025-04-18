@@ -78,11 +78,11 @@ l) Set a custom '**Decimal Precision**' for the export.
 
 m) The **'Word Wrap'** options are specifically intended for reports that are formatted using **table functions**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Word wrap options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Word wrap options</p></figcaption></figure>
 
 The **"Precise"** option enables word wrapping, ensuring that overflowing rows are wrapped onto the next line and fully visible in the PDF export. In contrast, the **"Auto"** option does not apply word wrapping, which may result in truncated data. The highlighted text in the screenshots depicts the difference between Auto and Precise word wrapping.
 
-<div><figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Auto word wrap</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-04-18_09h45_34.png" alt=""><figcaption><p>Precise word wrap</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Auto word wrap</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-04-18_09h45_34.png" alt=""><figcaption><p>Precise word wrap</p></figcaption></figure></div>
 
 n) You can set the '**Footnote position**' as
 
