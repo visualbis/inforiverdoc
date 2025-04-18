@@ -163,7 +163,7 @@ In order to lock multiple cells, ctrl + click the required cells. Click on the l
 
 The cells that are locked are highlighted:
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Locked Cells Highlighted</p></figcaption></figure>
 
 ### v) Unlock
 
@@ -185,7 +185,7 @@ d) All the cells including the quarters are unlocked.
 
 e) To unlock a row when measure in rows in enabled, click on the row gripper and select Unlock Row.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Unlock Row</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Unlock Row</p></figcaption></figure>
 
 f) To unlock multiple cells, ctrl + click the cells and click on Unlock selected cells.
 

@@ -12,19 +12,19 @@ If you have set a multi-page layout with scrolling,  use this option to ensure t
 
 Select all the categories at a particular hierarchy level using this option. You can apply styling or number formatting to all the selected rows.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p>Select row dimension category</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select row dimension category</p></figcaption></figure>
 
 #### - Select descendants
 
 Selects the children under a particular row dimension category.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select descendants</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select descendants</p></figcaption></figure>
 
 #### - Select parent and descendants
 
 Selects all the children as well as the parent row dimension category.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select parent and descendants</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select parent and descendants</p></figcaption></figure>
 
 #### 3. Expand/Collapse
 
@@ -36,7 +36,7 @@ Inforiver makes it effortless for you to handle large hierarchical datasets. Ins
 
 You can easily insert rows from the row gripper menu. Let's explore the different types of rows that can be inserted using this option.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Insert rows option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Insert rows option</p></figcaption></figure>
 
 a) Formula
 
@@ -66,7 +66,7 @@ You create visual level hierarchies or bulk insert multiple row categories using
 
 The actions section has various formatting and customization options for rows. Let's take a detailed look.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Actions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Actions</p></figcaption></figure>
 
 a) Add row break
 
@@ -116,17 +116,17 @@ The skip rows option can be used when you need to effectively perform a soft del
 Use the Alt + G shortcut to select multiple rows and skip all of them.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The 'Furniture' row and all its children have been removed using the _Skip row_ option and the totals and sub-totals have been adjusted accordingly. This option can be used to skip individual child rows as well.
 
-<div><figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Furniture row before skipping</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-14_12h33_46.png" alt=""><figcaption><p>Furniture row and children and skipped</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Furniture row before skipping</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/2025-02-14_12h33_46.png" alt=""><figcaption><p>Furniture row and children and skipped</p></figcaption></figure></div>
 
 f) Skip and show row
 
-This option will exclude the selected row category from totals and subtotals, but the row will still be displayed. The <img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="" data-size="line">icon indicates that the row has been skipped.
+This option will exclude the selected row category from totals and subtotals, but the row will still be displayed. The <img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="line">icon indicates that the row has been skipped.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Skip and show row</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption><p>Skip and show row</p></figcaption></figure>
 
 g) Disable Subtotal
 

@@ -34,5 +34,5 @@ AGGREGATE([Sales], DATE(2024,4,1), DATE(2024,8,31), "MEDIAN")
 
 The AGGREGATE function has been used to find the minimum sales 3 months prior to each month in the report.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>AGGREGATE</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>AGGREGATE</p></figcaption></figure>
 
