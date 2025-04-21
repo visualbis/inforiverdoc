@@ -14,3 +14,11 @@ After navigating to the add destination page, enter the following details.&#x20;
 * Table Name
 
 <figure><img src="../../../.gitbook/assets/image (1) (2) (5) (1).png" alt=""><figcaption><p>Configuring an oracle destination</p></figcaption></figure>
+
+#### Fetching the service name
+
+Enter the service name or SID, which are optional fields. To retrieve the service name from the database, execute the following query
+
+```
+SELECT SYS_CONTEXT('userenv', 'service_name') AS service_name FROM dual 
+```
