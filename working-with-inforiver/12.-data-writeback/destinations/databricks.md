@@ -11,7 +11,7 @@ When you get to the 'Add Destination' page, you have the option of using basic o
 * Schema
 * Table Name
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Configuring a databricks destination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Configuring a databricks destination</p></figcaption></figure>
 
 You can also use OAuth-type authentication to log in that ensures a simple and secure login process. The example below illustrates adding a Databricks destination to an existing integration using OAuth-type authentication.
 
@@ -19,11 +19,11 @@ You can also use OAuth-type authentication to log in that ensures a simple and s
 
 #### - Fetching the hostname
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Fetching the hostname</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Fetching the hostname</p></figcaption></figure>
 
 #### - Fetching the warehouse ID
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Fetching the warehouse ID</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Fetching the warehouse ID</p></figcaption></figure>
 
 #### **- Generating the personal access token**
 

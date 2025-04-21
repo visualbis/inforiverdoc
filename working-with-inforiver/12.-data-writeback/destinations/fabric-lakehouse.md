@@ -13,3 +13,13 @@ To add a Fabric Lakehouse destination, you need to sign in with Microsoft Office
 {% hint style="info" %}
 The Lakehouse.ReadWrite.All permission needs to be provided to configure lakehouse destinations.
 {% endhint %}
+
+To connect to Fabric Lakehouse, perform the following steps
+
+1. Please ensure that an active Azure subscription is available to connect to Fabric Lakehouse.
+2. Please ensure that the Azure subscription is active and associated with the same Entra ID tenant.
+3. Please ensure that **'Microsoft.DataLakeStore'** and **'Microsoft.Storage'** Resource providers are registered in the Azure subscription.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

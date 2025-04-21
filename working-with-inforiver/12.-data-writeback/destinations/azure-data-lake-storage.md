@@ -21,7 +21,7 @@ The writeback creates a Parquet file in the data lake storage.&#x20;
 
 **Storage Account:** Enter the name of the Azure Data Lake Storage account
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Partition Required:** If the Inforiver scenario is created and included in the writeback, and the user wants to writeback base and scenarios in separate parquet files, this is recommended.&#x20;
 
@@ -38,7 +38,7 @@ In Inforiver managed mode:
 1. Read on the storage account
 2. Read and Execute on the file system
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Permissions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Permissions</p></figcaption></figure>
 
 3. Read, Write, Execute on the folder where the file should be created.
 
