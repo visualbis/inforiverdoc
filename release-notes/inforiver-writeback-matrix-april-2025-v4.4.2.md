@@ -4,7 +4,9 @@ This release includes the following fixes:
 
 #### **1. Inserting rows and measures with filter context in connected planning**
 
-Both Inforiver and Infobridge can support filter context, allowing for seamless connected planning even while using slicers in either or both of the connected visuals.
+Inforiver and Infobridge, both support filter context, allowing for seamless connected planning even while using slicers in one or both of the connected visuals.
+
+Previously, if the filter dimension was a row, you could insert only rows from the bridge source or vice versa. With this update, you can now insert both rows and measures from the bridge source to the connected visual, regardless of whether your filter context dimension is a row or a measure.
 
 Let's consider the example below:
 
@@ -16,17 +18,15 @@ Let's consider the example below:
 
 <figure><img src="../.gitbook/assets/image (1392).png" alt=""><figcaption><p>Connecting visual</p></figcaption></figure>
 
-While integrating these visuals results in a mismatch in dimension mapping, Inforiver allows you to map the additional source row (or measure) to the connecting visual's filter dimension.&#x20;
-
-First, we will enable filter context in the above visual using Inforiver Super Filter.
+Let's enable filter context in the above visual using Inforiver Super Filter.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Setting up filter context using Super Filter visual</p></figcaption></figure>
 
-During integration, the additional filter dimension is displayed, allowing the visuals to be integrated.
+While integrating these visuals, Inforiver lets you map the additional row (or measure) from the source to the connecting visual's filter dimension.&#x20;
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Filter dimension mapped</p></figcaption></figure>
 
-Previously, if the filter dimension is a row (as in the example above), you could insert only rows from the bridge source and vice versa. With this update, you can now insert both rows and measures from the bridge source to the connected visual, regardless of whether your filter context dimension is a row or a measure.
+Despite the filter dimension being a row, you can now insert both rows and measures from the source to the connected visual, as shown below:
 
 <figure><img src="../.gitbook/assets/image (1412).png" alt=""><figcaption><p>Inserted rows and measures from the source via the bridge</p></figcaption></figure>
 
