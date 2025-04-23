@@ -30,9 +30,9 @@ Previously, if the filter dimension is a row (as in the example above), you coul
 
 <figure><img src="../.gitbook/assets/image (1412).png" alt=""><figcaption><p>Inserted rows and measures from the source via the bridge</p></figcaption></figure>
 
-#### **2. Missing writeback data in Azure destination for Infobridge reports with more than 75 records**
+#### **2. Missing Infobridge Writeback data in Azure SQL destination - for reports with more than 75 records**
 
-In an AWS environment, for Infobridge reports with over 75 records, the writeback data was missing in the Azure SQL destination despite a success message being displayed. This issue has now been resolved.
+In the AWS environment, when Inforiver reports containing more than 75 records were written back via Infobridge, the writeback data was not present in the Azure SQL destination—even though the writeback was reported as successful. This issue has now been resolved.
 
 #### **3. Unable to delete a cell value in text measure - resets to default value**
 
